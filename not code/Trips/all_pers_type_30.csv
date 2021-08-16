@@ -1,0 +1,1020 @@
+,SectorStatID,SectorStatName,PersID,Age,GenderID,GenderName,HouseholdID,HouseholdTypeID,HouseholdTypeName,WorkerID,WorkerType,WorkSectorStatID,WorkSectorStatName,TripChainType
+137,21001A80-,SILLON,137,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,11,Tourist,21001A80-,SILLON,30.0
+716,21004F901,PLACE PETER BENOIT,716,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,11,Tourist,21004F901,PLACE PETER BENOIT,30.0
+923,21004G371,GARE DE FORMATION,923,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,11,Tourist,21004G371,GARE DE FORMATION,30.0
+959,21004G371,GARE DE FORMATION,959,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,11,Tourist,21004G371,GARE DE FORMATION,30.0
+1177,21004G30-,SAINTE-ELISABETH,1177,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,11,Tourist,21004G30-,SAINTE-ELISABETH,30.0
+1216,21004G321,HAREN-EST,1216,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,11,Tourist,21004G321,HAREN-EST,30.0
+1256,21004G321,HAREN-EST,1256,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,11,Tourist,21004G321,HAREN-EST,30.0
+1578,21004F970,MARLY-NORD,1578,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,11,Tourist,21004F970,MARLY-NORD,30.0
+1721,21004A83-,E. JACQMAIN (BOULEVARD)-OUEST,1721,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,11,Tourist,21004A83-,E. JACQMAIN (BOULEVARD)-OUEST,30.0
+2033,"2,10E+184",DOMAINE ROYALE,2033,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,11,Tourist,"2,10E+184",DOMAINE ROYALE,30.0
+2101,"2,10E+184",DOMAINE ROYALE,2101,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,11,Tourist,"2,10E+184",DOMAINE ROYALE,30.0
+2447,21004F572,MARLY-SUD,2447,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,11,Tourist,21004F572,MARLY-SUD,30.0
+2556,21004F922,RUE CHATEAU BEYAERD,2556,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,11,Tourist,21004F922,RUE CHATEAU BEYAERD,30.0
+2649,21004G3NJ,HAREN-SUD,2649,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,11,Tourist,21004G3NJ,HAREN-SUD,30.0
+2818,21004G3NJ,HAREN-SUD,2818,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,11,Tourist,21004G3NJ,HAREN-SUD,30.0
+3551,21004F9MJ,NEDER-HEEMBEEK-NORD,3551,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,11,Tourist,21004F9MJ,NEDER-HEEMBEEK-NORD,30.0
+3661,21004A19-,PALAIS ROYAL,3661,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,11,Tourist,21004A19-,PALAIS ROYAL,30.0
+3667,21004A19-,PALAIS ROYAL,3667,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,11,Tourist,21004A19-,PALAIS ROYAL,30.0
+3777,21004A22-,SENNE (RUE DE LA),3777,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,11,Tourist,21004A22-,SENNE (RUE DE LA),30.0
+3810,21004B10-,ORBAN (SQUARE),3810,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,11,Tourist,21004B10-,ORBAN (SQUARE),30.0
+4244,21004A21-,ANNEESSENS (PLACE),4244,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,11,Tourist,21004A21-,ANNEESSENS (PLACE),30.0
+4385,21004E74-,EM. DELVA (RUE),4385,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,11,Tourist,21004E74-,EM. DELVA (RUE),30.0
+4450,"2,10E+205",AVENUE JEAN DE BOLOGNE,4450,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,11,Tourist,"2,10E+205",AVENUE JEAN DE BOLOGNE,30.0
+4497,"2,10E+205",AVENUE JEAN DE BOLOGNE,4497,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,11,Tourist,"2,10E+205",AVENUE JEAN DE BOLOGNE,30.0
+4759,21004E8MJ,HEYSEL,4759,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,11,Tourist,21004E8MJ,HEYSEL,30.0
+4838,"2,10E+134",SACRE-COEUR,4838,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,11,Tourist,"2,10E+134",SACRE-COEUR,30.0
+4943,21004E72-,MAISON ROUGE (PLACE)-SUD,4943,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,11,Tourist,21004E72-,MAISON ROUGE (PLACE)-SUD,30.0
+5029,"2,10E+215",RUE DE WAND,5029,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,11,Tourist,"2,10E+215",RUE DE WAND,30.0
+5083,21004D631,ALLEE VERTE - BASSIN VERGOTE,5083,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,11,Tourist,21004D631,ALLEE VERTE - BASSIN VERGOTE,30.0
+5468,21004F522,AVENUE DE VERSAILLES,5468,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,11,Tourist,21004F522,AVENUE DE VERSAILLES,30.0
+5787,21005A311,CASERNE (Etterbeek),5787,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,11,Tourist,21005A311,CASERNE (Etterbeek),30.0
+5906,21005A11-,NOTRE-DAME DU SACRE-COEUR,5906,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,11,Tourist,21005A11-,NOTRE-DAME DU SACRE-COEUR,30.0
+6090,21006A201,HAUT-EVERE,6090,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,11,Tourist,21006A201,HAUT-EVERE,30.0
+6221,21006A22-,SAINT-EXUPERY,6221,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,11,Tourist,21006A22-,SAINT-EXUPERY,30.0
+6395,21009A00-,CENTRE,6395,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,11,Tourist,21009A00-,CENTRE,30.0
+6716,21009A2MJ,CAMPUS UNIVERSITAIRE,6716,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,11,Tourist,21009A2MJ,CAMPUS UNIVERSITAIRE,30.0
+6729,21009A2MJ,CAMPUS UNIVERSITAIRE,6729,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,11,Tourist,21009A2MJ,CAMPUS UNIVERSITAIRE,30.0
+6816,21009A802,BOONDAEL-SUD,6816,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,11,Tourist,21009A802,BOONDAEL-SUD,30.0
+7105,21012A851,CONDOR,7105,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,11,Tourist,21012A851,CONDOR,30.0
+7404,21013A101,PARVIS,7404,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,11,Tourist,21013A101,PARVIS,30.0
+8757,21014A00-,PLACE SAINT-JOSSE,8757,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,11,Tourist,21014A00-,PLACE SAINT-JOSSE,30.0
+9320,21014A04-,HAECHT (CHAUSSEE DE),9320,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,11,Tourist,21014A04-,HAECHT (CHAUSSEE DE),30.0
+9529,21014A18-,JARDIN BOTANIQUE,9529,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,11,Tourist,21014A18-,JARDIN BOTANIQUE,30.0
+9805,21018A33-,NEERVELD,9805,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,11,Tourist,21018A33-,NEERVELD,30.0
+9843,21018A63-,CONSTELLATIONS,9843,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,Useless for non resident,11,Tourist,21018A63-,CONSTELLATIONS,30.0
+679471,21001A43-,VAN BEETHOVEN,10940,1,1,female,5982,1,couple_with_child,7,StayHome,21001A43-,VAN BEETHOVEN,30.0
+679593,21001A32-,AURORE,15534,1,1,female,8382,1,couple_with_child,7,StayHome,21001A32-,AURORE,30.0
+679638,21001A32-,AURORE,16030,0,0,male,8563,1,couple_with_child,7,StayHome,21001A32-,AURORE,30.0
+679829,21001A85-,AUBADE,20703,2,1,female,11268,1,couple_with_child,7,StayHome,21001A85-,AUBADE,30.0
+680544,21001A80-,SILLON,47096,1,1,female,25790,1,couple_with_child,7,StayHome,21001A80-,SILLON,30.0
+680627,21001A81-,BROECK,49385,2,0,male,27165,1,couple_with_child,7,StayHome,21001A81-,BROECK,30.0
+680707,21001A31-,CHAUSSEE DE MONS - SAINT-LUC,51122,1,1,female,28122,1,couple_with_child,7,StayHome,21001A31-,CHAUSSEE DE MONS - SAINT-LUC,30.0
+680896,21001B321,ALBERT I- QUARTIER,56276,0,0,male,30672,1,couple_with_child,7,StayHome,21001B321,ALBERT I- QUARTIER,30.0
+681403,21001A941,CROCUS,68917,1,0,male,37177,1,couple_with_child,7,StayHome,21001A941,CROCUS,30.0
+681441,21001A941,CROCUS,69056,2,1,female,37221,1,couple_with_child,7,StayHome,21001A941,CROCUS,30.0
+681567,21001A132,RAUTER-NORD,72990,0,0,male,39442,1,couple_with_child,7,StayHome,21001A132,RAUTER-NORD,30.0
+681568,21001A132,RAUTER-NORD,72991,1,1,female,39442,1,couple_with_child,7,StayHome,21001A132,RAUTER-NORD,30.0
+682270,21001B21-,BROGNIEZ-NORD,90899,1,0,male,48519,1,couple_with_child,7,StayHome,21001B21-,BROGNIEZ-NORD,30.0
+682889,21001A00-,RESISTANCE,104894,2,1,female,55522,1,couple_with_child,7,StayHome,21001A00-,RESISTANCE,30.0
+682992,21001A95-,BUFFON,108099,2,0,male,57169,4,single_with_child,7,StayHome,21001A95-,BUFFON,30.0
+683322,21001B241,REVISION-SUD,114748,0,0,male,60531,4,single_with_child,7,StayHome,21001B241,REVISION-SUD,30.0
+683374,21001A10-,PORSELEIN,116303,0,1,female,61470,1,couple_with_child,7,StayHome,21001A10-,PORSELEIN,30.0
+683382,21001A10-,PORSELEIN,116340,0,0,male,61482,4,single_with_child,7,StayHome,21001A10-,PORSELEIN,30.0
+683761,21001A112,BIESTEBROEK,124879,2,1,female,65696,1,couple_with_child,7,StayHome,21001A112,BIESTEBROEK,30.0
+683899,21002A23-,TH. BALIS (PLACE),132759,0,0,male,70010,1,couple_with_child,7,StayHome,21002A23-,TH. BALIS (PLACE),30.0
+683970,21002A24-,AVENUE DE BROUCKERE,135185,0,0,male,71314,4,single_with_child,7,StayHome,21002A24-,AVENUE DE BROUCKERE,30.0
+684030,21002A21-,LEBON,144940,2,1,female,76698,4,single_with_child,7,StayHome,21002A21-,LEBON,30.0
+684403,21003A323,SEPT ETOILES,165428,1,0,male,87581,1,couple_with_child,7,StayHome,21003A323,SEPT ETOILES,30.0
+684612,21003A03-,HAUT-CHAMP,174635,1,0,male,92343,4,single_with_child,7,StayHome,21003A03-,HAUT-CHAMP,30.0
+684764,21003A00-,CENTRE,180370,0,1,female,95111,1,couple_with_child,7,StayHome,21003A00-,CENTRE,30.0
+685049,21004F930,COIN DES CERISES,207067,1,1,female,109496,4,single_with_child,7,StayHome,21004F930,COIN DES CERISES,30.0
+685286,21004G3MJ,DOBBELENBERG (RUE DE),233291,2,1,female,125179,1,couple_with_child,7,StayHome,21004G3MJ,DOBBELENBERG (RUE DE),30.0
+685464,21004C54-,LOUISE (AVENUE)-SUD-EST,242900,0,1,female,130185,4,single_with_child,7,StayHome,21004C54-,LOUISE (AVENUE)-SUD-EST,30.0
+685684,21004A22-,SENNE (RUE DE LA),264285,2,1,female,142890,1,couple_with_child,7,StayHome,21004A22-,SENNE (RUE DE LA),30.0
+685868,21004A20-,BOURSE-NORD-OUEST,278104,0,1,female,152234,4,single_with_child,7,StayHome,21004A20-,BOURSE-NORD-OUEST,30.0
+686261,21004A21-,ANNEESSENS (PLACE),297764,2,0,male,164766,4,single_with_child,7,StayHome,21004A21-,ANNEESSENS (PLACE),30.0
+686264,21004A21-,ANNEESSENS (PLACE),297778,2,1,female,164771,4,single_with_child,7,StayHome,21004A21-,ANNEESSENS (PLACE),30.0
+686322,21004E70-,MARIE-CHRISTINE (RUE),303243,2,0,male,167560,1,couple_with_child,7,StayHome,21004E70-,MARIE-CHRISTINE (RUE),30.0
+686324,21004E70-,MARIE-CHRISTINE (RUE),303261,1,1,female,167565,1,couple_with_child,7,StayHome,21004E70-,MARIE-CHRISTINE (RUE),30.0
+686432,21004E70-,MARIE-CHRISTINE (RUE),304005,1,1,female,167788,1,couple_with_child,7,StayHome,21004E70-,MARIE-CHRISTINE (RUE),30.0
+686953,21004E201,AVENUE JEAN DE BOLOGNE,317966,0,1,female,174732,1,couple_with_child,7,StayHome,21004E201,AVENUE JEAN DE BOLOGNE,30.0
+687914,21004E72-,MAISON ROUGE (PLACE)-SUD,339265,2,0,male,184647,1,couple_with_child,7,StayHome,21004E72-,MAISON ROUGE (PLACE)-SUD,30.0
+688131,21004D62-,ANVERS (CHAUSSEE D')-NORD,345182,2,0,male,187803,1,couple_with_child,7,StayHome,21004D62-,ANVERS (CHAUSSEE D')-NORD,30.0
+688273,21004D631,ALLEE VERTE - BASSIN VERGOTE,348121,1,1,female,189382,1,couple_with_child,7,StayHome,21004D631,ALLEE VERTE - BASSIN VERGOTE,30.0
+688497,21004E12-,PRINCE LEOPOLD (SQUARE),352334,2,1,female,191307,1,couple_with_child,7,StayHome,21004E12-,PRINCE LEOPOLD (SQUARE),30.0
+688589,21004D6NJ,TOUR ET TAXIS,354238,0,0,male,192616,1,couple_with_child,7,StayHome,21004D6NJ,TOUR ET TAXIS,30.0
+689061,21004E14-,ECOLE DES CADETS,365933,0,0,male,198866,1,couple_with_child,7,StayHome,21004E14-,ECOLE DES CADETS,30.0
+689271,21004E222,MUTSAARD (AVENUE),375479,0,1,female,204280,4,single_with_child,7,StayHome,21004E222,MUTSAARD (AVENUE),30.0
+689388,21004E81-,DISQUE (RUE DU),377774,2,1,female,205548,1,couple_with_child,7,StayHome,21004E81-,DISQUE (RUE DU),30.0
+689464,21004D610,ANVERS (CHAUSSEE D')-SUD,382411,2,1,female,207566,1,couple_with_child,7,StayHome,21004D610,ANVERS (CHAUSSEE D')-SUD,30.0
+689835,21005A12-,SAINT-ANTOINE,431415,0,0,male,236053,1,couple_with_child,7,StayHome,21005A12-,SAINT-ANTOINE,30.0
+690023,21006A03-,BLOCS SAINT-VINCENT,442286,0,0,male,242926,1,couple_with_child,7,StayHome,21006A03-,BLOCS SAINT-VINCENT,30.0
+690315,21006A23-,DU BONHEUR,454134,1,1,female,249123,4,single_with_child,7,StayHome,21006A23-,DU BONHEUR,30.0
+690504,21006A101,CONSCIENCE,459314,1,0,male,251776,1,couple_with_child,7,StayHome,21006A101,CONSCIENCE,30.0
+690684,21006A001,VIEIL EVERE,462945,1,0,male,253678,1,couple_with_child,7,StayHome,21006A001,VIEIL EVERE,30.0
+690732,21006A001,VIEIL EVERE,463198,0,1,female,253759,4,single_with_child,7,StayHome,21006A001,VIEIL EVERE,30.0
+691121,21007A75-,TOURNOI (RUE DU),487784,0,1,female,267091,4,single_with_child,7,StayHome,21007A75-,TOURNOI (RUE DU),30.0
+691131,21007A111,MESSIDOR I,488283,1,1,female,267399,1,couple_with_child,7,StayHome,21007A111,MESSIDOR I,30.0
+691345,21007A50-,BERANGER,495910,2,1,female,271220,1,couple_with_child,7,StayHome,21007A50-,BERANGER,30.0
+691705,21007A06-,KATANGA,505153,1,1,female,276019,1,couple_with_child,7,StayHome,21007A06-,KATANGA,30.0
+691977,21007A239,NEPTUNE (AVENUE) I,520381,1,1,female,284254,1,couple_with_child,7,StayHome,21007A239,NEPTUNE (AVENUE) I,30.0
+692286,21009A41-,SAINT-GEORGES,551448,1,1,female,303484,1,couple_with_child,7,StayHome,21009A41-,SAINT-GEORGES,30.0
+692337,21009A44-,PREVOT,559645,2,0,male,308655,1,couple_with_child,7,StayHome,21009A44-,PREVOT,30.0
+692357,21009A44-,PREVOT,559845,1,0,male,308756,1,couple_with_child,7,StayHome,21009A44-,PREVOT,30.0
+692436,21009A82-,FORET,567521,0,1,female,313843,4,single_with_child,7,StayHome,21009A82-,FORET,30.0
+692558,21009A73-,BERCKENDAEL,589686,0,1,female,327819,1,couple_with_child,7,StayHome,21009A73-,BERCKENDAEL,30.0
+693112,21010A05-,ALBERT (QUARTIER),617566,1,1,female,342065,4,single_with_child,7,StayHome,21010A05-,ALBERT (QUARTIER),30.0
+693196,21010A13-,CITE-JARDIN,622378,0,1,female,344858,1,couple_with_child,7,StayHome,21010A13-,CITE-JARDIN,30.0
+693740,21010A21-,MADELEINE,643265,2,0,male,355425,1,couple_with_child,7,StayHome,21010A21-,MADELEINE,30.0
+694030,21011A11-,LEPREUX,650630,1,0,male,359237,1,couple_with_child,7,StayHome,21011A11-,LEPREUX,30.0
+694216,21011A20-,PLATEAU,655741,0,0,male,361663,1,couple_with_child,7,StayHome,21011A20-,PLATEAU,30.0
+694380,21011A10-,PAIX (AVENUE DE LA),659415,1,1,female,363690,4,single_with_child,7,StayHome,21011A10-,PAIX (AVENUE DE LA),30.0
+694422,21011A10-,PAIX (AVENUE DE LA),659966,2,0,male,363905,4,single_with_child,7,StayHome,21011A10-,PAIX (AVENUE DE LA),30.0
+694744,21011A02-,JACQUET (RUE DE),667344,0,1,female,367334,1,couple_with_child,7,StayHome,21011A02-,JACQUET (RUE DE),30.0
+694819,21011A12-,BASILIQUE,671900,1,1,female,369739,1,couple_with_child,7,StayHome,21011A12-,BASILIQUE,30.0
+694846,21012A552,PFEIFFER,673330,1,0,male,370590,1,couple_with_child,7,StayHome,21012A552,PFEIFFER,30.0
+695079,21012A24-,OSSEGHEM,679780,1,1,female,373785,1,couple_with_child,7,StayHome,21012A24-,OSSEGHEM,30.0
+695148,21012A26-,MACHTENS-NORD,682757,0,1,female,375660,4,single_with_child,7,StayHome,21012A26-,MACHTENS-NORD,30.0
+695445,21012A10-,DUCHESSE DE BRABANT,690245,2,0,male,379549,1,couple_with_child,7,StayHome,21012A10-,DUCHESSE DE BRABANT,30.0
+695471,21012A10-,DUCHESSE DE BRABANT,690712,1,0,male,379692,1,couple_with_child,7,StayHome,21012A10-,DUCHESSE DE BRABANT,30.0
+695500,21012A10-,DUCHESSE DE BRABANT,690993,0,0,male,379779,1,couple_with_child,7,StayHome,21012A10-,DUCHESSE DE BRABANT,30.0
+695876,21012A12-,BIRMINGHAM-SUD,700696,2,0,male,384802,1,couple_with_child,7,StayHome,21012A12-,BIRMINGHAM-SUD,30.0
+696697,21012A20-,BAECK,721550,0,1,female,395063,4,single_with_child,7,StayHome,21012A20-,BAECK,30.0
+697221,21012A50-,BENES,733418,0,1,female,400820,1,couple_with_child,7,StayHome,21012A50-,BENES,30.0
+697361,21012A71-,PIERS,736940,1,0,male,402481,1,couple_with_child,7,StayHome,21012A71-,PIERS,30.0
+697735,21012A152,ETANGS NOIRS,744596,2,0,male,406301,1,couple_with_child,7,StayHome,21012A152,ETANGS NOIRS,30.0
+698097,21012A23-,MACHTENS-SUD,756168,0,1,female,412790,1,couple_with_child,7,StayHome,21012A23-,MACHTENS-SUD,30.0
+698595,21012A03-,RANSFORT,769016,2,1,female,419319,1,couple_with_child,7,StayHome,21012A03-,RANSFORT,30.0
+699123,21013A04-,PRISON,793269,0,0,male,432739,1,couple_with_child,7,StayHome,21013A04-,PRISON,30.0
+699354,21013A22-,REGIES,806505,2,1,female,440141,4,single_with_child,7,StayHome,21013A22-,REGIES,30.0
+699359,21013A22-,REGIES,806537,0,1,female,440149,1,couple_with_child,7,StayHome,21013A22-,REGIES,30.0
+699995,21015A50-,OPALE,859618,2,1,female,470016,1,couple_with_child,7,StayHome,21015A50-,OPALE,30.0
+700035,21015A50-,OPALE,860728,1,1,female,470506,1,couple_with_child,7,StayHome,21015A50-,OPALE,30.0
+700205,21015A73-,H. EVENEPOEL (RUE),866641,1,0,male,474101,1,couple_with_child,7,StayHome,21015A73-,H. EVENEPOEL (RUE),30.0
+700560,21015A63-,DESCHANEL P. (AVENUE),878803,0,1,female,480636,4,single_with_child,7,StayHome,21015A63-,DESCHANEL P. (AVENUE),30.0
+700872,21015A021,HOUFFALIZE (PLACE),893460,2,1,female,487754,1,couple_with_child,7,StayHome,21015A021,HOUFFALIZE (PLACE),30.0
+701276,21015A54-,EMERAUDE (AVENUE),917268,1,0,male,500061,1,couple_with_child,7,StayHome,21015A54-,EMERAUDE (AVENUE),30.0
+701530,21015A05-,ROYALE SAINTE-MARIE (RUE),926908,1,1,female,505010,4,single_with_child,7,StayHome,21015A05-,ROYALE SAINTE-MARIE (RUE),30.0
+701558,21015A05-,ROYALE SAINTE-MARIE (RUE),926994,1,0,male,505038,1,couple_with_child,7,StayHome,21015A05-,ROYALE SAINTE-MARIE (RUE),30.0
+701897,21015A111,MAETERLINCK,938342,2,1,female,510894,1,couple_with_child,7,StayHome,21015A111,MAETERLINCK,30.0
+701976,21015A111,MAETERLINCK,938980,0,0,male,511101,1,couple_with_child,7,StayHome,21015A111,MAETERLINCK,30.0
+702138,21015A04-,L'OLIVIER (RUE),946001,2,1,female,514362,4,single_with_child,7,StayHome,21015A04-,L'OLIVIER (RUE),30.0
+702167,21015A04-,L'OLIVIER (RUE),946202,1,0,male,514422,1,couple_with_child,7,StayHome,21015A04-,L'OLIVIER (RUE),30.0
+702348,21015A421,PALAIS (RUE DE),949316,0,1,female,516177,1,couple_with_child,7,StayHome,21015A421,PALAIS (RUE DE),30.0
+702409,21015A40-,BRABANT (RUE DE),952053,2,1,female,517574,1,couple_with_child,7,StayHome,21015A40-,BRABANT (RUE DE),30.0
+702436,21015A40-,BRABANT (RUE DE),952317,1,1,female,517664,4,single_with_child,7,StayHome,21015A40-,BRABANT (RUE DE),30.0
+702642,21015A44-,REINE (AVENUE),958233,2,0,male,520582,4,single_with_child,7,StayHome,21015A44-,REINE (AVENUE),30.0
+702654,21015A44-,REINE (AVENUE),958308,1,0,male,520603,1,couple_with_child,7,StayHome,21015A44-,REINE (AVENUE),30.0
+702734,21015A41-,VANDERLINDEN (RUE),961222,1,1,female,522032,1,couple_with_child,7,StayHome,21015A41-,VANDERLINDEN (RUE),30.0
+703288,21015A00-,COLIGNON (PLACE),973236,0,0,male,527425,1,couple_with_child,7,StayHome,21015A00-,COLIGNON (PLACE),30.0
+703930,21015A22-,MARBOTIN A. (RUE),985845,1,0,male,533683,1,couple_with_child,7,StayHome,21015A22-,MARBOTIN A. (RUE),30.0
+704582,21016A933,VOSSEGAT-OUEST,1029612,2,1,female,557703,1,couple_with_child,7,StayHome,21016A933,VOSSEGAT-OUEST,30.0
+704645,21016A933,VOSSEGAT-OUEST,1030188,0,1,female,557930,1,couple_with_child,7,StayHome,21016A933,VOSSEGAT-OUEST,30.0
+704859,21016A01-,DIEWEG,1056068,1,1,female,572214,1,couple_with_child,7,StayHome,21016A01-,DIEWEG,30.0
+704954,21016A01-,DIEWEG,1057454,1,0,male,572687,1,couple_with_child,7,StayHome,21016A01-,DIEWEG,30.0
+705196,21016A429,CARLOO,1077018,0,1,female,583500,1,couple_with_child,7,StayHome,21016A429,CARLOO,30.0
+705197,21016A429,CARLOO,1077049,2,1,female,583511,1,couple_with_child,7,StayHome,21016A429,CARLOO,30.0
+705199,21016A429,CARLOO,1077076,2,1,female,583519,1,couple_with_child,7,StayHome,21016A429,CARLOO,30.0
+705994,21018A031,ABELOOS,1137474,1,0,male,617805,1,couple_with_child,7,StayHome,21018A031,ABELOOS,30.0
+706227,21018A62-,HEYDENBERG-OUEST,1149883,0,0,male,624387,1,couple_with_child,7,StayHome,21018A62-,HEYDENBERG-OUEST,30.0
+706520,21018A3MJ,GULLEDELLE,1175240,0,1,female,639486,4,single_with_child,7,StayHome,21018A3MJ,GULLEDELLE,30.0
+706871,21019A03-,CAPITAINE PIRET (AVENUE),1190280,2,0,male,647780,1,couple_with_child,7,StayHome,21019A03-,CAPITAINE PIRET (AVENUE),30.0
+706885,21019A03-,CAPITAINE PIRET (AVENUE),1190431,1,0,male,647837,1,couple_with_child,7,StayHome,21019A03-,CAPITAINE PIRET (AVENUE),30.0
+707012,21019A30-,EGLANTINES (AVENUE),1196025,1,0,male,650835,1,couple_with_child,7,StayHome,21019A30-,EGLANTINES (AVENUE),30.0
+707685,21001A472,STADE COMMUNAL - INDUSTRIE,3613,18,0,male,1807,3,single,7,StayHome,21001A472,STADE COMMUNAL - INDUSTRIE,30.0
+707696,21001A51-,SCHERDEMAEL,22439,18,0,male,12260,1,couple_with_child,7,StayHome,21001A51-,SCHERDEMAEL,30.0
+707998,21010A04-,NOTRE-DAME DE LOURDES,596443,25,1,female,331571,1,couple_with_child,7,StayHome,21010A04-,NOTRE-DAME DE LOURDES,30.0
+708190,21015A04-,L'OLIVIER (RUE),946032,25,1,female,514370,1,couple_with_child,7,StayHome,21015A04-,L'OLIVIER (RUE),30.0
+708650,21012A552,PFEIFFER,672815,26,1,female,370399,1,couple_with_child,7,StayHome,21012A552,PFEIFFER,30.0
+708789,21015A03-,JOSAPHAT (RUE),889104,26,1,female,485678,1,couple_with_child,7,StayHome,21015A03-,JOSAPHAT (RUE),30.0
+708835,21015A44-,REINE (AVENUE),958140,26,1,female,520556,1,couple_with_child,7,StayHome,21015A44-,REINE (AVENUE),30.0
+708860,21015A21-,GUIDO GEZELLE (RUE),996635,26,1,female,538851,2,couple_no_child,7,StayHome,21015A21-,GUIDO GEZELLE (RUE),30.0
+708955,21001A142,VEEWEYDE-NORD,64639,27,1,female,35126,4,single_with_child,7,StayHome,21001A142,VEEWEYDE-NORD,30.0
+708977,21001A92-,JAKOB SMITS,99655,27,1,female,53233,4,single_with_child,7,StayHome,21001A92-,JAKOB SMITS,30.0
+709088,21004E201,AVENUE JEAN DE BOLOGNE,315254,27,1,female,173657,1,couple_with_child,7,StayHome,21004E201,AVENUE JEAN DE BOLOGNE,30.0
+709120,21004F522,AVENUE DE VERSAILLES,368686,27,1,female,200504,1,couple_with_child,7,StayHome,21004F522,AVENUE DE VERSAILLES,30.0
+709141,21005A01-,SAINTE-GERTRUDE,403945,27,1,female,220356,3,single,7,StayHome,21005A01-,SAINTE-GERTRUDE,30.0
+709181,21006A011,CENTRE,473997,27,1,female,259685,1,couple_with_child,7,StayHome,21006A011,CENTRE,30.0
+709470,21015A71-,JARDINS,942372,27,1,female,512963,1,couple_with_child,7,StayHome,21015A71-,JARDINS,30.0
+709846,21007A61-,MONTENEGRO (RUE),502281,28,1,female,274440,2,couple_no_child,7,StayHome,21007A61-,MONTENEGRO (RUE),30.0
+710149,21015A22-,MARBOTIN A. (RUE),985711,28,1,female,533645,3,single,7,StayHome,21015A22-,MARBOTIN A. (RUE),30.0
+710433,21005A042,PH. BAUCQ (RUE),389130,29,1,female,211643,3,single,7,StayHome,21005A042,PH. BAUCQ (RUE),30.0
+710615,21012A672,ULENS,702788,29,1,female,385761,1,couple_with_child,7,StayHome,21012A672,ULENS,30.0
+710616,21012A672,ULENS,702805,29,1,female,385765,1,couple_with_child,7,StayHome,21012A672,ULENS,30.0
+711174,21005A02-,CHAMP DU ROI (RUE),392018,30,1,female,213555,1,couple_with_child,7,StayHome,21005A02-,CHAMP DU ROI (RUE),30.0
+711185,21005A031,MAELBEEK,413128,30,1,female,225811,1,couple_with_child,7,StayHome,21005A031,MAELBEEK,30.0
+711457,21012A23-,MACHTENS-SUD,755744,30,1,female,412663,3,single,7,StayHome,21012A23-,MACHTENS-SUD,30.0
+711497,21013A201,ANGLETERRE (RUE D'),795334,30,1,female,433825,1,couple_with_child,7,StayHome,21013A201,ANGLETERRE (RUE D'),30.0
+712018,21004E72-,MAISON ROUGE (PLACE)-SUD,335637,31,1,female,183478,1,couple_with_child,7,StayHome,21004E72-,MAISON ROUGE (PLACE)-SUD,30.0
+712062,21005A042,PH. BAUCQ (RUE),387062,31,1,female,210789,1,couple_with_child,7,StayHome,21005A042,PH. BAUCQ (RUE),30.0
+712214,21009A451,CHATELAIN (PLACE DU)-EST,590884,31,1,female,328674,1,couple_with_child,7,StayHome,21009A451,CHATELAIN (PLACE DU)-EST,30.0
+712289,21012A26-,MACHTENS-NORD,683601,31,1,female,376018,3,single,7,StayHome,21012A26-,MACHTENS-NORD,30.0
+712388,21013A201,ANGLETERRE (RUE D'),795298,31,1,female,433812,1,couple_with_child,7,StayHome,21013A201,ANGLETERRE (RUE D'),30.0
+712490,21015A54-,EMERAUDE (AVENUE),916803,31,1,female,499897,3,single,7,StayHome,21015A54-,EMERAUDE (AVENUE),30.0
+712717,21001A911,SCHEUT-EST,93428,32,1,female,50052,1,couple_with_child,7,StayHome,21001A911,SCHEUT-EST,30.0
+712757,21002A030,LAMMERENDRIES,151772,32,1,female,80382,1,couple_with_child,7,StayHome,21002A030,LAMMERENDRIES,30.0
+713495,21018A20-,GEORGES HENRI (AVENUE),1116916,32,1,female,606017,2,couple_no_child,7,StayHome,21018A20-,GEORGES HENRI (AVENUE),30.0
+713830,21004E82-,CITE MODELE,371809,33,1,female,202110,4,single_with_child,7,StayHome,21004E82-,CITE MODELE,30.0
+714064,21011A12-,BASILIQUE,671543,33,1,female,369604,3,single,7,StayHome,21011A12-,BASILIQUE,30.0
+714134,21012A41-,MOORTEBEEK,757996,33,1,female,413847,2,couple_no_child,7,StayHome,21012A41-,MOORTEBEEK,30.0
+715093,21013A00-,HOTEL DE VILLE,825001,34,1,female,451319,1,couple_with_child,7,StayHome,21013A00-,HOTEL DE VILLE,30.0
+715114,21014A05-,HOUWAERT,849967,34,1,female,465154,4,single_with_child,7,StayHome,21014A05-,HOUWAERT,30.0
+715686,21007A239,NEPTUNE (AVENUE) I,518965,35,1,female,283627,1,couple_with_child,7,StayHome,21007A239,NEPTUNE (AVENUE) I,30.0
+715819,21012A13-,BIRMINGHAM-NORD,699010,35,1,female,384013,1,couple_with_child,7,StayHome,21012A13-,BIRMINGHAM-NORD,30.0
+715986,21015A33-,BIENFAITEURS (PLACE DE),905165,35,1,female,493961,1,couple_with_child,7,StayHome,21015A33-,BIENFAITEURS (PLACE DE),30.0
+716056,21015A20-,HELMET,992089,35,1,female,536614,1,couple_with_child,7,StayHome,21015A20-,HELMET,30.0
+716075,21016A912,GLOBE-OUEST,1027193,35,1,female,556424,1,couple_with_child,7,StayHome,21016A912,GLOBE-OUEST,30.0
+716191,21001A451,VENIZELOS,41477,36,1,female,22801,1,couple_with_child,7,StayHome,21001A451,VENIZELOS,30.0
+716366,21004A21-,ANNEESSENS (PLACE),294962,36,1,female,163089,3,single,7,StayHome,21004A21-,ANNEESSENS (PLACE),30.0
+717001,21019A131,KONKEL,1182424,36,1,female,643436,1,couple_with_child,7,StayHome,21019A131,KONKEL,30.0
+717068,21001A72-,OSSEGEM,80922,37,1,female,43548,1,couple_with_child,7,StayHome,21001A72-,OSSEGEM,30.0
+717180,21004C63-,NATIONS (SQUARE DES),244044,37,1,female,130974,1,couple_with_child,7,StayHome,21004C63-,NATIONS (SQUARE DES),30.0
+717272,21004E82-,CITE MODELE,373010,37,1,female,202742,5,colloc,7,StayHome,21004E82-,CITE MODELE,30.0
+717402,21009A43-,FERNAND NEURAY,548929,37,1,female,302077,1,couple_with_child,7,StayHome,21009A43-,FERNAND NEURAY,30.0
+717452,21010A05-,ALBERT (QUARTIER),615888,37,1,female,341497,1,couple_with_child,7,StayHome,21010A05-,ALBERT (QUARTIER),30.0
+717654,21015A36-,CAMBIER (AVENUE E.),871159,37,1,female,476661,1,couple_with_child,7,StayHome,21015A36-,CAMBIER (AVENUE E.),30.0
+717855,21019A10-,STOCKEL,1211141,37,1,female,659055,2,couple_no_child,7,StayHome,21019A10-,STOCKEL,30.0
+718173,21006A101,CONSCIENCE,458239,38,1,female,251388,1,couple_with_child,7,StayHome,21006A101,CONSCIENCE,30.0
+718292,21010A111,HEYMBOSCH,607281,38,1,female,337307,1,couple_with_child,7,StayHome,21010A111,HEYMBOSCH,30.0
+718500,21015A31-,PATRIE,868653,38,1,female,475267,1,couple_with_child,7,StayHome,21015A31-,PATRIE,30.0
+718582,21015A00-,COLIGNON (PLACE),970682,38,1,female,526582,4,single_with_child,7,StayHome,21015A00-,COLIGNON (PLACE),30.0
+718634,21016A601,BOURDON,1052058,38,1,female,570255,1,couple_with_child,7,StayHome,21016A601,BOURDON,30.0
+718688,21018A24-,LAMBEAU (AVENUE),1152243,38,1,female,625754,1,couple_with_child,7,StayHome,21018A24-,LAMBEAU (AVENUE),30.0
+718840,21004B411,DEUX EGLISES (RUE DES),193423,39,1,female,102529,1,couple_with_child,7,StayHome,21004B411,DEUX EGLISES (RUE DES),30.0
+719101,21009A83-,L. ERNOTTE (RUE),553022,39,1,female,304525,3,single,7,StayHome,21009A83-,L. ERNOTTE (RUE),30.0
+719919,21010A00-,CENTRE,627048,40,1,female,347357,1,couple_with_child,7,StayHome,21010A00-,CENTRE,30.0
+720018,21012A822,KORENBEEK,761192,40,1,female,415423,3,single,7,StayHome,21012A822,KORENBEEK,30.0
+720172,21015A20-,HELMET,989805,40,1,female,535966,1,couple_with_child,7,StayHome,21015A20-,HELMET,30.0
+720259,21018A00-,TOMBERG,1160691,40,1,female,630891,3,single,7,StayHome,21018A00-,TOMBERG,30.0
+720352,21001A152,LINDE-OUEST,120946,41,1,female,63832,2,couple_no_child,7,StayHome,21001A152,LINDE-OUEST,30.0
+720459,21004E201,AVENUE JEAN DE BOLOGNE,317293,41,1,female,174478,3,single,7,StayHome,21004E201,AVENUE JEAN DE BOLOGNE,30.0
+720872,21015A40-,BRABANT (RUE DE),953408,41,1,female,518332,5,colloc,7,StayHome,21015A40-,BRABANT (RUE DE),30.0
+720955,21017A240,SOUVERAIN-OUEST,1092922,41,1,female,592226,1,couple_with_child,7,StayHome,21017A240,SOUVERAIN-OUEST,30.0
+721065,21001A92-,JAKOB SMITS,102531,42,1,female,54362,5,colloc,7,StayHome,21001A92-,JAKOB SMITS,30.0
+721322,21009A33-,SAINT-ADRIEN,540864,42,1,female,296941,4,single_with_child,7,StayHome,21009A33-,SAINT-ADRIEN,30.0
+721395,21011A01-,SAINTE-ANNE,662723,42,1,female,365211,2,couple_no_child,7,StayHome,21011A01-,SAINTE-ANNE,30.0
+721604,21015A612,BRICHAUT (RUE DE),964541,42,1,female,523628,1,couple_with_child,7,StayHome,21015A612,BRICHAUT (RUE DE),30.0
+721636,21016A111,VERT CHASSEUR,1014039,42,1,female,548856,1,couple_with_child,7,StayHome,21016A111,VERT CHASSEUR,30.0
+721728,21019A15-,KAPELLEVELD,1218178,42,1,female,662710,1,couple_with_child,7,StayHome,21019A15-,KAPELLEVELD,30.0
+722319,21015A04-,L'OLIVIER (RUE),944685,43,1,female,513928,1,couple_with_child,7,StayHome,21015A04-,L'OLIVIER (RUE),30.0
+722642,21004E130,SACRE-COEUR,327024,44,1,female,179087,1,couple_with_child,7,StayHome,21004E130,SACRE-COEUR,30.0
+722782,21009A712,CHATELAIN (PLACE DU)-OUEST,561109,44,1,female,309706,3,single,7,StayHome,21009A712,CHATELAIN (PLACE DU)-OUEST,30.0
+722845,21011A01-,SAINTE-ANNE,662564,44,1,female,365156,2,couple_no_child,7,StayHome,21011A01-,SAINTE-ANNE,30.0
+722859,21012A26-,MACHTENS-NORD,682811,44,1,female,375682,3,single,7,StayHome,21012A26-,MACHTENS-NORD,30.0
+723271,21004B421,MARIE-LOUISE (SQUARE),190427,45,1,female,100592,4,single_with_child,7,StayHome,21004B421,MARIE-LOUISE (SQUARE),30.0
+723483,21010A05-,ALBERT (QUARTIER),615150,45,1,female,341223,3,single,7,StayHome,21010A05-,ALBERT (QUARTIER),30.0
+723628,21014A05-,HOUWAERT,851608,45,1,female,465762,1,couple_with_child,7,StayHome,21014A05-,HOUWAERT,30.0
+723757,21018A21-,DE BROQUEVILLE (AVENUE)-NORD,1122480,45,1,female,609439,2,couple_no_child,7,StayHome,21018A21-,DE BROQUEVILLE (AVENUE)-NORD,30.0
+724026,21006A011,CENTRE,473063,46,1,female,259359,4,single_with_child,7,StayHome,21006A011,CENTRE,30.0
+724518,21004F953,RUE DU WIMPELBERG,246545,47,1,female,132523,1,couple_with_child,7,StayHome,21004F953,RUE DU WIMPELBERG,30.0
+724520,21004A02-,SAINT-FRANCOIS XAVIER,249410,47,1,female,133956,3,single,7,StayHome,21004A02-,SAINT-FRANCOIS XAVIER,30.0
+724684,21009A73-,BERCKENDAEL,588641,47,1,female,327360,3,single,7,StayHome,21009A73-,BERCKENDAEL,30.0
+724984,21018A24-,LAMBEAU (AVENUE),1151898,47,1,female,625617,1,couple_with_child,7,StayHome,21018A24-,LAMBEAU (AVENUE),30.0
+725274,21009A42-,RENIER CHALON,532958,48,1,female,292322,1,couple_with_child,7,StayHome,21009A42-,RENIER CHALON,30.0
+725729,21004F922,RUE CHATEAU BEYAERD,237600,49,1,female,127351,1,couple_with_child,7,StayHome,21004F922,RUE CHATEAU BEYAERD,30.0
+725758,21004A21-,ANNEESSENS (PLACE),293716,49,1,female,162649,1,couple_with_child,7,StayHome,21004A21-,ANNEESSENS (PLACE),30.0
+725863,21007A50-,BERANGER,494699,49,1,female,270782,2,couple_no_child,7,StayHome,21007A50-,BERANGER,30.0
+726060,21014A05-,HOUWAERT,851170,49,1,female,465608,3,single,7,StayHome,21014A05-,HOUWAERT,30.0
+726085,21015A32-,CONSOLATION (RUE DE LA),899398,49,1,female,491035,1,couple_with_child,7,StayHome,21015A32-,CONSOLATION (RUE DE LA),30.0
+726538,21012A26-,MACHTENS-NORD,682446,50,1,female,375525,3,single,7,StayHome,21012A26-,MACHTENS-NORD,30.0
+727588,21009A22-,UNIVERSITE,575045,52,1,female,318570,2,couple_no_child,7,StayHome,21009A22-,UNIVERSITE,30.0
+728358,21016A03-,COGHEN,1018950,53,1,female,551978,3,single,7,StayHome,21016A03-,COGHEN,30.0
+728406,21018A22-,DE BROQUEVILLE (AVENUE)-SUD,1132987,53,1,female,615433,3,single,7,StayHome,21018A22-,DE BROQUEVILLE (AVENUE)-SUD,30.0
+728580,21004E73-,EM. BOCKSTAEL (BOULEVARD)-SUD,331489,54,1,female,181449,1,couple_with_child,7,StayHome,21004E73-,EM. BOCKSTAEL (BOULEVARD)-SUD,30.0
+728677,21009A13-,GACHARD,525855,54,1,female,287726,3,single,7,StayHome,21009A13-,GACHARD,30.0
+728721,21010A141,BRUGMANN,631789,54,1,female,350027,4,single_with_child,7,StayHome,21010A141,BRUGMANN,30.0
+728962,21018A63-,CONSTELLATIONS,1142422,54,1,female,620628,1,couple_with_child,7,StayHome,21018A63-,CONSTELLATIONS,30.0
+729180,21006A23-,DU BONHEUR,452762,55,1,female,248576,1,couple_with_child,7,StayHome,21006A23-,DU BONHEUR,30.0
+729200,21007A50-,BERANGER,494395,55,1,female,270671,3,single,7,StayHome,21007A50-,BERANGER,30.0
+729292,21012A672,ULENS,701729,55,1,female,385426,1,couple_with_child,7,StayHome,21012A672,ULENS,30.0
+729364,21015A50-,OPALE,858713,55,1,female,469628,4,single_with_child,7,StayHome,21015A50-,OPALE,30.0
+729433,21016A03-,COGHEN,1018849,55,1,female,551932,2,couple_no_child,7,StayHome,21016A03-,COGHEN,30.0
+729633,21004F953,RUE DU WIMPELBERG,246405,56,1,female,132472,3,single,7,StayHome,21004F953,RUE DU WIMPELBERG,30.0
+729796,21010A05-,ALBERT (QUARTIER),614063,56,1,female,340826,1,couple_with_child,7,StayHome,21010A05-,ALBERT (QUARTIER),30.0
+730127,21002A130,PARC DES PRINCES,139633,57,1,female,73710,3,single,7,StayHome,21002A130,PARC DES PRINCES,30.0
+730257,21005A12-,SAINT-ANTOINE,427609,57,1,female,234341,3,single,7,StayHome,21005A12-,SAINT-ANTOINE,30.0
+730273,21006A25-,GIBET,468577,57,1,female,256968,3,single,7,StayHome,21006A25-,GIBET,30.0
+730921,21012A672,ULENS,701616,58,1,female,385391,3,single,7,StayHome,21012A672,ULENS,30.0
+730978,21014A00-,PLACE SAINT-JOSSE,829432,58,1,female,454226,3,single,7,StayHome,21014A00-,PLACE SAINT-JOSSE,30.0
+731095,21017A11-,FLOREAL,1091262,58,1,female,591395,3,single,7,StayHome,21017A11-,FLOREAL,30.0
+731204,21001A120,MINIMES,117095,59,1,female,61941,1,couple_with_child,7,StayHome,21001A120,MINIMES,30.0
+731285,21004A21-,ANNEESSENS (PLACE),292814,59,1,female,162333,3,single,7,StayHome,21004A21-,ANNEESSENS (PLACE),30.0
+731306,21004D64-,MASUI (PLACE)-NORD,341375,59,1,female,186172,2,couple_no_child,7,StayHome,21004D64-,MASUI (PLACE)-NORD,30.0
+731558,21015A54-,EMERAUDE (AVENUE),914302,59,1,female,498837,4,single_with_child,7,StayHome,21015A54-,EMERAUDE (AVENUE),30.0
+731780,21002A441,CHANT D'OISEAUX,138252,60,1,female,72976,1,couple_with_child,7,StayHome,21002A441,CHANT D'OISEAUX,30.0
+732141,21012A141,INDEPENDANCE,765267,60,1,female,417669,4,single_with_child,7,StayHome,21012A141,INDEPENDANCE,30.0
+732241,21015A43-,GARE DU NORD,954130,60,1,female,518899,3,single,7,StayHome,21015A43-,GARE DU NORD,30.0
+732264,21016A901,CENTRE-OUEST,998054,60,1,female,539742,3,single,7,StayHome,21016A901,CENTRE-OUEST,30.0
+732354,21018A512,QUARTIER DES PEINTRES,1134718,60,1,female,616378,2,couple_no_child,7,StayHome,21018A512,QUARTIER DES PEINTRES,30.0
+732765,21010A111,HEYMBOSCH,606180,61,1,female,336807,2,couple_no_child,7,StayHome,21010A111,HEYMBOSCH,30.0
+733000,21016A701,MERLO,1032102,61,1,female,559227,4,single_with_child,7,StayHome,21016A701,MERLO,30.0
+733020,21016A00-,GLOBE-EST,1059469,61,1,female,574127,3,single,7,StayHome,21016A00-,GLOBE-EST,30.0
+733180,21001A911,SCHEUT-EST,92369,62,1,female,49682,3,single,7,StayHome,21001A911,SCHEUT-EST,30.0
+733367,21005A051,RINSDELLE,414404,62,1,female,226678,3,single,7,StayHome,21005A051,RINSDELLE,30.0
+733909,21001A10-,PORSELEIN,115700,63,1,female,61257,3,single,7,StayHome,21001A10-,PORSELEIN,30.0
+734075,21005A13-,LA CHASSE,399852,63,1,female,218187,1,couple_with_child,7,StayHome,21005A13-,LA CHASSE,30.0
+734223,21010A02-,LEOPOLD I,644962,63,1,female,356574,4,single_with_child,7,StayHome,21010A02-,LEOPOLD I,30.0
+734296,21013A422,CRICKX (RUE),783724,63,1,female,427515,3,single,7,StayHome,21013A422,CRICKX (RUE),30.0
+734656,21003A323,SEPT ETOILES,165120,64,1,female,87460,1,couple_with_child,7,StayHome,21003A323,SEPT ETOILES,30.0
+734775,21004E222,MUTSAARD (AVENUE),374199,64,1,female,203631,3,single,7,StayHome,21004E222,MUTSAARD (AVENUE),30.0
+735418,21004E74-,EM. DELVA (RUE),313281,25,0,male,172329,3,single,7,StayHome,21004E74-,EM. DELVA (RUE),30.0
+735511,21007A61-,MONTENEGRO (RUE),502109,25,0,male,274378,2,couple_no_child,7,StayHome,21007A61-,MONTENEGRO (RUE),30.0
+736253,21012A54-,DELHAIZE,728702,26,0,male,398615,4,single_with_child,7,StayHome,21012A54-,DELHAIZE,30.0
+736451,21016A102,GROESELENBERG,1063810,26,0,male,576352,1,couple_with_child,7,StayHome,21016A102,GROESELENBERG,30.0
+737069,21015A24-,WAELHEM (RUE),979877,27,0,male,530827,1,couple_with_child,7,StayHome,21015A24-,WAELHEM (RUE),30.0
+737100,21016A12-,HAMOIR,1067637,27,0,male,578256,2,couple_no_child,7,StayHome,21016A12-,HAMOIR,30.0
+737153,21001A51-,SCHERDEMAEL,22315,28,0,male,12206,1,couple_with_child,7,StayHome,21001A51-,SCHERDEMAEL,30.0
+737505,21011A12-,BASILIQUE,670650,28,0,male,369207,4,single_with_child,7,StayHome,21011A12-,BASILIQUE,30.0
+737867,21002A030,LAMMERENDRIES,152029,29,0,male,80473,1,couple_with_child,7,StayHome,21002A030,LAMMERENDRIES,30.0
+737876,21003A03-,HAUT-CHAMP,174616,29,0,male,92337,1,couple_with_child,7,StayHome,21003A03-,HAUT-CHAMP,30.0
+738156,21012A24-,OSSEGHEM,679538,29,0,male,373710,1,couple_with_child,7,StayHome,21012A24-,OSSEGHEM,30.0
+738440,21001A43-,VAN BEETHOVEN,11636,30,0,male,6340,3,single,7,StayHome,21001A43-,VAN BEETHOVEN,30.0
+738489,21001B21-,BROGNIEZ-NORD,91391,30,0,male,48963,3,single,7,StayHome,21001B21-,BROGNIEZ-NORD,30.0
+738496,21001A92-,JAKOB SMITS,101543,30,0,male,53881,1,couple_with_child,7,StayHome,21001A92-,JAKOB SMITS,30.0
+739228,21001A02-,WAYEZ,122290,31,0,male,64495,1,couple_with_child,7,StayHome,21001A02-,WAYEZ,30.0
+739331,21004E201,AVENUE JEAN DE BOLOGNE,316417,31,0,male,174136,1,couple_with_child,7,StayHome,21004E201,AVENUE JEAN DE BOLOGNE,30.0
+739407,21005A22-,PORTE DE TERVUEREN - L. DE LAN,434777,31,0,male,238515,1,couple_with_child,7,StayHome,21005A22-,PORTE DE TERVUEREN - L. DE LAN,30.0
+739444,21007A101,BOURGOGNE,511993,31,0,male,279831,5,colloc,7,StayHome,21007A101,BOURGOGNE,30.0
+739445,21007A071,BOLLINCKX,513727,31,0,male,280672,1,couple_with_child,7,StayHome,21007A071,BOLLINCKX,30.0
+739497,21009A22-,UNIVERSITE,578055,31,0,male,320389,5,colloc,7,StayHome,21009A22-,UNIVERSITE,30.0
+739542,21011A20-,PLATEAU,657135,31,0,male,362305,3,single,7,StayHome,21011A20-,PLATEAU,30.0
+739751,21015A54-,EMERAUDE (AVENUE),916646,31,0,male,499829,1,couple_with_child,7,StayHome,21015A54-,EMERAUDE (AVENUE),30.0
+740156,21007A61-,MONTENEGRO (RUE),501996,32,0,male,274339,1,couple_with_child,7,StayHome,21007A61-,MONTENEGRO (RUE),30.0
+740178,21009A63-,MACAU,530978,32,0,male,290958,3,single,7,StayHome,21009A63-,MACAU,30.0
+740183,21009A40-,MELEZES,536848,32,0,male,294591,5,colloc,7,StayHome,21009A40-,MELEZES,30.0
+740259,21011A30-,ARCHERS - FOUREZ,652849,32,0,male,360315,1,couple_with_child,7,StayHome,21011A30-,ARCHERS - FOUREZ,30.0
+740277,21012A26-,MACHTENS-NORD,683450,32,0,male,375953,1,couple_with_child,7,StayHome,21012A26-,MACHTENS-NORD,30.0
+740306,21012A511,STEYNS,717763,32,0,male,393340,1,couple_with_child,7,StayHome,21012A511,STEYNS,30.0
+740358,21013A422,CRICKX (RUE),786040,32,0,male,428696,3,single,7,StayHome,21013A422,CRICKX (RUE),30.0
+740732,21004A01-,VIEILLE HALLE AUX BLES,262069,33,0,male,141876,3,single,7,StayHome,21004A01-,VIEILLE HALLE AUX BLES,30.0
+740866,21007A201,ROOSENDAEL (RUE),484443,33,0,male,265124,1,couple_with_child,7,StayHome,21007A201,ROOSENDAEL (RUE),30.0
+741087,21013A201,ANGLETERRE (RUE D'),795395,33,0,male,433843,2,couple_no_child,7,StayHome,21013A201,ANGLETERRE (RUE D'),30.0
+741324,21001A41-,ROMAIN ROLLAND,19868,34,0,male,10782,3,single,7,StayHome,21001A41-,ROMAIN ROLLAND,30.0
+741543,21005A02-,CHAMP DU ROI (RUE),394182,34,0,male,214770,5,colloc,7,StayHome,21005A02-,CHAMP DU ROI (RUE),30.0
+741594,21007A51-,CHATAIGNE,497457,34,0,male,272150,1,couple_with_child,7,StayHome,21007A51-,CHATAIGNE,30.0
+741733,21012A60-,LAEKENVELD,704697,34,0,male,386858,1,couple_with_child,7,StayHome,21012A60-,LAEKENVELD,30.0
+741816,21013A22-,REGIES,807460,34,0,male,440822,3,single,7,StayHome,21013A22-,REGIES,30.0
+741965,21015A20-,HELMET,994096,34,0,male,537516,3,single,7,StayHome,21015A20-,HELMET,30.0
+741975,21016A82-,CHURCHILL,1008025,34,0,male,545491,3,single,7,StayHome,21016A82-,CHURCHILL,30.0
+741989,21016A05-,LE CHAT,1048821,34,0,male,568336,5,colloc,7,StayHome,21016A05-,LE CHAT,30.0
+742039,21001A43-,VAN BEETHOVEN,11024,35,0,male,6014,1,couple_with_child,7,StayHome,21001A43-,VAN BEETHOVEN,30.0
+742175,21004F531,RUE DES FAINES,231516,35,0,male,124313,1,couple_with_child,7,StayHome,21004F531,RUE DES FAINES,30.0
+742225,21004E70-,MARIE-CHRISTINE (RUE),304678,35,0,male,168275,3,single,7,StayHome,21004E70-,MARIE-CHRISTINE (RUE),30.0
+742645,21015A77-,R.T.B.,864243,35,0,male,472684,1,couple_with_child,7,StayHome,21015A77-,R.T.B.,30.0
+742781,21017A11-,FLOREAL,1090975,35,0,male,591270,1,couple_with_child,7,StayHome,21017A11-,FLOREAL,30.0
+743035,21004E800,DIVIN JESUS,356268,36,0,male,193819,3,single,7,StayHome,21004E800,DIVIN JESUS,30.0
+743045,21004F522,AVENUE DE VERSAILLES,367208,36,0,male,199885,4,single_with_child,7,StayHome,21004F522,AVENUE DE VERSAILLES,30.0
+743498,21015A612,BRICHAUT (RUE DE),965310,36,0,male,523876,1,couple_with_child,7,StayHome,21015A612,BRICHAUT (RUE DE),30.0
+743581,21001A43-,VAN BEETHOVEN,11615,37,0,male,6319,3,single,7,StayHome,21001A43-,VAN BEETHOVEN,30.0
+743894,21007A06-,KATANGA,504785,37,0,male,275989,1,couple_with_child,7,StayHome,21007A06-,KATANGA,30.0
+744015,21011A00-,VANHUFFEL,669697,37,0,male,368506,5,colloc,7,StayHome,21011A00-,VANHUFFEL,30.0
+744158,21014A02-,CHARITE,833895,37,0,male,456630,3,single,7,StayHome,21014A02-,CHARITE,30.0
+744296,21016A81-,BASCULE,1002591,37,0,male,542239,3,single,7,StayHome,21016A81-,BASCULE,30.0
+744885,21013A01-,ESPAGNE (RUE D'),791434,38,0,male,431723,3,single,7,StayHome,21013A01-,ESPAGNE (RUE D'),30.0
+745276,21004A23-,NOUVEAU MARCHE AU GRAIN,260553,39,0,male,140724,3,single,7,StayHome,21004A23-,NOUVEAU MARCHE AU GRAIN,30.0
+745279,21004A01-,VIEILLE HALLE AUX BLES,261640,39,0,male,141555,2,couple_no_child,7,StayHome,21004A01-,VIEILLE HALLE AUX BLES,30.0
+745394,21005A12-,SAINT-ANTOINE,432514,39,0,male,236991,3,single,7,StayHome,21005A12-,SAINT-ANTOINE,30.0
+746080,21004A20-,BOURSE-NORD-OUEST,277554,40,0,male,151967,2,couple_no_child,7,StayHome,21004A20-,BOURSE-NORD-OUEST,30.0
+746453,21012A822,KORENBEEK,760836,40,0,male,415289,2,couple_no_child,7,StayHome,21012A822,KORENBEEK,30.0
+746501,21013A22-,REGIES,807363,40,0,male,440725,3,single,7,StayHome,21013A22-,REGIES,30.0
+746561,21015A50-,OPALE,862120,40,0,male,471332,3,single,7,StayHome,21015A50-,OPALE,30.0
+746673,21015A20-,HELMET,991888,40,0,male,536558,1,couple_with_child,7,StayHome,21015A20-,HELMET,30.0
+747251,21012A12-,BIRMINGHAM-SUD,700254,41,0,male,384656,1,couple_with_child,7,StayHome,21012A12-,BIRMINGHAM-SUD,30.0
+748092,21012A26-,MACHTENS-NORD,684523,42,0,male,376533,3,single,7,StayHome,21012A26-,MACHTENS-NORD,30.0
+748128,21012A611,MEXICO,726076,42,0,male,397239,1,couple_with_child,7,StayHome,21012A611,MEXICO,30.0
+749028,21012A011,CANAL-SUD,772625,43,0,male,421434,1,couple_with_child,7,StayHome,21012A011,CANAL-SUD,30.0
+749044,21013A01-,ESPAGNE (RUE D'),789960,43,0,male,430827,1,couple_with_child,7,StayHome,21013A01-,ESPAGNE (RUE D'),30.0
+749045,21013A01-,ESPAGNE (RUE D'),789597,43,0,male,430657,2,couple_no_child,7,StayHome,21013A01-,ESPAGNE (RUE D'),30.0
+749331,21001A82-,MOORTEBEEK,38623,44,0,male,21122,1,couple_with_child,7,StayHome,21001A82-,MOORTEBEEK,30.0
+749456,21004A83-,E. JACQMAIN (BOULEVARD)-OUEST,229346,44,0,male,123129,3,single,7,StayHome,21004A83-,E. JACQMAIN (BOULEVARD)-OUEST,30.0
+749610,21005A051,RINSDELLE,417721,44,0,male,228411,3,single,7,StayHome,21005A051,RINSDELLE,30.0
+749795,21012A24-,OSSEGHEM,678347,44,0,male,373268,1,couple_with_child,7,StayHome,21012A24-,OSSEGHEM,30.0
+750044,21015A111,MAETERLINCK,937830,44,0,male,510723,1,couple_with_child,7,StayHome,21015A111,MAETERLINCK,30.0
+750437,21004E222,MUTSAARD (AVENUE),376372,45,0,male,204855,4,single_with_child,7,StayHome,21004E222,MUTSAARD (AVENUE),30.0
+750468,21005A12-,SAINT-ANTOINE,433471,45,0,male,237626,5,colloc,7,StayHome,21005A12-,SAINT-ANTOINE,30.0
+750835,21015A03-,JOSAPHAT (RUE),887707,45,0,male,485221,1,couple_with_child,7,StayHome,21015A03-,JOSAPHAT (RUE),30.0
+751295,21005A11-,NOTRE-DAME DU SACRE-COEUR,419957,46,0,male,229799,2,couple_no_child,7,StayHome,21005A11-,NOTRE-DAME DU SACRE-COEUR,30.0
+751318,21006A414,P. DUPONT (RUE),465633,46,0,male,255200,1,couple_with_child,7,StayHome,21006A414,P. DUPONT (RUE),30.0
+751402,21009A612,LIEGEOIS (RUE),583770,46,0,male,324194,2,couple_no_child,7,StayHome,21009A612,LIEGEOIS (RUE),30.0
+751528,21012A52-,NEEP (QUARTIER DU),748378,46,0,male,408874,1,couple_with_child,7,StayHome,21012A52-,NEEP (QUARTIER DU),30.0
+751637,21014A05-,HOUWAERT,851336,46,0,male,465664,1,couple_with_child,7,StayHome,21014A05-,HOUWAERT,30.0
+751820,21001A041,VEEWEYDE-SUD,1001,47,0,male,444,1,couple_with_child,7,StayHome,21001A041,VEEWEYDE-SUD,30.0
+752336,21012A72-,LAVALLEE,723462,47,0,male,395984,2,couple_no_child,7,StayHome,21012A72-,LAVALLEE,30.0
+752652,21001A041,VEEWEYDE-SUD,808,48,0,male,372,1,couple_with_child,7,StayHome,21001A041,VEEWEYDE-SUD,30.0
+752836,21004A01-,VIEILLE HALLE AUX BLES,261976,48,0,male,141783,3,single,7,StayHome,21004A01-,VIEILLE HALLE AUX BLES,30.0
+752860,21004C501,LOUISE (AVENUE)-NORD,291701,48,0,male,161677,2,couple_no_child,7,StayHome,21004C501,LOUISE (AVENUE)-NORD,30.0
+752924,21004E14-,ECOLE DES CADETS,364360,48,0,male,198403,2,couple_no_child,7,StayHome,21004E14-,ECOLE DES CADETS,30.0
+753719,21004E83-,STIENON (AVENUE),321858,49,0,male,176751,1,couple_with_child,7,StayHome,21004E83-,STIENON (AVENUE),30.0
+753878,21009A52-,GRAY (RUE),553787,49,0,male,305013,4,single_with_child,7,StayHome,21009A52-,GRAY (RUE),30.0
+753915,21010A05-,ALBERT (QUARTIER),618188,49,0,male,342604,4,single_with_child,7,StayHome,21010A05-,ALBERT (QUARTIER),30.0
+754010,21012A71-,PIERS,737918,49,0,male,403082,5,colloc,7,StayHome,21012A71-,PIERS,30.0
+754050,21013A101,PARVIS,777738,49,0,male,424206,2,couple_no_child,7,StayHome,21013A101,PARVIS,30.0
+754115,21014A41-,BOSSUET,838988,49,0,male,459162,3,single,7,StayHome,21014A41-,BOSSUET,30.0
+754219,21015A44-,REINE (AVENUE),956792,49,0,male,520125,1,couple_with_child,7,StayHome,21015A44-,REINE (AVENUE),30.0
+754245,21015A20-,HELMET,994456,49,0,male,537705,5,colloc,7,StayHome,21015A20-,HELMET,30.0
+754819,21012A20-,BAECK,722131,50,0,male,395300,3,single,7,StayHome,21012A20-,BAECK,30.0
+755017,21015A40-,BRABANT (RUE DE),952945,50,0,male,517997,3,single,7,StayHome,21015A40-,BRABANT (RUE DE),30.0
+755509,21009A111,WERY (RUE),570367,51,0,male,315416,3,single,7,StayHome,21009A111,WERY (RUE),30.0
+755611,21012A62-,LIBERATEURS,712987,51,0,male,390666,1,couple_with_child,7,StayHome,21012A62-,LIBERATEURS,30.0
+755644,21012A52-,NEEP (QUARTIER DU),749948,51,0,male,409539,3,single,7,StayHome,21012A52-,NEEP (QUARTIER DU),30.0
+755779,21015A30-,GRANDE RUE AU BOIS,896008,51,0,male,489230,1,couple_with_child,7,StayHome,21015A30-,GRANDE RUE AU BOIS,30.0
+756410,21012A63-,DUBRUCQ-NORD,709664,52,0,male,389261,2,couple_no_child,7,StayHome,21012A63-,DUBRUCQ-NORD,30.0
+756696,21018A512,QUARTIER DES PEINTRES,1136174,52,0,male,617108,5,colloc,7,StayHome,21018A512,QUARTIER DES PEINTRES,30.0
+757014,21005A02-,CHAMP DU ROI (RUE),393687,53,0,male,214413,3,single,7,StayHome,21005A02-,CHAMP DU ROI (RUE),30.0
+757501,21018A61-,HEYDENBERG-EST,1146837,53,0,male,622802,3,single,7,StayHome,21018A61-,HEYDENBERG-EST,30.0
+757912,21009A111,WERY (RUE),570338,54,0,male,315387,3,single,7,StayHome,21009A111,WERY (RUE),30.0
+757921,21009A151,A. DELPORTE-NORD,586990,54,0,male,326259,3,single,7,StayHome,21009A151,A. DELPORTE-NORD,30.0
+758556,21004E130,SACRE-COEUR,329897,55,0,male,180403,5,colloc,7,StayHome,21004E130,SACRE-COEUR,30.0
+758752,21010A141,BRUGMANN,634374,55,0,male,351093,3,single,7,StayHome,21010A141,BRUGMANN,30.0
+759023,21015A45-,STEPHENSON (PLACE),967712,55,0,male,525283,1,couple_with_child,7,StayHome,21015A45-,STEPHENSON (PLACE),30.0
+759465,21006A011,CENTRE,472372,56,0,male,259113,1,couple_with_child,7,StayHome,21006A011,CENTRE,30.0
+759479,21007A50-,BERANGER,496686,56,0,male,271737,5,colloc,7,StayHome,21007A50-,BERANGER,30.0
+760061,21003A41-,MONNET,184505,57,0,male,97477,1,couple_with_child,7,StayHome,21003A41-,MONNET,30.0
+760373,21010A00-,CENTRE,629228,57,0,male,348291,3,single,7,StayHome,21010A00-,CENTRE,30.0
+760552,21014A41-,BOSSUET,838930,57,0,male,459104,3,single,7,StayHome,21014A41-,BOSSUET,30.0
+760939,21004A72-,SAINT-THOMAS (INSTITUT),267820,58,0,male,145282,3,single,7,StayHome,21004A72-,SAINT-THOMAS (INSTITUT),30.0
+760957,21004A33-,LIBERTE (PLACE DE LA),288329,58,0,male,159354,1,couple_with_child,7,StayHome,21004A33-,LIBERTE (PLACE DE LA),30.0
+761005,21004D64-,MASUI (PLACE)-NORD,342094,58,0,male,186420,3,single,7,StayHome,21004D64-,MASUI (PLACE)-NORD,30.0
+761331,21013A02-,CAPOUILLET (RUE),802738,58,0,male,437927,3,single,7,StayHome,21013A02-,CAPOUILLET (RUE),30.0
+761508,21016A01-,DIEWEG,1058123,58,0,male,573109,5,colloc,7,StayHome,21016A01-,DIEWEG,30.0
+761942,21009A301,BOONDAEL-NORD,538078,59,0,male,295326,3,single,7,StayHome,21009A301,BOONDAEL-NORD,30.0
+762245,21015A152,PR. ELISABETH-NORD,931497,59,0,male,507750,2,couple_no_child,7,StayHome,21015A152,PR. ELISABETH-NORD,30.0
+763288,21001A350,CERIA - ZONE D'HABITAT,30994,61,0,male,16893,1,couple_with_child,7,StayHome,21001A350,CERIA - ZONE D'HABITAT,30.0
+763441,21004A24-,MARCHE AU PORCS,225499,61,0,male,120427,3,single,7,StayHome,21004A24-,MARCHE AU PORCS,30.0
+763555,21004E14-,ECOLE DES CADETS,366018,61,0,male,198943,3,single,7,StayHome,21004E14-,ECOLE DES CADETS,30.0
+763609,21006A23-,DU BONHEUR,452671,61,0,male,248538,1,couple_with_child,7,StayHome,21006A23-,DU BONHEUR,30.0
+764018,21015A22-,MARBOTIN A. (RUE),984091,61,0,male,533078,1,couple_with_child,7,StayHome,21015A22-,MARBOTIN A. (RUE),30.0
+764066,21016A342,FOND,1083509,61,0,male,587216,2,couple_no_child,7,StayHome,21016A342,FOND,30.0
+764090,21018A21-,DE BROQUEVILLE (AVENUE)-NORD,1124176,61,0,male,610431,4,single_with_child,7,StayHome,21018A21-,DE BROQUEVILLE (AVENUE)-NORD,30.0
+764272,21002A11-,SACRE-COEUR,152824,62,0,male,81036,1,couple_with_child,7,StayHome,21002A11-,SACRE-COEUR,30.0
+764322,21004B43-,AMBIORIX-NORD (SQUARE),221421,62,0,male,117836,3,single,7,StayHome,21004B43-,AMBIORIX-NORD (SQUARE),30.0
+764449,21004E222,MUTSAARD (AVENUE),376103,62,0,male,204599,3,single,7,StayHome,21004E222,MUTSAARD (AVENUE),30.0
+765028,21019A15-,KAPELLEVELD,1217564,62,0,male,662427,2,couple_no_child,7,StayHome,21019A15-,KAPELLEVELD,30.0
+765175,21003A11-,CITE MODERNE,182028,63,0,male,96064,3,single,7,StayHome,21003A11-,CITE MODERNE,30.0
+765244,21004A71-,BLAES (RUE)-CENTRE,269304,63,0,male,146254,3,single,7,StayHome,21004A71-,BLAES (RUE)-CENTRE,30.0
+765279,21004E74-,EM. DELVA (RUE),312629,63,0,male,171677,3,single,7,StayHome,21004E74-,EM. DELVA (RUE),30.0
+765300,21004E73-,EM. BOCKSTAEL (BOULEVARD)-SUD,333840,63,0,male,182261,3,single,7,StayHome,21004E73-,EM. BOCKSTAEL (BOULEVARD)-SUD,30.0
+765362,21005A12-,SAINT-ANTOINE,427370,63,0,male,234221,2,couple_no_child,7,StayHome,21005A12-,SAINT-ANTOINE,30.0
+765481,21010A10-,ANCIENNE BARRIERE,602175,63,0,male,334758,2,couple_no_child,7,StayHome,21010A10-,ANCIENNE BARRIERE,30.0
+766065,21004B421,MARIE-LOUISE (SQUARE),191963,64,0,male,101308,3,single,7,StayHome,21004B421,MARIE-LOUISE (SQUARE),30.0
+766073,21004F94-,VAL MARIA,199308,64,0,male,105741,1,couple_with_child,7,StayHome,21004F94-,VAL MARIA,30.0
+766171,21004E201,AVENUE JEAN DE BOLOGNE,319405,64,0,male,175295,3,single,7,StayHome,21004E201,AVENUE JEAN DE BOLOGNE,30.0
+766585,21015A77-,R.T.B.,864708,64,0,male,472903,3,single,7,StayHome,21015A77-,R.T.B.,30.0
+766968,21001A041,VEEWEYDE-SUD,211,65,1,female,134,3,single,7,Stay at home,21001A041,VEEWEYDE-SUD,30.0
+767049,21001A472,STADE COMMUNAL - INDUSTRIE,2845,94,0,male,1412,2,couple_no_child,7,Stay at home,21001A472,STADE COMMUNAL - INDUSTRIE,30.0
+767642,21001A83-,PETERBOS,6395,74,0,male,3213,3,single,7,Stay at home,21001A83-,PETERBOS,30.0
+768176,21001A332,ROUE,9105,93,1,female,5070,2,couple_no_child,7,Stay at home,21001A332,ROUE,30.0
+768286,21001A332,ROUE,10130,67,0,male,5530,4,single_with_child,7,Stay at home,21001A332,ROUE,30.0
+768547,21001A401,ARBORETUM,11924,85,0,male,6556,2,couple_no_child,7,Stay at home,21001A401,ARBORETUM,30.0
+769363,21001A32-,AURORE,16498,65,0,male,8808,3,single,7,Stay at home,21001A32-,AURORE,30.0
+769464,21001A53-,NELLIE MELBA,17335,100,1,female,9474,2,couple_no_child,7,Stay at home,21001A53-,NELLIE MELBA,30.0
+769482,21001A53-,NELLIE MELBA,17353,91,1,female,9483,2,couple_no_child,7,Stay at home,21001A53-,NELLIE MELBA,30.0
+769535,21001A53-,NELLIE MELBA,17419,73,0,male,9511,2,couple_no_child,7,Stay at home,21001A53-,NELLIE MELBA,30.0
+769882,21001A41-,ROMAIN ROLLAND,19687,93,0,male,10601,3,single,7,Stay at home,21001A41-,ROMAIN ROLLAND,30.0
+769929,21001A41-,ROMAIN ROLLAND,19735,69,0,male,10649,3,single,7,Stay at home,21001A41-,ROMAIN ROLLAND,30.0
+770080,21001A51-,SCHERDEMAEL,21127,95,1,female,11595,3,single,7,Stay at home,21001A51-,SCHERDEMAEL,30.0
+770184,21001A51-,SCHERDEMAEL,21232,82,1,female,11674,3,single,7,Stay at home,21001A51-,SCHERDEMAEL,30.0
+770242,21001A51-,SCHERDEMAEL,21290,74,1,female,11718,2,couple_no_child,7,Stay at home,21001A51-,SCHERDEMAEL,30.0
+770506,21001A42-,KAT,22961,77,1,female,12683,2,couple_no_child,7,Stay at home,21001A42-,KAT,30.0
+770618,21001A52-,SCHERDEMAEL-NORD,23531,85,1,female,13036,3,single,7,Stay at home,21001A52-,SCHERDEMAEL-NORD,30.0
+771204,21001A34-,ROUE - CITE JARDIN,28458,90,1,female,15609,2,couple_no_child,7,Stay at home,21001A34-,ROUE - CITE JARDIN,30.0
+771678,21001A441,DOCTEUR ROUX,32299,75,1,female,17615,3,single,7,Stay at home,21001A441,DOCTEUR ROUX,30.0
+772330,21001C71-,BON AIR - CITE JARDIN,37322,67,0,male,20336,3,single,7,Stay at home,21001C71-,BON AIR - CITE JARDIN,30.0
+772404,21001A82-,MOORTEBEEK,37832,93,1,female,20758,3,single,7,Stay at home,21001A82-,MOORTEBEEK,30.0
+772668,21001A82-,MOORTEBEEK,39245,66,0,male,21397,3,single,7,Stay at home,21001A82-,MOORTEBEEK,30.0
+773435,21001A80-,SILLON,45499,86,1,female,25024,2,couple_no_child,7,Stay at home,21001A80-,SILLON,30.0
+773457,21001A80-,SILLON,45521,84,1,female,25040,2,couple_no_child,7,Stay at home,21001A80-,SILLON,30.0
+774609,21001B20-,CONSEIL-NORD,56901,100,1,female,31187,2,couple_no_child,7,Stay at home,21001B20-,CONSEIL-NORD,30.0
+774616,21001B20-,CONSEIL-NORD,56908,94,0,male,31191,2,couple_no_child,7,Stay at home,21001B20-,CONSEIL-NORD,30.0
+775503,21001A941,CROCUS,67245,76,1,female,36546,3,single,7,Stay at home,21001A941,CROCUS,30.0
+775714,21001A90-,SCHEUTKAPEL,70024,86,1,female,37904,3,single,7,Stay at home,21001A90-,SCHEUTKAPEL,30.0
+776056,21001A132,RAUTER-NORD,73042,92,0,male,39464,3,single,7,Stay at home,21001A132,RAUTER-NORD,30.0
+776255,21001B25-,REVISION-NORD,74460,68,1,female,40380,1,couple_with_child,7,Stay at home,21001B25-,REVISION-NORD,30.0
+776268,21001B25-,REVISION-NORD,74495,66,1,female,40393,1,couple_with_child,7,Stay at home,21001B25-,REVISION-NORD,30.0
+776283,21001B25-,REVISION-NORD,74556,70,0,male,40416,2,couple_no_child,7,Stay at home,21001B25-,REVISION-NORD,30.0
+776396,21001A72-,OSSEGEM,79270,98,1,female,42846,3,single,7,Stay at home,21001A72-,OSSEGEM,30.0
+776400,21001A72-,OSSEGEM,79274,94,0,male,42848,2,couple_no_child,7,Stay at home,21001A72-,OSSEGEM,30.0
+776423,21001A72-,OSSEGEM,79299,93,1,female,42867,2,couple_no_child,7,Stay at home,21001A72-,OSSEGEM,30.0
+776598,21001A72-,OSSEGEM,79488,69,1,female,42994,2,couple_no_child,7,Stay at home,21001A72-,OSSEGEM,30.0
+777081,21001B21-,BROGNIEZ-NORD,88565,85,1,female,47708,3,single,7,Stay at home,21001B21-,BROGNIEZ-NORD,30.0
+777505,21001A931,AGRAFE-NORBERT GILLE,94592,65,0,male,50735,1,couple_with_child,7,Stay at home,21001A931,AGRAFE-NORBERT GILLE,30.0
+777621,21001A74-,SCHEUT-OUEST,96529,85,0,male,51687,2,couple_no_child,7,Stay at home,21001A74-,SCHEUT-OUEST,30.0
+778207,21001A00-,RESISTANCE,103119,81,1,female,54848,2,couple_no_child,7,Stay at home,21001A00-,RESISTANCE,30.0
+778390,21001A95-,BUFFON,105987,102,1,female,56347,2,couple_no_child,7,Stay at home,21001A95-,BUFFON,30.0
+778575,21001A95-,BUFFON,106176,79,1,female,56465,3,single,7,Stay at home,21001A95-,BUFFON,30.0
+779307,21001A10-,PORSELEIN,115489,104,1,female,61150,2,couple_no_child,7,Stay at home,21001A10-,PORSELEIN,30.0
+779852,21001A152,LINDE-OUEST,120399,73,1,female,63614,2,couple_no_child,7,Stay at home,21001A152,LINDE-OUEST,30.0
+780048,21001A112,BIESTEBROEK,122986,85,1,female,64957,3,single,7,Stay at home,21001A112,BIESTEBROEK,30.0
+780367,21002A20-,SAINT-JULIEN,126050,66,0,male,66526,2,couple_no_child,7,Stay at home,21002A20-,SAINT-JULIEN,30.0
+780381,21002A20-,SAINT-JULIEN,126078,66,1,female,66537,3,single,7,Stay at home,21002A20-,SAINT-JULIEN,30.0
+780536,21002A53-,PECHERIES,127356,81,1,female,67229,3,single,7,Stay at home,21002A53-,PECHERIES,30.0
+780887,21002A511,INVALIDES (BOULEVARD DES),128983,70,1,female,68225,3,single,7,Stay at home,21002A511,INVALIDES (BOULEVARD DES),30.0
+781022,21002A23-,TH. BALIS (PLACE),131635,92,1,female,69548,3,single,7,Stay at home,21002A23-,TH. BALIS (PLACE),30.0
+781088,21002A23-,TH. BALIS (PLACE),131708,70,1,female,69593,2,couple_no_child,7,Stay at home,21002A23-,TH. BALIS (PLACE),30.0
+781359,21002A24-,AVENUE DE BROUCKERE,134154,92,1,female,70862,3,single,7,Stay at home,21002A24-,AVENUE DE BROUCKERE,30.0
+781663,21002A25-,WATERMAEL (CHAUSSEE DE),136804,84,0,male,72097,3,single,7,Stay at home,21002A25-,WATERMAEL (CHAUSSEE DE),30.0
+781745,21002A45-,VAL DUC,137165,89,0,male,72376,2,couple_no_child,7,Stay at home,21002A45-,VAL DUC,30.0
+782022,21002A130,PARC DES PRINCES,139245,103,1,female,73519,3,single,7,Stay at home,21002A130,PARC DES PRINCES,30.0
+782472,21002A21-,LEBON,143734,104,1,female,75959,3,single,7,Stay at home,21002A21-,LEBON,30.0
+782508,21002A21-,LEBON,143773,101,1,female,75989,3,single,7,Stay at home,21002A21-,LEBON,30.0
+782558,21002A21-,LEBON,143828,97,1,female,76032,3,single,7,Stay at home,21002A21-,LEBON,30.0
+782878,21002A21-,LEBON,144162,71,1,female,76288,3,single,7,Stay at home,21002A21-,LEBON,30.0
+783013,21002A21-,LEBON,146692,83,0,male,77510,3,single,7,Stay at home,21002A21-,LEBON,30.0
+783079,21002A411,PUTDAAL,147414,103,1,female,78113,2,couple_no_child,7,Stay at home,21002A411,PUTDAAL,30.0
+783104,21002A411,PUTDAAL,147439,88,0,male,78129,2,couple_no_child,7,Stay at home,21002A411,PUTDAAL,30.0
+783325,21002A00-,CENTRE - NORD,148223,70,0,male,78560,2,couple_no_child,7,Stay at home,21002A00-,CENTRE - NORD,30.0
+783504,21002A02-,CENTRE-SUD,149413,80,0,male,79182,2,couple_no_child,7,Stay at home,21002A02-,CENTRE-SUD,30.0
+783640,21002A02-,CENTRE-SUD,150211,75,0,male,79558,3,single,7,Stay at home,21002A02-,CENTRE-SUD,30.0
+783965,21002A11-,SACRE-COEUR,152730,79,1,female,80993,2,couple_no_child,7,Stay at home,21002A11-,SACRE-COEUR,30.0
+784148,21002A10-,TRANSVAAL,153809,94,1,female,81608,3,single,7,Stay at home,21002A10-,TRANSVAAL,30.0
+784286,21002A10-,TRANSVAAL,153951,78,0,male,81714,2,couple_no_child,7,Stay at home,21002A10-,TRANSVAAL,30.0
+784323,21002A10-,TRANSVAAL,153990,71,1,female,81744,2,couple_no_child,7,Stay at home,21002A10-,TRANSVAAL,30.0
+784542,21002A14-,TEN REUKEN,156903,66,1,female,83176,5,colloc,7,Stay at home,21002A14-,TEN REUKEN,30.0
+784936,21002A43-,SOUVERAIN (BOULEVARD DU) NORD,160050,75,0,male,84742,3,single,7,Stay at home,21002A43-,SOUVERAIN (BOULEVARD DU) NORD,30.0
+785314,21003A312,POTAARDE  VLAK,162727,82,1,female,86300,3,single,7,Stay at home,21003A312,POTAARDE  VLAK,30.0
+785385,21003A312,POTAARDE  VLAK,162805,75,0,male,86348,2,couple_no_child,7,Stay at home,21003A312,POTAARDE  VLAK,30.0
+785832,21003A04-,L. DE SMET,167735,90,1,female,88951,3,single,7,Stay at home,21003A04-,L. DE SMET,30.0
+786064,21003A0AJ,HUNDERENVELD,169056,65,1,female,89658,3,single,7,Stay at home,21003A0AJ,HUNDERENVELD,30.0
+786075,21003A0AJ,HUNDERENVELD,169702,88,0,male,89928,3,single,7,Stay at home,21003A0AJ,HUNDERENVELD,30.0
+786220,21003A02-,LAURE - BASILIQUE,170172,84,0,male,90321,2,couple_no_child,7,Stay at home,21003A02-,LAURE - BASILIQUE,30.0
+786523,21003A02-,LAURE - BASILIQUE,172723,70,0,male,91373,3,single,7,Stay at home,21003A02-,LAURE - BASILIQUE,30.0
+786562,21003A02-,LAURE - BASILIQUE,173066,70,0,male,91615,5,colloc,7,Stay at home,21003A02-,LAURE - BASILIQUE,30.0
+786962,21003A212,CLOS DU ZAVELENBERG,177129,66,1,female,93817,1,couple_with_child,7,Stay at home,21003A212,CLOS DU ZAVELENBERG,30.0
+786992,21003A00-,CENTRE,177814,94,0,male,94154,2,couple_no_child,7,Stay at home,21003A00-,CENTRE,30.0
+787163,21003A00-,CENTRE,177992,70,0,male,94273,2,couple_no_child,7,Stay at home,21003A00-,CENTRE,30.0
+787858,21003A10-,HOPITAL FRANCAIS,185720,96,1,female,98140,3,single,7,Stay at home,21003A10-,HOPITAL FRANCAIS,30.0
+788071,21003A10-,HOPITAL FRANCAIS,185940,74,1,female,98294,3,single,7,Stay at home,21003A10-,HOPITAL FRANCAIS,30.0
+788191,21003A10-,HOPITAL FRANCAIS,186185,69,0,male,98421,2,couple_no_child,7,Stay at home,21003A10-,HOPITAL FRANCAIS,30.0
+788383,21004B421,MARIE-LOUISE (SQUARE),189332,67,0,male,100075,2,couple_no_child,7,Stay at home,21004B421,MARIE-LOUISE (SQUARE),30.0
+789339,21004F901,PLACE PETER BENOIT,200364,69,1,female,106376,3,single,7,Stay at home,21004F901,PLACE PETER BENOIT,30.0
+789461,21004G30-,SAINTE-ELISABETH,202291,94,0,male,107333,2,couple_no_child,7,Stay at home,21004G30-,SAINTE-ELISABETH,30.0
+789487,21004G30-,SAINTE-ELISABETH,202319,88,1,female,107352,3,single,7,Stay at home,21004G30-,SAINTE-ELISABETH,30.0
+789530,21004G30-,SAINTE-ELISABETH,202365,72,1,female,107383,2,couple_no_child,7,Stay at home,21004G30-,SAINTE-ELISABETH,30.0
+789747,21004F930,COIN DES CERISES,205867,80,1,female,108968,3,single,7,Stay at home,21004F930,COIN DES CERISES,30.0
+790598,21004B44-,AMBIORIX-SUD (SQUARE),214005,67,1,female,113874,4,single_with_child,7,Stay at home,21004B44-,AMBIORIX-SUD (SQUARE),30.0
+790695,21004B44-,AMBIORIX-SUD (SQUARE),216800,65,0,male,115507,5,colloc,7,Stay at home,21004B44-,AMBIORIX-SUD (SQUARE),30.0
+790724,21004B43-,AMBIORIX-NORD (SQUARE),217094,93,0,male,115790,2,couple_no_child,7,Stay at home,21004B43-,AMBIORIX-NORD (SQUARE),30.0
+790758,21004B43-,AMBIORIX-NORD (SQUARE),217131,88,0,male,115816,2,couple_no_child,7,Stay at home,21004B43-,AMBIORIX-NORD (SQUARE),30.0
+791095,21004B43-,AMBIORIX-NORD (SQUARE),221378,66,0,male,117793,3,single,7,Stay at home,21004B43-,AMBIORIX-NORD (SQUARE),30.0
+791136,21004B43-,AMBIORIX-NORD (SQUARE),222413,68,0,male,118668,5,colloc,7,Stay at home,21004B43-,AMBIORIX-NORD (SQUARE),30.0
+791571,21004A83-,E. JACQMAIN (BOULEVARD)-OUEST,229604,70,0,male,123331,5,colloc,7,Stay at home,21004A83-,E. JACQMAIN (BOULEVARD)-OUEST,30.0
+791712,21004F531,RUE DES FAINES,230042,84,1,female,123712,2,couple_no_child,7,Stay at home,21004F531,RUE DES FAINES,30.0
+791754,21004F531,RUE DES FAINES,230086,78,1,female,123743,3,single,7,Stay at home,21004F531,RUE DES FAINES,30.0
+791763,21004F531,RUE DES FAINES,230095,77,1,female,123750,3,single,7,Stay at home,21004F531,RUE DES FAINES,30.0
+791788,21004F531,RUE DES FAINES,230124,72,1,female,123771,2,couple_no_child,7,Stay at home,21004F531,RUE DES FAINES,30.0
+791992,21004F91-,CROIX DE GUERRE (AVENUE DES),233557,102,1,female,125415,3,single,7,Stay at home,21004F91-,CROIX DE GUERRE (AVENUE DES),30.0
+792057,21004F91-,CROIX DE GUERRE (AVENUE DES),233626,92,1,female,125464,3,single,7,Stay at home,21004F91-,CROIX DE GUERRE (AVENUE DES),30.0
+792086,21004F91-,CROIX DE GUERRE (AVENUE DES),233655,88,1,female,125485,3,single,7,Stay at home,21004F91-,CROIX DE GUERRE (AVENUE DES),30.0
+792251,21004F91-,CROIX DE GUERRE (AVENUE DES),233864,66,1,female,125610,4,single_with_child,7,Stay at home,21004F91-,CROIX DE GUERRE (AVENUE DES),30.0
+792317,21004F91-,CROIX DE GUERRE (AVENUE DES),235989,67,0,male,126455,3,single,7,Stay at home,21004F91-,CROIX DE GUERRE (AVENUE DES),30.0
+792743,21004F922,RUE CHATEAU BEYAERD,239596,69,0,male,128198,5,colloc,7,Stay at home,21004F922,RUE CHATEAU BEYAERD,30.0
+792839,21004C61-,U.L.B.,240721,82,0,male,128952,2,couple_no_child,7,Stay at home,21004C61-,U.L.B.,30.0
+793317,21004C63-,NATIONS (SQUARE DES),243705,94,0,male,130812,2,couple_no_child,7,Stay at home,21004C63-,NATIONS (SQUARE DES),30.0
+794130,21004A70-,BLAES (RUE)-SUD,251164,65,1,female,135247,3,single,7,Stay at home,21004A70-,BLAES (RUE)-SUD,30.0
+794227,21004A70-,BLAES (RUE)-SUD,255101,65,1,female,137230,5,colloc,7,Stay at home,21004A70-,BLAES (RUE)-SUD,30.0
+795024,21004A72-,SAINT-THOMAS (INSTITUT),266690,70,1,female,144769,1,couple_with_child,7,Stay at home,21004A72-,SAINT-THOMAS (INSTITUT),30.0
+795192,21004A71-,BLAES (RUE)-CENTRE,268392,99,1,female,145773,3,single,7,Stay at home,21004A71-,BLAES (RUE)-CENTRE,30.0
+795362,21004A34-,MONNAIE,271121,73,0,male,147647,3,single,7,Stay at home,21004A34-,MONNAIE,30.0
+795479,21004A04-,NOTRE-DAME DE LA CHAPELLE,273450,68,0,male,149282,5,colloc,7,Stay at home,21004A04-,NOTRE-DAME DE LA CHAPELLE,30.0
+795840,21004A20-,BOURSE-NORD-OUEST,278329,75,0,male,152369,3,single,7,Stay at home,21004A20-,BOURSE-NORD-OUEST,30.0
+795842,21004A20-,BOURSE-NORD-OUEST,278332,74,0,male,152372,3,single,7,Stay at home,21004A20-,BOURSE-NORD-OUEST,30.0
+795946,21004A14-,GRAND SABLON,279410,65,1,female,153266,1,couple_with_child,7,Stay at home,21004A14-,GRAND SABLON,30.0
+796215,21004C52-,LOUISE (AVENUE)-NORD-OUEST,284448,76,0,male,156758,3,single,7,Stay at home,21004C52-,LOUISE (AVENUE)-NORD-OUEST,30.0
+796266,21004C552,LOUISE (AVENUE)-SUD,284951,87,0,male,157201,2,couple_no_child,7,Stay at home,21004C552,LOUISE (AVENUE)-SUD,30.0
+796861,21004A21-,ANNEESSENS (PLACE),292260,97,1,female,162073,3,single,7,Stay at home,21004A21-,ANNEESSENS (PLACE),30.0
+796913,21004A21-,ANNEESSENS (PLACE),292323,81,1,female,162120,3,single,7,Stay at home,21004A21-,ANNEESSENS (PLACE),30.0
+797393,21004E70-,MARIE-CHRISTINE (RUE),300071,88,0,male,166486,2,couple_no_child,7,Stay at home,21004E70-,MARIE-CHRISTINE (RUE),30.0
+797519,21004E70-,MARIE-CHRISTINE (RUE),300515,66,0,male,166670,2,couple_no_child,7,Stay at home,21004E70-,MARIE-CHRISTINE (RUE),30.0
+797777,21004E74-,EM. DELVA (RUE),306052,84,1,female,169298,3,single,7,Stay at home,21004E74-,EM. DELVA (RUE),30.0
+797859,21004E74-,EM. DELVA (RUE),306147,72,0,male,169365,2,couple_no_child,7,Stay at home,21004E74-,EM. DELVA (RUE),30.0
+798114,21004E74-,EM. DELVA (RUE),313622,71,1,female,172473,5,colloc,7,Stay at home,21004E74-,EM. DELVA (RUE),30.0
+798561,21004E201,AVENUE JEAN DE BOLOGNE,315049,72,1,female,173561,2,couple_no_child,7,Stay at home,21004E201,AVENUE JEAN DE BOLOGNE,30.0
+798884,21004E201,AVENUE JEAN DE BOLOGNE,320173,77,0,male,175784,5,colloc,7,Stay at home,21004E201,AVENUE JEAN DE BOLOGNE,30.0
+799323,21004E83-,STIENON (AVENUE),320916,68,1,female,176348,2,couple_no_child,7,Stay at home,21004E83-,STIENON (AVENUE),30.0
+799349,21004E83-,STIENON (AVENUE),320957,67,1,female,176371,4,single_with_child,7,Stay at home,21004E83-,STIENON (AVENUE),30.0
+799369,21004E83-,STIENON (AVENUE),320994,70,0,male,176388,1,couple_with_child,7,Stay at home,21004E83-,STIENON (AVENUE),30.0
+799894,21004E130,SACRE-COEUR,325580,72,0,male,178662,2,couple_no_child,7,Stay at home,21004E130,SACRE-COEUR,30.0
+800019,21004E73-,EM. BOCKSTAEL (BOULEVARD)-SUD,330796,100,1,female,181150,3,single,7,Stay at home,21004E73-,EM. BOCKSTAEL (BOULEVARD)-SUD,30.0
+800040,21004E73-,EM. BOCKSTAEL (BOULEVARD)-SUD,330818,87,0,male,181166,2,couple_no_child,7,Stay at home,21004E73-,EM. BOCKSTAEL (BOULEVARD)-SUD,30.0
+800053,21004E73-,EM. BOCKSTAEL (BOULEVARD)-SUD,330832,91,1,female,181177,3,single,7,Stay at home,21004E73-,EM. BOCKSTAEL (BOULEVARD)-SUD,30.0
+800066,21004E73-,EM. BOCKSTAEL (BOULEVARD)-SUD,330845,87,1,female,181187,2,couple_no_child,7,Stay at home,21004E73-,EM. BOCKSTAEL (BOULEVARD)-SUD,30.0
+800187,21004E73-,EM. BOCKSTAEL (BOULEVARD)-SUD,333796,93,0,male,182217,3,single,7,Stay at home,21004E73-,EM. BOCKSTAEL (BOULEVARD)-SUD,30.0
+800330,21004E72-,MAISON ROUGE (PLACE)-SUD,335001,92,1,female,183199,2,couple_no_child,7,Stay at home,21004E72-,MAISON ROUGE (PLACE)-SUD,30.0
+800353,21004E72-,MAISON ROUGE (PLACE)-SUD,335027,88,1,female,183216,3,single,7,Stay at home,21004E72-,MAISON ROUGE (PLACE)-SUD,30.0
+800488,21004E72-,MAISON ROUGE (PLACE)-SUD,335230,67,1,female,183320,1,couple_with_child,7,Stay at home,21004E72-,MAISON ROUGE (PLACE)-SUD,30.0
+800578,21004E72-,MAISON ROUGE (PLACE)-SUD,340361,68,1,female,185413,5,colloc,7,Stay at home,21004E72-,MAISON ROUGE (PLACE)-SUD,30.0
+800836,21004E211,RUE DE WAND,346602,99,1,female,188771,3,single,7,Stay at home,21004E211,RUE DE WAND,30.0
+801320,21004E12-,PRINCE LEOPOLD (SQUARE),353327,67,1,female,191986,5,colloc,7,Stay at home,21004E12-,PRINCE LEOPOLD (SQUARE),30.0
+801441,21004E800,DIVIN JESUS,355218,82,1,female,193363,2,couple_no_child,7,Stay at home,21004E800,DIVIN JESUS,30.0
+801708,21004E101,PARVIS NOTRE DAME,357261,101,1,female,194393,3,single,7,Stay at home,21004E101,PARVIS NOTRE DAME,30.0
+802108,21004A811,QUAI DU COMMERCE,359749,84,1,female,195803,3,single,7,Stay at home,21004A811,QUAI DU COMMERCE,30.0
+802399,21004E14-,ECOLE DES CADETS,363784,102,1,female,198165,3,single,7,Stay at home,21004E14-,ECOLE DES CADETS,30.0
+803240,21004E82-,CITE MODELE,369660,90,1,female,201162,3,single,7,Stay at home,21004E82-,CITE MODELE,30.0
+803289,21004E82-,CITE MODELE,369712,84,1,female,201202,3,single,7,Stay at home,21004E82-,CITE MODELE,30.0
+803547,21004E82-,CITE MODELE,372618,74,0,male,202423,3,single,7,Stay at home,21004E82-,CITE MODELE,30.0
+803774,21004E222,MUTSAARD (AVENUE),373729,93,1,female,203324,2,couple_no_child,7,Stay at home,21004E222,MUTSAARD (AVENUE),30.0
+803902,21004E222,MUTSAARD (AVENUE),373859,83,1,female,203421,3,single,7,Stay at home,21004E222,MUTSAARD (AVENUE),30.0
+804039,21004E222,MUTSAARD (AVENUE),374000,71,1,female,203526,3,single,7,Stay at home,21004E222,MUTSAARD (AVENUE),30.0
+805033,21005A10-,GENERAL HENRI (RUE),382669,99,1,female,208376,3,single,7,Stay at home,21005A10-,GENERAL HENRI (RUE),30.0
+805134,21005A10-,GENERAL HENRI (RUE),382776,81,1,female,208465,3,single,7,Stay at home,21005A10-,GENERAL HENRI (RUE),30.0
+805413,21005A042,PH. BAUCQ (RUE),386573,88,1,female,210550,3,single,7,Stay at home,21005A042,PH. BAUCQ (RUE),30.0
+805543,21005A042,PH. BAUCQ (RUE),389923,87,0,male,212029,3,single,7,Stay at home,21005A042,PH. BAUCQ (RUE),30.0
+806806,21005A01-,SAINTE-GERTRUDE,405121,74,1,female,221257,5,colloc,7,Stay at home,21005A01-,SAINTE-GERTRUDE,30.0
+806826,21005A01-,SAINTE-GERTRUDE,405254,69,0,male,221283,5,colloc,7,Stay at home,21005A01-,SAINTE-GERTRUDE,30.0
+806985,21005A311,CASERNE (Etterbeek),406123,82,1,female,221953,3,single,7,Stay at home,21005A311,CASERNE (Etterbeek),30.0
+807128,21005A20-,PORTE DE TERVUEREN - TONGRES,407947,94,0,male,222850,2,couple_no_child,7,Stay at home,21005A20-,PORTE DE TERVUEREN - TONGRES,30.0
+807297,21005A20-,PORTE DE TERVUEREN - TONGRES,409344,85,0,male,223569,3,single,7,Stay at home,21005A20-,PORTE DE TERVUEREN - TONGRES,30.0
+807561,21005A031,MAELBEEK,412072,104,1,female,225261,3,single,7,Stay at home,21005A031,MAELBEEK,30.0
+807785,21005A031,MAELBEEK,413695,66,0,male,226188,5,colloc,7,Stay at home,21005A031,MAELBEEK,30.0
+808102,21005A051,RINSDELLE,414222,69,1,female,226579,3,single,7,Stay at home,21005A051,RINSDELLE,30.0
+808654,21005A11-,NOTRE-DAME DU SACRE-COEUR,419013,65,1,female,229346,1,couple_with_child,7,Stay at home,21005A11-,NOTRE-DAME DU SACRE-COEUR,30.0
+808992,21005A00-,HOTEL COMMUNAL,422637,67,1,female,231418,3,single,7,Stay at home,21005A00-,HOTEL COMMUNAL,30.0
+809635,21005A12-,SAINT-ANTOINE,433255,67,1,female,237591,5,colloc,7,Stay at home,21005A12-,SAINT-ANTOINE,30.0
+809852,21005A21-,PORTE DE TERVUEREN - BRAFFORT,435350,97,1,female,238931,3,single,7,Stay at home,21005A21-,PORTE DE TERVUEREN - BRAFFORT,30.0
+809968,21006A11-,OASIS - PROVENCE - LANGUEDOC,436991,94,0,male,239997,2,couple_no_child,7,Stay at home,21006A11-,OASIS - PROVENCE - LANGUEDOC,30.0
+809995,21006A11-,OASIS - PROVENCE - LANGUEDOC,437018,86,0,male,240015,2,couple_no_child,7,Stay at home,21006A11-,OASIS - PROVENCE - LANGUEDOC,30.0
+810042,21006A11-,OASIS - PROVENCE - LANGUEDOC,437065,75,1,female,240047,2,couple_no_child,7,Stay at home,21006A11-,OASIS - PROVENCE - LANGUEDOC,30.0
+810127,21006A11-,OASIS - PROVENCE - LANGUEDOC,437635,66,0,male,240286,3,single,7,Stay at home,21006A11-,OASIS - PROVENCE - LANGUEDOC,30.0
+810152,21006A153,KEET,437935,97,1,female,240556,3,single,7,Stay at home,21006A153,KEET,30.0
+810338,21006A13-,MAISON COMMUNALE,439309,87,1,female,241262,2,couple_no_child,7,Stay at home,21006A13-,MAISON COMMUNALE,30.0
+810739,21006A03-,BLOCS SAINT-VINCENT,441691,95,1,female,242653,2,couple_no_child,7,Stay at home,21006A03-,BLOCS SAINT-VINCENT,30.0
+811165,21006A403,QUARTIER CICERO,444876,76,1,female,244419,3,single,7,Stay at home,21006A403,QUARTIER CICERO,30.0
+811503,21006A201,HAUT-EVERE,448278,75,1,female,246236,2,couple_no_child,7,Stay at home,21006A201,HAUT-EVERE,30.0
+811634,21006A201,HAUT-EVERE,450519,69,0,male,247179,5,colloc,7,Stay at home,21006A201,HAUT-EVERE,30.0
+811809,21006A23-,DU BONHEUR,452076,104,1,female,248174,2,couple_no_child,7,Stay at home,21006A23-,DU BONHEUR,30.0
+812635,21006A101,CONSCIENCE,456265,68,1,female,250620,2,couple_no_child,7,Stay at home,21006A101,CONSCIENCE,30.0
+812962,21006A001,VIEIL EVERE,460881,80,1,female,252867,2,couple_no_child,7,Stay at home,21006A001,VIEIL EVERE,30.0
+813081,21006A001,VIEIL EVERE,461035,66,1,female,252956,4,single_with_child,7,Stay at home,21006A001,VIEIL EVERE,30.0
+813102,21006A001,VIEIL EVERE,463282,92,0,male,253803,3,single,7,Stay at home,21006A001,VIEIL EVERE,30.0
+813293,21006A414,P. DUPONT (RUE),464106,95,1,female,254497,3,single,7,Stay at home,21006A414,P. DUPONT (RUE),30.0
+813432,21006A414,P. DUPONT (RUE),464249,80,1,female,254598,2,couple_no_child,7,Stay at home,21006A414,P. DUPONT (RUE),30.0
+813674,21006A414,P. DUPONT (RUE),467200,70,1,female,256023,5,colloc,7,Stay at home,21006A414,P. DUPONT (RUE),30.0
+814118,21006A22-,SAINT-EXUPERY,469559,89,1,female,257593,3,single,7,Stay at home,21006A22-,SAINT-EXUPERY,30.0
+814129,21006A22-,SAINT-EXUPERY,469570,87,1,female,257601,2,couple_no_child,7,Stay at home,21006A22-,SAINT-EXUPERY,30.0
+815194,21006A052,CHAMP DE REPOS,477759,84,0,male,261630,2,couple_no_child,7,Stay at home,21006A052,CHAMP DE REPOS,30.0
+815453,21006A052,CHAMP DE REPOS,480122,72,0,male,262716,5,colloc,7,Stay at home,21006A052,CHAMP DE REPOS,30.0
+815557,21007A03-,FOYER FORESTOIS - FAMILLE,481319,95,1,female,263487,2,couple_no_child,7,Stay at home,21007A03-,FOYER FORESTOIS - FAMILLE,30.0
+815722,21007A252,MESSIDOR II,482554,70,1,female,264093,1,couple_with_child,7,Stay at home,21007A252,MESSIDOR II,30.0
+816105,21007A201,ROOSENDAEL (RUE),483178,66,0,male,264537,2,couple_no_child,7,Stay at home,21007A201,ROOSENDAEL (RUE),30.0
+816155,21007A201,ROOSENDAEL (RUE),483262,67,1,female,264578,3,single,7,Stay at home,21007A201,ROOSENDAEL (RUE),30.0
+816646,21007A242,GLOBE,486389,68,1,female,266343,3,single,7,Stay at home,21007A242,GLOBE,30.0
+816961,21007A142,MONTE CARLO,489275,93,1,female,267992,3,single,7,Stay at home,21007A142,MONTE CARLO,30.0
+817253,21007A53-,WIELEMANS CEUPPENS,490892,84,0,male,268884,2,couple_no_child,7,Stay at home,21007A53-,WIELEMANS CEUPPENS,30.0
+817318,21007A53-,WIELEMANS CEUPPENS,490960,70,1,female,268934,3,single,7,Stay at home,21007A53-,WIELEMANS CEUPPENS,30.0
+817368,21007A53-,WIELEMANS CEUPPENS,492918,83,0,male,269701,3,single,7,Stay at home,21007A53-,WIELEMANS CEUPPENS,30.0
+817911,21007A541,LYCEE,498348,77,1,female,272695,3,single,7,Stay at home,21007A541,LYCEE,30.0
+819051,21007A783,PARC DE FOREST,512356,66,1,female,280073,1,couple_with_child,7,Stay at home,21007A783,PARC DE FOREST,30.0
+819291,21007A70-,ALTITUDE  CENT,514382,76,0,male,281135,2,couple_no_child,7,Stay at home,21007A70-,ALTITUDE  CENT,30.0
+819372,21007A70-,ALTITUDE  CENT,514486,68,1,female,281201,3,single,7,Stay at home,21007A70-,ALTITUDE  CENT,30.0
+820035,21007A239,NEPTUNE (AVENUE) I,518208,65,0,male,283249,1,couple_with_child,7,Stay at home,21007A239,NEPTUNE (AVENUE) I,30.0
+820580,21009A03-,ERMITAGE,523364,100,1,female,286120,3,single,7,Stay at home,21009A03-,ERMITAGE,30.0
+820586,21009A03-,ERMITAGE,523370,98,1,female,286125,2,couple_no_child,7,Stay at home,21009A03-,ERMITAGE,30.0
+820800,21009A13-,GACHARD,525631,70,1,female,287609,1,couple_with_child,7,Stay at home,21009A13-,GACHARD,30.0
+820954,21009A121,GENERAL DE GAULLE,527368,78,1,female,288775,3,single,7,Stay at home,21009A121,GENERAL DE GAULLE,30.0
+821013,21009A121,GENERAL DE GAULLE,527456,67,1,female,288820,4,single_with_child,7,Stay at home,21009A121,GENERAL DE GAULLE,30.0
+821155,21009A63-,MACAU,528699,80,1,female,289604,3,single,7,Stay at home,21009A63-,MACAU,30.0
+821877,21009A40-,MELEZES,536910,67,0,male,294600,5,colloc,7,Stay at home,21009A40-,MELEZES,30.0
+822096,21009A301,BOONDAEL-NORD,538236,69,0,male,295455,5,colloc,7,Stay at home,21009A301,BOONDAEL-NORD,30.0
+822501,21009A33-,SAINT-ADRIEN,539133,83,1,female,296038,3,single,7,Stay at home,21009A33-,SAINT-ADRIEN,30.0
+822549,21009A33-,SAINT-ADRIEN,539184,81,0,male,296077,2,couple_no_child,7,Stay at home,21009A33-,SAINT-ADRIEN,30.0
+822606,21009A33-,SAINT-ADRIEN,539242,75,1,female,296123,3,single,7,Stay at home,21009A33-,SAINT-ADRIEN,30.0
+822653,21009A33-,SAINT-ADRIEN,539291,71,1,female,296160,3,single,7,Stay at home,21009A33-,SAINT-ADRIEN,30.0
+822688,21009A33-,SAINT-ADRIEN,539348,69,1,female,296189,3,single,7,Stay at home,21009A33-,SAINT-ADRIEN,30.0
+822733,21009A33-,SAINT-ADRIEN,539429,66,1,female,296229,1,couple_with_child,7,Stay at home,21009A33-,SAINT-ADRIEN,30.0
+823384,21009A43-,FERNAND NEURAY,549805,74,0,male,302625,5,colloc,7,Stay at home,21009A43-,FERNAND NEURAY,30.0
+823609,21009A41-,SAINT-GEORGES,552280,68,1,female,304106,5,colloc,7,Stay at home,21009A41-,SAINT-GEORGES,30.0
+824191,21009A72-,DEFACQZ,561829,103,1,female,310279,3,single,7,Stay at home,21009A72-,DEFACQZ,30.0
+824490,21009A911,A. DELPORTE-SUD,564136,70,0,male,311775,2,couple_no_child,7,Stay at home,21009A911,A. DELPORTE-SUD,30.0
+824916,21009A111,WERY (RUE),567902,104,1,female,314143,3,single,7,Stay at home,21009A111,WERY (RUE),30.0
+824947,21009A111,WERY (RUE),567936,92,1,female,314166,2,couple_no_child,7,Stay at home,21009A111,WERY (RUE),30.0
+825314,21009A22-,UNIVERSITE,573915,102,1,female,317866,2,couple_no_child,7,Stay at home,21009A22-,UNIVERSITE,30.0
+825446,21009A22-,UNIVERSITE,574058,89,1,female,317983,2,couple_no_child,7,Stay at home,21009A22-,UNIVERSITE,30.0
+825766,21009A22-,UNIVERSITE,577140,81,0,male,319666,3,single,7,Stay at home,21009A22-,UNIVERSITE,30.0
+826027,21009A53-,LONDRES (PLACE DE),578601,70,0,male,320849,1,couple_with_child,7,Stay at home,21009A53-,LONDRES (PLACE DE),30.0
+826218,21009A612,LIEGEOIS (RUE),582786,76,1,female,323726,2,couple_no_child,7,Stay at home,21009A612,LIEGEOIS (RUE),30.0
+826261,21009A612,LIEGEOIS (RUE),582846,67,1,female,323761,3,single,7,Stay at home,21009A612,LIEGEOIS (RUE),30.0
+826272,21009A612,LIEGEOIS (RUE),582869,65,1,female,323771,3,single,7,Stay at home,21009A612,LIEGEOIS (RUE),30.0
+826331,21009A612,LIEGEOIS (RUE),585636,66,0,male,325427,4,single_with_child,7,Stay at home,21009A612,LIEGEOIS (RUE),30.0
+827029,21010A04-,NOTRE-DAME DE LOURDES,593411,94,0,male,330252,2,couple_no_child,7,Stay at home,21010A04-,NOTRE-DAME DE LOURDES,30.0
+827112,21010A04-,NOTRE-DAME DE LOURDES,593499,89,0,male,330321,2,couple_no_child,7,Stay at home,21010A04-,NOTRE-DAME DE LOURDES,30.0
+827276,21010A04-,NOTRE-DAME DE LOURDES,593666,73,1,female,330451,3,single,7,Stay at home,21010A04-,NOTRE-DAME DE LOURDES,30.0
+827702,21010A03-,MIROIR,598316,73,0,male,332861,2,couple_no_child,7,Stay at home,21010A03-,MIROIR,30.0
+828226,21010A10-,ANCIENNE BARRIERE,603876,65,1,female,335533,5,colloc,7,Stay at home,21010A10-,ANCIENNE BARRIERE,30.0
+828555,21010A111,HEYMBOSCH,605602,93,1,female,336436,2,couple_no_child,7,Stay at home,21010A111,HEYMBOSCH,30.0
+829541,21010A05-,ALBERT (QUARTIER),613165,95,1,female,340385,2,couple_no_child,7,Stay at home,21010A05-,ALBERT (QUARTIER),30.0
+830533,21010A13-,CITE-JARDIN,619823,71,0,male,343805,2,couple_no_child,7,Stay at home,21010A13-,CITE-JARDIN,30.0
+830909,21010A00-,CENTRE,624149,93,1,female,346052,3,single,7,Stay at home,21010A00-,CENTRE,30.0
+831122,21010A00-,CENTRE,624374,81,1,female,346205,3,single,7,Stay at home,21010A00-,CENTRE,30.0
+831195,21010A00-,CENTRE,624449,77,1,female,346256,3,single,7,Stay at home,21010A00-,CENTRE,30.0
+831451,21010A00-,CENTRE,624814,65,1,female,346451,2,couple_no_child,7,Stay at home,21010A00-,CENTRE,30.0
+831577,21010A00-,CENTRE,629688,65,0,male,348712,4,single_with_child,7,Stay at home,21010A00-,CENTRE,30.0
+831848,21010A141,BRUGMANN,630773,87,1,female,349513,2,couple_no_child,7,Stay at home,21010A141,BRUGMANN,30.0
+831856,21010A141,BRUGMANN,630781,87,1,female,349519,3,single,7,Stay at home,21010A141,BRUGMANN,30.0
+831902,21010A141,BRUGMANN,630827,83,1,female,349553,3,single,7,Stay at home,21010A141,BRUGMANN,30.0
+831946,21010A141,BRUGMANN,630872,79,0,male,349586,2,couple_no_child,7,Stay at home,21010A141,BRUGMANN,30.0
+832543,21010A01-,ESSEGHEM,635442,78,1,female,351927,3,single,7,Stay at home,21010A01-,ESSEGHEM,30.0
+832637,21010A01-,ESSEGHEM,635568,69,1,female,352004,4,single_with_child,7,Stay at home,21010A01-,ESSEGHEM,30.0
+832690,21010A01-,ESSEGHEM,635686,66,1,female,352051,4,single_with_child,7,Stay at home,21010A01-,ESSEGHEM,30.0
+832697,21010A01-,ESSEGHEM,635708,65,1,female,352057,3,single,7,Stay at home,21010A01-,ESSEGHEM,30.0
+832866,21010A21-,MADELEINE,640504,99,1,female,354321,3,single,7,Stay at home,21010A21-,MADELEINE,30.0
+833190,21010A21-,MADELEINE,643904,70,0,male,355888,4,single_with_child,7,Stay at home,21010A21-,MADELEINE,30.0
+833421,21010A02-,LEOPOLD I,644693,81,0,male,356448,2,couple_no_child,7,Stay at home,21010A02-,LEOPOLD I,30.0
+833504,21010A02-,LEOPOLD I,644822,67,1,female,356512,1,couple_with_child,7,Stay at home,21010A02-,LEOPOLD I,30.0
+833602,21010A02-,LEOPOLD I,648489,73,1,female,358058,5,colloc,7,Stay at home,21010A02-,LEOPOLD I,30.0
+833949,21011A30-,ARCHERS - FOUREZ,651423,101,1,female,359777,2,couple_no_child,7,Stay at home,21011A30-,ARCHERS - FOUREZ,30.0
+834018,21011A30-,ARCHERS - FOUREZ,651496,79,0,male,359825,2,couple_no_child,7,Stay at home,21011A30-,ARCHERS - FOUREZ,30.0
+834115,21011A30-,ARCHERS - FOUREZ,653777,68,0,male,360849,5,colloc,7,Stay at home,21011A30-,ARCHERS - FOUREZ,30.0
+834218,21011A20-,PLATEAU,654259,81,1,female,361211,3,single,7,Stay at home,21011A20-,PLATEAU,30.0
+834378,21011A20-,PLATEAU,657412,75,0,male,362410,5,colloc,7,Stay at home,21011A20-,PLATEAU,30.0
+834433,21011A10-,PAIX (AVENUE DE LA),658115,97,1,female,363092,3,single,7,Stay at home,21011A10-,PAIX (AVENUE DE LA),30.0
+834482,21011A10-,PAIX (AVENUE DE LA),658166,82,0,male,363128,2,couple_no_child,7,Stay at home,21011A10-,PAIX (AVENUE DE LA),30.0
+834491,21011A10-,PAIX (AVENUE DE LA),658176,88,1,female,363135,3,single,7,Stay at home,21011A10-,PAIX (AVENUE DE LA),30.0
+834498,21011A10-,PAIX (AVENUE DE LA),658183,87,1,female,363140,3,single,7,Stay at home,21011A10-,PAIX (AVENUE DE LA),30.0
+834610,21011A10-,PAIX (AVENUE DE LA),658296,71,1,female,363221,3,single,7,Stay at home,21011A10-,PAIX (AVENUE DE LA),30.0
+834678,21011A10-,PAIX (AVENUE DE LA),660311,86,0,male,364021,3,single,7,Stay at home,21011A10-,PAIX (AVENUE DE LA),30.0
+834854,21011A01-,SAINTE-ANNE,661026,76,1,female,364580,3,single,7,Stay at home,21011A01-,SAINTE-ANNE,30.0
+835031,21011A01-,SAINTE-ANNE,664946,65,0,male,366223,5,colloc,7,Stay at home,21011A01-,SAINTE-ANNE,30.0
+835205,21011A02-,JACQUET (RUE DE),665702,65,1,female,366792,4,single_with_child,7,Stay at home,21011A02-,JACQUET (RUE DE),30.0
+835268,21011A00-,VANHUFFEL,667917,87,0,male,367775,2,couple_no_child,7,Stay at home,21011A00-,VANHUFFEL,30.0
+835415,21011A12-,BASILIQUE,670267,99,1,female,368990,2,couple_no_child,7,Stay at home,21011A12-,BASILIQUE,30.0
+835513,21011A12-,BASILIQUE,670368,81,0,male,369061,2,couple_no_child,7,Stay at home,21011A12-,BASILIQUE,30.0
+835647,21011A12-,BASILIQUE,670534,68,1,female,369158,2,couple_no_child,7,Stay at home,21011A12-,BASILIQUE,30.0
+835953,21012A552,PFEIFFER,673940,66,0,male,370905,5,colloc,7,Stay at home,21012A552,PFEIFFER,30.0
+836513,21012A24-,OSSEGHEM,677005,87,1,female,372673,3,single,7,Stay at home,21012A24-,OSSEGHEM,30.0
+836679,21012A24-,OSSEGHEM,677207,67,1,female,372805,3,single,7,Stay at home,21012A24-,OSSEGHEM,30.0
+836794,21012A24-,OSSEGHEM,680322,70,1,female,374180,5,colloc,7,Stay at home,21012A24-,OSSEGHEM,30.0
+836827,21012A26-,MACHTENS-NORD,680803,94,0,male,374622,2,couple_no_child,7,Stay at home,21012A26-,MACHTENS-NORD,30.0
+836836,21012A26-,MACHTENS-NORD,680812,103,1,female,374627,3,single,7,Stay at home,21012A26-,MACHTENS-NORD,30.0
+836861,21012A26-,MACHTENS-NORD,680837,102,1,female,374646,3,single,7,Stay at home,21012A26-,MACHTENS-NORD,30.0
+837068,21012A26-,MACHTENS-NORD,681046,91,1,female,374789,3,single,7,Stay at home,21012A26-,MACHTENS-NORD,30.0
+837145,21012A26-,MACHTENS-NORD,681123,86,1,female,374842,2,couple_no_child,7,Stay at home,21012A26-,MACHTENS-NORD,30.0
+837157,21012A26-,MACHTENS-NORD,681136,86,1,female,374849,3,single,7,Stay at home,21012A26-,MACHTENS-NORD,30.0
+837297,21012A26-,MACHTENS-NORD,681276,80,0,male,374946,2,couple_no_child,7,Stay at home,21012A26-,MACHTENS-NORD,30.0
+837338,21012A26-,MACHTENS-NORD,681318,75,0,male,374974,2,couple_no_child,7,Stay at home,21012A26-,MACHTENS-NORD,30.0
+837438,21012A26-,MACHTENS-NORD,681422,71,1,female,375045,3,single,7,Stay at home,21012A26-,MACHTENS-NORD,30.0
+837759,21012A26-,MACHTENS-NORD,684804,68,1,female,376691,5,colloc,7,Stay at home,21012A26-,MACHTENS-NORD,30.0
+837907,21012A041,QUATRE VENTS,687222,96,1,female,378127,3,single,7,Stay at home,21012A041,QUATRE VENTS,30.0
+838123,21012A10-,DUCHESSE DE BRABANT,689407,99,1,female,379250,2,couple_no_child,7,Stay at home,21012A10-,DUCHESSE DE BRABANT,30.0
+838430,21012A00-,CENTRE,693791,65,0,male,381111,3,single,7,Stay at home,21012A00-,CENTRE,30.0
+838441,21012A00-,CENTRE,694138,66,1,female,381386,5,colloc,7,Stay at home,21012A00-,CENTRE,30.0
+838492,21012A851,CONDOR,695789,94,0,male,382416,2,couple_no_child,7,Stay at home,21012A851,CONDOR,30.0
+838995,21012A672,ULENS,701423,66,1,female,385324,1,couple_with_child,7,Stay at home,21012A672,ULENS,30.0
+839557,21012A62-,LIBERATEURS,711681,89,1,female,390152,3,single,7,Stay at home,21012A62-,LIBERATEURS,30.0
+839607,21012A62-,LIBERATEURS,711736,75,1,female,390193,3,single,7,Stay at home,21012A62-,LIBERATEURS,30.0
+839640,21012A62-,LIBERATEURS,711781,72,0,male,390217,1,couple_with_child,7,Stay at home,21012A62-,LIBERATEURS,30.0
+839820,21012A511,STEYNS,717245,102,1,female,393120,3,single,7,Stay at home,21012A511,STEYNS,30.0
+840165,21012A20-,BAECK,720542,66,0,male,394686,1,couple_with_child,7,Stay at home,21012A20-,BAECK,30.0
+840355,21012A72-,LAVALLEE,722693,70,1,female,395726,4,single_with_child,7,Stay at home,21012A72-,LAVALLEE,30.0
+840389,21012A72-,LAVALLEE,722768,69,0,male,395750,1,couple_with_child,7,Stay at home,21012A72-,LAVALLEE,30.0
+840433,21012A72-,LAVALLEE,724696,68,0,male,396400,3,single,7,Stay at home,21012A72-,LAVALLEE,30.0
+841071,21012A50-,BENES,731375,66,1,female,400024,3,single,7,Stay at home,21012A50-,BENES,30.0
+841183,21012A50-,BENES,734146,75,1,female,401277,5,colloc,7,Stay at home,21012A50-,BENES,30.0
+841757,21012A152,ETANGS NOIRS,740720,80,1,female,404991,3,single,7,Stay at home,21012A152,ETANGS NOIRS,30.0
+842068,21012A52-,NEEP (QUARTIER DU),746809,93,1,female,408182,3,single,7,Stay at home,21012A52-,NEEP (QUARTIER DU),30.0
+842226,21012A52-,NEEP (QUARTIER DU),746973,77,0,male,408304,2,couple_no_child,7,Stay at home,21012A52-,NEEP (QUARTIER DU),30.0
+842478,21012A30-,METTEWIE - IDYLLE,750906,96,1,female,410348,2,couple_no_child,7,Stay at home,21012A30-,METTEWIE - IDYLLE,30.0
+842526,21012A30-,METTEWIE - IDYLLE,750954,90,1,female,410382,3,single,7,Stay at home,21012A30-,METTEWIE - IDYLLE,30.0
+842552,21012A30-,METTEWIE - IDYLLE,750981,86,1,female,410401,3,single,7,Stay at home,21012A30-,METTEWIE - IDYLLE,30.0
+843225,21012A23-,MACHTENS-SUD,753769,65,1,female,411863,3,single,7,Stay at home,21012A23-,MACHTENS-SUD,30.0
+843226,21012A23-,MACHTENS-SUD,753770,65,1,female,411864,3,single,7,Stay at home,21012A23-,MACHTENS-SUD,30.0
+843480,21012A41-,MOORTEBEEK,757359,65,1,female,413663,1,couple_with_child,7,Stay at home,21012A41-,MOORTEBEEK,30.0
+843489,21012A41-,MOORTEBEEK,757457,65,0,male,413694,1,couple_with_child,7,Stay at home,21012A41-,MOORTEBEEK,30.0
+843611,21012A822,KORENBEEK,758934,89,0,male,414466,2,couple_no_child,7,Stay at home,21012A822,KORENBEEK,30.0
+843666,21012A822,KORENBEEK,758991,90,1,female,414507,2,couple_no_child,7,Stay at home,21012A822,KORENBEEK,30.0
+844067,21012A822,KORENBEEK,763386,67,1,female,416442,5,colloc,7,Stay at home,21012A822,KORENBEEK,30.0
+845178,21013A13-,DETHY (RUE),780104,80,0,male,425525,2,couple_no_child,7,Stay at home,21013A13-,DETHY (RUE),30.0
+845402,21013A422,CRICKX (RUE),783423,102,1,female,427320,3,single,7,Stay at home,21013A422,CRICKX (RUE),30.0
+845542,21013A422,CRICKX (RUE),783566,73,1,female,427435,2,couple_no_child,7,Stay at home,21013A422,CRICKX (RUE),30.0
+845723,21013A422,CRICKX (RUE),786399,70,0,male,428859,5,colloc,7,Stay at home,21013A422,CRICKX (RUE),30.0
+846075,21013A01-,ESPAGNE (RUE D'),788602,79,1,female,430176,3,single,7,Stay at home,21013A01-,ESPAGNE (RUE D'),30.0
+846243,21013A01-,ESPAGNE (RUE D'),791137,67,0,male,431426,3,single,7,Stay at home,21013A01-,ESPAGNE (RUE D'),30.0
+846262,21013A01-,ESPAGNE (RUE D'),791769,68,0,male,431936,5,colloc,7,Stay at home,21013A01-,ESPAGNE (RUE D'),30.0
+846735,21013A252,DANEMARK (RUE DE),796640,83,1,female,434669,2,couple_no_child,7,Stay at home,21013A252,DANEMARK (RUE DE),30.0
+846746,21013A252,DANEMARK (RUE DE),796652,79,1,female,434677,2,couple_no_child,7,Stay at home,21013A252,DANEMARK (RUE DE),30.0
+846815,21013A252,DANEMARK (RUE DE),798055,81,0,male,435208,3,single,7,Stay at home,21013A252,DANEMARK (RUE DE),30.0
+846847,21013A252,DANEMARK (RUE DE),798395,71,0,male,435467,5,colloc,7,Stay at home,21013A252,DANEMARK (RUE DE),30.0
+846878,21013A23-,ROI (AVENUE DU),798777,82,1,female,435776,3,single,7,Stay at home,21013A23-,ROI (AVENUE DU),30.0
+847398,21013A22-,REGIES,804545,66,1,female,439312,4,single_with_child,7,Stay at home,21013A22-,REGIES,30.0
+847618,21013A211,FONTAINAS,808401,80,1,female,441467,2,couple_no_child,7,Stay at home,21013A211,FONTAINAS,30.0
+847826,21013A052,FAIDER (RUE),810806,73,1,female,442778,3,single,7,Stay at home,21013A052,FAIDER (RUE),30.0
+848210,21013A40-,BARRIERE,816572,71,1,female,446595,2,couple_no_child,7,Stay at home,21013A40-,BARRIERE,30.0
+848341,21013A41-,VILLAS (AVENUE DES),818808,88,1,female,447849,3,single,7,Stay at home,21013A41-,VILLAS (AVENUE DES),30.0
+848791,21013A00-,HOTEL DE VILLE,823433,75,0,male,450556,2,couple_no_child,7,Stay at home,21013A00-,HOTEL DE VILLE,30.0
+849025,21013A51-,TOISON D'OR (AVENUE),827117,94,1,female,452773,2,couple_no_child,7,Stay at home,21013A51-,TOISON D'OR (AVENUE),30.0
+849088,21013A51-,TOISON D'OR (AVENUE),827184,70,0,male,452817,2,couple_no_child,7,Stay at home,21013A51-,TOISON D'OR (AVENUE),30.0
+849192,21014A00-,PLACE SAINT-JOSSE,829006,97,1,female,454014,3,single,7,Stay at home,21014A00-,PLACE SAINT-JOSSE,30.0
+849254,21014A00-,PLACE SAINT-JOSSE,829069,81,1,female,454061,3,single,7,Stay at home,21014A00-,PLACE SAINT-JOSSE,30.0
+849369,21014A00-,PLACE SAINT-JOSSE,831452,90,0,male,455013,3,single,7,Stay at home,21014A00-,PLACE SAINT-JOSSE,30.0
+849419,21014A00-,PLACE SAINT-JOSSE,831503,65,0,male,455064,3,single,7,Stay at home,21014A00-,PLACE SAINT-JOSSE,30.0
+849515,21014A02-,CHARITE,832593,69,1,female,455891,1,couple_with_child,7,Stay at home,21014A02-,CHARITE,30.0
+849595,21014A14-,PRAIRIE,834512,78,1,female,457111,3,single,7,Stay at home,21014A14-,PRAIRIE,30.0
+849901,21014A41-,BOSSUET,839263,69,0,male,459401,4,single_with_child,7,Stay at home,21014A41-,BOSSUET,30.0
+849915,21014A41-,BOSSUET,839402,68,1,female,459436,5,colloc,7,Stay at home,21014A41-,BOSSUET,30.0
+849968,21014A10-,SAINT-FRANCOIS,840037,95,1,female,459907,2,couple_no_child,7,Stay at home,21014A10-,SAINT-FRANCOIS,30.0
+850600,21014A05-,HOUWAERT,849070,98,1,female,464655,3,single,7,Stay at home,21014A05-,HOUWAERT,30.0
+850687,21014A05-,HOUWAERT,849160,89,1,female,464727,3,single,7,Stay at home,21014A05-,HOUWAERT,30.0
+850875,21014A05-,HOUWAERT,849362,70,1,female,464881,2,couple_no_child,7,Stay at home,21014A05-,HOUWAERT,30.0
+850920,21014A05-,HOUWAERT,849450,68,1,female,464916,2,couple_no_child,7,Stay at home,21014A05-,HOUWAERT,30.0
+851235,21015A50-,OPALE,857685,101,1,female,469039,3,single,7,Stay at home,21015A50-,OPALE,30.0
+851242,21015A50-,OPALE,857693,100,1,female,469045,3,single,7,Stay at home,21015A50-,OPALE,30.0
+851285,21015A50-,OPALE,857740,95,1,female,469082,3,single,7,Stay at home,21015A50-,OPALE,30.0
+851369,21015A50-,OPALE,857826,85,1,female,469149,2,couple_no_child,7,Stay at home,21015A50-,OPALE,30.0
+851452,21015A50-,OPALE,857912,76,1,female,469216,3,single,7,Stay at home,21015A50-,OPALE,30.0
+851585,21015A50-,OPALE,858097,65,1,female,469323,4,single_with_child,7,Stay at home,21015A50-,OPALE,30.0
+851643,21015A50-,OPALE,861774,69,0,male,470986,3,single,7,Stay at home,21015A50-,OPALE,30.0
+852429,21015A36-,CAMBIER (AVENUE E.),871646,86,0,male,476866,3,single,7,Stay at home,21015A36-,CAMBIER (AVENUE E.),30.0
+852787,21015A721,F. COURTENS (AVENUE),874366,74,1,female,478539,2,couple_no_child,7,Stay at home,21015A721,F. COURTENS (AVENUE),30.0
+853649,21015A811,TERDELT,880956,90,0,male,481911,3,single,7,Stay at home,21015A811,TERDELT,30.0
+854076,21015A831,LATINIS (AVENUE G.),881753,69,1,female,482506,3,single,7,Stay at home,21015A831,LATINIS (AVENUE G.),30.0
+854149,21015A831,LATINIS (AVENUE G.),881878,65,1,female,482563,4,single_with_child,7,Stay at home,21015A831,LATINIS (AVENUE G.),30.0
+854375,21015A03-,JOSAPHAT (RUE),885488,90,1,female,484432,2,couple_no_child,7,Stay at home,21015A03-,JOSAPHAT (RUE),30.0
+854424,21015A03-,JOSAPHAT (RUE),885539,82,1,female,484466,3,single,7,Stay at home,21015A03-,JOSAPHAT (RUE),30.0
+854738,21015A021,HOUFFALIZE (PLACE),891092,81,0,male,486956,2,couple_no_child,7,Stay at home,21015A021,HOUFFALIZE (PLACE),30.0
+854778,21015A021,HOUFFALIZE (PLACE),891147,69,1,female,486984,2,couple_no_child,7,Stay at home,21015A021,HOUFFALIZE (PLACE),30.0
+854855,21015A021,HOUFFALIZE (PLACE),894025,67,0,male,488132,5,colloc,7,Stay at home,21015A021,HOUFFALIZE (PLACE),30.0
+854999,21015A30-,GRANDE RUE AU BOIS,894784,71,1,female,488742,2,couple_no_child,7,Stay at home,21015A30-,GRANDE RUE AU BOIS,30.0
+855494,21015A64-,DUPLOYE SQUARE,901856,67,1,female,492365,1,couple_with_child,7,Stay at home,21015A64-,DUPLOYE SQUARE,30.0
+855652,21015A33-,BIENFAITEURS (PLACE DE),904920,76,1,female,493854,3,single,7,Stay at home,21015A33-,BIENFAITEURS (PLACE DE),30.0
+855760,21015A35-,JEAN STOBBAERTS (AVENUE),907482,102,1,female,495139,3,single,7,Stay at home,21015A35-,JEAN STOBBAERTS (AVENUE),30.0
+855814,21015A35-,JEAN STOBBAERTS (AVENUE),907538,88,1,female,495181,3,single,7,Stay at home,21015A35-,JEAN STOBBAERTS (AVENUE),30.0
+855974,21015A35-,JEAN STOBBAERTS (AVENUE),909636,65,0,male,496151,5,colloc,7,Stay at home,21015A35-,JEAN STOBBAERTS (AVENUE),30.0
+856233,21015A53-,DAILLY (PLACE),913081,67,0,male,497986,5,colloc,7,Stay at home,21015A53-,DAILLY (PLACE),30.0
+856365,21015A54-,EMERAUDE (AVENUE),913663,91,1,female,498466,3,single,7,Stay at home,21015A54-,EMERAUDE (AVENUE),30.0
+856452,21015A54-,EMERAUDE (AVENUE),913753,81,1,female,498536,3,single,7,Stay at home,21015A54-,EMERAUDE (AVENUE),30.0
+856571,21015A54-,EMERAUDE (AVENUE),913890,69,1,female,498631,4,single_with_child,7,Stay at home,21015A54-,EMERAUDE (AVENUE),30.0
+856732,21015A54-,EMERAUDE (AVENUE),918354,68,0,male,500829,4,single_with_child,7,Stay at home,21015A54-,EMERAUDE (AVENUE),30.0
+856894,21015A52-,LINTHOUT (RUE),919062,82,1,female,501302,3,single,7,Stay at home,21015A52-,LINTHOUT (RUE),30.0
+856921,21015A52-,LINTHOUT (RUE),919091,80,0,male,501325,2,couple_no_child,7,Stay at home,21015A52-,LINTHOUT (RUE),30.0
+856995,21015A52-,LINTHOUT (RUE),919199,65,1,female,501387,3,single,7,Stay at home,21015A52-,LINTHOUT (RUE),30.0
+857074,21015A51-,CERISIERS (AVENUE DES),921937,92,0,male,502928,2,couple_no_child,7,Stay at home,21015A51-,CERISIERS (AVENUE DES),30.0
+857370,21015A05-,ROYALE SAINTE-MARIE (RUE),923813,88,1,female,503915,2,couple_no_child,7,Stay at home,21015A05-,ROYALE SAINTE-MARIE (RUE),30.0
+857409,21015A05-,ROYALE SAINTE-MARIE (RUE),923854,83,0,male,503945,2,couple_no_child,7,Stay at home,21015A05-,ROYALE SAINTE-MARIE (RUE),30.0
+857535,21015A05-,ROYALE SAINTE-MARIE (RUE),927631,67,1,female,505580,5,colloc,7,Stay at home,21015A05-,ROYALE SAINTE-MARIE (RUE),30.0
+857538,21015A05-,ROYALE SAINTE-MARIE (RUE),927635,67,1,female,505581,5,colloc,7,Stay at home,21015A05-,ROYALE SAINTE-MARIE (RUE),30.0
+857539,21015A05-,ROYALE SAINTE-MARIE (RUE),927637,70,1,female,505581,5,colloc,7,Stay at home,21015A05-,ROYALE SAINTE-MARIE (RUE),30.0
+857661,21015A12-,HUART HAMOIR (AVENUE),928562,75,1,female,506328,3,single,7,Stay at home,21015A12-,HUART HAMOIR (AVENUE),30.0
+857715,21015A12-,HUART HAMOIR (AVENUE),930232,92,0,male,506881,3,single,7,Stay at home,21015A12-,HUART HAMOIR (AVENUE),30.0
+857763,21015A12-,HUART HAMOIR (AVENUE),930658,74,0,male,507177,5,colloc,7,Stay at home,21015A12-,HUART HAMOIR (AVENUE),30.0
+857846,21015A152,PR. ELISABETH-NORD,931119,76,1,female,507605,3,single,7,Stay at home,21015A152,PR. ELISABETH-NORD,30.0
+857899,21015A152,PR. ELISABETH-NORD,931222,67,1,female,507645,4,single_with_child,7,Stay at home,21015A152,PR. ELISABETH-NORD,30.0
+857980,21015A152,PR. ELISABETH-NORD,934350,74,0,male,508902,5,colloc,7,Stay at home,21015A152,PR. ELISABETH-NORD,30.0
+858271,21015A111,MAETERLINCK,936918,79,1,female,510387,3,single,7,Stay at home,21015A111,MAETERLINCK,30.0
+858765,21015A71-,JARDINS,941284,72,0,male,512487,2,couple_no_child,7,Stay at home,21015A71-,JARDINS,30.0
+858804,21015A71-,JARDINS,941324,76,0,male,512519,1,couple_with_child,7,Stay at home,21015A71-,JARDINS,30.0
+859319,21015A40-,BRABANT (RUE DE),950151,76,1,female,516860,3,single,7,Stay at home,21015A40-,BRABANT (RUE DE),30.0
+859480,21015A43-,GARE DU NORD,953963,100,1,female,518823,3,single,7,Stay at home,21015A43-,GARE DU NORD,30.0
+859623,21015A44-,REINE (AVENUE),955875,91,1,female,519796,3,single,7,Stay at home,21015A44-,REINE (AVENUE),30.0
+859768,21015A44-,REINE (AVENUE),958605,69,0,male,520722,3,single,7,Stay at home,21015A44-,REINE (AVENUE),30.0
+859794,21015A41-,VANDERLINDEN (RUE),959484,104,1,female,521433,3,single,7,Stay at home,21015A41-,VANDERLINDEN (RUE),30.0
+860025,21015A612,BRICHAUT (RUE DE),962979,94,0,male,523043,2,couple_no_child,7,Stay at home,21015A612,BRICHAUT (RUE DE),30.0
+860040,21015A612,BRICHAUT (RUE DE),962994,94,1,female,523055,2,couple_no_child,7,Stay at home,21015A612,BRICHAUT (RUE DE),30.0
+860153,21015A612,BRICHAUT (RUE DE),963139,69,1,female,523142,3,single,7,Stay at home,21015A612,BRICHAUT (RUE DE),30.0
+860378,21015A00-,COLIGNON (PLACE),969146,98,1,female,525981,3,single,7,Stay at home,21015A00-,COLIGNON (PLACE),30.0
+860429,21015A00-,COLIGNON (PLACE),969203,89,1,female,526022,2,couple_no_child,7,Stay at home,21015A00-,COLIGNON (PLACE),30.0
+860572,21015A00-,COLIGNON (PLACE),969374,70,1,female,526129,3,single,7,Stay at home,21015A00-,COLIGNON (PLACE),30.0
+860596,21015A00-,COLIGNON (PLACE),969428,69,1,female,526147,3,single,7,Stay at home,21015A00-,COLIGNON (PLACE),30.0
+860759,21015A00-,COLIGNON (PLACE),974977,72,0,male,528019,3,single,7,Stay at home,21015A00-,COLIGNON (PLACE),30.0
+861047,21015A24-,WAELHEM (RUE),980162,94,0,male,530920,3,single,7,Stay at home,21015A24-,WAELHEM (RUE),30.0
+861279,21015A22-,MARBOTIN A. (RUE),983399,98,1,female,532734,2,couple_no_child,7,Stay at home,21015A22-,MARBOTIN A. (RUE),30.0
+861515,21015A22-,MARBOTIN A. (RUE),983681,66,1,female,532914,3,single,7,Stay at home,21015A22-,MARBOTIN A. (RUE),30.0
+861744,21015A231,J. BLOCKX (RUE),989000,68,0,male,535460,5,colloc,7,Stay at home,21015A231,J. BLOCKX (RUE),30.0
+861780,21015A20-,HELMET,989268,100,1,female,535704,3,single,7,Stay at home,21015A20-,HELMET,30.0
+861819,21015A20-,HELMET,989307,87,0,male,535731,2,couple_no_child,7,Stay at home,21015A20-,HELMET,30.0
+861962,21015A20-,HELMET,989457,73,1,female,535839,3,single,7,Stay at home,21015A20-,HELMET,30.0
+862386,21016A901,CENTRE-OUEST,997499,100,1,female,539426,2,couple_no_child,7,Stay at home,21016A901,CENTRE-OUEST,30.0
+862535,21016A901,CENTRE-OUEST,997670,79,1,female,539554,3,single,7,Stay at home,21016A901,CENTRE-OUEST,30.0
+862708,21016A901,CENTRE-OUEST,999217,74,0,male,540266,3,single,7,Stay at home,21016A901,CENTRE-OUEST,30.0
+862975,21016A81-,BASCULE,999988,69,1,female,540856,2,couple_no_child,7,Stay at home,21016A81-,BASCULE,30.0
+863033,21016A81-,BASCULE,1000184,68,0,male,540950,2,couple_no_child,7,Stay at home,21016A81-,BASCULE,30.0
+863260,21016A82-,CHURCHILL,1003348,90,0,male,542804,2,couple_no_child,7,Stay at home,21016A82-,CHURCHILL,30.0
+863576,21016A82-,CHURCHILL,1003689,79,1,female,543060,2,couple_no_child,7,Stay at home,21016A82-,CHURCHILL,30.0
+864051,21016A82-,CHURCHILL,1008305,75,1,female,545681,5,colloc,7,Stay at home,21016A82-,CHURCHILL,30.0
+864279,21016A232,BEAU SEJOUR,1008965,65,0,male,546131,1,couple_with_child,7,Stay at home,21016A232,BEAU SEJOUR,30.0
+864518,21016A831,LONGCHAMP,1010635,87,1,female,547068,3,single,7,Stay at home,21016A831,LONGCHAMP,30.0
+864759,21016A831,LONGCHAMP,1012914,89,0,male,548092,3,single,7,Stay at home,21016A831,LONGCHAMP,30.0
+864781,21016A831,LONGCHAMP,1012938,77,0,male,548116,3,single,7,Stay at home,21016A831,LONGCHAMP,30.0
+865510,21016A85-,BRUGMANN,1015654,65,1,female,549960,1,couple_with_child,7,Stay at home,21016A85-,BRUGMANN,30.0
+865805,21016A03-,COGHEN,1018031,94,0,male,551518,2,couple_no_child,7,Stay at home,21016A03-,COGHEN,30.0
+865843,21016A03-,COGHEN,1018074,98,1,female,551549,2,couple_no_child,7,Stay at home,21016A03-,COGHEN,30.0
+865905,21016A03-,COGHEN,1018147,88,1,female,551601,3,single,7,Stay at home,21016A03-,COGHEN,30.0
+866113,21016A03-,COGHEN,1020624,83,0,male,552679,3,single,7,Stay at home,21016A03-,COGHEN,30.0
+866192,21016A03-,COGHEN,1021032,72,0,male,552983,5,colloc,7,Stay at home,21016A03-,COGHEN,30.0
+866271,21016A02-,ALSEMBERG-NORD,1021325,92,1,female,553234,3,single,7,Stay at home,21016A02-,ALSEMBERG-NORD,30.0
+866459,21016A02-,ALSEMBERG-NORD,1023988,71,0,male,554420,3,single,7,Stay at home,21016A02-,ALSEMBERG-NORD,30.0
+866599,21016A922,WOLVENBERG,1025206,80,1,female,555452,3,single,7,Stay at home,21016A922,WOLVENBERG,30.0
+866813,21016A912,GLOBE-OUEST,1026538,69,1,female,556165,4,single_with_child,7,Stay at home,21016A912,GLOBE-OUEST,30.0
+867124,21016A933,VOSSEGAT-OUEST,1027979,80,1,female,556913,3,single,7,Stay at home,21016A933,VOSSEGAT-OUEST,30.0
+867140,21016A933,VOSSEGAT-OUEST,1027998,78,1,female,556926,3,single,7,Stay at home,21016A933,VOSSEGAT-OUEST,30.0
+868039,21016A72-,MELKRIEK,1035145,89,1,female,560755,2,couple_no_child,7,Stay at home,21016A72-,MELKRIEK,30.0
+868182,21016A71-,KEIENBEMPT,1036036,89,1,female,561378,3,single,7,Stay at home,21016A71-,KEIENBEMPT,30.0
+868404,21016A80-,VANDERKINDERE,1038715,103,1,female,562952,2,couple_no_child,7,Stay at home,21016A80-,VANDERKINDERE,30.0
+868554,21016A80-,VANDERKINDERE,1038880,80,1,female,563070,3,single,7,Stay at home,21016A80-,VANDERKINDERE,30.0
+868612,21016A80-,VANDERKINDERE,1038952,74,0,male,563118,2,couple_no_child,7,Stay at home,21016A80-,VANDERKINDERE,30.0
+868911,21016A225,PTOLEMEE,1041838,65,1,female,564663,3,single,7,Stay at home,21016A225,PTOLEMEE,30.0
+869099,21016A64-,MOLENSTEEN,1042469,81,1,female,565090,2,couple_no_child,7,Stay at home,21016A64-,MOLENSTEEN,30.0
+869112,21016A64-,MOLENSTEEN,1042484,76,0,male,565100,2,couple_no_child,7,Stay at home,21016A64-,MOLENSTEEN,30.0
+869490,21016A05-,LE CHAT,1044871,79,1,female,566331,3,single,7,Stay at home,21016A05-,LE CHAT,30.0
+869549,21016A05-,LE CHAT,1044937,71,1,female,566383,2,couple_no_child,7,Stay at home,21016A05-,LE CHAT,30.0
+869567,21016A05-,LE CHAT,1044960,70,1,female,566397,3,single,7,Stay at home,21016A05-,LE CHAT,30.0
+869581,21016A05-,LE CHAT,1044992,69,1,female,566412,4,single_with_child,7,Stay at home,21016A05-,LE CHAT,30.0
+869606,21016A05-,LE CHAT,1045047,67,1,female,566437,3,single,7,Stay at home,21016A05-,LE CHAT,30.0
+869626,21016A05-,LE CHAT,1045097,72,0,male,566456,1,couple_with_child,7,Stay at home,21016A05-,LE CHAT,30.0
+869699,21016A05-,LE CHAT,1048194,68,0,male,567865,3,single,7,Stay at home,21016A05-,LE CHAT,30.0
+869945,21016A65-,ALSEMBERG-SUD,1050822,102,1,female,569662,3,single,7,Stay at home,21016A65-,ALSEMBERG-SUD,30.0
+870364,21016A01-,DIEWEG,1054422,95,1,female,571502,2,couple_no_child,7,Stay at home,21016A01-,DIEWEG,30.0
+870388,21016A01-,DIEWEG,1054448,93,1,female,571519,2,couple_no_child,7,Stay at home,21016A01-,DIEWEG,30.0
+870582,21016A01-,DIEWEG,1054665,79,0,male,571663,2,couple_no_child,7,Stay at home,21016A01-,DIEWEG,30.0
+870603,21016A01-,DIEWEG,1054690,73,1,female,571680,2,couple_no_child,7,Stay at home,21016A01-,DIEWEG,30.0
+870750,21016A01-,DIEWEG,1057724,86,0,male,572829,3,single,7,Stay at home,21016A01-,DIEWEG,30.0
+870859,21016A00-,GLOBE-EST,1058784,101,1,female,573691,3,single,7,Stay at home,21016A00-,GLOBE-EST,30.0
+871481,21016A102,GROESELENBERG,1063593,95,1,female,576231,3,single,7,Stay at home,21016A102,GROESELENBERG,30.0
+871535,21016A102,GROESELENBERG,1063652,80,0,male,576270,2,couple_no_child,7,Stay at home,21016A102,GROESELENBERG,30.0
+871873,21016A12-,HAMOIR,1065999,91,1,female,577449,3,single,7,Stay at home,21016A12-,HAMOIR,30.0
+872074,21016A12-,HAMOIR,1066215,71,1,female,577607,2,couple_no_child,7,Stay at home,21016A12-,HAMOIR,30.0
+872902,21016A400,SAINT-JOB,1072815,92,1,female,581434,2,couple_no_child,7,Stay at home,21016A400,SAINT-JOB,30.0
+873059,21016A400,SAINT-JOB,1073012,68,1,female,581562,2,couple_no_child,7,Stay at home,21016A400,SAINT-JOB,30.0
+873411,21016A429,CARLOO,1075999,66,1,female,583093,2,couple_no_child,7,Stay at home,21016A429,CARLOO,30.0
+873787,21016A639,HOMBORCH,1079107,95,1,female,584815,3,single,7,Stay at home,21016A639,HOMBORCH,30.0
+874391,21016A342,FOND,1083021,87,0,male,586958,2,couple_no_child,7,Stay at home,21016A342,FOND,30.0
+874428,21016A342,FOND,1083060,85,0,male,586982,2,couple_no_child,7,Stay at home,21016A342,FOND,30.0
+874926,21016A311,FORT JACO,1086450,98,1,female,588681,2,couple_no_child,7,Stay at home,21016A311,FORT JACO,30.0
+875312,21017A512,VANDER ELST - BIEN FAIRE,1088268,68,1,female,589664,4,single_with_child,7,Stay at home,21017A512,VANDER ELST - BIEN FAIRE,30.0
+875381,21017A541,LOUTRIER - WIENER,1089348,104,1,female,590194,2,couple_no_child,7,Stay at home,21017A541,LOUTRIER - WIENER,30.0
+875671,21017A11-,FLOREAL,1090846,96,1,female,591169,3,single,7,Stay at home,21017A11-,FLOREAL,30.0
+875773,21017A11-,FLOREAL,1090954,74,1,female,591255,3,single,7,Stay at home,21017A11-,FLOREAL,30.0
+875793,21017A11-,FLOREAL,1090983,70,1,female,591273,3,single,7,Stay at home,21017A11-,FLOREAL,30.0
+875854,21017A11-,FLOREAL,1092158,85,0,male,591762,3,single,7,Stay at home,21017A11-,FLOREAL,30.0
+876750,21017A41-,AVENUE DE VISE,1097875,65,0,male,595040,3,single,7,Stay at home,21017A41-,AVENUE DE VISE,30.0
+876794,21017A523,MARTIN-PECHEUR,1098269,101,1,female,595357,3,single,7,Stay at home,21017A523,MARTIN-PECHEUR,30.0
+877177,21017A523,MARTIN-PECHEUR,1099834,73,0,male,596261,3,single,7,Stay at home,21017A523,MARTIN-PECHEUR,30.0
+877846,21017A01-,COIN DU BALAI,1103991,92,0,male,598809,2,couple_no_child,7,Stay at home,21017A01-,COIN DU BALAI,30.0
+877959,21017A01-,COIN DU BALAI,1104111,70,1,female,598897,1,couple_with_child,7,Stay at home,21017A01-,COIN DU BALAI,30.0
+878542,21017A13-,BOULEAUX,1108053,69,0,male,601125,1,couple_with_child,7,Stay at home,21017A13-,BOULEAUX,30.0
+878560,21017A13-,BOULEAUX,1108091,67,1,female,601140,4,single_with_child,7,Stay at home,21017A13-,BOULEAUX,30.0
+878636,21017A212,AVENUE DE LA TENDERIE,1109208,94,0,male,601745,2,couple_no_child,7,Stay at home,21017A212,AVENUE DE LA TENDERIE,30.0
+878792,21017A212,AVENUE DE LA TENDERIE,1109369,81,1,female,601866,2,couple_no_child,7,Stay at home,21017A212,AVENUE DE LA TENDERIE,30.0
+879099,21017A000,CENTRE DE BOITSFORT,1111284,66,1,female,602957,3,single,7,Stay at home,21017A000,CENTRE DE BOITSFORT,30.0
+879259,21017A451,FUTAIE,1112487,71,1,female,603657,2,couple_no_child,7,Stay at home,21017A451,FUTAIE,30.0
+879293,21017A451,FUTAIE,1112553,67,1,female,603683,2,couple_no_child,7,Stay at home,21017A451,FUTAIE,30.0
+879561,21018A20-,GEORGES HENRI (AVENUE),1115084,88,1,female,605205,3,single,7,Stay at home,21018A20-,GEORGES HENRI (AVENUE),30.0
+879630,21018A20-,GEORGES HENRI (AVENUE),1115160,75,1,female,605256,2,couple_no_child,7,Stay at home,21018A20-,GEORGES HENRI (AVENUE),30.0
+879683,21018A20-,GEORGES HENRI (AVENUE),1115230,68,1,female,605294,4,single_with_child,7,Stay at home,21018A20-,GEORGES HENRI (AVENUE),30.0
+880007,21018A72-,ROGATIONS,1120674,65,0,male,608212,5,colloc,7,Stay at home,21018A72-,ROGATIONS,30.0
+880146,21018A21-,DE BROQUEVILLE (AVENUE)-NORD,1121200,92,1,female,608709,3,single,7,Stay at home,21018A21-,DE BROQUEVILLE (AVENUE)-NORD,30.0
+880380,21018A21-,DE BROQUEVILLE (AVENUE)-NORD,1121449,70,1,female,608910,4,single_with_child,7,Stay at home,21018A21-,DE BROQUEVILLE (AVENUE)-NORD,30.0
+880454,21018A21-,DE BROQUEVILLE (AVENUE)-NORD,1121702,65,0,male,609068,1,couple_with_child,7,Stay at home,21018A21-,DE BROQUEVILLE (AVENUE)-NORD,30.0
+880618,21018A35-,HOF TEN BERG-NORD,1124555,84,1,female,610664,2,couple_no_child,7,Stay at home,21018A35-,HOF TEN BERG-NORD,30.0
+880657,21018A35-,HOF TEN BERG-NORD,1124595,69,0,male,610690,2,couple_no_child,7,Stay at home,21018A35-,HOF TEN BERG-NORD,30.0
+882056,21018A22-,DE BROQUEVILLE (AVENUE)-SUD,1132639,70,0,male,615263,2,couple_no_child,7,Stay at home,21018A22-,DE BROQUEVILLE (AVENUE)-SUD,30.0
+883070,21018A37-,COMMUNAUTES,1141634,72,0,male,620149,5,colloc,7,Stay at home,21018A37-,COMMUNAUTES,30.0
+883243,21018A63-,CONSTELLATIONS,1141953,79,1,female,620413,3,single,7,Stay at home,21018A63-,CONSTELLATIONS,30.0
+883281,21018A63-,CONSTELLATIONS,1141991,73,1,female,620441,2,couple_no_child,7,Stay at home,21018A63-,CONSTELLATIONS,30.0
+883560,21018A05-,DRIES,1143843,68,1,female,621407,1,couple_with_child,7,Stay at home,21018A05-,DRIES,30.0
+883778,21018A61-,HEYDENBERG-EST,1145217,78,1,female,622113,3,single,7,Stay at home,21018A61-,HEYDENBERG-EST,30.0
+884230,21018A62-,HEYDENBERG-OUEST,1147508,79,1,female,623286,3,single,7,Stay at home,21018A62-,HEYDENBERG-OUEST,30.0
+884601,21018A24-,LAMBEAU (AVENUE),1151116,90,1,female,625260,3,single,7,Stay at home,21018A24-,LAMBEAU (AVENUE),30.0
+884683,21018A24-,LAMBEAU (AVENUE),1151204,75,1,female,625319,2,couple_no_child,7,Stay at home,21018A24-,LAMBEAU (AVENUE),30.0
+884748,21018A24-,LAMBEAU (AVENUE),1151296,67,1,female,625365,4,single_with_child,7,Stay at home,21018A24-,LAMBEAU (AVENUE),30.0
+885051,21018A30-,SAINTE-FAMILLE,1153933,66,1,female,626773,4,single_with_child,7,Stay at home,21018A30-,SAINTE-FAMILLE,30.0
+885149,21018A30-,SAINTE-FAMILLE,1155164,65,0,male,627443,5,colloc,7,Stay at home,21018A30-,SAINTE-FAMILLE,30.0
+885725,21018A84-,KAPELLEVELD-NORD-EST,1158857,92,1,female,629841,3,single,7,Stay at home,21018A84-,KAPELLEVELD-NORD-EST,30.0
+885768,21018A84-,KAPELLEVELD-NORD-EST,1158904,72,0,male,629872,2,couple_no_child,7,Stay at home,21018A84-,KAPELLEVELD-NORD-EST,30.0
+886315,21018A43-,ROODEBEEK,1161727,66,0,male,631521,1,couple_with_child,7,Stay at home,21018A43-,ROODEBEEK,30.0
+886407,21018A41-,EUROPE,1162852,91,1,female,632092,3,single,7,Stay at home,21018A41-,EUROPE,30.0
+886447,21018A41-,EUROPE,1162893,84,1,female,632126,3,single,7,Stay at home,21018A41-,EUROPE,30.0
+886572,21018A41-,EUROPE,1163055,70,0,male,632235,2,couple_no_child,7,Stay at home,21018A41-,EUROPE,30.0
+886607,21018A41-,EUROPE,1164025,68,0,male,632733,3,single,7,Stay at home,21018A41-,EUROPE,30.0
+886637,21018A42-,VERVLOESEM,1164452,104,1,female,633106,2,couple_no_child,7,Stay at home,21018A42-,VERVLOESEM,30.0
+886846,21018A42-,VERVLOESEM,1164753,65,0,male,633315,2,couple_no_child,7,Stay at home,21018A42-,VERVLOESEM,30.0
+887094,21018A14-,CHANCELLERIE,1167249,99,1,female,634696,3,single,7,Stay at home,21018A14-,CHANCELLERIE,30.0
+887370,21018A12-,STOCKEL (CHAUSSEE DE),1169216,80,0,male,635931,2,couple_no_child,7,Stay at home,21018A12-,STOCKEL (CHAUSSEE DE),30.0
+887607,21018A83-,KLAKKEDELLE,1171215,101,1,female,637060,3,single,7,Stay at home,21018A83-,KLAKKEDELLE,30.0
+887712,21018A83-,KLAKKEDELLE,1171333,68,1,female,637130,1,couple_with_child,7,Stay at home,21018A83-,KLAKKEDELLE,30.0
+887851,21018A3MJ,GULLEDELLE,1173486,88,0,male,638690,2,couple_no_child,7,Stay at home,21018A3MJ,GULLEDELLE,30.0
+887857,21018A3MJ,GULLEDELLE,1173495,94,1,female,638696,3,single,7,Stay at home,21018A3MJ,GULLEDELLE,30.0
+887871,21018A3MJ,GULLEDELLE,1173511,91,1,female,638707,2,couple_no_child,7,Stay at home,21018A3MJ,GULLEDELLE,30.0
+887961,21018A3MJ,GULLEDELLE,1173615,74,1,female,638776,3,single,7,Stay at home,21018A3MJ,GULLEDELLE,30.0
+888238,21019A231,KELLE,1178657,69,0,male,641368,4,single_with_child,7,Stay at home,21019A231,KELLE,30.0
+888282,21019A242,VENELLES,1178751,96,1,female,641429,2,couple_no_child,7,Stay at home,21019A242,VENELLES,30.0
+888381,21019A242,VENELLES,1178857,81,0,male,641513,2,couple_no_child,7,Stay at home,21019A242,VENELLES,30.0
+888452,21019A242,VENELLES,1178964,69,0,male,641569,1,couple_with_child,7,Stay at home,21019A242,VENELLES,30.0
+888727,21019A131,KONKEL,1181313,94,0,male,642957,2,couple_no_child,7,Stay at home,21019A131,KONKEL,30.0
+888911,21019A131,KONKEL,1181513,70,1,female,643087,3,single,7,Stay at home,21019A131,KONKEL,30.0
+888978,21019A131,KONKEL,1182898,92,0,male,643617,3,single,7,Stay at home,21019A131,KONKEL,30.0
+889149,21019A45-,HELICE (AVENUE DE L'),1183980,86,0,male,644293,2,couple_no_child,7,Stay at home,21019A45-,HELICE (AVENUE DE L'),30.0
+889298,21019A52-,DUC (RUE),1184981,96,1,female,644850,2,couple_no_child,7,Stay at home,21019A52-,DUC (RUE),30.0
+889304,21019A52-,DUC (RUE),1184988,88,0,male,644854,2,couple_no_child,7,Stay at home,21019A52-,DUC (RUE),30.0
+889404,21019A52-,DUC (RUE),1186065,90,0,male,645361,3,single,7,Stay at home,21019A52-,DUC (RUE),30.0
+889410,21019A52-,DUC (RUE),1186071,84,0,male,645367,3,single,7,Stay at home,21019A52-,DUC (RUE),30.0
+889909,21019A03-,CAPITAINE PIRET (AVENUE),1189566,86,1,female,647483,3,single,7,Stay at home,21019A03-,CAPITAINE PIRET (AVENUE),30.0
+889930,21019A03-,CAPITAINE PIRET (AVENUE),1189587,79,1,female,647497,3,single,7,Stay at home,21019A03-,CAPITAINE PIRET (AVENUE),30.0
+890180,21019A052,DON BOSCO,1191408,66,0,male,648419,2,couple_no_child,7,Stay at home,21019A052,DON BOSCO,30.0
+890200,21019A052,DON BOSCO,1191935,75,0,male,648670,3,single,7,Stay at home,21019A052,DON BOSCO,30.0
+890271,21019A001,CENTRE,1192295,82,0,male,648985,2,couple_no_child,7,Stay at home,21019A001,CENTRE,30.0
+890451,21019A34-,EUROPE (QUARTIER DE L'),1194040,89,1,female,649909,2,couple_no_child,7,Stay at home,21019A34-,EUROPE (QUARTIER DE L'),30.0
+890638,21019A30-,EGLANTINES (AVENUE),1195266,98,1,female,650550,3,single,7,Stay at home,21019A30-,EGLANTINES (AVENUE),30.0
+890704,21019A30-,EGLANTINES (AVENUE),1195335,75,1,female,650596,3,single,7,Stay at home,21019A30-,EGLANTINES (AVENUE),30.0
+890816,21019A33-,MIMOSAS (AVENUE),1196330,83,0,male,651088,2,couple_no_child,7,Stay at home,21019A33-,MIMOSAS (AVENUE),30.0
+890830,21019A33-,MIMOSAS (AVENUE),1196344,84,1,female,651099,3,single,7,Stay at home,21019A33-,MIMOSAS (AVENUE),30.0
+891119,21019A11-,MILLE METRES (AVENUE),1199149,69,1,female,652669,2,couple_no_child,7,Stay at home,21019A11-,MILLE METRES (AVENUE),30.0
+891267,21019A31-,BEMEL,1200254,87,0,male,653263,2,couple_no_child,7,Stay at home,21019A31-,BEMEL,30.0
+891273,21019A31-,BEMEL,1200260,81,1,female,653268,3,single,7,Stay at home,21019A31-,BEMEL,30.0
+891450,21019A32-,CHANT D'OISEAU,1201624,99,1,female,654024,2,couple_no_child,7,Stay at home,21019A32-,CHANT D'OISEAU,30.0
+891466,21019A32-,CHANT D'OISEAU,1201643,90,0,male,654037,2,couple_no_child,7,Stay at home,21019A32-,CHANT D'OISEAU,30.0
+891766,21019A32-,CHANT D'OISEAU,1201984,67,1,female,654261,3,single,7,Stay at home,21019A32-,CHANT D'OISEAU,30.0
+891796,21019A32-,CHANT D'OISEAU,1202091,65,0,male,654316,2,couple_no_child,7,Stay at home,21019A32-,CHANT D'OISEAU,30.0
+891832,21019A32-,CHANT D'OISEAU,1204137,75,0,male,655162,3,single,7,Stay at home,21019A32-,CHANT D'OISEAU,30.0
+892195,21019A20-,SAINT-PAUL,1206313,94,0,male,656498,2,couple_no_child,7,Stay at home,21019A20-,SAINT-PAUL,30.0
+892480,21019A14-,VAL DE SEIGNEURS,1207818,86,1,female,657226,3,single,7,Stay at home,21019A14-,VAL DE SEIGNEURS,30.0
+892550,21019A14-,VAL DE SEIGNEURS,1207890,75,1,female,657278,2,couple_no_child,7,Stay at home,21019A14-,VAL DE SEIGNEURS,30.0
+892836,21019A10-,STOCKEL,1209741,90,1,female,658306,3,single,7,Stay at home,21019A10-,STOCKEL,30.0
+893264,21019A21-,MANOIR,1212482,94,1,female,659882,3,single,7,Stay at home,21019A21-,MANOIR,30.0
+893268,21019A21-,MANOIR,1212486,93,1,female,659885,2,couple_no_child,7,Stay at home,21019A21-,MANOIR,30.0
+893843,21019A40-,SAINTE-ALIX,1214596,67,0,male,661004,2,couple_no_child,7,Stay at home,21019A40-,SAINTE-ALIX,30.0
+894025,21019A15-,KAPELLEVELD,1217431,90,1,female,662338,3,single,7,Stay at home,21019A15-,KAPELLEVELD,30.0
+894271,21019A42-,SALOME AVENUE,1219252,97,1,female,663433,3,single,7,Stay at home,21019A42-,SALOME AVENUE,30.0
+894686,21019A441,FAISANDERIE,1221314,94,0,male,664688,2,couple_no_child,7,Stay at home,21019A441,FAISANDERIE,30.0
+894859,21019A41-,CITE JOLI-BOIS,1221883,78,1,female,665025,2,couple_no_child,7,Stay at home,21019A41-,CITE JOLI-BOIS,30.0
+894914,21019A41-,CITE JOLI-BOIS,1221961,67,1,female,665070,1,couple_with_child,7,Stay at home,21019A41-,CITE JOLI-BOIS,30.0
