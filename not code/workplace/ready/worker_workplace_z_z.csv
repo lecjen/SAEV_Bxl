@@ -1,0 +1,40 @@
+,SectorStatID,SectorStatName,PersID,Age,GenderID,GenderName,ChildOrParent,HouseholdID,HouseholdTypeID,HouseholdTypeName,Commune,WorkerID,WorkerType,WorkSectorStatID,WorkSectorStatName
+0,21001B241,REVISION-SUD,113956,30,0,male,child,60255,4,single_with_child,Anderlecht,6,Worker,21001B31-,ALBERT I- IMMEUBLES
+1,21001C512,CHANTS D'OISEAUX,35287,45,1,female,parent,19255,1,couple_with_child,Anderlecht,6,Worker,21001A81-,BROECK
+2,21001A911,SCHEUT-EST,92611,54,1,female,parent,49774,3,single,Anderlecht,6,Worker,21001A00-,RESISTANCE
+3,21001A34-,ROUE - CITE JARDIN,28784,64,0,male,parent,15766,1,couple_with_child,Anderlecht,6,Worker,21001C70-,BON AIR - CENTRE
+4,21001A051,LINDE-EST,66697,48,0,male,parent,36101,3,single,Anderlecht,6,Worker,21006A073,GARE DE FORMATION
+5,21001A95-,BUFFON,107362,44,1,female,parent,56915,2,couple_no_child,Anderlecht,6,Worker,21019A32-,CHANT D'OISEAU
+6,21001A84-,POESIE,27276,47,0,male,child,15033,1,couple_with_child,Anderlecht,6,Worker,21001A37-,ZUEN - INDUSTRIE
+7,21004E83-,STIENON (AVENUE),324172,18,1,female,parent,177628,3,single,Bruxelles,6,Worker,21006A101,CONSCIENCE
+8,21004E130,SACRE-COEUR,329954,57,1,female,parent,180412,5,colloc,Bruxelles,6,Worker,21004D600,PARVIS SAINT-ROCH
+9,21004D600,PARVIS SAINT-ROCH,378476,60,1,female,parent,206050,1,couple_with_child,Bruxelles,6,Worker,21009A00-,CENTRE
+10,21004A70-,BLAES (RUE)-SUD,252635,41,1,female,parent,135856,1,couple_with_child,Bruxelles,6,Worker,21001A332,ROUE
+11,21006A011,CENTRE,472502,57,1,female,parent,259161,4,single_with_child,Evere,6,Worker,21009A42-,RENIER CHALON
+12,21007A541,LYCEE,498726,36,0,male,parent,272902,3,single,Forest,6,Worker,21004G3MJ,DOBBELENBERG (RUE DE)
+13,21007A53-,WIELEMANS CEUPPENS,491143,57,0,male,parent,269022,1,couple_with_child,Forest,6,Worker,21016A831,LONGCHAMP
+14,21009A451,CHATELAIN (PLACE DU)-EST,592717,50,0,male,parent,329708,3,single,Ixelles,6,Worker,21004E74-,EM. DELVA (RUE)
+15,21009A101,FLAGEY (PLACE),521672,58,1,female,parent,285073,3,single,Ixelles,6,Worker,21009A311,TREILLE (RUE DE LA)
+16,21009A52-,GRAY (RUE),554314,54,1,female,parent,305246,1,couple_with_child,Ixelles,6,Worker,21009A451,CHATELAIN (PLACE DU)-EST
+17,21009A101,FLAGEY (PLACE),521595,61,1,female,parent,285032,3,single,Ixelles,6,Worker,21009A01-,BLYCKAERTS
+18,21009A73-,BERCKENDAEL,588103,61,0,male,parent,327118,1,couple_with_child,Ixelles,6,Worker,21009A501,LUXEMBOURG (PLACE DE)
+19,21009A63-,MACAU,529943,35,1,female,parent,290236,3,single,Ixelles,6,Worker,21009A051,SAINT-BONIFACE
+20,21009A52-,GRAY (RUE),555119,40,1,female,parent,305570,1,couple_with_child,Ixelles,6,Worker,21001B11-,ROSEE-OUEST
+21,21013A201,ANGLETERRE (RUE D'),794268,35,1,female,child,433408,1,couple_with_child,Saint-Gilles,6,Worker,21013A422,CRICKX (RUE)
+22,21013A101,PARVIS,779419,43,0,male,parent,425059,3,single,Saint-Gilles,6,Worker,21013A121,GUILLAUME TELL-SUD
+23,21013A40-,BARRIERE,818269,32,0,male,parent,447491,3,single,Saint-Gilles,6,Worker,21013A422,CRICKX (RUE)
+24,21013A23-,ROI (AVENUE DU),799388,18,0,male,child,435962,4,single_with_child,Saint-Gilles,6,Worker,21013A121,GUILLAUME TELL-SUD
+25,21014A12-,SAINT-LAZARE,844294,44,0,male,parent,462179,3,single,Saint-Josse-ten-Noode,6,Worker,21004A83-,E. JACQMAIN (BOULEVARD)-OUEST
+26,21014A10-,SAINT-FRANCOIS,840564,52,1,female,parent,460113,1,couple_with_child,Saint-Josse-ten-Noode,6,Worker,21004A20-,BOURSE-NORD-OUEST
+27,21014A03-,MADOU,843417,33,1,female,parent,461675,4,single_with_child,Saint-Josse-ten-Noode,6,Worker,21004A32-,CONGRES - GARE
+28,21014A04-,HAECHT (CHAUSSEE DE),846502,48,1,female,parent,463192,3,single,Saint-Josse-ten-Noode,6,Worker,21014A41-,BOSSUET
+29,21014A01-,STEURS,844708,31,1,female,child,462388,1,couple_with_child,Saint-Josse-ten-Noode,6,Worker,21014A2MJ,NORD
+30,21014A05-,HOUWAERT,855391,46,0,male,parent,467542,3,single,Saint-Josse-ten-Noode,6,Worker,21014A00-,PLACE SAINT-JOSSE
+31,21014A02-,CHARITE,833747,59,0,male,parent,456482,3,single,Saint-Josse-ten-Noode,6,Worker,21014A04-,HAECHT (CHAUSSEE DE)
+32,21014A02-,CHARITE,834126,30,1,female,parent,456801,5,colloc,Saint-Josse-ten-Noode,6,Worker,21004G3MJ,DOBBELENBERG (RUE DE)
+33,21014A02-,CHARITE,833914,35,0,male,parent,456649,3,single,Saint-Josse-ten-Noode,6,Worker,21017A000,CENTRE DE BOITSFORT
+34,21014A05-,HOUWAERT,851911,43,1,female,parent,465868,2,couple_no_child,Saint-Josse-ten-Noode,6,Worker,21004A14-,GRAND SABLON
+35,21014A12-,SAINT-LAZARE,844339,27,0,male,parent,462224,3,single,Saint-Josse-ten-Noode,6,Worker,21014A04-,HAECHT (CHAUSSEE DE)
+36,21015A35-,JEAN STOBBAERTS (AVENUE),909076,26,1,female,parent,495815,4,single_with_child,Schaerbeek,6,Worker,21004A72-,SAINT-THOMAS (INSTITUT)
+37,21015A13-,PORTAELS (RUE),983067,41,0,male,parent,532432,5,colloc,Schaerbeek,6,Worker,21001C522,HOPITAL U.L.B.
+38,21015A021,HOUFFALIZE (PLACE),893857,33,0,male,parent,488040,3,single,Schaerbeek,6,Worker,21004F930,COIN DES CERISES

@@ -1,0 +1,144 @@
+,SectorStatID,SectorStatName,PersID,Age,GenderID,GenderName,ChildOrParent,HouseholdID,HouseholdTypeID,HouseholdTypeName,Code,Commune,WorkerID,WorkerType,WorkSectorStatID,WorkSectorStatName
+0,21015A831,LATINIS (AVENUE G.),883651,17,1,female,child,483314,1,couple_with_child,21015A831,Schaerbeek,5,Unif off campus,21016A533,MOENSBERG
+1,21007A21-,MAGNANERIE,485794,17,0,male,child,265974,1,couple_with_child,21007A21-,Forest,5,Unif off campus,21004F970,MARLY-NORD
+2,21015A54-,EMERAUDE (AVENUE),915142,17,1,female,child,499185,1,couple_with_child,21015A54-,Schaerbeek,5,Unif off campus,21001C522,HOPITAL U.L.B.
+3,21010A312,BAECK DUPRE,609144,17,1,female,child,338377,1,couple_with_child,21010A312,Jette,5,Unif off campus,21017A09-,FORET DE SOIGNES
+4,21010A05-,ALBERT (QUARTIER),615833,17,1,female,child,341481,4,single_with_child,21010A05-,Jette,5,Unif off campus,21017A09-,FORET DE SOIGNES
+5,21015A32-,CONSOLATION (RUE DE LA),900128,17,1,female,child,491318,1,couple_with_child,21015A32-,Schaerbeek,5,Unif off campus,21016A533,MOENSBERG
+6,21015A152,PR. ELISABETH-NORD,932773,17,1,female,child,508179,1,couple_with_child,21015A152,Schaerbeek,5,Unif off campus,21016A521,VERREWINKEL
+7,21010A01-,ESSEGHEM,637488,17,1,female,child,352726,1,couple_with_child,21010A01-,Jette,5,Unif off campus,21017A09-,FORET DE SOIGNES
+8,21010A04-,NOTRE-DAME DE LOURDES,595614,17,1,female,child,331265,1,couple_with_child,21010A04-,Jette,5,Unif off campus,21017A09-,FORET DE SOIGNES
+9,21004A04-,NOTRE-DAME DE LA CHAPELLE,272777,17,1,female,child,148892,1,couple_with_child,21004A04-,Bruxelles,5,Unif off campus,21004C642,AVENUE FRANKLIN ROOSEVELT
+10,21015A721,F. COURTENS (AVENUE),874786,17,1,female,child,478696,1,couple_with_child,21015A721,Schaerbeek,5,Unif off campus,21004C642,AVENUE FRANKLIN ROOSEVELT
+11,21002A12-,AVENUE SCHALLER,157894,17,1,female,child,83662,1,couple_with_child,21002A12-,Auderghem,5,Unif off campus,21004C642,AVENUE FRANKLIN ROOSEVELT
+12,21004D672,QUAI DE WILLEBROECK,362615,17,0,male,child,197452,4,single_with_child,21004D672,Bruxelles,5,Unif off campus,21004C642,AVENUE FRANKLIN ROOSEVELT
+13,21003A04-,L. DE SMET,168078,17,0,male,child,89095,1,couple_with_child,21003A04-,Berchem Sainte-Agathe,5,Unif off campus,21015A13-,PORTAELS (RUE)
+14,21019A32-,CHANT D'OISEAU,1202681,17,1,female,child,654561,1,couple_with_child,21019A32-,Woluwe Saint-Pierre,5,Unif off campus,21009A501,LUXEMBOURG (PLACE DE)
+15,21016A620,KRIEKENPUT,1053754,17,1,female,child,571089,1,couple_with_child,21016A620,Uccle,5,Unif off campus,21001B25-,REVISION-NORD
+16,21016A102,GROESELENBERG,1064657,17,0,male,child,576687,4,single_with_child,21016A102,Uccle,5,Unif off campus,21001B25-,REVISION-NORD
+17,21009A73-,BERCKENDAEL,588065,17,1,female,child,327100,4,single_with_child,21009A73-,Ixelles,5,Unif off campus,21019A52-,DUC (RUE)
+18,21004G30-,SAINTE-ELISABETH,202699,17,0,male,child,107504,1,couple_with_child,21004G30-,Bruxelles,5,Unif off campus,21019A52-,DUC (RUE)
+19,21018A20-,GEORGES HENRI (AVENUE),1116237,17,0,male,child,605735,1,couple_with_child,21018A20-,Woluwe Saint-Lambert,5,Unif off campus,21019A52-,DUC (RUE)
+20,21016A831,LONGCHAMP,1011349,17,0,male,child,547430,1,couple_with_child,21016A831,Uccle,5,Unif off campus,21002A12-,AVENUE SCHALLER
+21,21001A142,VEEWEYDE-NORD,64941,17,0,male,child,35246,4,single_with_child,21001A142,Anderlecht,5,Unif off campus,21007A70-,ALTITUDE  CENT
+22,21004E12-,PRINCE LEOPOLD (SQUARE),349362,17,1,female,child,190311,1,couple_with_child,21004E12-,Bruxelles,5,Unif off campus,21018A37-,COMMUNAUTES
+23,21004A14-,GRAND SABLON,280967,17,1,female,parent,154329,5,colloc,21004A14-,Bruxelles,5,Unif off campus,21018A37-,COMMUNAUTES
+24,21015A54-,EMERAUDE (AVENUE),914802,17,1,female,child,499038,1,couple_with_child,21015A54-,Schaerbeek,5,Unif off campus,21018A37-,COMMUNAUTES
+25,21017A13-,BOULEAUX,1108413,17,1,female,child,601272,1,couple_with_child,21017A13-,Watermael-Boitsfort,5,Unif off campus,21018A37-,COMMUNAUTES
+26,21005A11-,NOTRE-DAME DU SACRE-COEUR,420392,17,0,male,child,230005,4,single_with_child,21005A11-,Etterbeek,5,Unif off campus,21018A37-,COMMUNAUTES
+27,21012A851,CONDOR,696473,17,0,male,child,382752,1,couple_with_child,21012A851,Molenbeek Saint-Jean,5,Unif off campus,21018A37-,COMMUNAUTES
+28,21001A81-,BROECK,49013,17,0,male,child,26997,1,couple_with_child,21001A81-,Anderlecht,5,Unif off campus,21006A515,CARLI
+29,21001A52-,SCHERDEMAEL-NORD,23735,17,0,male,child,13130,1,couple_with_child,21001A52-,Anderlecht,5,Unif off campus,21016A214,ASTRONOMES
+30,21001A051,LINDE-EST,66895,17,0,male,parent,36226,5,colloc,21001A051,Anderlecht,5,Unif off campus,21006A23-,DU BONHEUR
+31,21001A31-,CHAUSSEE DE MONS - SAINT-LUC,51012,17,0,male,child,28079,1,couple_with_child,21001A31-,Anderlecht,5,Unif off campus,21004A001,GRAND-PLACE
+32,21001A112,BIESTEBROEK,124050,17,0,male,child,65406,4,single_with_child,21001A112,Anderlecht,5,Unif off campus,21015A272,HOPITAL P. BRIEN
+33,21002A511,INVALIDES (BOULEVARD DES),129173,17,0,male,child,68318,1,couple_with_child,21002A511,Auderghem,5,Unif off campus,21013A00-,HOTEL DE VILLE
+34,21002A12-,AVENUE SCHALLER,157675,17,0,male,child,83577,1,couple_with_child,21002A12-,Auderghem,5,Unif off campus,21004A13-,PETIT SABLON
+35,21002A030,LAMMERENDRIES,151653,17,0,male,child,80333,1,couple_with_child,21002A030,Auderghem,5,Unif off campus,21002A00-,CENTRE - NORD
+36,21004D64-,MASUI (PLACE)-NORD,341721,17,0,male,child,186289,1,couple_with_child,21004D64-,Bruxelles,5,Unif off campus,21009A121,GENERAL DE GAULLE
+37,21004E70-,MARIE-CHRISTINE (RUE),302814,17,0,male,child,167424,4,single_with_child,21004E70-,Bruxelles,5,Unif off campus,21007A21-,MAGNANERIE
+38,21004E74-,EM. DELVA (RUE),309114,17,0,male,child,170439,4,single_with_child,21004E74-,Bruxelles,5,Unif off campus,21004G3MJ,DOBBELENBERG (RUE DE)
+39,21004A21-,ANNEESSENS (PLACE),297843,17,0,male,parent,164790,5,colloc,21004A21-,Bruxelles,5,Unif off campus,21010A00-,CENTRE
+40,21004E83-,STIENON (AVENUE),321578,17,0,male,child,176652,1,couple_with_child,21004E83-,Bruxelles,5,Unif off campus,21001B11-,ROSEE-OUEST
+41,21004A70-,BLAES (RUE)-SUD,252485,17,0,male,child,135795,1,couple_with_child,21004A70-,Bruxelles,5,Unif off campus,21016A912,GLOBE-OUEST
+42,21004A83-,E. JACQMAIN (BOULEVARD)-OUEST,228737,17,0,male,child,122758,1,couple_with_child,21004A83-,Bruxelles,5,Unif off campus,21016A490,KAUWBERG
+43,21004B421,MARIE-LOUISE (SQUARE),189699,17,0,male,child,100261,1,couple_with_child,21004B421,Bruxelles,5,Unif off campus,21004E73-,EM. BOCKSTAEL (BOULEVARD)-SUD
+44,21005A322,NOUVELLE AVENUE-SUD,405809,17,0,male,child,221739,1,couple_with_child,21005A322,Etterbeek,5,Unif off campus,21018A87-,SAINT-LUC
+45,21006A142,ED. DEKNOOP (RUE),475135,17,0,male,child,260351,4,single_with_child,21006A142,Evere,5,Unif off campus,21015A32-,CONSOLATION (RUE DE LA)
+46,21006A001,VIEIL EVERE,462451,17,0,male,child,253508,1,couple_with_child,21006A001,Evere,5,Unif off campus,21007A373,CHARROI (RUE DE)
+47,21006A042,KERKHOEK,477106,17,0,male,child,261255,1,couple_with_child,21006A042,Evere,5,Unif off campus,21004A30-,SAINT-MICHEL ET GUDULE
+48,21007A04-,FOYER FORESTOIS - MADELON,505635,17,0,male,parent,276528,5,colloc,21007A04-,Forest,5,Unif off campus,21017A11-,FLOREAL
+49,21009A53-,LONDRES (PLACE DE),580063,17,0,male,child,321586,1,couple_with_child,21009A53-,Ixelles,5,Unif off campus,21004F9MJ,NEDER-HEEMBEEK-NORD
+50,21009A111,WERY (RUE),568081,17,0,male,child,314238,4,single_with_child,21009A111,Ixelles,5,Unif off campus,21009A2MJ,CAMPUS UNIVERSITAIRE
+51,21009A82-,FORET,566827,17,0,male,child,313450,4,single_with_child,21009A82-,Ixelles,5,Unif off campus,21002A43-,SOUVERAIN (BOULEVARD DU) NORD
+52,21009A52-,GRAY (RUE),553913,17,0,male,child,305067,4,single_with_child,21009A52-,Ixelles,5,Unif off campus,21019A43-,CORNICHE VERTE
+53,21009A33-,SAINT-ADRIEN,539615,17,0,male,child,296333,4,single_with_child,21009A33-,Ixelles,5,Unif off campus,21006A12-,GERMINAL I
+54,21009A33-,SAINT-ADRIEN,541258,17,0,male,child,297127,4,single_with_child,21009A33-,Ixelles,5,Unif off campus,21012A851,CONDOR
+55,21010A03-,MIROIR,599207,17,0,male,child,333137,1,couple_with_child,21010A03-,Jette,5,Unif off campus,21010A182,DIELEGEM (BOIS DE)
+56,21010A02-,LEOPOLD I,647034,17,0,male,child,357357,1,couple_with_child,21010A02-,Jette,5,Unif off campus,21008A38-,PARC DE RIVIEREN
+57,21010A21-,MADELEINE,640785,17,0,male,child,354495,1,couple_with_child,21010A21-,Jette,5,Unif off campus,21012A041,QUATRE VENTS
+58,21011A01-,SAINTE-ANNE,662751,17,0,male,child,365225,1,couple_with_child,21011A01-,Koekelberg,5,Unif off campus,21002A22-,CANARIS (AVENUE DES)
+59,21012A72-,LAVALLEE,724983,17,0,male,child,396640,4,single_with_child,21012A72-,Molenbeek Saint-Jean,5,Unif off campus,21019A242,VENELLES
+60,21012A62-,LIBERATEURS,712915,17,0,male,child,390638,1,couple_with_child,21012A62-,Molenbeek Saint-Jean,5,Unif off campus,21002A422,AVENUE IS.GERARD
+61,21012A141,INDEPENDANCE,766333,17,0,male,child,418036,1,couple_with_child,21012A141,Molenbeek Saint-Jean,5,Unif off campus,21009A73-,BERCKENDAEL
+62,21012A511,STEYNS,719858,17,0,male,child,394143,4,single_with_child,21012A511,Molenbeek Saint-Jean,5,Unif off campus,21003A312,POTAARDE  VLAK
+63,21012A62-,LIBERATEURS,716281,17,0,male,parent,392257,5,colloc,21012A62-,Molenbeek Saint-Jean,5,Unif off campus,21019A15-,KAPELLEVELD
+64,21013A211,FONTAINAS,809338,17,0,male,child,441905,1,couple_with_child,21013A211,Saint-Gilles,5,Unif off campus,21009A602,BELVEDERE
+65,21013A00-,HOTEL DE VILLE,824644,17,0,male,child,451148,1,couple_with_child,21013A00-,Saint-Gilles,5,Unif off campus,21017A512,VANDER ELST - BIEN FAIRE
+66,21014A04-,HAECHT (CHAUSSEE DE),846459,17,0,male,child,463179,4,single_with_child,21014A04-,Saint-Josse-ten-Noode,5,Unif off campus,21002A311,AMITIE (PLACE DE L')
+67,21015A01-,VAN YSENDYCK (RUE),977053,17,0,male,child,529654,1,couple_with_child,21015A01-,Schaerbeek,5,Unif off campus,21010A1AJ,ARBRE BALLON
+68,21015A52-,LINTHOUT (RUE),919778,17,0,male,child,501661,1,couple_with_child,21015A52-,Schaerbeek,5,Unif off campus,21006A312,J. BORDET (AVENUE DE)
+69,21015A111,MAETERLINCK,939564,17,0,male,parent,511415,5,colloc,21015A111,Schaerbeek,5,Unif off campus,21012A152,ETANGS NOIRS
+70,21015A12-,HUART HAMOIR (AVENUE),929329,17,0,male,child,506575,1,couple_with_child,21015A12-,Schaerbeek,5,Unif off campus,21016A400,SAINT-JOB
+71,21015A20-,HELMET,990702,17,0,male,child,536221,4,single_with_child,21015A20-,Schaerbeek,5,Unif off campus,21002A30-,TRIOMPHE (BOULEVARD DU)
+72,21015A04-,L'OLIVIER (RUE),944939,17,0,male,child,514015,4,single_with_child,21015A04-,Schaerbeek,5,Unif off campus,21002A53-,PECHERIES
+73,21015A831,LATINIS (AVENUE G.),882620,17,0,male,child,482895,1,couple_with_child,21015A831,Schaerbeek,5,Unif off campus,21014A02-,CHARITE
+74,21015A21-,GUIDO GEZELLE (RUE),996075,17,0,male,child,538650,1,couple_with_child,21015A21-,Schaerbeek,5,Unif off campus,21002A482,VAL DUCHESSE
+75,21016A02-,ALSEMBERG-NORD,1022345,17,0,male,child,553705,1,couple_with_child,21016A02-,Uccle,5,Unif off campus,21012A50-,BENES
+76,21016A042,ECHEVINAGE,1017585,17,0,male,child,551245,1,couple_with_child,21016A042,Uccle,5,Unif off campus,21001A112,BIESTEBROEK
+77,21016A232,BEAU SEJOUR,1009681,17,0,male,child,546445,1,couple_with_child,21016A232,Uccle,5,Unif off campus,21002A041,VIGNETTE
+78,21017A212,AVENUE DE LA TENDERIE,1109608,17,0,male,child,601997,1,couple_with_child,21017A212,Watermael-Boitsfort,5,Unif off campus,21004B2WJ,RUE DE PASCAL - ST.-SACREMENT
+79,21017A01-,COIN DU BALAI,1104566,17,0,male,child,599078,1,couple_with_child,21017A01-,Watermael-Boitsfort,5,Unif off campus,21009A451,CHATELAIN (PLACE DU)-EST
+80,21017A451,FUTAIE,1112574,17,0,male,child,603693,4,single_with_child,21017A451,Watermael-Boitsfort,5,Unif off campus,21015A21-,GUIDO GEZELLE (RUE)
+81,21018A35-,HOF TEN BERG-NORD,1125411,17,0,male,child,611063,4,single_with_child,21018A35-,Woluwe Saint-Lambert,5,Unif off campus,21004B411,DEUX EGLISES (RUE DES)
+82,21018A02-,SLEGERS (AVENUE),1140313,17,0,male,child,619421,1,couple_with_child,21018A02-,Woluwe Saint-Lambert,5,Unif off campus,21004E72-,MAISON ROUGE (PLACE)-SUD
+83,21019A42-,SALOME AVENUE,1219632,17,0,male,child,663653,1,couple_with_child,21019A42-,Woluwe Saint-Pierre,5,Unif off campus,21004B2WJ,RUE DE PASCAL - ST.-SACREMENT
+84,21019A20-,SAINT-PAUL,1206673,17,0,male,child,656648,1,couple_with_child,21019A20-,Woluwe Saint-Pierre,5,Unif off campus,21016A731,ROETAERT
+85,21019A11-,MILLE METRES (AVENUE),1199183,17,0,male,child,652681,4,single_with_child,21019A11-,Woluwe Saint-Pierre,5,Unif off campus,21007A783,PARC DE FOREST
+86,21001A031,RAUTER-SUD,52093,17,1,female,child,28622,1,couple_with_child,21001A031,Anderlecht,5,Unif off campus,21001A331,WALCOURT
+87,21001B20-,CONSEIL-NORD,57340,17,1,female,child,31410,4,single_with_child,21001B20-,Anderlecht,5,Unif off campus,21001C70-,BON AIR - CENTRE
+88,21001C6PB,ZONE RURALE,1223518,17,1,female,child,665877,1,couple_with_child,21001C6PB,Anderlecht,5,Unif off campus,21009A812,SCHOOLGAT
+89,21001B20-,CONSEIL-NORD,61715,17,1,female,child,33299,4,single_with_child,21001B20-,Anderlecht,5,Unif off campus,21001A72-,OSSEGEM
+90,21001A011,KLEINMOLEN,83125,17,1,female,child,44808,4,single_with_child,21001A011,Anderlecht,5,Unif off campus,21009A501,LUXEMBOURG (PLACE DE)
+91,21001B25-,REVISION-NORD,75100,17,1,female,child,40611,1,couple_with_child,21001B25-,Anderlecht,5,Unif off campus,21002A072,CENTRE COMMERCIAL
+92,21002A23-,TH. BALIS (PLACE),132007,17,1,female,child,69714,1,couple_with_child,21002A23-,Auderghem,5,Unif off campus,21002A492,WOLUWE PARC
+93,21002A00-,CENTRE - NORD,148809,17,1,female,child,78816,4,single_with_child,21002A00-,Auderghem,5,Unif off campus,21003A212,CLOS DU ZAVELENBERG
+94,21003A41-,MONNET,184762,17,1,female,child,97576,1,couple_with_child,21003A41-,Berchem Sainte-Agathe,5,Unif off campus,21015A30-,GRANDE RUE AU BOIS
+95,21003A323,SEPT ETOILES,165379,17,1,female,child,87562,1,couple_with_child,21003A323,Berchem Sainte-Agathe,5,Unif off campus,21016A692,CIMETIERE - ST.-GILLES
+96,21004E74-,EM. DELVA (RUE),309011,17,1,female,child,170400,1,couple_with_child,21004E74-,Bruxelles,5,Unif off campus,21004D62-,ANVERS (CHAUSSEE D')-NORD
+97,21004E74-,EM. DELVA (RUE),306527,17,1,female,child,169535,4,single_with_child,21004E74-,Bruxelles,5,Unif off campus,21007A252,MESSIDOR II
+98,21004E70-,MARIE-CHRISTINE (RUE),304927,17,1,female,child,168455,4,single_with_child,21004E70-,Bruxelles,5,Unif off campus,21004E292,AVENUE DES CROIX DU FEU
+99,21004E70-,MARIE-CHRISTINE (RUE),301794,17,1,female,child,167086,1,couple_with_child,21004E70-,Bruxelles,5,Unif off campus,21015A31-,PATRIE
+100,21004D64-,MASUI (PLACE)-NORD,341357,17,1,female,child,186166,1,couple_with_child,21004D64-,Bruxelles,5,Unif off campus,21001A503,VIVES
+101,21004E73-,EM. BOCKSTAEL (BOULEVARD)-SUD,331039,17,1,female,child,181290,1,couple_with_child,21004E73-,Bruxelles,5,Unif off campus,21001A011,KLEINMOLEN
+102,21004F930,COIN DES CERISES,206641,17,1,female,child,109312,1,couple_with_child,21004F930,Bruxelles,5,Unif off campus,21001A37-,ZUEN - INDUSTRIE
+103,21005A042,PH. BAUCQ (RUE),387854,17,1,female,child,211119,1,couple_with_child,21005A042,Etterbeek,5,Unif off campus,21004C51-,LOUISE (AVENUE)-NORD-EST
+104,21005A12-,SAINT-ANTOINE,430114,17,1,female,child,235442,1,couple_with_child,21005A12-,Etterbeek,5,Unif off campus,21018A33-,NEERVELD
+105,21005A20-,PORTE DE TERVUEREN - TONGRES,408271,17,1,female,child,223035,1,couple_with_child,21005A20-,Etterbeek,5,Unif off campus,21015A73-,H. EVENEPOEL (RUE)
+106,21005A14-,ARMEE (AVENUE DE L'),398027,17,1,female,child,217036,1,couple_with_child,21005A14-,Etterbeek,5,Unif off campus,21009A52-,GRAY (RUE)
+107,21006A042,KERKHOEK,476932,17,1,female,child,261192,1,couple_with_child,21006A042,Evere,5,Unif off campus,21007A373,CHARROI (RUE DE)
+108,21006A153,KEET,438115,17,1,female,child,240645,1,couple_with_child,21006A153,Evere,5,Unif off campus,21006A142,ED. DEKNOOP (RUE)
+109,21007A101,BOURGOGNE,510245,17,1,female,child,278940,1,couple_with_child,21007A101,Forest,5,Unif off campus,21005A11-,NOTRE-DAME DU SACRE-COEUR
+110,21007A61-,MONTENEGRO (RUE),500338,17,1,female,child,273716,1,couple_with_child,21007A61-,Forest,5,Unif off campus,21015A421,PALAIS (RUE DE)
+111,21007A101,BOURGOGNE,510288,17,1,female,child,278958,1,couple_with_child,21007A101,Forest,5,Unif off campus,21010A393,SACRE-COEUR
+112,21009A33-,SAINT-ADRIEN,540901,17,1,female,child,296951,1,couple_with_child,21009A33-,Ixelles,5,Unif off campus,21012A29-,MARIE-JOSE (PARC)
+113,21009A111,WERY (RUE),568858,17,1,female,child,314593,1,couple_with_child,21009A111,Ixelles,5,Unif off campus,21001A931,AGRAFE-NORBERT GILLE
+114,21009A40-,MELEZES,535673,17,1,female,child,293842,1,couple_with_child,21009A40-,Ixelles,5,Unif off campus,21014A01-,STEURS
+115,21011A20-,PLATEAU,656007,17,1,female,child,361740,4,single_with_child,21011A20-,Koekelberg,5,Unif off campus,21013A201,ANGLETERRE (RUE D')
+116,21012A00-,CENTRE,693217,17,1,female,child,380915,1,couple_with_child,21012A00-,Molenbeek Saint-Jean,5,Unif off campus,21003A2MJ,GARE
+117,21012A851,CONDOR,696642,17,1,female,child,382824,1,couple_with_child,21012A851,Molenbeek Saint-Jean,5,Unif off campus,21004A25-,BEGUINAGE (PLACE DU)
+118,21012A822,KORENBEEK,763463,17,1,female,parent,416457,5,colloc,21012A822,Molenbeek Saint-Jean,5,Unif off campus,21018A33-,NEERVELD
+119,21012A54-,DELHAIZE,729182,17,1,female,child,398779,1,couple_with_child,21012A54-,Molenbeek Saint-Jean,5,Unif off campus,21016A102,GROESELENBERG
+120,21012A41-,MOORTEBEEK,757904,17,1,female,child,413820,1,couple_with_child,21012A41-,Molenbeek Saint-Jean,5,Unif off campus,21007A75-,TOURNOI (RUE DU)
+121,21013A04-,PRISON,793083,17,1,female,child,432655,1,couple_with_child,21013A04-,Saint-Gilles,5,Unif off campus,21016A331,CHAUSSEE DE WATERLOO-OUEST
+122,21013A13-,DETHY (RUE),781269,17,1,female,child,426021,4,single_with_child,21013A13-,Saint-Gilles,5,Unif off campus,21004F94-,VAL MARIA
+123,21014A10-,SAINT-FRANCOIS,840644,17,1,female,child,460135,1,couple_with_child,21014A10-,Saint-Josse-ten-Noode,5,Unif off campus,21015A52-,LINTHOUT (RUE)
+124,21015A111,MAETERLINCK,937223,17,1,female,child,510518,1,couple_with_child,21015A111,Schaerbeek,5,Unif off campus,21013A052,FAIDER (RUE)
+125,21015A05-,ROYALE SAINTE-MARIE (RUE),925678,17,1,female,child,504591,1,couple_with_child,21015A05-,Schaerbeek,5,Unif off campus,21007A73-,BERCKENDAEL (RUE)
+126,21016A44-,PECHERIE,1069286,17,1,female,child,579353,1,couple_with_child,21016A44-,Uccle,5,Unif off campus,21001A37-,ZUEN - INDUSTRIE
+127,21016A85-,BRUGMANN,1015994,17,1,female,child,550156,1,couple_with_child,21016A85-,Uccle,5,Unif off campus,21012A141,INDEPENDANCE
+128,21016A81-,BASCULE,1000592,17,1,female,child,541150,1,couple_with_child,21016A81-,Uccle,5,Unif off campus,21009A911,A. DELPORTE-SUD
+129,21016A12-,HAMOIR,1066970,17,1,female,child,577973,1,couple_with_child,21016A12-,Uccle,5,Unif off campus,21004B293,LEOPOLD (PARC)
+130,21016A82-,CHURCHILL,1004093,17,1,female,child,543305,4,single_with_child,21016A82-,Uccle,5,Unif off campus,21012A23-,MACHTENS-SUD
+131,21016A03-,COGHEN,1019857,17,1,female,child,552349,1,couple_with_child,21016A03-,Uccle,5,Unif off campus,21013A51-,TOISON D'OR (AVENUE)
+132,21017A220,LE LOGIS-SUD,1095232,17,1,female,child,593504,1,couple_with_child,21017A220,Watermael-Boitsfort,5,Unif off campus,21012A20-,BAECK
+133,21017A041,DREVE DU DUC,1114405,17,1,female,child,604751,1,couple_with_child,21017A041,Watermael-Boitsfort,5,Unif off campus,21002A30-,TRIOMPHE (BOULEVARD DU)
+134,21018A04-,BEETEPUT,1139872,17,1,female,parent,619127,5,colloc,21018A04-,Woluwe Saint-Lambert,5,Unif off campus,21004G3MJ,DOBBELENBERG (RUE DE)
+135,21018A01-,SAINT-LAMBERT,1166248,17,1,female,child,634166,4,single_with_child,21018A01-,Woluwe Saint-Lambert,5,Unif off campus,21015A01-,VAN YSENDYCK (RUE)
+136,21018A33-,NEERVELD,1130769,17,1,female,child,614131,1,couple_with_child,21018A33-,Woluwe Saint-Lambert,5,Unif off campus,21010A4MJ,VUB
+137,21018A311,PARC SCHUMAN,1128303,17,1,female,child,612693,1,couple_with_child,21018A311,Woluwe Saint-Lambert,5,Unif off campus,21019A21-,MANOIR
+138,21018A21-,DE BROQUEVILLE (AVENUE)-NORD,1121642,17,1,female,child,609028,4,single_with_child,21018A21-,Woluwe Saint-Lambert,5,Unif off campus,21008A02-,SIPPELBERG
+139,21018A512,QUARTIER DES PEINTRES,1134821,17,1,female,child,616427,1,couple_with_child,21018A512,Woluwe Saint-Lambert,5,Unif off campus,21015A12-,HUART HAMOIR (AVENUE)
+140,21019A03-,CAPITAINE PIRET (AVENUE),1189738,17,1,female,child,647564,4,single_with_child,21019A03-,Woluwe Saint-Pierre,5,Unif off campus,21012A63-,DUBRUCQ-NORD
+141,21019A242,VENELLES,1179032,17,1,female,child,641602,1,couple_with_child,21019A242,Woluwe Saint-Pierre,5,Unif off campus,21001B10-,ROSEE-EST
+142,21019A31-,BEMEL,1200781,17,1,female,child,653504,1,couple_with_child,21019A31-,Woluwe Saint-Pierre,5,Unif off campus,21011A01-,SAINTE-ANNE

@@ -1,0 +1,77 @@
+,SectorStatID,SectorStatName,PersID,Age,GenderID,GenderName,ChildOrParent,HouseholdID,HouseholdTypeID,HouseholdTypeName,Commune,WorkerID,WorkerType,WorkSectorStatID,WorkSectorStatName
+0,21001B25-,REVISION-NORD,75494,46,1,female,parent,40746,1,couple_with_child,Anderlecht,6,Worker,21001C5MA,MEYLEMEERSCH
+1,21001A503,VIVES,7705,57,1,female,parent,4221,1,couple_with_child,Anderlecht,6,Worker,21003A2MJ,GARE
+2,21001B25-,REVISION-NORD,75587,45,1,female,parent,40780,4,single_with_child,Anderlecht,6,Worker,21004A10-,GARE CENTRALE
+3,21001A112,BIESTEBROEK,123357,58,1,female,parent,65142,1,couple_with_child,Anderlecht,6,Worker,21004A13-,PETIT SABLON
+4,21001A30-,BIZET,43219,41,0,male,parent,23684,1,couple_with_child,Anderlecht,6,Worker,21004D631,ALLEE VERTE - BASSIN VERGOTE
+5,21001A85-,AUBADE,20599,37,1,female,parent,11236,1,couple_with_child,Anderlecht,6,Worker,21005A00-,HOTEL COMMUNAL
+6,21001A051,LINDE-EST,66172,44,0,male,parent,35869,2,couple_no_child,Anderlecht,6,Worker,21013A242,BETHLEEM (PLACE DE)
+7,21001C512,CHANTS D'OISEAUX,35041,59,1,female,parent,19135,3,single,Anderlecht,6,Worker,21015A421,PALAIS (RUE DE)
+8,21002A041,VIGNETTE,160766,41,1,female,parent,85231,1,couple_with_child,Auderghem,6,Worker,21016A00-,GLOBE-EST
+9,21004A35-,AD. MAX (BOULEVARD),227265,39,1,female,parent,121771,3,single,Bruxelles,6,Worker,21004A002,BOURSE
+10,21004E82-,CITE MODELE,370315,39,1,female,child,201520,1,couple_with_child,Bruxelles,6,Worker,21004A002,BOURSE
+11,21004A13-,PETIT SABLON,299219,56,1,female,parent,165850,3,single,Bruxelles,6,Worker,21004A002,BOURSE
+12,21004A21-,ANNEESSENS (PLACE),296809,60,0,male,parent,163884,3,single,Bruxelles,6,Worker,21004A32-,CONGRES - GARE
+13,21004C501,LOUISE (AVENUE)-NORD,292031,48,0,male,parent,161877,3,single,Bruxelles,6,Worker,21004B10-,ORBAN (SQUARE)
+14,21004E112,RUE DES CHRYSANTHEMES,342447,53,1,female,parent,186666,1,couple_with_child,Bruxelles,6,Worker,21004B13-,TREVES (RUE DE)
+15,21004A811,QUAI DU COMMERCE,360267,52,1,female,parent,196043,4,single_with_child,Bruxelles,6,Worker,21004C54-,LOUISE (AVENUE)-SUD-EST
+16,21004E73-,EM. BOCKSTAEL (BOULEVARD)-SUD,331449,55,1,female,parent,181439,4,single_with_child,Bruxelles,6,Worker,21015A43-,GARE DU NORD
+17,21005A33-,CARDINAL LAVIGERIE (RUE),395143,36,0,male,parent,215449,1,couple_with_child,Etterbeek,6,Worker,21001A441,DOCTEUR ROUX
+18,21005A11-,NOTRE-DAME DU SACRE-COEUR,420309,35,0,male,parent,229961,2,couple_no_child,Etterbeek,6,Worker,21004A71-,BLAES (RUE)-CENTRE
+19,21005A322,NOUVELLE AVENUE-SUD,405914,16,0,male,parent,221785,1,couple_with_child,Etterbeek,6,Worker,21005A02-,CHAMP DU ROI (RUE)
+20,21007A071,BOLLINCKX,513377,41,1,female,parent,280557,4,single_with_child,Forest,6,Worker,21009A542,EGLISE ANGLICANE
+21,21009A41-,SAINT-GEORGES,550229,63,1,female,parent,302901,1,couple_with_child,Ixelles,6,Worker,21002A511,INVALIDES (BOULEVARD DES)
+22,21009A111,WERY (RUE),568686,50,1,female,parent,314524,4,single_with_child,Ixelles,6,Worker,21004A001,GRAND-PLACE
+23,21009A40-,MELEZES,536759,18,0,male,parent,294564,3,single,Ixelles,6,Worker,21004A10-,GARE CENTRALE
+24,21009A34-,STADE COMMUNAL,543485,38,1,female,parent,298477,3,single,Ixelles,6,Worker,21004A19-,PALAIS ROYAL
+25,21009A512,WIERTZ,582435,56,1,female,parent,323414,3,single,Ixelles,6,Worker,21004A22-,SENNE (RUE DE LA)
+26,21009A01-,BLYCKAERTS,573076,57,0,male,parent,317164,3,single,Ixelles,6,Worker,21004A32-,CONGRES - GARE
+27,21009A41-,SAINT-GEORGES,552010,38,0,male,parent,303909,3,single,Ixelles,6,Worker,21004A811,QUAI DU COMMERCE
+28,21009A451,CHATELAIN (PLACE DU)-EST,590895,60,0,male,parent,328679,2,couple_no_child,Ixelles,6,Worker,21004B10-,ORBAN (SQUARE)
+29,21009A21-,ETE,546604,46,0,male,parent,300461,3,single,Ixelles,6,Worker,21004B10-,ORBAN (SQUARE)
+30,21009A42-,RENIER CHALON,532571,60,0,male,parent,292149,1,couple_with_child,Ixelles,6,Worker,21004B10-,ORBAN (SQUARE)
+31,21009A301,BOONDAEL-NORD,537879,33,0,male,parent,295197,2,couple_no_child,Ixelles,6,Worker,21004C54-,LOUISE (AVENUE)-SUD-EST
+32,21009A802,BOONDAEL-SUD,566166,61,1,female,parent,313012,3,single,Ixelles,6,Worker,21004E74-,EM. DELVA (RUE)
+33,21009A63-,MACAU,529953,41,0,male,parent,290239,1,couple_with_child,Ixelles,6,Worker,21006A312,J. BORDET (AVENUE DE)
+34,21009A301,BOONDAEL-NORD,537642,43,1,female,parent,295089,3,single,Ixelles,6,Worker,21009A051,SAINT-BONIFACE
+35,21009A33-,SAINT-ADRIEN,540557,29,1,female,child,296790,1,couple_with_child,Ixelles,6,Worker,21009A44-,PREVOT
+36,21009A33-,SAINT-ADRIEN,543009,31,0,male,parent,298229,5,colloc,Ixelles,6,Worker,21009A73-,BERCKENDAEL
+37,21009A301,BOONDAEL-NORD,538214,26,1,female,parent,295452,5,colloc,Ixelles,6,Worker,21012A63-,DUBRUCQ-NORD
+38,21009A612,LIEGEOIS (RUE),583468,49,1,female,parent,324057,1,couple_with_child,Ixelles,6,Worker,21016A05-,LE CHAT
+39,21009A83-,L. ERNOTTE (RUE),553345,49,0,male,parent,304690,3,single,Ixelles,6,Worker,21018A00-,TOMBERG
+40,21009A612,LIEGEOIS (RUE),584062,43,0,male,parent,324326,2,couple_no_child,Ixelles,6,Worker,21019A34-,EUROPE (QUARTIER DE L')
+41,21011A30-,ARCHERS - FOUREZ,653892,33,0,male,parent,360869,5,colloc,Koekelberg,6,Worker,21002A492,WOLUWE PARC
+42,21012A25-,BEEKKANT,685387,34,1,female,child,377136,1,couple_with_child,Molenbeek Saint-Jean,6,Worker,21004B13-,TREVES (RUE DE)
+43,21013A11-,PARME (RUE DE),786801,64,1,female,parent,429139,2,couple_no_child,Saint-Gilles,6,Worker,21001A051,LINDE-EST
+44,21013A22-,REGIES,805450,51,0,male,parent,439708,2,couple_no_child,Saint-Gilles,6,Worker,21001A051,LINDE-EST
+45,21013A211,FONTAINAS,809163,46,1,female,parent,441829,2,couple_no_child,Saint-Gilles,6,Worker,21001A051,LINDE-EST
+46,21013A201,ANGLETERRE (RUE D'),794856,46,0,male,parent,433643,1,couple_with_child,Saint-Gilles,6,Worker,21001B23-,CONSEIL-SUD
+47,21013A102,PARVIS,777112,56,0,male,parent,423823,3,single,Saint-Gilles,6,Worker,21004B10-,ORBAN (SQUARE)
+48,21013A252,DANEMARK (RUE DE),798000,18,0,male,parent,435174,2,couple_no_child,Saint-Gilles,6,Worker,21013A00-,HOTEL DE VILLE
+49,21013A252,DANEMARK (RUE DE),798410,26,0,male,parent,435470,5,colloc,Saint-Gilles,6,Worker,21013A031,AMAZONE (RUE DE)
+50,21013A51-,TOISON D'OR (AVENUE),827547,49,1,female,parent,452989,3,single,Saint-Gilles,6,Worker,21013A2MJ,GARE DU MIDI
+51,21013A40-,BARRIERE,817449,34,0,male,parent,446965,2,couple_no_child,Saint-Gilles,6,Worker,21014A05-,HOUWAERT
+52,21013A612,JAMAR,804113,39,0,male,parent,439000,3,single,Saint-Gilles,6,Worker,21016A322,CHAUSSEE DE WATERLOO-EST
+53,21014A41-,BOSSUET,839112,34,0,male,parent,459286,3,single,Saint-Josse-ten-Noode,6,Worker,21001C5MA,MEYLEMEERSCH
+54,21014A03-,MADOU,843498,29,1,female,parent,461706,4,single_with_child,Saint-Josse-ten-Noode,6,Worker,21004A001,GRAND-PLACE
+55,21014A41-,BOSSUET,838914,59,0,male,parent,459088,3,single,Saint-Josse-ten-Noode,6,Worker,21004B13-,TREVES (RUE DE)
+56,21014A3MJ,MANHATTAN,857469,37,0,male,parent,468861,3,single,Saint-Josse-ten-Noode,6,Worker,21004D610,ANVERS (CHAUSSEE D')-SUD
+57,21014A3MJ,MANHATTAN,857430,56,0,male,parent,468822,3,single,Saint-Josse-ten-Noode,6,Worker,21005A14-,ARMEE (AVENUE DE L')
+58,21014A05-,HOUWAERT,851366,45,0,male,parent,465672,1,couple_with_child,Saint-Josse-ten-Noode,6,Worker,21005A15-,SAINT-MICHEL COLLEGE
+59,21014A02-,CHARITE,832755,54,0,male,parent,455967,2,couple_no_child,Saint-Josse-ten-Noode,6,Worker,21006A37-,ZONE INDUSTRIELLE
+60,21014A12-,SAINT-LAZARE,844057,57,1,female,parent,462051,1,couple_with_child,Saint-Josse-ten-Noode,6,Worker,21010A02-,LEOPOLD I
+61,21014A14-,PRAIRIE,834748,54,0,male,parent,457219,1,couple_with_child,Saint-Josse-ten-Noode,6,Worker,21013A612,JAMAR
+62,21014A41-,BOSSUET,837071,47,1,female,parent,458396,2,couple_no_child,Saint-Josse-ten-Noode,6,Worker,21014A03-,MADOU
+63,21014A14-,PRAIRIE,834705,48,0,male,parent,457199,2,couple_no_child,Saint-Josse-ten-Noode,6,Worker,21014A04-,HAECHT (CHAUSSEE DE)
+64,21014A01-,STEURS,845132,27,1,female,parent,462514,1,couple_with_child,Saint-Josse-ten-Noode,6,Worker,21014A04-,HAECHT (CHAUSSEE DE)
+65,21014A02-,CHARITE,833916,34,0,male,parent,456651,3,single,Saint-Josse-ten-Noode,6,Worker,21014A04-,HAECHT (CHAUSSEE DE)
+66,21014A00-,PLACE SAINT-JOSSE,831588,57,0,male,parent,455149,3,single,Saint-Josse-ten-Noode,6,Worker,21014A05-,HOUWAERT
+67,21014A02-,CHARITE,834111,37,1,female,parent,456799,5,colloc,Saint-Josse-ten-Noode,6,Worker,21014A05-,HOUWAERT
+68,21014A00-,PLACE SAINT-JOSSE,830471,37,1,female,parent,454635,1,couple_with_child,Saint-Josse-ten-Noode,6,Worker,21014A05-,HOUWAERT
+69,21014A05-,HOUWAERT,850849,47,0,male,parent,465484,1,couple_with_child,Saint-Josse-ten-Noode,6,Worker,21014A41-,BOSSUET
+70,21014A3MJ,MANHATTAN,857177,50,1,female,parent,468707,1,couple_with_child,Saint-Josse-ten-Noode,6,Worker,21014A41-,BOSSUET
+71,21014A02-,CHARITE,832592,32,0,male,child,455890,4,single_with_child,Saint-Josse-ten-Noode,6,Worker,21014A41-,BOSSUET
+72,21014A04-,HAECHT (CHAUSSEE DE),846214,54,1,female,parent,463089,4,single_with_child,Saint-Josse-ten-Noode,6,Worker,21015A152,PR. ELISABETH-NORD
+73,21014A04-,HAECHT (CHAUSSEE DE),848395,18,0,male,parent,464221,3,single,Saint-Josse-ten-Noode,6,Worker,21015A53-,DAILLY (PLACE)
+74,21014A03-,MADOU,842805,49,1,female,child,461425,4,single_with_child,Saint-Josse-ten-Noode,6,Worker,21016A02-,ALSEMBERG-NORD
+75,21016A841,ZEECRABBE,1014785,45,1,female,parent,549345,3,single,Uccle,6,Worker,21013A22-,REGIES

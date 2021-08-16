@@ -1,0 +1,37 @@
+,SectorStatID,SectorStatName,PersID,Age,GenderID,GenderName,ChildOrParent,HouseholdID,HouseholdTypeID,HouseholdTypeName,Commune,WorkerID,WorkerType,WorkSectorStatID,WorkSectorStatName
+0,21001A34-,ROUE - CITE JARDIN,29314,41,0,male,parent,15944,1,couple_with_child,Anderlecht,6,Worker,21004F970,MARLY-NORD
+1,21001C522,HOPITAL U.L.B.,40472,45,0,male,parent,22313,3,single,Anderlecht,6,Worker,21019A43-,CORNICHE VERTE
+2,21001A83-,PETERBOS,4498,58,1,female,parent,2407,3,single,Anderlecht,6,Worker,21019A43-,CORNICHE VERTE
+3,21001A911,SCHEUT-EST,93425,31,0,male,parent,50051,1,couple_with_child,Anderlecht,6,Worker,21019A43-,CORNICHE VERTE
+4,21001A02-,WAYEZ,122561,57,0,male,parent,64601,3,single,Anderlecht,6,Worker,21019A43-,CORNICHE VERTE
+5,21004A14-,GRAND SABLON,280753,38,0,male,parent,154150,3,single,Bruxelles,6,Worker,21019A43-,CORNICHE VERTE
+6,21004B45-,ECOLE MILITAIRE,210306,26,1,female,parent,111312,1,couple_with_child,Bruxelles,6,Worker,21001C522,HOPITAL U.L.B.
+7,21004F94-,VAL MARIA,199525,41,0,male,parent,105814,1,couple_with_child,Bruxelles,6,Worker,21016A521,VERREWINKEL
+8,21004C54-,LOUISE (AVENUE)-SUD-EST,243256,56,0,male,parent,130436,3,single,Bruxelles,6,Worker,21004F970,MARLY-NORD
+9,21004A13-,PETIT SABLON,299320,46,1,female,parent,165910,3,single,Bruxelles,6,Worker,21004G3MJ,DOBBELENBERG (RUE DE)
+10,21004C552,LOUISE (AVENUE)-SUD,285520,50,1,female,parent,157502,3,single,Bruxelles,6,Worker,21004F970,MARLY-NORD
+11,21004E70-,MARIE-CHRISTINE (RUE),301723,40,0,male,parent,167063,1,couple_with_child,Bruxelles,6,Worker,21017A09-,FORET DE SOIGNES
+12,21005A22-,PORTE DE TERVUEREN - L. DE LAN,434975,18,1,female,parent,238615,1,couple_with_child,Etterbeek,6,Worker,21001C522,HOPITAL U.L.B.
+13,21005A21-,PORTE DE TERVUEREN - BRAFFORT,435816,58,0,male,parent,239200,3,single,Etterbeek,6,Worker,21001C522,HOPITAL U.L.B.
+14,21005A22-,PORTE DE TERVUEREN - L. DE LAN,434692,37,1,female,parent,238476,1,couple_with_child,Etterbeek,6,Worker,21001C522,HOPITAL U.L.B.
+15,21006A414,P. DUPONT (RUE),464763,60,0,male,parent,254856,1,couple_with_child,Evere,6,Worker,21001C522,HOPITAL U.L.B.
+16,21006A001,VIEIL EVERE,462284,38,1,female,parent,253446,1,couple_with_child,Evere,6,Worker,21001C5PA,MEERVELD
+17,21006A153,KEET,438393,48,1,female,parent,240749,2,couple_no_child,Evere,6,Worker,21016A533,MOENSBERG
+18,21006A153,KEET,438180,32,1,female,child,240671,1,couple_with_child,Evere,6,Worker,21016A533,MOENSBERG
+19,21009A121,GENERAL DE GAULLE,528288,47,0,male,parent,289298,3,single,Ixelles,6,Worker,21004F970,MARLY-NORD
+20,21009A01-,BLYCKAERTS,572870,18,0,male,parent,316997,1,couple_with_child,Ixelles,6,Worker,21004F9MJ,NEDER-HEEMBEEK-NORD
+21,21009A2MJ,CAMPUS UNIVERSITAIRE,558022,51,0,male,parent,307569,3,single,Ixelles,6,Worker,21001C5PA,MEERVELD
+22,21009A53-,LONDRES (PLACE DE),579614,36,0,male,parent,321366,2,couple_no_child,Ixelles,6,Worker,21004F9MJ,NEDER-HEEMBEEK-NORD
+23,21009A2MJ,CAMPUS UNIVERSITAIRE,558214,25,0,male,parent,307761,3,single,Ixelles,6,Worker,21001C5PA,MEERVELD
+24,21009A111,WERY (RUE),569286,37,1,female,parent,314785,2,couple_no_child,Ixelles,6,Worker,21001C5PA,MEERVELD
+25,21009A911,A. DELPORTE-SUD,565218,17,1,female,parent,312300,4,single_with_child,Ixelles,6,Worker,21004E800,DIVIN JESUS
+26,21012A833,ELBERS,674160,36,1,female,parent,371041,1,couple_with_child,Molenbeek Saint-Jean,6,Worker,21019A43-,CORNICHE VERTE
+27,21013A422,CRICKX (RUE),784841,37,1,female,parent,427981,1,couple_with_child,Saint-Gilles,6,Worker,21004F970,MARLY-NORD
+28,21013A252,DANEMARK (RUE DE),797404,18,0,male,child,434968,4,single_with_child,Saint-Gilles,6,Worker,21002A190,FORET DE SOIGNES
+29,21013A102,PARVIS,776860,63,0,male,parent,423712,1,couple_with_child,Saint-Gilles,6,Worker,21004F970,MARLY-NORD
+30,21013A151,METAL (RUE DU),812395,49,0,male,child,443811,4,single_with_child,Saint-Gilles,6,Worker,21004F970,MARLY-NORD
+31,21014A01-,STEURS,844865,38,0,male,parent,462434,1,couple_with_child,Saint-Josse-ten-Noode,6,Worker,21016A533,MOENSBERG
+32,21014A00-,PLACE SAINT-JOSSE,830256,42,1,female,parent,454551,3,single,Saint-Josse-ten-Noode,6,Worker,21016A533,MOENSBERG
+33,21014A01-,STEURS,844635,56,1,female,parent,462369,1,couple_with_child,Saint-Josse-ten-Noode,6,Worker,21016A533,MOENSBERG
+34,21014A01-,STEURS,845392,31,0,male,parent,462677,3,single,Saint-Josse-ten-Noode,6,Worker,21016A533,MOENSBERG
+35,21014A12-,SAINT-LAZARE,844145,41,0,male,parent,462085,1,couple_with_child,Saint-Josse-ten-Noode,6,Worker,21017A09-,FORET DE SOIGNES
