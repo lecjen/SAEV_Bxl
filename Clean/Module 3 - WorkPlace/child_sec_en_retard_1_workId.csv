@@ -1,0 +1,1722 @@
+,Unnamed: 0.1,SectorStatID,SectorStatName,PersID,Age,GenderID,GenderName,ChildOrParent,HouseholdID,HouseholdTypeID,HouseholdTypeName,WorkerID,WorkerType,WorkerID,WorkerType
+0,711,21001A041,VEEWEYDE-SUD,711,12,0,male,child,346,4,single_with_child,,,2,Primaires
+1,873,21001A041,VEEWEYDE-SUD,873,12,0,male,child,408,1,couple_with_child,,,2,Primaires
+2,691,21001A041,VEEWEYDE-SUD,691,12,0,male,child,334,1,couple_with_child,,,2,Primaires
+3,3327,21001A472,STADE COMMUNAL - INDUSTRIE,3327,12,0,male,child,1656,1,couple_with_child,,,2,Primaires
+4,5238,21001A83-,PETERBOS,5238,12,0,male,child,2734,1,couple_with_child,,,2,Primaires
+5,5540,21001A83-,PETERBOS,5540,12,0,male,child,2875,1,couple_with_child,,,2,Primaires
+6,5428,21001A83-,PETERBOS,5428,12,0,male,child,2825,1,couple_with_child,,,2,Primaires
+7,8008,21001A503,VIVES,8008,12,0,male,child,4407,1,couple_with_child,,,2,Primaires
+8,10542,21001A332,ROUE,10542,12,0,male,parent,5311,1,couple_with_child,,,2,Primaires
+9,10917,21001A43-,VAN BEETHOVEN,10917,12,0,male,child,6081,1,couple_with_child,,,2,Primaires
+10,12281,21001A401,ARBORETUM,12281,12,0,male,child,6846,1,couple_with_child,,,2,Primaires
+11,14290,21001A32-,AURORE,14290,12,0,male,child,7956,1,couple_with_child,,,2,Primaires
+12,14129,21001A32-,AURORE,14129,12,0,male,child,7890,1,couple_with_child,,,2,Primaires
+13,14297,21001A32-,AURORE,14297,12,0,male,child,7957,1,couple_with_child,,,2,Primaires
+14,14559,21001A32-,AURORE,14559,12,0,male,child,8077,4,single_with_child,,,2,Primaires
+15,20115,21001A41-,ROMAIN ROLLAND,20115,12,0,male,parent,11116,1,couple_with_child,,,2,Primaires
+16,19767,21001A41-,ROMAIN ROLLAND,19767,12,0,male,child,10979,1,couple_with_child,,,2,Primaires
+17,21270,21001A85-,AUBADE,21270,12,0,male,child,11935,1,couple_with_child,,,2,Primaires
+18,22282,21001A51-,SCHERDEMAEL,22282,12,0,male,child,12461,4,single_with_child,,,2,Primaires
+19,23896,21001A42-,KAT,23896,12,0,male,child,13422,4,single_with_child,,,2,Primaires
+20,25992,21001A552,TREFLE,25992,12,0,male,child,14528,4,single_with_child,,,2,Primaires
+21,26157,21001A552,TREFLE,26157,12,0,male,child,14591,4,single_with_child,,,2,Primaires
+22,28401,21001A84-,POESIE,28401,12,0,male,child,15863,1,couple_with_child,,,2,Primaires
+23,31713,21001A34-,ROUE - CITE JARDIN,31713,12,0,male,parent,16600,1,couple_with_child,,,2,Primaires
+24,30354,21001A34-,ROUE - CITE JARDIN,30354,12,0,male,child,16779,1,couple_with_child,,,2,Primaires
+25,32833,21001A350,CERIA - ZONE D'HABITAT,32833,12,0,male,child,18125,4,single_with_child,,,2,Primaires
+26,33691,21001A441,DOCTEUR ROUX,33691,12,0,male,child,18639,1,couple_with_child,,,2,Primaires
+27,34389,21001A441,DOCTEUR ROUX,34389,12,0,male,child,18920,4,single_with_child,,,2,Primaires
+28,36216,21001C512,CHANTS D'OISEAUX,36216,12,0,male,child,20091,1,couple_with_child,,,2,Primaires
+29,38458,21001C71-,BON AIR - CITE JARDIN,38458,12,0,male,parent,21299,1,couple_with_child,,,2,Primaires
+30,39767,21001A82-,MOORTEBEEK,39767,12,0,male,child,22109,1,couple_with_child,,,2,Primaires
+31,39645,21001A82-,MOORTEBEEK,39645,12,0,male,child,22055,1,couple_with_child,,,2,Primaires
+32,41433,21001C611,SOETKIN,41433,12,0,male,parent,23109,1,couple_with_child,,,2,Primaires
+33,42443,21001A451,VENIZELOS,42443,12,0,male,child,23747,1,couple_with_child,,,2,Primaires
+34,42406,21001A451,VENIZELOS,42406,12,0,male,child,23731,1,couple_with_child,,,2,Primaires
+35,44361,21001A30-,BIZET,44361,12,0,male,child,24731,1,couple_with_child,,,2,Primaires
+36,44202,21001A30-,BIZET,44202,12,0,male,child,24685,1,couple_with_child,,,2,Primaires
+37,44528,21001A30-,BIZET,44528,12,0,male,child,24779,1,couple_with_child,,,2,Primaires
+38,47840,21001A80-,SILLON,47840,12,0,male,child,26665,1,couple_with_child,,,2,Primaires
+39,47527,21001A80-,SILLON,47527,12,0,male,child,26527,1,couple_with_child,,,2,Primaires
+40,47738,21001A80-,SILLON,47738,12,0,male,child,26623,1,couple_with_child,,,2,Primaires
+41,50929,21001A81-,BROECK,50929,12,0,male,child,28521,4,single_with_child,,,2,Primaires
+42,51002,21001A81-,BROECK,51002,12,0,male,child,28551,1,couple_with_child,,,2,Primaires
+43,52948,21001A31-,CHAUSSEE DE MONS - SAINT-LUC,52948,12,0,male,parent,29630,1,couple_with_child,,,2,Primaires
+44,53728,21001A031,RAUTER-SUD,53728,12,0,male,child,30018,4,single_with_child,,,2,Primaires
+45,53915,21001A031,RAUTER-SUD,53915,12,0,male,child,30088,1,couple_with_child,,,2,Primaires
+46,56526,21001B22-,BROGNIEZ-SUD,56526,12,0,male,parent,31201,1,couple_with_child,,,2,Primaires
+47,57344,21001B321,ALBERT I- QUARTIER,57344,12,0,male,child,31892,1,couple_with_child,,,2,Primaires
+48,57485,21001B321,ALBERT I- QUARTIER,57485,12,0,male,child,31940,1,couple_with_child,,,2,Primaires
+49,61361,21001B20-,CONSEIL-NORD,61361,12,0,male,child,33630,4,single_with_child,,,2,Primaires
+50,59575,21001B20-,CONSEIL-NORD,59575,12,0,male,child,33009,1,couple_with_child,,,2,Primaires
+51,59346,21001B20-,CONSEIL-NORD,59346,12,0,male,child,32933,1,couple_with_child,,,2,Primaires
+52,63463,21001B20-,CONSEIL-NORD,63463,12,0,male,child,34822,4,single_with_child,,,2,Primaires
+53,64279,21001B20-,CONSEIL-NORD,64279,12,0,male,parent,33129,1,couple_with_child,,,2,Primaires
+54,60639,21001B20-,CONSEIL-NORD,60639,12,0,male,child,33379,1,couple_with_child,,,2,Primaires
+55,64861,21001B23-,CONSEIL-SUD,64861,12,0,male,child,35751,4,single_with_child,,,2,Primaires
+56,65938,21001B23-,CONSEIL-SUD,65938,12,0,male,parent,35758,4,single_with_child,,,2,Primaires
+57,66341,21001A142,VEEWEYDE-NORD,66341,12,0,male,child,36653,4,single_with_child,,,2,Primaires
+58,67634,21001A051,LINDE-EST,67634,12,0,male,child,37330,4,single_with_child,,,2,Primaires
+59,68833,21001A051,LINDE-EST,68833,12,0,male,parent,37426,4,single_with_child,,,2,Primaires
+60,69803,21001A941,CROCUS,69803,12,0,male,child,38481,1,couple_with_child,,,2,Primaires
+61,69715,21001A941,CROCUS,69715,12,0,male,child,38448,1,couple_with_child,,,2,Primaires
+62,72565,21001A90-,SCHEUTKAPEL,72565,12,0,male,child,39933,1,couple_with_child,,,2,Primaires
+63,72290,21001A90-,SCHEUTKAPEL,72290,12,0,male,child,39824,1,couple_with_child,,,2,Primaires
+64,74440,21001A132,RAUTER-NORD,74440,12,0,male,child,41027,1,couple_with_child,,,2,Primaires
+65,75563,21001B31-,ALBERT I- IMMEUBLES,75563,12,0,male,child,41623,1,couple_with_child,,,2,Primaires
+66,80213,21001B25-,REVISION-NORD,80213,12,0,male,parent,42370,4,single_with_child,,,2,Primaires
+67,80208,21001B25-,REVISION-NORD,80208,12,0,male,parent,42614,1,couple_with_child,,,2,Primaires
+68,77164,21001B25-,REVISION-NORD,77164,12,0,male,child,42358,1,couple_with_child,,,2,Primaires
+69,76867,21001B25-,REVISION-NORD,76867,12,0,male,child,42258,4,single_with_child,,,2,Primaires
+70,80931,21001B11-,ROSEE-OUEST,80931,12,0,male,child,44373,4,single_with_child,,,2,Primaires
+71,82227,21001A72-,OSSEGEM,82227,12,0,male,child,45024,4,single_with_child,,,2,Primaires
+72,82398,21001A72-,OSSEGEM,82398,12,0,male,child,45089,1,couple_with_child,,,2,Primaires
+73,82117,21001A72-,OSSEGEM,82117,12,0,male,child,44982,4,single_with_child,,,2,Primaires
+74,87615,21001A011,KLEINMOLEN,87615,12,0,male,child,47922,4,single_with_child,,,2,Primaires
+75,85900,21001A011,KLEINMOLEN,85900,12,0,male,child,46927,4,single_with_child,,,2,Primaires
+76,86402,21001A011,KLEINMOLEN,86402,12,0,male,child,47103,1,couple_with_child,,,2,Primaires
+77,88427,21001B17-,ABATTOIR,88427,12,0,male,child,48406,1,couple_with_child,,,2,Primaires
+78,89556,21001A712,SCHEUT - DE SMET,89556,12,0,male,child,48931,1,couple_with_child,,,2,Primaires
+79,94115,21001B21-,BROGNIEZ-NORD,94115,12,0,male,parent,50039,1,couple_with_child,,,2,Primaires
+80,91272,21001B21-,BROGNIEZ-NORD,91272,12,0,male,child,49744,4,single_with_child,,,2,Primaires
+81,91743,21001B21-,BROGNIEZ-NORD,91743,12,0,male,child,49902,1,couple_with_child,,,2,Primaires
+82,91964,21001B21-,BROGNIEZ-NORD,91964,12,0,male,child,49979,1,couple_with_child,,,2,Primaires
+83,96492,21001A911,SCHEUT-EST,96492,12,0,male,parent,51469,1,couple_with_child,,,2,Primaires
+84,96490,21001A911,SCHEUT-EST,96490,12,0,male,parent,51680,1,couple_with_child,,,2,Primaires
+85,98437,21001A931,AGRAFE-NORBERT GILLE,98437,12,0,male,parent,52603,4,single_with_child,,,2,Primaires
+86,98439,21001A931,AGRAFE-NORBERT GILLE,98439,12,0,male,parent,52679,1,couple_with_child,,,2,Primaires
+87,98833,21001A74-,SCHEUT-OUEST,98833,12,0,male,child,53703,1,couple_with_child,,,2,Primaires
+88,98975,21001A74-,SCHEUT-OUEST,98975,12,0,male,child,53741,1,couple_with_child,,,2,Primaires
+89,99502,21001A74-,SCHEUT-OUEST,99502,12,0,male,child,53901,4,single_with_child,,,2,Primaires
+90,102524,21001A92-,JAKOB SMITS,102524,12,0,male,child,55484,1,couple_with_child,,,2,Primaires
+91,103105,21001A92-,JAKOB SMITS,103105,12,0,male,child,55695,1,couple_with_child,,,2,Primaires
+92,103232,21001A92-,JAKOB SMITS,103232,12,0,male,child,55743,1,couple_with_child,,,2,Primaires
+93,107796,21001A00-,RESISTANCE,107796,12,0,male,child,58178,4,single_with_child,,,2,Primaires
+94,106220,21001A00-,RESISTANCE,106220,12,0,male,child,57318,4,single_with_child,,,2,Primaires
+95,108218,21001A00-,RESISTANCE,108218,12,0,male,parent,57046,1,couple_with_child,,,2,Primaires
+96,109106,21001A95-,BUFFON,109106,12,0,male,child,58909,1,couple_with_child,,,2,Primaires
+97,109481,21001A95-,BUFFON,109481,12,0,male,child,59043,1,couple_with_child,,,2,Primaires
+98,109544,21001A95-,BUFFON,109544,12,0,male,child,59065,1,couple_with_child,,,2,Primaires
+99,112192,21001B10-,ROSEE-EST,112192,12,0,male,child,60436,1,couple_with_child,,,2,Primaires
+100,112451,21001B10-,ROSEE-EST,112451,12,0,male,child,60525,4,single_with_child,,,2,Primaires
+101,114443,21001B10-,ROSEE-EST,114443,12,0,male,parent,60845,1,couple_with_child,,,2,Primaires
+102,115266,21001B332,GOUJONS,115266,12,0,male,parent,62067,1,couple_with_child,,,2,Primaires
+103,116591,21001B241,REVISION-SUD,116591,12,0,male,child,62784,1,couple_with_child,,,2,Primaires
+104,116600,21001B241,REVISION-SUD,116600,12,0,male,child,62786,1,couple_with_child,,,2,Primaires
+105,118177,21001A10-,PORSELEIN,118177,12,0,male,child,63727,4,single_with_child,,,2,Primaires
+106,120899,21001A120,MINIMES,120899,12,0,male,child,64969,1,couple_with_child,,,2,Primaires
+107,119715,21001A120,MINIMES,119715,12,0,male,child,64480,1,couple_with_child,,,2,Primaires
+108,119538,21001A120,MINIMES,119538,12,0,male,child,64415,4,single_with_child,,,2,Primaires
+109,123365,21001A152,LINDE-OUEST,123365,12,0,male,child,66413,1,couple_with_child,,,2,Primaires
+110,124399,21001A02-,WAYEZ,124399,12,0,male,child,67017,4,single_with_child,,,2,Primaires
+111,126736,21001A112,BIESTEBROEK,126736,12,0,male,child,68123,1,couple_with_child,,,2,Primaires
+112,126148,21001A112,BIESTEBROEK,126148,12,0,male,child,67895,1,couple_with_child,,,2,Primaires
+113,125773,21001A112,BIESTEBROEK,125773,12,0,male,child,67755,4,single_with_child,,,2,Primaires
+114,130219,21002A53-,PECHERIES,130219,12,0,male,child,70201,4,single_with_child,,,2,Primaires
+115,131953,21002A511,INVALIDES (BOULEVARD DES),131953,12,0,male,child,71211,1,couple_with_child,,,2,Primaires
+116,134816,21002A23-,TH. BALIS (PLACE),134816,12,0,male,child,72724,1,couple_with_child,,,2,Primaires
+117,137375,21002A24-,AVENUE DE BROUCKERE,137375,12,0,male,child,74096,1,couple_with_child,,,2,Primaires
+118,138812,21002A25-,WATERMAEL (CHAUSSEE DE),138812,12,0,male,child,74885,1,couple_with_child,,,2,Primaires
+119,141572,21002A441,CHANT D'OISEAUX,141572,12,0,male,parent,76305,1,couple_with_child,,,2,Primaires
+120,142613,21002A130,PARC DES PRINCES,142613,12,0,male,child,76917,1,couple_with_child,,,2,Primaires
+121,146309,21002A30-,TRIOMPHE (BOULEVARD DU),146309,12,0,male,child,78937,4,single_with_child,,,2,Primaires
+122,148077,21002A21-,LEBON,148077,12,0,male,child,80036,4,single_with_child,,,2,Primaires
+123,154650,21002A030,LAMMERENDRIES,154650,12,0,male,child,83675,1,couple_with_child,,,2,Primaires
+124,158366,21002A10-,TRANSVAAL,158366,12,0,male,child,85666,1,couple_with_child,,,2,Primaires
+125,161591,21002A12-,AVENUE SCHALLER,161591,12,0,male,parent,87311,1,couple_with_child,,,2,Primaires
+126,162454,21002A43-,SOUVERAIN (BOULEVARD DU) NORD,162454,12,0,male,child,87868,1,couple_with_child,,,2,Primaires
+127,167186,21003A312,POTAARDE  VLAK,167186,12,0,male,child,90147,1,couple_with_child,,,2,Primaires
+128,166813,21003A312,POTAARDE  VLAK,166813,12,0,male,child,90049,1,couple_with_child,,,2,Primaires
+129,168862,21003A323,SEPT ETOILES,168862,12,0,male,child,91150,4,single_with_child,,,2,Primaires
+130,169983,21003A342,HOGENBOS,169983,12,0,male,child,91746,1,couple_with_child,,,2,Primaires
+131,170826,21003A331,ALLEE VERTE,170826,12,0,male,child,92276,1,couple_with_child,,,2,Primaires
+132,172165,21003A04-,L. DE SMET,172165,12,0,male,child,92874,4,single_with_child,,,2,Primaires
+133,173209,21003A0AJ,HUNDERENVELD,173209,12,0,male,child,93491,1,couple_with_child,,,2,Primaires
+134,175611,21003A02-,LAURE - BASILIQUE,175611,12,0,male,child,94698,1,couple_with_child,,,2,Primaires
+135,175339,21003A02-,LAURE - BASILIQUE,175339,12,0,male,child,94591,1,couple_with_child,,,2,Primaires
+136,174542,21003A02-,LAURE - BASILIQUE,174542,12,0,male,child,94286,1,couple_with_child,,,2,Primaires
+137,177909,21003A03-,HAUT-CHAMP,177909,12,0,male,child,95970,4,single_with_child,,,2,Primaires
+138,177949,21003A03-,HAUT-CHAMP,177949,12,0,male,child,95980,1,couple_with_child,,,2,Primaires
+139,180111,21003A011,MOLENBERG,180111,12,0,male,child,97170,1,couple_with_child,,,2,Primaires
+140,181630,21003A212,CLOS DU ZAVELENBERG,181630,12,0,male,parent,97978,1,couple_with_child,,,2,Primaires
+141,183195,21003A00-,CENTRE,183195,12,0,male,child,98674,4,single_with_child,,,2,Primaires
+142,182555,21003A00-,CENTRE,182555,12,0,male,child,98441,1,couple_with_child,,,2,Primaires
+143,182859,21003A00-,CENTRE,182859,12,0,male,child,98553,4,single_with_child,,,2,Primaires
+144,186263,21003A11-,CITE MODERNE,186263,12,0,male,parent,99941,1,couple_with_child,,,2,Primaires
+145,186935,21003A05-,DE SELLIERS DE MORANVILLE,186935,12,0,male,child,100633,1,couple_with_child,,,2,Primaires
+146,186930,21003A05-,DE SELLIERS DE MORANVILLE,186930,12,0,male,child,100632,1,couple_with_child,,,2,Primaires
+147,188670,21003A41-,MONNET,188670,12,0,male,child,101653,1,couple_with_child,,,2,Primaires
+148,190629,21003A10-,HOPITAL FRANCAIS,190629,12,0,male,child,102671,1,couple_with_child,,,2,Primaires
+149,191007,21003A10-,HOPITAL FRANCAIS,191007,12,0,male,child,102833,4,single_with_child,,,2,Primaires
+150,191366,21003A10-,HOPITAL FRANCAIS,191366,12,0,male,child,102980,1,couple_with_child,,,2,Primaires
+151,194898,21004B421,MARIE-LOUISE (SQUARE),194898,12,0,male,child,104970,4,single_with_child,,,2,Primaires
+152,194524,21004B421,MARIE-LOUISE (SQUARE),194524,12,0,male,child,104799,1,couple_with_child,,,2,Primaires
+153,194482,21004B421,MARIE-LOUISE (SQUARE),194482,12,0,male,child,104775,1,couple_with_child,,,2,Primaires
+154,194738,21004B421,MARIE-LOUISE (SQUARE),194738,12,0,male,child,104891,1,couple_with_child,,,2,Primaires
+155,197996,21004B411,DEUX EGLISES (RUE DES),197996,12,0,male,child,106991,4,single_with_child,,,2,Primaires
+156,200265,21004F511,AVENUE DES PAGODES,200265,12,0,male,child,108277,1,couple_with_child,,,2,Primaires
+157,200125,21004F511,AVENUE DES PAGODES,200125,12,0,male,child,108224,4,single_with_child,,,2,Primaires
+158,201692,21004C62-,BOENDAAL-OUEST,201692,12,0,male,child,109045,1,couple_with_child,,,2,Primaires
+159,203494,21004G310,HAREN-SUD-OUEST,203494,12,0,male,child,109915,4,single_with_child,,,2,Primaires
+160,203950,21004F94-,VAL MARIA,203950,12,0,male,child,110190,1,couple_with_child,,,2,Primaires
+161,205229,21004F901,PLACE PETER BENOIT,205229,12,0,male,child,110826,4,single_with_child,,,2,Primaires
+162,205319,21004F901,PLACE PETER BENOIT,205319,12,0,male,child,110856,1,couple_with_child,,,2,Primaires
+163,209608,21004G30-,SAINTE-ELISABETH,209608,12,0,male,child,112787,4,single_with_child,,,2,Primaires
+164,208350,21004G30-,SAINTE-ELISABETH,208350,12,0,male,child,112188,1,couple_with_child,,,2,Primaires
+165,207883,21004G30-,SAINTE-ELISABETH,207883,12,0,male,child,112034,1,couple_with_child,,,2,Primaires
+166,211022,21004F930,COIN DES CERISES,211022,12,0,male,child,113698,1,couple_with_child,,,2,Primaires
+167,211048,21004F930,COIN DES CERISES,211048,12,0,male,child,113709,4,single_with_child,,,2,Primaires
+168,212950,21004G321,HAREN-EST,212950,12,0,male,child,114737,1,couple_with_child,,,2,Primaires
+169,214480,21004B45-,ECOLE MILITAIRE,214480,12,0,male,child,115589,1,couple_with_child,,,2,Primaires
+170,216267,21004A25-,BEGUINAGE (PLACE DU),216267,12,0,male,child,116758,1,couple_with_child,,,2,Primaires
+171,216149,21004A25-,BEGUINAGE (PLACE DU),216149,12,0,male,child,116707,4,single_with_child,,,2,Primaires
+172,218174,21004B2MJ,SCHUMAN (ROND-POINT),218174,12,0,male,parent,118014,1,couple_with_child,,,2,Primaires
+173,218957,21004B44-,AMBIORIX-SUD (SQUARE),218957,12,0,male,child,118537,1,couple_with_child,,,2,Primaires
+174,219312,21004B44-,AMBIORIX-SUD (SQUARE),219312,12,0,male,child,118711,1,couple_with_child,,,2,Primaires
+175,219357,21004B44-,AMBIORIX-SUD (SQUARE),219357,12,0,male,child,118734,4,single_with_child,,,2,Primaires
+176,223936,21004B43-,AMBIORIX-NORD (SQUARE),223936,12,0,male,child,121338,4,single_with_child,,,2,Primaires
+177,222889,21004B43-,AMBIORIX-NORD (SQUARE),222889,12,0,male,child,120877,1,couple_with_child,,,2,Primaires
+178,224031,21004B43-,AMBIORIX-NORD (SQUARE),224031,12,0,male,child,121382,1,couple_with_child,,,2,Primaires
+179,224314,21004B43-,AMBIORIX-NORD (SQUARE),224314,12,0,male,child,121504,4,single_with_child,,,2,Primaires
+180,223388,21004B43-,AMBIORIX-NORD (SQUARE),223388,12,0,male,child,121100,1,couple_with_child,,,2,Primaires
+181,228586,21004A24-,MARCHE AU PORCS,228586,12,0,male,child,124231,1,couple_with_child,,,2,Primaires
+182,231536,21004A24-,MARCHE AU PORCS,231536,12,0,male,parent,124335,4,single_with_child,,,2,Primaires
+183,228458,21004A24-,MARCHE AU PORCS,228458,12,0,male,child,124174,1,couple_with_child,,,2,Primaires
+184,232017,21004A35-,AD. MAX (BOULEVARD),232017,12,0,male,child,126464,4,single_with_child,,,2,Primaires
+185,234782,21004A83-,E. JACQMAIN (BOULEVARD)-OUEST,234782,12,0,male,parent,127469,1,couple_with_child,,,2,Primaires
+186,233788,21004A83-,E. JACQMAIN (BOULEVARD)-OUEST,233788,12,0,male,child,127594,1,couple_with_child,,,2,Primaires
+187,235876,21004F531,RUE DES FAINES,235876,12,0,male,child,128809,1,couple_with_child,,,2,Primaires
+188,235850,21004F531,RUE DES FAINES,235850,12,0,male,child,128797,1,couple_with_child,,,2,Primaires
+189,235384,21004F531,RUE DES FAINES,235384,12,0,male,child,128630,1,couple_with_child,,,2,Primaires
+190,239479,21004F91-,CROIX DE GUERRE (AVENUE DES),239479,12,0,male,child,130696,1,couple_with_child,,,2,Primaires
+191,240033,21004F91-,CROIX DE GUERRE (AVENUE DES),240033,12,0,male,child,130927,4,single_with_child,,,2,Primaires
+192,243318,21004F922,RUE CHATEAU BEYAERD,243318,12,0,male,child,132554,1,couple_with_child,,,2,Primaires
+193,242321,21004F922,RUE CHATEAU BEYAERD,242321,12,0,male,child,132210,1,couple_with_child,,,2,Primaires
+194,242834,21004F922,RUE CHATEAU BEYAERD,242834,12,0,male,child,132389,1,couple_with_child,,,2,Primaires
+195,246110,21004C61-,U.L.B.,246110,12,0,male,child,134103,1,couple_with_child,,,2,Primaires
+196,247333,21004C54-,LOUISE (AVENUE)-SUD-EST,247333,12,0,male,child,134823,1,couple_with_child,,,2,Primaires
+197,247446,21004C54-,LOUISE (AVENUE)-SUD-EST,247446,12,0,male,child,134876,1,couple_with_child,,,2,Primaires
+198,249862,21004C63-,NATIONS (SQUARE DES),249862,12,0,male,parent,136306,1,couple_with_child,,,2,Primaires
+199,251643,21004F953,RUE DU WIMPELBERG,251643,12,0,male,child,137550,1,couple_with_child,,,2,Primaires
+200,253629,21004F9MJ,NEDER-HEEMBEEK-NORD,253629,12,0,male,child,138489,1,couple_with_child,,,2,Primaires
+201,254719,21004A02-,SAINT-FRANCOIS XAVIER,254719,12,0,male,child,139091,4,single_with_child,,,2,Primaires
+202,254673,21004A02-,SAINT-FRANCOIS XAVIER,254673,12,0,male,child,139066,1,couple_with_child,,,2,Primaires
+203,257180,21004A70-,BLAES (RUE)-SUD,257180,12,0,male,child,140661,1,couple_with_child,,,2,Primaires
+204,261055,21004A70-,BLAES (RUE)-SUD,261055,12,0,male,parent,141288,1,couple_with_child,,,2,Primaires
+205,260377,21004A70-,BLAES (RUE)-SUD,260377,12,0,male,child,142415,4,single_with_child,,,2,Primaires
+206,261060,21004A70-,BLAES (RUE)-SUD,261060,12,0,male,parent,140416,1,couple_with_child,,,2,Primaires
+207,263406,21004A03-,BON SECOURS - PALAIS DU MIDI,263406,12,0,male,parent,143442,1,couple_with_child,,,2,Primaires
+208,261823,21004A03-,BON SECOURS - PALAIS DU MIDI,261823,12,0,male,child,143357,4,single_with_child,,,2,Primaires
+209,266869,21004A23-,NOUVEAU MARCHE AU GRAIN,266869,12,0,male,parent,145405,1,couple_with_child,,,2,Primaires
+210,266304,21004A23-,NOUVEAU MARCHE AU GRAIN,266304,12,0,male,child,146218,4,single_with_child,,,2,Primaires
+211,264419,21004A23-,NOUVEAU MARCHE AU GRAIN,264419,12,0,male,child,145034,1,couple_with_child,,,2,Primaires
+212,267041,21004A01-,VIEILLE HALLE AUX BLES,267041,12,0,male,child,146758,1,couple_with_child,,,2,Primaires
+213,271581,21004A22-,SENNE (RUE DE LA),271581,12,0,male,parent,148033,1,couple_with_child,,,2,Primaires
+214,269008,21004A22-,SENNE (RUE DE LA),269008,12,0,male,child,147795,4,single_with_child,,,2,Primaires
+215,269217,21004A22-,SENNE (RUE DE LA),269217,12,0,male,child,147859,1,couple_with_child,,,2,Primaires
+216,273870,21004A72-,SAINT-THOMAS (INSTITUT),273870,12,0,male,parent,150265,1,couple_with_child,,,2,Primaires
+217,273873,21004A72-,SAINT-THOMAS (INSTITUT),273873,12,0,male,parent,150099,1,couple_with_child,,,2,Primaires
+218,275694,21004A71-,BLAES (RUE)-CENTRE,275694,12,0,male,parent,151155,1,couple_with_child,,,2,Primaires
+219,275250,21004A71-,BLAES (RUE)-CENTRE,275250,12,0,male,child,151882,4,single_with_child,,,2,Primaires
+220,275839,21004A002,BOURSE,275839,12,0,male,child,152343,1,couple_with_child,,,2,Primaires
+221,277435,21004A34-,MONNAIE,277435,12,0,male,parent,152802,1,couple_with_child,,,2,Primaires
+222,277992,21004A15-,JACOBS (PLACE),277992,12,0,male,child,153955,4,single_with_child,,,2,Primaires
+223,279309,21004A04-,NOTRE-DAME DE LA CHAPELLE,279309,12,0,male,parent,154130,1,couple_with_child,,,2,Primaires
+224,282144,21004A16-,PALAIS JUSTICE-HOP. ST.-PIERRE,282144,12,0,male,parent,155304,4,single_with_child,,,2,Primaires
+225,282143,21004A16-,PALAIS JUSTICE-HOP. ST.-PIERRE,282143,12,0,male,parent,155385,1,couple_with_child,,,2,Primaires
+226,279803,21004A16-,PALAIS JUSTICE-HOP. ST.-PIERRE,279803,12,0,male,child,155028,1,couple_with_child,,,2,Primaires
+227,283887,21004A20-,BOURSE-NORD-OUEST,283887,12,0,male,parent,157716,1,couple_with_child,,,2,Primaires
+228,282903,21004A20-,BOURSE-NORD-OUEST,282903,12,0,male,child,157224,1,couple_with_child,,,2,Primaires
+229,285645,21004A14-,GRAND SABLON,285645,12,0,male,child,159025,1,couple_with_child,,,2,Primaires
+230,285546,21004A14-,GRAND SABLON,285546,12,0,male,child,158975,4,single_with_child,,,2,Primaires
+231,287132,21004A001,GRAND-PLACE,287132,12,0,male,child,160152,1,couple_with_child,,,2,Primaires
+232,288302,21004A32-,CONGRES - GARE,288302,12,0,male,child,161002,1,couple_with_child,,,2,Primaires
+233,289920,21004C52-,LOUISE (AVENUE)-NORD-OUEST,289920,12,0,male,child,162042,1,couple_with_child,,,2,Primaires
+234,291417,21004C552,LOUISE (AVENUE)-SUD,291417,12,0,male,child,163007,1,couple_with_child,,,2,Primaires
+235,291541,21004C552,LOUISE (AVENUE)-SUD,291541,12,0,male,child,163072,1,couple_with_child,,,2,Primaires
+236,293379,21004C51-,LOUISE (AVENUE)-NORD-EST,293379,12,0,male,child,164220,4,single_with_child,,,2,Primaires
+237,294912,21004A33-,LIBERTE (PLACE DE LA),294912,12,0,male,child,165179,4,single_with_child,,,2,Primaires
+238,294509,21004A33-,LIBERTE (PLACE DE LA),294509,12,0,male,child,164980,4,single_with_child,,,2,Primaires
+239,296937,21004C53-,LOUISE (AVENUE)-SUD-OUEST,296937,12,0,male,child,166622,1,couple_with_child,,,2,Primaires
+240,301092,21004A21-,ANNEESSENS (PLACE),301092,12,0,male,child,168653,1,couple_with_child,,,2,Primaires
+241,300845,21004A21-,ANNEESSENS (PLACE),300845,12,0,male,child,168568,4,single_with_child,,,2,Primaires
+242,304941,21004A21-,ANNEESSENS (PLACE),304941,12,0,male,parent,168331,1,couple_with_child,,,2,Primaires
+243,300691,21004A21-,ANNEESSENS (PLACE),300691,12,0,male,child,168505,1,couple_with_child,,,2,Primaires
+244,304954,21004A21-,ANNEESSENS (PLACE),304954,12,0,male,parent,167992,1,couple_with_child,,,2,Primaires
+245,304960,21004A21-,ANNEESSENS (PLACE),304960,12,0,male,parent,169071,1,couple_with_child,,,2,Primaires
+246,300373,21004A21-,ANNEESSENS (PLACE),300373,12,0,male,child,168390,4,single_with_child,,,2,Primaires
+247,305253,21004A13-,PETIT SABLON,305253,12,0,male,child,171504,1,couple_with_child,,,2,Primaires
+248,308351,21004E70-,MARIE-CHRISTINE (RUE),308351,12,0,male,child,172966,1,couple_with_child,,,2,Primaires
+249,311934,21004E70-,MARIE-CHRISTINE (RUE),311934,12,0,male,parent,173280,1,couple_with_child,,,2,Primaires
+250,307534,21004E70-,MARIE-CHRISTINE (RUE),307534,12,0,male,child,172685,1,couple_with_child,,,2,Primaires
+251,311932,21004E70-,MARIE-CHRISTINE (RUE),311932,12,0,male,parent,172288,4,single_with_child,,,2,Primaires
+252,311927,21004E70-,MARIE-CHRISTINE (RUE),311927,12,0,male,parent,173539,1,couple_with_child,,,2,Primaires
+253,320652,21004E74-,EM. DELVA (RUE),320652,12,0,male,parent,175944,1,couple_with_child,,,2,Primaires
+254,320666,21004E74-,EM. DELVA (RUE),320666,12,0,male,parent,176709,1,couple_with_child,,,2,Primaires
+255,315837,21004E74-,EM. DELVA (RUE),315837,12,0,male,child,176506,1,couple_with_child,,,2,Primaires
+256,314338,21004E74-,EM. DELVA (RUE),314338,12,0,male,child,175984,1,couple_with_child,,,2,Primaires
+257,314021,21004E74-,EM. DELVA (RUE),314021,12,0,male,child,175874,4,single_with_child,,,2,Primaires
+258,320658,21004E74-,EM. DELVA (RUE),320658,12,0,male,parent,176407,1,couple_with_child,,,2,Primaires
+259,315495,21004E74-,EM. DELVA (RUE),315495,12,0,male,child,176390,4,single_with_child,,,2,Primaires
+260,320661,21004E74-,EM. DELVA (RUE),320661,12,0,male,parent,176443,4,single_with_child,,,2,Primaires
+261,322287,21004E201,AVENUE JEAN DE BOLOGNE,322287,12,0,male,child,180139,1,couple_with_child,,,2,Primaires
+262,322993,21004E201,AVENUE JEAN DE BOLOGNE,322993,12,0,male,child,180419,1,couple_with_child,,,2,Primaires
+263,323278,21004E201,AVENUE JEAN DE BOLOGNE,323278,12,0,male,child,180536,1,couple_with_child,,,2,Primaires
+264,324240,21004E201,AVENUE JEAN DE BOLOGNE,324240,12,0,male,child,180908,1,couple_with_child,,,2,Primaires
+265,323369,21004E201,AVENUE JEAN DE BOLOGNE,323369,12,0,male,child,180573,4,single_with_child,,,2,Primaires
+266,328850,21004E83-,STIENON (AVENUE),328850,12,0,male,child,183454,4,single_with_child,,,2,Primaires
+267,328493,21004E83-,STIENON (AVENUE),328493,12,0,male,child,183304,1,couple_with_child,,,2,Primaires
+268,329175,21004E83-,STIENON (AVENUE),329175,12,0,male,child,183589,1,couple_with_child,,,2,Primaires
+269,328719,21004E83-,STIENON (AVENUE),328719,12,0,male,child,183397,1,couple_with_child,,,2,Primaires
+270,332912,21004E130,SACRE-COEUR,332912,12,0,male,child,185512,4,single_with_child,,,2,Primaires
+271,333093,21004E130,SACRE-COEUR,333093,12,0,male,child,185568,1,couple_with_child,,,2,Primaires
+272,334288,21004E130,SACRE-COEUR,334288,12,0,male,child,185933,4,single_with_child,,,2,Primaires
+273,333458,21004E130,SACRE-COEUR,333458,12,0,male,child,185684,4,single_with_child,,,2,Primaires
+274,334143,21004E130,SACRE-COEUR,334143,12,0,male,child,185888,1,couple_with_child,,,2,Primaires
+275,338185,21004E73-,EM. BOCKSTAEL (BOULEVARD)-SUD,338185,12,0,male,child,188356,1,couple_with_child,,,2,Primaires
+276,338552,21004E73-,EM. BOCKSTAEL (BOULEVARD)-SUD,338552,12,0,male,child,188484,1,couple_with_child,,,2,Primaires
+277,341417,21004E73-,EM. BOCKSTAEL (BOULEVARD)-SUD,341417,12,0,male,parent,188411,1,couple_with_child,,,2,Primaires
+278,338205,21004E73-,EM. BOCKSTAEL (BOULEVARD)-SUD,338205,12,0,male,child,188362,1,couple_with_child,,,2,Primaires
+279,342791,21004E72-,MAISON ROUGE (PLACE)-SUD,342791,12,0,male,child,190632,1,couple_with_child,,,2,Primaires
+280,343817,21004E72-,MAISON ROUGE (PLACE)-SUD,343817,12,0,male,child,190984,4,single_with_child,,,2,Primaires
+281,343452,21004E72-,MAISON ROUGE (PLACE)-SUD,343452,12,0,male,child,190859,1,couple_with_child,,,2,Primaires
+282,342460,21004E72-,MAISON ROUGE (PLACE)-SUD,342460,12,0,male,child,190517,1,couple_with_child,,,2,Primaires
+283,343270,21004E72-,MAISON ROUGE (PLACE)-SUD,343270,12,0,male,child,190804,4,single_with_child,,,2,Primaires
+284,342827,21004E72-,MAISON ROUGE (PLACE)-SUD,342827,12,0,male,child,190642,1,couple_with_child,,,2,Primaires
+285,348286,21004D64-,MASUI (PLACE)-NORD,348286,12,0,male,child,193471,1,couple_with_child,,,2,Primaires
+286,350256,21004D62-,ANVERS (CHAUSSEE D')-NORD,350256,12,0,male,child,194395,1,couple_with_child,,,2,Primaires
+287,350582,21004D62-,ANVERS (CHAUSSEE D')-NORD,350582,12,0,male,child,194515,1,couple_with_child,,,2,Primaires
+288,352713,21004D62-,ANVERS (CHAUSSEE D')-NORD,352713,12,0,male,child,195616,4,single_with_child,,,2,Primaires
+289,353656,21004E211,RUE DE WAND,353656,12,0,male,child,196211,4,single_with_child,,,2,Primaires
+290,354387,21004D631,ALLEE VERTE - BASSIN VERGOTE,354387,12,0,male,child,196620,1,couple_with_child,,,2,Primaires
+291,360670,21004E12-,PRINCE LEOPOLD (SQUARE),360670,12,0,male,parent,197402,1,couple_with_child,,,2,Primaires
+292,356769,21004E12-,PRINCE LEOPOLD (SQUARE),356769,12,0,male,child,197758,1,couple_with_child,,,2,Primaires
+293,360692,21004E12-,PRINCE LEOPOLD (SQUARE),360692,12,0,male,parent,197895,1,couple_with_child,,,2,Primaires
+294,355524,21004E12-,PRINCE LEOPOLD (SQUARE),355524,12,0,male,child,197321,1,couple_with_child,,,2,Primaires
+295,360671,21004E12-,PRINCE LEOPOLD (SQUARE),360671,12,0,male,parent,198259,1,couple_with_child,,,2,Primaires
+296,361284,21004A822,RUE DES COMMERCANTS,361284,12,0,male,child,200193,1,couple_with_child,,,2,Primaires
+297,362632,21004E800,DIVIN JESUS,362632,12,0,male,child,201034,1,couple_with_child,,,2,Primaires
+298,363855,21004E233,DE MEYSSE (AVENUE),363855,12,0,male,parent,201668,1,couple_with_child,,,2,Primaires
+299,364829,21004E101,PARVIS NOTRE DAME,364829,12,0,male,child,202196,1,couple_with_child,,,2,Primaires
+300,364902,21004E101,PARVIS NOTRE DAME,364902,12,0,male,child,202223,1,couple_with_child,,,2,Primaires
+301,369028,21004A811,QUAI DU COMMERCE,369028,12,0,male,child,204580,4,single_with_child,,,2,Primaires
+302,367256,21004A811,QUAI DU COMMERCE,367256,12,0,male,child,203533,1,couple_with_child,,,2,Primaires
+303,369371,21004A811,QUAI DU COMMERCE,369371,12,0,male,parent,203356,1,couple_with_child,,,2,Primaires
+304,369914,21004D672,QUAI DE WILLEBROECK,369914,12,0,male,child,205113,1,couple_with_child,,,2,Primaires
+305,371684,21004E14-,ECOLE DES CADETS,371684,12,0,male,child,205990,1,couple_with_child,,,2,Primaires
+306,371825,21004E14-,ECOLE DES CADETS,371825,12,0,male,child,206033,1,couple_with_child,,,2,Primaires
+307,370984,21004E14-,ECOLE DES CADETS,370984,12,0,male,child,205789,1,couple_with_child,,,2,Primaires
+308,374803,21004F522,AVENUE DE VERSAILLES,374803,12,0,male,child,207729,1,couple_with_child,,,2,Primaires
+309,374368,21004F522,AVENUE DE VERSAILLES,374368,12,0,male,child,207540,1,couple_with_child,,,2,Primaires
+310,377470,21004E82-,CITE MODELE,377470,12,0,male,child,209246,4,single_with_child,,,2,Primaires
+311,378327,21004E82-,CITE MODELE,378327,12,0,male,child,209599,1,couple_with_child,,,2,Primaires
+312,378118,21004E82-,CITE MODELE,378118,12,0,male,child,209516,4,single_with_child,,,2,Primaires
+313,382243,21004E222,MUTSAARD (AVENUE),382243,12,0,male,child,211957,1,couple_with_child,,,2,Primaires
+314,381731,21004E222,MUTSAARD (AVENUE),381731,12,0,male,child,211693,1,couple_with_child,,,2,Primaires
+315,384196,21004E81-,DISQUE (RUE DU),384196,12,0,male,child,213167,4,single_with_child,,,2,Primaires
+316,385887,21004D600,PARVIS SAINT-ROCH,385887,12,0,male,child,214136,1,couple_with_child,,,2,Primaires
+317,387852,21004D610,ANVERS (CHAUSSEE D')-SUD,387852,12,0,male,child,215223,1,couple_with_child,,,2,Primaires
+318,387742,21004D610,ANVERS (CHAUSSEE D')-SUD,387742,12,0,male,child,215183,1,couple_with_child,,,2,Primaires
+319,387823,21004D610,ANVERS (CHAUSSEE D')-SUD,387823,12,0,male,child,215215,4,single_with_child,,,2,Primaires
+320,391219,21005A10-,GENERAL HENRI (RUE),391219,12,0,male,child,217072,1,couple_with_child,,,2,Primaires
+321,391246,21005A10-,GENERAL HENRI (RUE),391246,12,0,male,child,217089,4,single_with_child,,,2,Primaires
+322,396242,21005A042,PH. BAUCQ (RUE),396242,12,0,male,child,219686,1,couple_with_child,,,2,Primaires
+323,395768,21005A042,PH. BAUCQ (RUE),395768,12,0,male,child,219486,1,couple_with_child,,,2,Primaires
+324,400038,21005A02-,CHAMP DU ROI (RUE),400038,12,0,male,child,222108,4,single_with_child,,,2,Primaires
+325,402342,21005A33-,CARDINAL LAVIGERIE (RUE),402342,12,0,male,child,223652,1,couple_with_child,,,2,Primaires
+326,405995,21005A14-,ARMEE (AVENUE DE L'),405995,12,0,male,parent,225645,1,couple_with_child,,,2,Primaires
+327,404529,21005A14-,ARMEE (AVENUE DE L'),404529,12,0,male,child,224926,1,couple_with_child,,,2,Primaires
+328,407470,21005A13-,LA CHASSE,407470,12,0,male,child,226644,1,couple_with_child,,,2,Primaires
+329,410056,21005A01-,SAINTE-GERTRUDE,410056,12,0,male,child,228127,1,couple_with_child,,,2,Primaires
+330,410064,21005A01-,SAINTE-GERTRUDE,410064,12,0,male,child,228129,1,couple_with_child,,,2,Primaires
+331,414151,21005A311,CASERNE (Etterbeek),414151,12,0,male,child,230603,1,couple_with_child,,,2,Primaires
+332,415656,21005A20-,PORTE DE TERVUEREN - TONGRES,415656,12,0,male,child,231427,1,couple_with_child,,,2,Primaires
+333,417938,21005A15-,SAINT-MICHEL COLLEGE,417938,12,0,male,child,232786,1,couple_with_child,,,2,Primaires
+334,420254,21005A031,MAELBEEK,420254,12,0,male,child,234104,4,single_with_child,,,2,Primaires
+335,421987,21005A051,RINSDELLE,421987,12,0,male,child,235170,1,couple_with_child,,,2,Primaires
+336,423104,21005A051,RINSDELLE,423104,12,0,male,child,235706,1,couple_with_child,,,2,Primaires
+337,427252,21005A11-,NOTRE-DAME DU SACRE-COEUR,427252,12,0,male,child,238207,4,single_with_child,,,2,Primaires
+338,427016,21005A11-,NOTRE-DAME DU SACRE-COEUR,427016,12,0,male,child,238093,1,couple_with_child,,,2,Primaires
+339,430622,21005A00-,HOTEL COMMUNAL,430622,12,0,male,child,240176,1,couple_with_child,,,2,Primaires
+340,431462,21005A00-,HOTEL COMMUNAL,431462,12,0,male,child,240556,1,couple_with_child,,,2,Primaires
+341,436537,21005A12-,SAINT-ANTOINE,436537,12,0,male,child,243528,4,single_with_child,,,2,Primaires
+342,435670,21005A12-,SAINT-ANTOINE,435670,12,0,male,child,243124,1,couple_with_child,,,2,Primaires
+343,435110,21005A12-,SAINT-ANTOINE,435110,12,0,male,child,242866,1,couple_with_child,,,2,Primaires
+344,441783,21005A22-,PORTE DE TERVUEREN - L. DE LAN,441783,12,0,male,child,246950,1,couple_with_child,,,2,Primaires
+345,444243,21006A12-,GERMINAL I,444243,12,0,male,child,248391,4,single_with_child,,,2,Primaires
+346,444830,21006A11-,OASIS - PROVENCE - LANGUEDOC,444830,12,0,male,child,248662,1,couple_with_child,,,2,Primaires
+347,445797,21006A153,KEET,445797,12,0,male,child,249191,1,couple_with_child,,,2,Primaires
+348,447197,21006A13-,MAISON COMMUNALE,447197,12,0,male,child,249986,1,couple_with_child,,,2,Primaires
+349,448667,21006A02-,IEDER ZIJN HUIS - STROOBANTS,448667,12,0,male,child,250890,4,single_with_child,,,2,Primaires
+350,449433,21006A03-,BLOCS SAINT-VINCENT,449433,12,0,male,child,251328,1,couple_with_child,,,2,Primaires
+351,451593,21006A515,CARLI,451593,12,0,male,parent,252106,1,couple_with_child,,,2,Primaires
+352,452635,21006A403,QUARTIER CICERO,452635,12,0,male,child,253063,1,couple_with_child,,,2,Primaires
+353,452986,21006A403,QUARTIER CICERO,452986,12,0,male,child,253212,4,single_with_child,,,2,Primaires
+354,454799,21006A474,COMMUNAUTES,454799,12,0,male,child,254155,1,couple_with_child,,,2,Primaires
+355,456550,21006A201,HAUT-EVERE,456550,12,0,male,child,255044,1,couple_with_child,,,2,Primaires
+356,457031,21006A201,HAUT-EVERE,457031,12,0,male,child,255227,4,single_with_child,,,2,Primaires
+357,459782,21006A21-,HOME FAMILIAL BRABANT,459782,12,0,male,parent,256487,1,couple_with_child,,,2,Primaires
+358,460844,21006A23-,DU BONHEUR,460844,12,0,male,child,257415,1,couple_with_child,,,2,Primaires
+359,460628,21006A23-,DU BONHEUR,460628,12,0,male,child,257327,1,couple_with_child,,,2,Primaires
+360,461141,21006A23-,DU BONHEUR,461141,12,0,male,child,257540,1,couple_with_child,,,2,Primaires
+361,463322,21006A312,J. BORDET (AVENUE DE),463322,12,0,male,child,258896,1,couple_with_child,,,2,Primaires
+362,465862,21006A101,CONSCIENCE,465862,12,0,male,child,260130,1,couple_with_child,,,2,Primaires
+363,465016,21006A101,CONSCIENCE,465016,12,0,male,child,259799,1,couple_with_child,,,2,Primaires
+364,464431,21006A101,CONSCIENCE,464431,12,0,male,child,259573,1,couple_with_child,,,2,Primaires
+365,464859,21006A101,CONSCIENCE,464859,12,0,male,child,259738,1,couple_with_child,,,2,Primaires
+366,470069,21006A001,VIEIL EVERE,470069,12,0,male,child,262349,1,couple_with_child,,,2,Primaires
+367,470118,21006A001,VIEIL EVERE,470118,12,0,male,child,262367,1,couple_with_child,,,2,Primaires
+368,469038,21006A001,VIEIL EVERE,469038,12,0,male,child,261960,1,couple_with_child,,,2,Primaires
+369,472915,21006A414,P. DUPONT (RUE),472915,12,0,male,child,263998,1,couple_with_child,,,2,Primaires
+370,473364,21006A414,P. DUPONT (RUE),473364,12,0,male,child,264182,4,single_with_child,,,2,Primaires
+371,473766,21006A414,P. DUPONT (RUE),473766,12,0,male,child,264350,4,single_with_child,,,2,Primaires
+372,476000,21006A171,ANCIEN COMBATTANTS (AVENUE),476000,12,0,male,parent,265676,1,couple_with_child,,,2,Primaires
+373,476733,21006A25-,GIBET,476733,12,0,male,child,266177,1,couple_with_child,,,2,Primaires
+374,478352,21006A22-,SAINT-EXUPERY,478352,12,0,male,child,267179,1,couple_with_child,,,2,Primaires
+375,478701,21006A22-,SAINT-EXUPERY,478701,12,0,male,child,267338,1,couple_with_child,,,2,Primaires
+376,480669,21006A011,CENTRE,480669,12,0,male,child,268401,1,couple_with_child,,,2,Primaires
+377,481000,21006A011,CENTRE,481000,12,0,male,child,268521,4,single_with_child,,,2,Primaires
+378,481102,21006A011,CENTRE,481102,12,0,male,child,268557,4,single_with_child,,,2,Primaires
+379,483356,21006A142,ED. DEKNOOP (RUE),483356,12,0,male,child,269759,1,couple_with_child,,,2,Primaires
+380,484905,21006A042,KERKHOEK,484905,12,0,male,child,270540,1,couple_with_child,,,2,Primaires
+381,486691,21006A052,CHAMP DE REPOS,486691,12,0,male,child,271389,4,single_with_child,,,2,Primaires
+382,487194,21006A052,CHAMP DE REPOS,487194,12,0,male,child,271576,4,single_with_child,,,2,Primaires
+383,489345,21006A323,GERMINAL II,489345,12,0,male,child,272801,4,single_with_child,,,2,Primaires
+384,490149,21007A03-,FOYER FORESTOIS - FAMILLE,490149,12,0,male,child,273193,1,couple_with_child,,,2,Primaires
+385,492674,21007A201,ROOSENDAEL (RUE),492674,12,0,male,child,274578,1,couple_with_child,,,2,Primaires
+386,495777,21007A75-,TOURNOI (RUE DU),495777,12,0,male,child,276541,1,couple_with_child,,,2,Primaires
+387,498276,21007A142,MONTE CARLO,498276,12,0,male,child,277848,1,couple_with_child,,,2,Primaires
+388,500510,21007A53-,WIELEMANS CEUPPENS,500510,12,0,male,child,279004,4,single_with_child,,,2,Primaires
+389,500233,21007A53-,WIELEMANS CEUPPENS,500233,12,0,male,child,278889,4,single_with_child,,,2,Primaires
+390,503434,21007A50-,BERANGER,503434,12,0,male,child,280561,4,single_with_child,,,2,Primaires
+391,503503,21007A50-,BERANGER,503503,12,0,male,child,280587,1,couple_with_child,,,2,Primaires
+392,506009,21007A51-,CHATAIGNE,506009,12,0,male,child,281977,1,couple_with_child,,,2,Primaires
+393,509476,21007A61-,MONTENEGRO (RUE),509476,12,0,male,child,283702,1,couple_with_child,,,2,Primaires
+394,509921,21007A61-,MONTENEGRO (RUE),509921,12,0,male,child,283882,4,single_with_child,,,2,Primaires
+395,509889,21007A61-,MONTENEGRO (RUE),509889,12,0,male,child,283862,1,couple_with_child,,,2,Primaires
+396,515718,21007A00-,CENTRE SAINT-DENIS,515718,12,0,male,child,287008,1,couple_with_child,,,2,Primaires
+397,515780,21007A00-,CENTRE SAINT-DENIS,515780,12,0,male,child,287033,1,couple_with_child,,,2,Primaires
+398,519152,21007A101,BOURGOGNE,519152,12,0,male,child,288879,1,couple_with_child,,,2,Primaires
+399,519272,21007A101,BOURGOGNE,519272,12,0,male,child,288930,4,single_with_child,,,2,Primaires
+400,522115,21007A071,BOLLINCKX,522115,12,0,male,child,290475,4,single_with_child,,,2,Primaires
+401,524367,21007A70-,ALTITUDE  CENT,524367,12,0,male,child,291629,4,single_with_child,,,2,Primaires
+402,523957,21007A70-,ALTITUDE  CENT,523957,12,0,male,child,291431,1,couple_with_child,,,2,Primaires
+403,529244,21007A239,NEPTUNE (AVENUE) I,529244,12,0,male,parent,294250,1,couple_with_child,,,2,Primaires
+404,528130,21007A239,NEPTUNE (AVENUE) I,528130,12,0,male,child,293775,1,couple_with_child,,,2,Primaires
+405,530755,21007A05-,NEERSTALLE,530755,12,0,male,child,295217,1,couple_with_child,,,2,Primaires
+406,532475,21007A01-,CURE D'ARS,532475,12,0,male,parent,296015,1,couple_with_child,,,2,Primaires
+407,533181,21007A52-,VAN VOLXEM - PETITE INDUSTRIE,533181,12,0,male,child,296425,1,couple_with_child,,,2,Primaires
+408,536103,21007A40-,PONT DE LUTTRE,536103,12,0,male,parent,297287,1,couple_with_child,,,2,Primaires
+409,541632,21007A60-,SAINT-ANTOINE,541632,12,0,male,parent,299442,1,couple_with_child,,,2,Primaires
+410,538810,21007A60-,SAINT-ANTOINE,538810,12,0,male,child,299056,1,couple_with_child,,,2,Primaires
+411,541621,21007A60-,SAINT-ANTOINE,541621,12,0,male,parent,298414,1,couple_with_child,,,2,Primaires
+412,542739,21007A73-,BERCKENDAEL (RUE),542739,12,0,male,child,301300,4,single_with_child,,,2,Primaires
+413,545700,21007A72-,MOLIERE,545700,12,0,male,child,302982,4,single_with_child,,,2,Primaires
+414,545793,21007A72-,MOLIERE,545793,12,0,male,child,303023,1,couple_with_child,,,2,Primaires
+415,545872,21007A72-,MOLIERE,545872,12,0,male,child,303059,1,couple_with_child,,,2,Primaires
+416,549409,21007A71-,CHAUSSEE D'ALSEMBERG,549409,12,0,male,child,305086,1,couple_with_child,,,2,Primaires
+417,551643,21008A30-,LE HOME,551643,12,0,male,child,306319,1,couple_with_child,,,2,Primaires
+418,553270,21008A00-,CENTRE,553270,12,0,male,child,307179,4,single_with_child,,,2,Primaires
+419,555453,21008A220,VILLAS DE GANSHOREN (OUEST),555453,12,0,male,child,308479,1,couple_with_child,,,2,Primaires
+420,555610,21008A220,VILLAS DE GANSHOREN (OUEST),555610,12,0,male,child,308553,4,single_with_child,,,2,Primaires
+421,558498,21008A02-,SIPPELBERG,558498,12,0,male,child,310227,1,couple_with_child,,,2,Primaires
+422,558183,21008A02-,SIPPELBERG,558183,12,0,male,child,310107,1,couple_with_child,,,2,Primaires
+423,558030,21008A02-,SIPPELBERG,558030,12,0,male,child,310053,4,single_with_child,,,2,Primaires
+424,561059,21008A34-,PARC ALBERT,561059,12,0,male,child,311607,1,couple_with_child,,,2,Primaires
+425,562861,21008A240,REFORME,562861,12,0,male,child,312644,4,single_with_child,,,2,Primaires
+426,565606,21008A20-,CHARLES-QUINT,565606,12,0,male,child,314188,1,couple_with_child,,,2,Primaires
+427,566149,21008A20-,CHARLES-QUINT,566149,12,0,male,child,314407,1,couple_with_child,,,2,Primaires
+428,566194,21008A20-,CHARLES-QUINT,566194,12,0,male,child,314429,4,single_with_child,,,2,Primaires
+429,566050,21008A20-,CHARLES-QUINT,566050,12,0,male,child,314368,4,single_with_child,,,2,Primaires
+430,569015,21008A01-,VAN PAGE-SUD,569015,12,0,male,child,316026,1,couple_with_child,,,2,Primaires
+431,570293,21008A33-,VAN PAGE-NORD,570293,12,0,male,child,316618,1,couple_with_child,,,2,Primaires
+432,571125,21008A32-,HEIDEKEN,571125,12,0,male,child,317154,1,couple_with_child,,,2,Primaires
+433,573955,21008A10-,PLATEAU,573955,12,0,male,child,318588,4,single_with_child,,,2,Primaires
+434,573906,21008A10-,PLATEAU,573906,12,0,male,child,318567,4,single_with_child,,,2,Primaires
+435,574019,21008A10-,PLATEAU,574019,12,0,male,child,318613,4,single_with_child,,,2,Primaires
+436,577700,21008A21-,MAIL,577700,12,0,male,child,320631,4,single_with_child,,,2,Primaires
+437,577295,21008A21-,MAIL,577295,12,0,male,child,320455,1,couple_with_child,,,2,Primaires
+438,579957,21009A20-,PETITE SUISSE (PLACE DE LA),579957,12,0,male,child,321983,1,couple_with_child,,,2,Primaires
+439,583276,21009A23-,ETOILE (ROND POINT DE L'),583276,12,0,male,child,324257,1,couple_with_child,,,2,Primaires
+440,586155,21009A90-,SAINT-PHILIPPE DE NERI,586155,12,0,male,child,325994,4,single_with_child,,,2,Primaires
+441,590497,21009A652,HOPITAUX,590497,12,0,male,parent,328476,4,single_with_child,,,2,Primaires
+442,591502,21009A552,PORTE DE NAMUR,591502,12,0,male,child,329507,1,couple_with_child,,,2,Primaires
+443,593735,21009A051,SAINT-BONIFACE,593735,12,0,male,child,331063,1,couple_with_child,,,2,Primaires
+444,595788,21009A041,ARBRE BENIT,595788,12,0,male,child,332429,1,couple_with_child,,,2,Primaires
+445,598653,21009A00-,CENTRE,598653,12,0,male,child,334405,1,couple_with_child,,,2,Primaires
+446,601915,21009A02-,MUSEE,601915,12,0,male,child,336510,1,couple_with_child,,,2,Primaires
+447,605276,21009A101,FLAGEY (PLACE),605276,12,0,male,child,338685,1,couple_with_child,,,2,Primaires
+448,607004,21009A03-,ERMITAGE,607004,12,0,male,child,339819,1,couple_with_child,,,2,Primaires
+449,609121,21009A13-,GACHARD,609121,12,0,male,child,341209,1,couple_with_child,,,2,Primaires
+450,612277,21009A63-,MACAU,612277,12,0,male,child,343217,1,couple_with_child,,,2,Primaires
+451,616148,21009A42-,RENIER CHALON,616148,12,0,male,child,345704,4,single_with_child,,,2,Primaires
+452,618674,21009A40-,MELEZES,618674,12,0,male,child,347160,1,couple_with_child,,,2,Primaires
+453,624003,21009A33-,SAINT-ADRIEN,624003,12,0,male,child,350355,1,couple_with_child,,,2,Primaires
+454,628297,21009A21-,ETE,628297,12,0,male,child,352863,4,single_with_child,,,2,Primaires
+455,632230,21009A43-,FERNAND NEURAY,632230,12,0,male,child,355643,1,couple_with_child,,,2,Primaires
+456,633966,21009A41-,SAINT-GEORGES,633966,12,0,male,child,356728,1,couple_with_child,,,2,Primaires
+457,638601,21009A52-,GRAY (RUE),638601,12,0,male,child,359280,1,couple_with_child,,,2,Primaires
+458,642752,21009A44-,PREVOT,642752,12,0,male,child,362263,1,couple_with_child,,,2,Primaires
+459,645870,21009A72-,DEFACQZ,645870,12,0,male,child,364312,1,couple_with_child,,,2,Primaires
+460,648038,21009A911,A. DELPORTE-SUD,648038,12,0,male,child,365710,1,couple_with_child,,,2,Primaires
+461,652293,21009A111,WERY (RUE),652293,12,0,male,child,368385,1,couple_with_child,,,2,Primaires
+462,656427,21009A01-,BLYCKAERTS,656427,12,0,male,child,370854,1,couple_with_child,,,2,Primaires
+463,660160,21009A22-,UNIVERSITE,660160,12,0,male,child,373241,1,couple_with_child,,,2,Primaires
+464,663005,21009A53-,LONDRES (PLACE DE),663005,12,0,male,child,375187,1,couple_with_child,,,2,Primaires
+465,667817,21009A612,LIEGEOIS (RUE),667817,12,0,male,child,378312,1,couple_with_child,,,2,Primaires
+466,672230,21009A73-,BERCKENDAEL,672230,12,0,male,child,381271,1,couple_with_child,,,2,Primaires
+467,675788,21009A451,CHATELAIN (PLACE DU)-EST,675788,12,0,male,child,383264,1,couple_with_child,,,2,Primaires
+468,679185,21010A04-,NOTRE-DAME DE LOURDES,679185,12,0,male,child,385216,1,couple_with_child,,,2,Primaires
+469,678993,21010A04-,NOTRE-DAME DE LOURDES,678993,12,0,male,child,385143,4,single_with_child,,,2,Primaires
+470,678549,21010A04-,NOTRE-DAME DE LOURDES,678549,12,0,male,child,384963,1,couple_with_child,,,2,Primaires
+471,680041,21010A04-,NOTRE-DAME DE LOURDES,680041,12,0,male,child,385560,1,couple_with_child,,,2,Primaires
+472,683021,21010A03-,MIROIR,683021,12,0,male,child,387273,4,single_with_child,,,2,Primaires
+473,684701,21010A03-,MIROIR,684701,12,0,male,parent,387862,1,couple_with_child,,,2,Primaires
+474,683476,21010A03-,MIROIR,683476,12,0,male,child,387409,1,couple_with_child,,,2,Primaires
+475,687246,21010A10-,ANCIENNE BARRIERE,687246,12,0,male,child,389446,4,single_with_child,,,2,Primaires
+476,686569,21010A10-,ANCIENNE BARRIERE,686569,12,0,male,child,389166,1,couple_with_child,,,2,Primaires
+477,688650,21010A121,F. MOHRFELD (RUE DE),688650,12,0,male,child,390282,1,couple_with_child,,,2,Primaires
+478,691116,21010A111,HEYMBOSCH,691116,12,0,male,child,391639,4,single_with_child,,,2,Primaires
+479,690882,21010A111,HEYMBOSCH,690882,12,0,male,child,391527,1,couple_with_child,,,2,Primaires
+480,693719,21010A312,BAECK DUPRE,693719,12,0,male,child,393192,4,single_with_child,,,2,Primaires
+481,695663,21010A1AJ,ARBRE BALLON,695663,12,0,male,child,394094,1,couple_with_child,,,2,Primaires
+482,695058,21010A1AJ,ARBRE BALLON,695058,12,0,male,child,393869,1,couple_with_child,,,2,Primaires
+483,699556,21010A05-,ALBERT (QUARTIER),699556,12,0,male,child,395994,4,single_with_child,,,2,Primaires
+484,699295,21010A05-,ALBERT (QUARTIER),699295,12,0,male,child,395888,1,couple_with_child,,,2,Primaires
+485,699559,21010A05-,ALBERT (QUARTIER),699559,12,0,male,child,395995,4,single_with_child,,,2,Primaires
+486,700443,21010A05-,ALBERT (QUARTIER),700443,12,0,male,child,396324,1,couple_with_child,,,2,Primaires
+487,699520,21010A05-,ALBERT (QUARTIER),699520,12,0,male,child,395973,1,couple_with_child,,,2,Primaires
+488,705892,21010A13-,CITE-JARDIN,705892,12,0,male,child,399349,1,couple_with_child,,,2,Primaires
+489,705818,21010A13-,CITE-JARDIN,705818,12,0,male,child,399318,1,couple_with_child,,,2,Primaires
+490,706192,21010A13-,CITE-JARDIN,706192,12,0,male,child,399478,1,couple_with_child,,,2,Primaires
+491,704988,21010A13-,CITE-JARDIN,704988,12,0,male,child,398972,1,couple_with_child,,,2,Primaires
+492,712258,21010A00-,CENTRE,712258,12,0,male,child,402629,1,couple_with_child,,,2,Primaires
+493,710789,21010A00-,CENTRE,710789,12,0,male,child,402046,1,couple_with_child,,,2,Primaires
+494,712613,21010A00-,CENTRE,712613,12,0,male,child,402766,1,couple_with_child,,,2,Primaires
+495,710379,21010A00-,CENTRE,710379,12,0,male,child,401884,1,couple_with_child,,,2,Primaires
+496,711607,21010A00-,CENTRE,711607,12,0,male,child,402376,1,couple_with_child,,,2,Primaires
+497,717872,21010A141,BRUGMANN,717872,12,0,male,child,405841,1,couple_with_child,,,2,Primaires
+498,717669,21010A141,BRUGMANN,717669,12,0,male,child,405770,4,single_with_child,,,2,Primaires
+499,717974,21010A141,BRUGMANN,717974,12,0,male,child,405888,4,single_with_child,,,2,Primaires
+500,725809,21010A01-,ESSEGHEM,725809,12,0,male,parent,408771,4,single_with_child,,,2,Primaires
+501,725808,21010A01-,ESSEGHEM,725808,12,0,male,parent,407931,1,couple_with_child,,,2,Primaires
+502,723705,21010A01-,ESSEGHEM,723705,12,0,male,child,408730,1,couple_with_child,,,2,Primaires
+503,722975,21010A01-,ESSEGHEM,722975,12,0,male,child,408449,4,single_with_child,,,2,Primaires
+504,727019,21010A21-,MADELEINE,727019,12,0,male,child,410680,1,couple_with_child,,,2,Primaires
+505,726785,21010A21-,MADELEINE,726785,12,0,male,child,410598,1,couple_with_child,,,2,Primaires
+506,726718,21010A21-,MADELEINE,726718,12,0,male,child,410576,4,single_with_child,,,2,Primaires
+507,731421,21010A02-,LEOPOLD I,731421,12,0,male,child,412930,1,couple_with_child,,,2,Primaires
+508,731536,21010A02-,LEOPOLD I,731536,12,0,male,child,412977,4,single_with_child,,,2,Primaires
+509,731457,21010A02-,LEOPOLD I,731457,12,0,male,child,412949,4,single_with_child,,,2,Primaires
+510,731891,21010A02-,LEOPOLD I,731891,12,0,male,child,413110,1,couple_with_child,,,2,Primaires
+511,735525,21011A11-,LEPREUX,735525,12,0,male,child,415111,1,couple_with_child,,,2,Primaires
+512,735432,21011A11-,LEPREUX,735432,12,0,male,child,415077,4,single_with_child,,,2,Primaires
+513,737900,21011A30-,ARCHERS - FOUREZ,737900,12,0,male,child,416300,1,couple_with_child,,,2,Primaires
+514,737758,21011A30-,ARCHERS - FOUREZ,737758,12,0,male,child,416243,1,couple_with_child,,,2,Primaires
+515,738139,21011A30-,ARCHERS - FOUREZ,738139,12,0,male,child,416388,4,single_with_child,,,2,Primaires
+516,740556,21011A20-,PLATEAU,740556,12,0,male,child,417744,1,couple_with_child,,,2,Primaires
+517,741062,21011A20-,PLATEAU,741062,12,0,male,child,417895,1,couple_with_child,,,2,Primaires
+518,740198,21011A20-,PLATEAU,740198,12,0,male,child,417642,1,couple_with_child,,,2,Primaires
+519,740885,21011A20-,PLATEAU,740885,12,0,male,child,417840,1,couple_with_child,,,2,Primaires
+520,744910,21011A10-,PAIX (AVENUE DE LA),744910,12,0,male,child,420019,4,single_with_child,,,2,Primaires
+521,744418,21011A10-,PAIX (AVENUE DE LA),744418,12,0,male,child,419819,1,couple_with_child,,,2,Primaires
+522,751132,21011A01-,SAINTE-ANNE,751132,12,0,male,parent,421524,1,couple_with_child,,,2,Primaires
+523,751126,21011A01-,SAINTE-ANNE,751126,12,0,male,parent,422274,1,couple_with_child,,,2,Primaires
+524,747391,21011A01-,SAINTE-ANNE,747391,12,0,male,child,421354,4,single_with_child,,,2,Primaires
+525,747972,21011A01-,SAINTE-ANNE,747972,12,0,male,child,421564,4,single_with_child,,,2,Primaires
+526,752062,21011A02-,JACQUET (RUE DE),752062,12,0,male,child,423664,1,couple_with_child,,,2,Primaires
+527,753408,21011A02-,JACQUET (RUE DE),753408,12,0,male,parent,423725,4,single_with_child,,,2,Primaires
+528,755799,21011A00-,VANHUFFEL,755799,12,0,male,parent,424730,4,single_with_child,,,2,Primaires
+529,753888,21011A00-,VANHUFFEL,753888,12,0,male,child,424630,1,couple_with_child,,,2,Primaires
+530,756501,21011A12-,BASILIQUE,756501,12,0,male,child,426067,1,couple_with_child,,,2,Primaires
+531,756594,21011A12-,BASILIQUE,756594,12,0,male,child,426107,4,single_with_child,,,2,Primaires
+532,758813,21012A552,PFEIFFER,758813,12,0,male,child,427311,1,couple_with_child,,,2,Primaires
+533,758862,21012A552,PFEIFFER,758862,12,0,male,child,427330,1,couple_with_child,,,2,Primaires
+534,760866,21012A84-,METTEWIE-BUILDINGS,760866,12,0,male,child,428532,4,single_with_child,,,2,Primaires
+535,761533,21012A84-,METTEWIE-BUILDINGS,761533,12,0,male,child,428803,4,single_with_child,,,2,Primaires
+536,760976,21012A84-,METTEWIE-BUILDINGS,760976,12,0,male,child,428576,1,couple_with_child,,,2,Primaires
+537,764193,21012A24-,OSSEGHEM,764193,12,0,male,child,430265,4,single_with_child,,,2,Primaires
+538,764050,21012A24-,OSSEGHEM,764050,12,0,male,child,430210,4,single_with_child,,,2,Primaires
+539,763955,21012A24-,OSSEGHEM,763955,12,0,male,child,430169,1,couple_with_child,,,2,Primaires
+540,764166,21012A24-,OSSEGHEM,764166,12,0,male,child,430249,1,couple_with_child,,,2,Primaires
+541,764592,21012A24-,OSSEGHEM,764592,12,0,male,child,430422,1,couple_with_child,,,2,Primaires
+542,768502,21012A26-,MACHTENS-NORD,768502,12,0,male,child,432624,4,single_with_child,,,2,Primaires
+543,767965,21012A26-,MACHTENS-NORD,767965,12,0,male,child,432386,1,couple_with_child,,,2,Primaires
+544,768335,21012A26-,MACHTENS-NORD,768335,12,0,male,child,432547,1,couple_with_child,,,2,Primaires
+545,767688,21012A26-,MACHTENS-NORD,767688,12,0,male,child,432271,4,single_with_child,,,2,Primaires
+546,768408,21012A26-,MACHTENS-NORD,768408,12,0,male,child,432578,1,couple_with_child,,,2,Primaires
+547,772224,21012A25-,BEEKKANT,772224,12,0,male,parent,434576,1,couple_with_child,,,2,Primaires
+548,773420,21012A172,GARE OUEST,773420,12,0,male,parent,434927,4,single_with_child,,,2,Primaires
+549,772690,21012A172,GARE OUEST,772690,12,0,male,child,435045,4,single_with_child,,,2,Primaires
+550,773865,21012A041,QUATRE VENTS,773865,12,0,male,child,435629,4,single_with_child,,,2,Primaires
+551,773934,21012A041,QUATRE VENTS,773934,12,0,male,child,435650,4,single_with_child,,,2,Primaires
+552,773944,21012A041,QUATRE VENTS,773944,12,0,male,child,435653,1,couple_with_child,,,2,Primaires
+553,778132,21012A10-,DUCHESSE DE BRABANT,778132,12,0,male,parent,436841,4,single_with_child,,,2,Primaires
+554,778141,21012A10-,DUCHESSE DE BRABANT,778141,12,0,male,parent,437122,1,couple_with_child,,,2,Primaires
+555,778134,21012A10-,DUCHESSE DE BRABANT,778134,12,0,male,parent,437022,4,single_with_child,,,2,Primaires
+556,776317,21012A10-,DUCHESSE DE BRABANT,776317,12,0,male,child,436894,1,couple_with_child,,,2,Primaires
+557,780751,21012A00-,CENTRE,780751,12,0,male,parent,438082,1,couple_with_child,,,2,Primaires
+558,779084,21012A00-,CENTRE,779084,12,0,male,child,438256,1,couple_with_child,,,2,Primaires
+559,778775,21012A00-,CENTRE,778775,12,0,male,child,438163,4,single_with_child,,,2,Primaires
+560,781961,21012A05-,SAINT-JOSEPH,781961,12,0,male,parent,439528,1,couple_with_child,,,2,Primaires
+561,781276,21012A05-,SAINT-JOSEPH,781276,12,0,male,child,439562,1,couple_with_child,,,2,Primaires
+562,782476,21012A851,CONDOR,782476,12,0,male,child,440228,1,couple_with_child,,,2,Primaires
+563,782822,21012A851,CONDOR,782822,12,0,male,child,440378,1,couple_with_child,,,2,Primaires
+564,783843,21012A882,DARING,783843,12,0,male,child,440953,1,couple_with_child,,,2,Primaires
+565,786081,21012A13-,BIRMINGHAM-NORD,786081,12,0,male,parent,441343,1,couple_with_child,,,2,Primaires
+566,784838,21012A13-,BIRMINGHAM-NORD,784838,12,0,male,child,441456,1,couple_with_child,,,2,Primaires
+567,787549,21012A12-,BIRMINGHAM-SUD,787549,12,0,male,parent,442480,4,single_with_child,,,2,Primaires
+568,787550,21012A12-,BIRMINGHAM-SUD,787550,12,0,male,parent,442313,1,couple_with_child,,,2,Primaires
+569,789746,21012A672,ULENS,789746,12,0,male,child,443814,4,single_with_child,,,2,Primaires
+570,788532,21012A672,ULENS,788532,12,0,male,child,443246,1,couple_with_child,,,2,Primaires
+571,790261,21012A672,ULENS,790261,12,0,male,parent,443077,1,couple_with_child,,,2,Primaires
+572,790259,21012A672,ULENS,790259,12,0,male,parent,443218,1,couple_with_child,,,2,Primaires
+573,795388,21012A60-,LAEKENVELD,795388,12,0,male,parent,444984,1,couple_with_child,,,2,Primaires
+574,795390,21012A60-,LAEKENVELD,795390,12,0,male,parent,444752,4,single_with_child,,,2,Primaires
+575,795397,21012A60-,LAEKENVELD,795397,12,0,male,parent,445256,4,single_with_child,,,2,Primaires
+576,792209,21012A60-,LAEKENVELD,792209,12,0,male,child,444991,1,couple_with_child,,,2,Primaires
+577,794673,21012A60-,LAEKENVELD,794673,12,0,male,child,446155,4,single_with_child,,,2,Primaires
+578,795380,21012A60-,LAEKENVELD,795380,12,0,male,parent,444926,1,couple_with_child,,,2,Primaires
+579,795383,21012A60-,LAEKENVELD,795383,12,0,male,parent,444423,1,couple_with_child,,,2,Primaires
+580,797898,21012A63-,DUBRUCQ-NORD,797898,12,0,male,parent,447090,1,couple_with_child,,,2,Primaires
+581,797895,21012A63-,DUBRUCQ-NORD,797895,12,0,male,parent,447432,1,couple_with_child,,,2,Primaires
+582,796628,21012A63-,DUBRUCQ-NORD,796628,12,0,male,child,447290,4,single_with_child,,,2,Primaires
+583,800577,21012A62-,LIBERATEURS,800577,12,0,male,child,449069,1,couple_with_child,,,2,Primaires
+584,803533,21012A62-,LIBERATEURS,803533,12,0,male,parent,448779,1,couple_with_child,,,2,Primaires
+585,803523,21012A62-,LIBERATEURS,803523,12,0,male,parent,448143,1,couple_with_child,,,2,Primaires
+586,799295,21012A62-,LIBERATEURS,799295,12,0,male,child,448606,4,single_with_child,,,2,Primaires
+587,799896,21012A62-,LIBERATEURS,799896,12,0,male,child,448830,4,single_with_child,,,2,Primaires
+588,803522,21012A62-,LIBERATEURS,803522,12,0,male,parent,448743,1,couple_with_child,,,2,Primaires
+589,803529,21012A62-,LIBERATEURS,803529,12,0,male,parent,449168,1,couple_with_child,,,2,Primaires
+590,798977,21012A62-,LIBERATEURS,798977,12,0,male,child,448479,1,couple_with_child,,,2,Primaires
+591,805149,21012A511,STEYNS,805149,12,0,male,child,451655,1,couple_with_child,,,2,Primaires
+592,804217,21012A511,STEYNS,804217,12,0,male,child,451375,1,couple_with_child,,,2,Primaires
+593,806295,21012A511,STEYNS,806295,12,0,male,child,452256,4,single_with_child,,,2,Primaires
+594,805275,21012A511,STEYNS,805275,12,0,male,child,451693,4,single_with_child,,,2,Primaires
+595,808933,21012A20-,BAECK,808933,12,0,male,parent,452904,1,couple_with_child,,,2,Primaires
+596,807560,21012A20-,BAECK,807560,12,0,male,child,453073,1,couple_with_child,,,2,Primaires
+597,808942,21012A20-,BAECK,808942,12,0,male,parent,452946,1,couple_with_child,,,2,Primaires
+598,809879,21012A72-,LAVALLEE,809879,12,0,male,child,454198,1,couple_with_child,,,2,Primaires
+599,809685,21012A72-,LAVALLEE,809685,12,0,male,child,454135,4,single_with_child,,,2,Primaires
+600,811345,21012A72-,LAVALLEE,811345,12,0,male,child,454878,4,single_with_child,,,2,Primaires
+601,811810,21012A72-,LAVALLEE,811810,12,0,male,parent,454165,4,single_with_child,,,2,Primaires
+602,812297,21012A611,MEXICO,812297,12,0,male,child,455431,1,couple_with_child,,,2,Primaires
+603,812231,21012A611,MEXICO,812231,12,0,male,child,455412,4,single_with_child,,,2,Primaires
+604,814943,21012A54-,DELHAIZE,814943,12,0,male,child,456776,1,couple_with_child,,,2,Primaires
+605,814710,21012A54-,DELHAIZE,814710,12,0,male,child,456696,1,couple_with_child,,,2,Primaires
+606,817427,21012A54-,DELHAIZE,817427,12,0,male,parent,457113,1,couple_with_child,,,2,Primaires
+607,817423,21012A54-,DELHAIZE,817423,12,0,male,parent,456966,1,couple_with_child,,,2,Primaires
+608,818510,21012A50-,BENES,818510,12,0,male,child,458646,1,couple_with_child,,,2,Primaires
+609,819527,21012A50-,BENES,819527,12,0,male,child,459059,1,couple_with_child,,,2,Primaires
+610,818532,21012A50-,BENES,818532,12,0,male,child,458652,1,couple_with_child,,,2,Primaires
+611,819289,21012A50-,BENES,819289,12,0,male,child,458964,4,single_with_child,,,2,Primaires
+612,824425,21012A71-,PIERS,824425,12,0,male,child,461603,4,single_with_child,,,2,Primaires
+613,824419,21012A71-,PIERS,824419,12,0,male,child,461601,4,single_with_child,,,2,Primaires
+614,825221,21012A71-,PIERS,825221,12,0,male,parent,460647,1,couple_with_child,,,2,Primaires
+615,822129,21012A71-,PIERS,822129,12,0,male,child,460503,4,single_with_child,,,2,Primaires
+616,825223,21012A71-,PIERS,825223,12,0,male,parent,461119,1,couple_with_child,,,2,Primaires
+617,822370,21012A71-,PIERS,822370,12,0,male,child,460586,1,couple_with_child,,,2,Primaires
+618,826069,21012A21-,MARIE-JOSE BLOCS,826069,12,0,male,child,462744,1,couple_with_child,,,2,Primaires
+619,826221,21012A21-,MARIE-JOSE BLOCS,826221,12,0,male,child,462812,4,single_with_child,,,2,Primaires
+620,828766,21012A152,ETANGS NOIRS,828766,12,0,male,child,464051,1,couple_with_child,,,2,Primaires
+621,833347,21012A152,ETANGS NOIRS,833347,12,0,male,parent,464251,4,single_with_child,,,2,Primaires
+622,833346,21012A152,ETANGS NOIRS,833346,12,0,male,parent,463846,1,couple_with_child,,,2,Primaires
+623,833344,21012A152,ETANGS NOIRS,833344,12,0,male,parent,463669,4,single_with_child,,,2,Primaires
+624,828893,21012A152,ETANGS NOIRS,828893,12,0,male,child,464100,1,couple_with_child,,,2,Primaires
+625,829464,21012A152,ETANGS NOIRS,829464,12,0,male,child,464294,1,couple_with_child,,,2,Primaires
+626,833345,21012A152,ETANGS NOIRS,833345,12,0,male,parent,464443,1,couple_with_child,,,2,Primaires
+627,829582,21012A152,ETANGS NOIRS,829582,12,0,male,child,464330,1,couple_with_child,,,2,Primaires
+628,835547,21012A52-,NEEP (QUARTIER DU),835547,12,0,male,child,467745,1,couple_with_child,,,2,Primaires
+629,834571,21012A52-,NEEP (QUARTIER DU),834571,12,0,male,child,467354,1,couple_with_child,,,2,Primaires
+630,835320,21012A52-,NEEP (QUARTIER DU),835320,12,0,male,child,467660,4,single_with_child,,,2,Primaires
+631,835275,21012A52-,NEEP (QUARTIER DU),835275,12,0,male,child,467640,1,couple_with_child,,,2,Primaires
+632,834443,21012A52-,NEEP (QUARTIER DU),834443,12,0,male,child,467303,1,couple_with_child,,,2,Primaires
+633,838352,21012A30-,METTEWIE - IDYLLE,838352,12,0,male,child,469416,4,single_with_child,,,2,Primaires
+634,838249,21012A30-,METTEWIE - IDYLLE,838249,12,0,male,child,469372,1,couple_with_child,,,2,Primaires
+635,838971,21012A30-,METTEWIE - IDYLLE,838971,12,0,male,child,469674,1,couple_with_child,,,2,Primaires
+636,841618,21012A23-,MACHTENS-SUD,841618,12,0,male,child,471092,1,couple_with_child,,,2,Primaires
+637,841800,21012A23-,MACHTENS-SUD,841800,12,0,male,child,471166,1,couple_with_child,,,2,Primaires
+638,840830,21012A23-,MACHTENS-SUD,840830,12,0,male,child,470779,4,single_with_child,,,2,Primaires
+639,841600,21012A23-,MACHTENS-SUD,841600,12,0,male,child,471087,1,couple_with_child,,,2,Primaires
+640,844638,21012A41-,MOORTEBEEK,844638,12,0,male,child,472704,1,couple_with_child,,,2,Primaires
+641,844608,21012A41-,MOORTEBEEK,844608,12,0,male,child,472696,4,single_with_child,,,2,Primaires
+642,848407,21012A822,KORENBEEK,848407,12,0,male,child,474530,4,single_with_child,,,2,Primaires
+643,847669,21012A822,KORENBEEK,847669,12,0,male,child,474239,1,couple_with_child,,,2,Primaires
+644,848158,21012A822,KORENBEEK,848158,12,0,male,child,474432,1,couple_with_child,,,2,Primaires
+645,848499,21012A822,KORENBEEK,848499,12,0,male,child,474566,1,couple_with_child,,,2,Primaires
+646,847959,21012A822,KORENBEEK,847959,12,0,male,child,474356,4,single_with_child,,,2,Primaires
+647,848371,21012A822,KORENBEEK,848371,12,0,male,child,474510,1,couple_with_child,,,2,Primaires
+648,851929,21012A811,MYRTES-NORD,851929,12,0,male,child,476513,4,single_with_child,,,2,Primaires
+649,854864,21012A141,INDEPENDANCE,854864,12,0,male,parent,476869,1,couple_with_child,,,2,Primaires
+650,854858,21012A141,INDEPENDANCE,854858,12,0,male,parent,477028,1,couple_with_child,,,2,Primaires
+651,854860,21012A141,INDEPENDANCE,854860,12,0,male,parent,477705,4,single_with_child,,,2,Primaires
+652,854856,21012A141,INDEPENDANCE,854856,12,0,male,parent,477186,4,single_with_child,,,2,Primaires
+653,856882,21012A03-,RANSFORT,856882,12,0,male,parent,478409,1,couple_with_child,,,2,Primaires
+654,856884,21012A03-,RANSFORT,856884,12,0,male,parent,478443,1,couple_with_child,,,2,Primaires
+655,855774,21012A03-,RANSFORT,855774,12,0,male,child,478487,4,single_with_child,,,2,Primaires
+656,857422,21012A11-,INDUSTRIE,857422,12,0,male,child,479403,1,couple_with_child,,,2,Primaires
+657,857227,21012A11-,INDUSTRIE,857227,12,0,male,child,479333,1,couple_with_child,,,2,Primaires
+658,859308,21012A02-,BRUNFAUT (QUARTIER),859308,12,0,male,parent,480130,1,couple_with_child,,,2,Primaires
+659,860613,21012A011,CANAL-SUD,860613,12,0,male,parent,480586,1,couple_with_child,,,2,Primaires
+660,859722,21012A011,CANAL-SUD,859722,12,0,male,child,480688,1,couple_with_child,,,2,Primaires
+661,861999,21012A732,CANAL-NORD,861999,12,0,male,parent,481447,1,couple_with_child,,,2,Primaires
+662,862001,21012A732,CANAL-NORD,862001,12,0,male,parent,481581,4,single_with_child,,,2,Primaires
+663,862750,21013A242,BETHLEEM (PLACE DE),862750,12,0,male,child,482295,1,couple_with_child,,,2,Primaires
+664,864982,21013A101,PARVIS,864982,12,0,male,child,483497,1,couple_with_child,,,2,Primaires
+665,865341,21013A101,PARVIS,865341,12,0,male,child,483666,4,single_with_child,,,2,Primaires
+666,869657,21013A13-,DETHY (RUE),869657,12,0,male,parent,485098,1,couple_with_child,,,2,Primaires
+667,867683,21013A13-,DETHY (RUE),867683,12,0,male,child,484998,4,single_with_child,,,2,Primaires
+668,870629,21013A121,GUILLAUME TELL-SUD,870629,12,0,male,parent,486232,1,couple_with_child,,,2,Primaires
+669,871923,21013A422,CRICKX (RUE),871923,12,0,male,child,487217,4,single_with_child,,,2,Primaires
+670,871593,21013A422,CRICKX (RUE),871593,12,0,male,child,487074,1,couple_with_child,,,2,Primaires
+671,874589,21013A11-,PARME (RUE DE),874589,12,0,male,child,488719,1,couple_with_child,,,2,Primaires
+672,876563,21013A01-,ESPAGNE (RUE D'),876563,12,0,male,child,489901,1,couple_with_child,,,2,Primaires
+673,878234,21013A01-,ESPAGNE (RUE D'),878234,12,0,male,parent,490708,1,couple_with_child,,,2,Primaires
+674,880257,21013A04-,PRISON,880257,12,0,male,child,491980,1,couple_with_child,,,2,Primaires
+675,881851,21013A201,ANGLETERRE (RUE D'),881851,12,0,male,child,492925,1,couple_with_child,,,2,Primaires
+676,881974,21013A201,ANGLETERRE (RUE D'),881974,12,0,male,child,492975,4,single_with_child,,,2,Primaires
+677,885909,21013A252,DANEMARK (RUE DE),885909,12,0,male,parent,494099,1,couple_with_child,,,2,Primaires
+678,885910,21013A252,DANEMARK (RUE DE),885910,12,0,male,parent,494133,1,couple_with_child,,,2,Primaires
+679,887465,21013A23-,ROI (AVENUE DU),887465,12,0,male,parent,495388,4,single_with_child,,,2,Primaires
+680,888090,21013A02-,CAPOUILLET (RUE),888090,12,0,male,child,496460,1,couple_with_child,,,2,Primaires
+681,888431,21013A02-,CAPOUILLET (RUE),888431,12,0,male,child,496633,1,couple_with_child,,,2,Primaires
+682,892947,21013A22-,REGIES,892947,12,0,male,child,499331,4,single_with_child,,,2,Primaires
+683,892531,21013A22-,REGIES,892531,12,0,male,child,499161,1,couple_with_child,,,2,Primaires
+684,892392,21013A22-,REGIES,892392,12,0,male,child,499106,4,single_with_child,,,2,Primaires
+685,896503,21013A211,FONTAINAS,896503,12,0,male,child,501410,1,couple_with_child,,,2,Primaires
+686,896638,21013A211,FONTAINAS,896638,12,0,male,child,501472,1,couple_with_child,,,2,Primaires
+687,898405,21013A052,FAIDER (RUE),898405,12,0,male,child,502534,1,couple_with_child,,,2,Primaires
+688,901013,21013A151,METAL (RUE DU),901013,12,0,male,parent,504043,1,couple_with_child,,,2,Primaires
+689,902411,21013A522,RUE D'ECOSSE,902411,12,0,male,child,505032,4,single_with_child,,,2,Primaires
+690,904634,21013A40-,BARRIERE,904634,12,0,male,child,506458,1,couple_with_child,,,2,Primaires
+691,904807,21013A40-,BARRIERE,904807,12,0,male,child,506531,1,couple_with_child,,,2,Primaires
+692,906749,21013A41-,VILLAS (AVENUE DES),906749,12,0,male,child,507709,1,couple_with_child,,,2,Primaires
+693,907063,21013A41-,VILLAS (AVENUE DES),907063,12,0,male,child,507851,4,single_with_child,,,2,Primaires
+694,909588,21013A031,AMAZONE (RUE DE),909588,12,0,male,child,509304,1,couple_with_child,,,2,Primaires
+695,911475,21013A00-,HOTEL DE VILLE,911475,12,0,male,child,510447,1,couple_with_child,,,2,Primaires
+696,911706,21013A00-,HOTEL DE VILLE,911706,12,0,male,child,510555,1,couple_with_child,,,2,Primaires
+697,916393,21013A51-,TOISON D'OR (AVENUE),916393,12,0,male,parent,512467,1,couple_with_child,,,2,Primaires
+698,917568,21014A00-,PLACE SAINT-JOSSE,917568,12,0,male,child,514125,4,single_with_child,,,2,Primaires
+699,917071,21014A00-,PLACE SAINT-JOSSE,917071,12,0,male,child,513927,1,couple_with_child,,,2,Primaires
+700,917264,21014A00-,PLACE SAINT-JOSSE,917264,12,0,male,child,514003,1,couple_with_child,,,2,Primaires
+701,917374,21014A00-,PLACE SAINT-JOSSE,917374,12,0,male,child,514046,1,couple_with_child,,,2,Primaires
+702,921667,21014A02-,CHARITE,921667,12,0,male,child,516571,4,single_with_child,,,2,Primaires
+703,921999,21014A02-,CHARITE,921999,12,0,male,parent,515708,1,couple_with_child,,,2,Primaires
+704,923369,21014A14-,PRAIRIE,923369,12,0,male,parent,516874,1,couple_with_child,,,2,Primaires
+705,922303,21014A14-,PRAIRIE,922303,12,0,male,child,516952,4,single_with_child,,,2,Primaires
+706,924989,21014A41-,BOSSUET,924989,12,0,male,child,518294,1,couple_with_child,,,2,Primaires
+707,923883,21014A41-,BOSSUET,923883,12,0,male,child,517899,1,couple_with_child,,,2,Primaires
+708,924851,21014A41-,BOSSUET,924851,12,0,male,child,518245,1,couple_with_child,,,2,Primaires
+709,924209,21014A41-,BOSSUET,924209,12,0,male,child,518012,1,couple_with_child,,,2,Primaires
+710,924267,21014A41-,BOSSUET,924267,12,0,male,child,518030,1,couple_with_child,,,2,Primaires
+711,928129,21014A10-,SAINT-FRANCOIS,928129,12,0,male,child,519983,1,couple_with_child,,,2,Primaires
+712,928632,21014A10-,SAINT-FRANCOIS,928632,12,0,male,child,520134,1,couple_with_child,,,2,Primaires
+713,930300,21014A10-,SAINT-FRANCOIS,930300,12,0,male,parent,520313,1,couple_with_child,,,2,Primaires
+714,930685,21014A03-,MADOU,930685,12,0,male,child,521469,1,couple_with_child,,,2,Primaires
+715,932290,21014A01-,STEURS,932290,12,0,male,child,522312,1,couple_with_child,,,2,Primaires
+716,934299,21014A04-,HAECHT (CHAUSSEE DE),934299,12,0,male,child,523216,4,single_with_child,,,2,Primaires
+717,936638,21014A04-,HAECHT (CHAUSSEE DE),936638,12,0,male,parent,522980,1,couple_with_child,,,2,Primaires
+718,934013,21014A04-,HAECHT (CHAUSSEE DE),934013,12,0,male,child,523109,1,couple_with_child,,,2,Primaires
+719,934186,21014A04-,HAECHT (CHAUSSEE DE),934186,12,0,male,child,523177,4,single_with_child,,,2,Primaires
+720,939056,21014A05-,HOUWAERT,939056,12,0,male,child,525715,4,single_with_child,,,2,Primaires
+721,938696,21014A05-,HOUWAERT,938696,12,0,male,child,525578,1,couple_with_child,,,2,Primaires
+722,938329,21014A05-,HOUWAERT,938329,12,0,male,child,525433,1,couple_with_child,,,2,Primaires
+723,938268,21014A05-,HOUWAERT,938268,12,0,male,child,525403,1,couple_with_child,,,2,Primaires
+724,939432,21014A05-,HOUWAERT,939432,12,0,male,child,525859,4,single_with_child,,,2,Primaires
+725,938813,21014A05-,HOUWAERT,938813,12,0,male,child,525622,1,couple_with_child,,,2,Primaires
+726,940079,21014A05-,HOUWAERT,940079,12,0,male,child,526103,4,single_with_child,,,2,Primaires
+727,939326,21014A05-,HOUWAERT,939326,12,0,male,child,525817,1,couple_with_child,,,2,Primaires
+728,944690,21014A05-,HOUWAERT,944690,12,0,male,parent,525352,1,couple_with_child,,,2,Primaires
+729,944852,21014A3MJ,MANHATTAN,944852,12,0,male,child,528968,1,couple_with_child,,,2,Primaires
+730,947053,21015A50-,OPALE,947053,12,0,male,child,530146,1,couple_with_child,,,2,Primaires
+731,947533,21015A50-,OPALE,947533,12,0,male,child,530356,4,single_with_child,,,2,Primaires
+732,947143,21015A50-,OPALE,947143,12,0,male,child,530187,1,couple_with_child,,,2,Primaires
+733,947350,21015A50-,OPALE,947350,12,0,male,child,530276,1,couple_with_child,,,2,Primaires
+734,948518,21015A50-,OPALE,948518,12,0,male,child,530787,1,couple_with_child,,,2,Primaires
+735,946378,21015A50-,OPALE,946378,12,0,male,child,529835,1,couple_with_child,,,2,Primaires
+736,953449,21015A77-,R.T.B.,953449,12,0,male,parent,533010,4,single_with_child,,,2,Primaires
+737,951797,21015A77-,R.T.B.,951797,12,0,male,child,532916,1,couple_with_child,,,2,Primaires
+738,953448,21015A77-,R.T.B.,953448,12,0,male,parent,532694,1,couple_with_child,,,2,Primaires
+739,953987,21015A73-,H. EVENEPOEL (RUE),953987,12,0,male,child,534350,4,single_with_child,,,2,Primaires
+740,953931,21015A73-,H. EVENEPOEL (RUE),953931,12,0,male,child,534329,4,single_with_child,,,2,Primaires
+741,955900,21015A31-,PATRIE,955900,12,0,male,child,535432,1,couple_with_child,,,2,Primaires
+742,956128,21015A31-,PATRIE,956128,12,0,male,child,535528,1,couple_with_child,,,2,Primaires
+743,956381,21015A31-,PATRIE,956381,12,0,male,child,535641,1,couple_with_child,,,2,Primaires
+744,958687,21015A36-,CAMBIER (AVENUE E.),958687,12,0,male,child,536969,4,single_with_child,,,2,Primaires
+745,958478,21015A36-,CAMBIER (AVENUE E.),958478,12,0,male,child,536870,1,couple_with_child,,,2,Primaires
+746,960740,21015A70-,P. HYMANS (RUE),960740,12,0,male,child,538155,1,couple_with_child,,,2,Primaires
+747,961182,21015A70-,P. HYMANS (RUE),961182,12,0,male,child,538350,1,couple_with_child,,,2,Primaires
+748,962930,21015A721,F. COURTENS (AVENUE),962930,12,0,male,parent,539277,1,couple_with_child,,,2,Primaires
+749,963481,21015A822,CH. GILISQUET - SUD (AVENUE),963481,12,0,male,child,539598,1,couple_with_child,,,2,Primaires
+750,964377,21015A34-,PAQUERETTES (RUE),964377,12,0,male,child,540018,1,couple_with_child,,,2,Primaires
+751,964247,21015A34-,PAQUERETTES (RUE),964247,12,0,male,child,539961,1,couple_with_child,,,2,Primaires
+752,965912,21015A63-,DESCHANEL P. (AVENUE),965912,12,0,male,child,540786,1,couple_with_child,,,2,Primaires
+753,966121,21015A63-,DESCHANEL P. (AVENUE),966121,12,0,male,child,540871,1,couple_with_child,,,2,Primaires
+754,967416,21015A883,THEUNIS PIERRE (RUE),967416,12,0,male,child,541627,1,couple_with_child,,,2,Primaires
+755,968603,21015A811,TERDELT,968603,12,0,male,child,542275,1,couple_with_child,,,2,Primaires
+756,968541,21015A811,TERDELT,968541,12,0,male,child,542253,1,couple_with_child,,,2,Primaires
+757,970966,21015A831,LATINIS (AVENUE G.),970966,12,0,male,child,543552,1,couple_with_child,,,2,Primaires
+758,970665,21015A831,LATINIS (AVENUE G.),970665,12,0,male,child,543419,1,couple_with_child,,,2,Primaires
+759,971301,21015A831,LATINIS (AVENUE G.),971301,12,0,male,child,543696,1,couple_with_child,,,2,Primaires
+760,970792,21015A831,LATINIS (AVENUE G.),970792,12,0,male,child,543474,1,couple_with_child,,,2,Primaires
+761,976297,21015A03-,JOSAPHAT (RUE),976297,12,0,male,child,546057,1,couple_with_child,,,2,Primaires
+762,979275,21015A03-,JOSAPHAT (RUE),979275,12,0,male,parent,545349,1,couple_with_child,,,2,Primaires
+763,978408,21015A03-,JOSAPHAT (RUE),978408,12,0,male,child,547091,4,single_with_child,,,2,Primaires
+764,974756,21015A03-,JOSAPHAT (RUE),974756,12,0,male,child,545531,1,couple_with_child,,,2,Primaires
+765,976420,21015A03-,JOSAPHAT (RUE),976420,12,0,male,child,546095,1,couple_with_child,,,2,Primaires
+766,976106,21015A03-,JOSAPHAT (RUE),976106,12,0,male,child,545991,1,couple_with_child,,,2,Primaires
+767,979270,21015A03-,JOSAPHAT (RUE),979270,12,0,male,parent,545436,1,couple_with_child,,,2,Primaires
+768,982920,21015A021,HOUFFALIZE (PLACE),982920,12,0,male,parent,548590,1,couple_with_child,,,2,Primaires
+769,980692,21015A021,HOUFFALIZE (PLACE),980692,12,0,male,child,548311,1,couple_with_child,,,2,Primaires
+770,981267,21015A021,HOUFFALIZE (PLACE),981267,12,0,male,child,548516,1,couple_with_child,,,2,Primaires
+771,982926,21015A021,HOUFFALIZE (PLACE),982926,12,0,male,parent,548246,1,couple_with_child,,,2,Primaires
+772,982924,21015A021,HOUFFALIZE (PLACE),982924,12,0,male,parent,548588,1,couple_with_child,,,2,Primaires
+773,983957,21015A30-,GRANDE RUE AU BOIS,983957,12,0,male,child,550064,1,couple_with_child,,,2,Primaires
+774,983930,21015A30-,GRANDE RUE AU BOIS,983930,12,0,male,child,550057,4,single_with_child,,,2,Primaires
+775,984593,21015A30-,GRANDE RUE AU BOIS,984593,12,0,male,child,550309,1,couple_with_child,,,2,Primaires
+776,984004,21015A30-,GRANDE RUE AU BOIS,984004,12,0,male,child,550085,4,single_with_child,,,2,Primaires
+777,988105,21015A32-,CONSOLATION (RUE DE LA),988105,12,0,male,child,552200,1,couple_with_child,,,2,Primaires
+778,987576,21015A32-,CONSOLATION (RUE DE LA),987576,12,0,male,child,551981,1,couple_with_child,,,2,Primaires
+779,988221,21015A32-,CONSOLATION (RUE DE LA),988221,12,0,male,child,552245,1,couple_with_child,,,2,Primaires
+780,987581,21015A32-,CONSOLATION (RUE DE LA),987581,12,0,male,child,551982,1,couple_with_child,,,2,Primaires
+781,993239,21015A64-,DUPLOYE SQUARE,993239,12,0,male,parent,553894,1,couple_with_child,,,2,Primaires
+782,991063,21015A64-,DUPLOYE SQUARE,991063,12,0,male,child,553703,1,couple_with_child,,,2,Primaires
+783,991541,21015A64-,DUPLOYE SQUARE,991541,12,0,male,child,553846,4,single_with_child,,,2,Primaires
+784,990695,21015A64-,DUPLOYE SQUARE,990695,12,0,male,child,553589,1,couple_with_child,,,2,Primaires
+785,994149,21015A33-,BIENFAITEURS (PLACE DE),994149,12,0,male,child,555294,1,couple_with_child,,,2,Primaires
+786,993975,21015A33-,BIENFAITEURS (PLACE DE),993975,12,0,male,child,555225,1,couple_with_child,,,2,Primaires
+787,994422,21015A33-,BIENFAITEURS (PLACE DE),994422,12,0,male,child,555399,4,single_with_child,,,2,Primaires
+788,997337,21015A35-,JEAN STOBBAERTS (AVENUE),997337,12,0,male,child,556892,4,single_with_child,,,2,Primaires
+789,996864,21015A35-,JEAN STOBBAERTS (AVENUE),996864,12,0,male,child,556706,1,couple_with_child,,,2,Primaires
+790,996823,21015A35-,JEAN STOBBAERTS (AVENUE),996823,12,0,male,child,556690,1,couple_with_child,,,2,Primaires
+791,1000400,21015A53-,DAILLY (PLACE),1000400,12,0,male,child,558513,4,single_with_child,,,2,Primaires
+792,999723,21015A53-,DAILLY (PLACE),999723,12,0,male,child,558228,4,single_with_child,,,2,Primaires
+793,999671,21015A53-,DAILLY (PLACE),999671,12,0,male,child,558203,4,single_with_child,,,2,Primaires
+794,999683,21015A53-,DAILLY (PLACE),999683,12,0,male,child,558207,1,couple_with_child,,,2,Primaires
+795,1003463,21015A54-,EMERAUDE (AVENUE),1003463,12,0,male,child,560371,1,couple_with_child,,,2,Primaires
+796,1003165,21015A54-,EMERAUDE (AVENUE),1003165,12,0,male,child,560246,4,single_with_child,,,2,Primaires
+797,1002716,21015A54-,EMERAUDE (AVENUE),1002716,12,0,male,child,560061,1,couple_with_child,,,2,Primaires
+798,1002855,21015A54-,EMERAUDE (AVENUE),1002855,12,0,male,child,560122,1,couple_with_child,,,2,Primaires
+799,1003928,21015A54-,EMERAUDE (AVENUE),1003928,12,0,male,child,560575,1,couple_with_child,,,2,Primaires
+800,1003249,21015A54-,EMERAUDE (AVENUE),1003249,12,0,male,child,560282,1,couple_with_child,,,2,Primaires
+801,1007973,21015A52-,LINTHOUT (RUE),1007973,12,0,male,child,562889,4,single_with_child,,,2,Primaires
+802,1008522,21015A52-,LINTHOUT (RUE),1008522,12,0,male,child,563133,1,couple_with_child,,,2,Primaires
+803,1008570,21015A52-,LINTHOUT (RUE),1008570,12,0,male,child,563156,1,couple_with_child,,,2,Primaires
+804,1010927,21015A51-,CERISIERS (AVENUE DES),1010927,12,0,male,child,564571,1,couple_with_child,,,2,Primaires
+805,1011270,21015A51-,CERISIERS (AVENUE DES),1011270,12,0,male,child,564720,1,couple_with_child,,,2,Primaires
+806,1017101,21015A05-,ROYALE SAINTE-MARIE (RUE),1017101,12,0,male,parent,567193,4,single_with_child,,,2,Primaires
+807,1013618,21015A05-,ROYALE SAINTE-MARIE (RUE),1013618,12,0,male,child,565846,1,couple_with_child,,,2,Primaires
+808,1013742,21015A05-,ROYALE SAINTE-MARIE (RUE),1013742,12,0,male,child,565896,1,couple_with_child,,,2,Primaires
+809,1016302,21015A05-,ROYALE SAINTE-MARIE (RUE),1016302,12,0,male,child,567192,4,single_with_child,,,2,Primaires
+810,1017102,21015A05-,ROYALE SAINTE-MARIE (RUE),1017102,12,0,male,parent,566021,1,couple_with_child,,,2,Primaires
+811,1017095,21015A05-,ROYALE SAINTE-MARIE (RUE),1017095,12,0,male,parent,566231,1,couple_with_child,,,2,Primaires
+812,1017826,21015A12-,HUART HAMOIR (AVENUE),1017826,12,0,male,child,568161,4,single_with_child,,,2,Primaires
+813,1018536,21015A12-,HUART HAMOIR (AVENUE),1018536,12,0,male,child,568391,1,couple_with_child,,,2,Primaires
+814,1018151,21015A12-,HUART HAMOIR (AVENUE),1018151,12,0,male,child,568267,1,couple_with_child,,,2,Primaires
+815,1020536,21015A152,PR. ELISABETH-NORD,1020536,12,0,male,child,569573,1,couple_with_child,,,2,Primaires
+816,1021966,21015A152,PR. ELISABETH-NORD,1021966,12,0,male,child,570076,1,couple_with_child,,,2,Primaires
+817,1020949,21015A152,PR. ELISABETH-NORD,1020949,12,0,male,child,569716,4,single_with_child,,,2,Primaires
+818,1023529,21015A152,PR. ELISABETH-NORD,1023529,12,0,male,parent,569871,1,couple_with_child,,,2,Primaires
+819,1023525,21015A152,PR. ELISABETH-NORD,1023525,12,0,male,parent,569964,1,couple_with_child,,,2,Primaires
+820,1024151,21015A101,GARE,1024151,12,0,male,child,571330,1,couple_with_child,,,2,Primaires
+821,1024073,21015A101,GARE,1024073,12,0,male,child,571305,1,couple_with_child,,,2,Primaires
+822,1028516,21015A111,MAETERLINCK,1028516,12,0,male,parent,572743,1,couple_with_child,,,2,Primaires
+823,1028513,21015A111,MAETERLINCK,1028513,12,0,male,parent,572415,1,couple_with_child,,,2,Primaires
+824,1026832,21015A111,MAETERLINCK,1026832,12,0,male,child,572592,4,single_with_child,,,2,Primaires
+825,1027166,21015A111,MAETERLINCK,1027166,12,0,male,child,572707,1,couple_with_child,,,2,Primaires
+826,1029342,21015A622,BRUSILIA,1029342,12,0,male,child,573891,4,single_with_child,,,2,Primaires
+827,1030502,21015A71-,JARDINS,1030502,12,0,male,child,574539,1,couple_with_child,,,2,Primaires
+828,1030429,21015A71-,JARDINS,1030429,12,0,male,child,574507,1,couple_with_child,,,2,Primaires
+829,1036861,21015A04-,L'OLIVIER (RUE),1036861,12,0,male,parent,577017,4,single_with_child,,,2,Primaires
+830,1034202,21015A04-,L'OLIVIER (RUE),1034202,12,0,male,child,576097,1,couple_with_child,,,2,Primaires
+831,1036851,21015A04-,L'OLIVIER (RUE),1036851,12,0,male,parent,575479,1,couple_with_child,,,2,Primaires
+832,1032830,21015A04-,L'OLIVIER (RUE),1032830,12,0,male,child,575637,1,couple_with_child,,,2,Primaires
+833,1033607,21015A04-,L'OLIVIER (RUE),1033607,12,0,male,child,575900,1,couple_with_child,,,2,Primaires
+834,1036845,21015A04-,L'OLIVIER (RUE),1036845,12,0,male,parent,576223,1,couple_with_child,,,2,Primaires
+835,1037427,21015A421,PALAIS (RUE DE),1037427,12,0,male,child,577989,1,couple_with_child,,,2,Primaires
+836,1037483,21015A421,PALAIS (RUE DE),1037483,12,0,male,child,578006,4,single_with_child,,,2,Primaires
+837,1037598,21015A421,PALAIS (RUE DE),1037598,12,0,male,child,578048,1,couple_with_child,,,2,Primaires
+838,1042913,21015A40-,BRABANT (RUE DE),1042913,12,0,male,parent,579262,1,couple_with_child,,,2,Primaires
+839,1040414,21015A40-,BRABANT (RUE DE),1040414,12,0,male,child,579480,1,couple_with_child,,,2,Primaires
+840,1040497,21015A40-,BRABANT (RUE DE),1040497,12,0,male,child,579510,1,couple_with_child,,,2,Primaires
+841,1042910,21015A40-,BRABANT (RUE DE),1042910,12,0,male,parent,579367,4,single_with_child,,,2,Primaires
+842,1040472,21015A40-,BRABANT (RUE DE),1040472,12,0,male,child,579503,1,couple_with_child,,,2,Primaires
+843,1043653,21015A43-,GARE DU NORD,1043653,12,0,male,child,581314,1,couple_with_child,,,2,Primaires
+844,1043467,21015A43-,GARE DU NORD,1043467,12,0,male,child,581249,4,single_with_child,,,2,Primaires
+845,1045508,21015A44-,REINE (AVENUE),1045508,12,0,male,child,582265,1,couple_with_child,,,2,Primaires
+846,1046062,21015A44-,REINE (AVENUE),1046062,12,0,male,child,582453,4,single_with_child,,,2,Primaires
+847,1045871,21015A44-,REINE (AVENUE),1045871,12,0,male,child,582391,4,single_with_child,,,2,Primaires
+848,1047955,21015A44-,REINE (AVENUE),1047955,12,0,male,child,583316,4,single_with_child,,,2,Primaires
+849,1052047,21015A41-,VANDERLINDEN (RUE),1052047,12,0,male,parent,583946,1,couple_with_child,,,2,Primaires
+850,1052043,21015A41-,VANDERLINDEN (RUE),1052043,12,0,male,parent,584168,1,couple_with_child,,,2,Primaires
+851,1049442,21015A41-,VANDERLINDEN (RUE),1049442,12,0,male,child,584100,1,couple_with_child,,,2,Primaires
+852,1049262,21015A41-,VANDERLINDEN (RUE),1049262,12,0,male,child,584041,4,single_with_child,,,2,Primaires
+853,1053092,21015A612,BRICHAUT (RUE DE),1053092,12,0,male,child,585899,1,couple_with_child,,,2,Primaires
+854,1054226,21015A612,BRICHAUT (RUE DE),1054226,12,0,male,child,586302,1,couple_with_child,,,2,Primaires
+855,1056512,21015A612,BRICHAUT (RUE DE),1056512,12,0,male,parent,586413,4,single_with_child,,,2,Primaires
+856,1056510,21015A612,BRICHAUT (RUE DE),1056510,12,0,male,parent,585769,4,single_with_child,,,2,Primaires
+857,1056507,21015A612,BRICHAUT (RUE DE),1056507,12,0,male,parent,586041,1,couple_with_child,,,2,Primaires
+858,1056957,21015A45-,STEPHENSON (PLACE),1056957,12,0,male,child,587890,1,couple_with_child,,,2,Primaires
+859,1057187,21015A45-,STEPHENSON (PLACE),1057187,12,0,male,child,587959,4,single_with_child,,,2,Primaires
+860,1061493,21015A00-,COLIGNON (PLACE),1061493,12,0,male,child,589756,4,single_with_child,,,2,Primaires
+861,1066001,21015A00-,COLIGNON (PLACE),1066001,12,0,male,parent,589082,1,couple_with_child,,,2,Primaires
+862,1061201,21015A00-,COLIGNON (PLACE),1061201,12,0,male,child,589650,1,couple_with_child,,,2,Primaires
+863,1060054,21015A00-,COLIGNON (PLACE),1060054,12,0,male,child,589250,1,couple_with_child,,,2,Primaires
+864,1060204,21015A00-,COLIGNON (PLACE),1060204,12,0,male,child,589301,1,couple_with_child,,,2,Primaires
+865,1065998,21015A00-,COLIGNON (PLACE),1065998,12,0,male,parent,590460,1,couple_with_child,,,2,Primaires
+866,1065999,21015A00-,COLIGNON (PLACE),1065999,12,0,male,parent,589852,1,couple_with_child,,,2,Primaires
+867,1065994,21015A00-,COLIGNON (PLACE),1065994,12,0,male,parent,589523,1,couple_with_child,,,2,Primaires
+868,1065997,21015A00-,COLIGNON (PLACE),1065997,12,0,male,parent,590104,4,single_with_child,,,2,Primaires
+869,1066003,21015A00-,COLIGNON (PLACE),1066003,12,0,male,parent,590231,1,couple_with_child,,,2,Primaires
+870,1066581,21015A01-,VAN YSENDYCK (RUE),1066581,12,0,male,child,592591,1,couple_with_child,,,2,Primaires
+871,1068600,21015A24-,WAELHEM (RUE),1068600,12,0,male,child,593498,1,couple_with_child,,,2,Primaires
+872,1070173,21015A24-,WAELHEM (RUE),1070173,12,0,male,parent,593482,1,couple_with_child,,,2,Primaires
+873,1068123,21015A24-,WAELHEM (RUE),1068123,12,0,male,child,593320,1,couple_with_child,,,2,Primaires
+874,1070615,21015A13-,PORTAELS (RUE),1070615,12,0,male,child,594600,1,couple_with_child,,,2,Primaires
+875,1072521,21015A13-,PORTAELS (RUE),1072521,12,0,male,parent,594978,1,couple_with_child,,,2,Primaires
+876,1070746,21015A13-,PORTAELS (RUE),1070746,12,0,male,child,594644,4,single_with_child,,,2,Primaires
+877,1074431,21015A22-,MARBOTIN A. (RUE),1074431,12,0,male,child,596310,4,single_with_child,,,2,Primaires
+878,1075520,21015A22-,MARBOTIN A. (RUE),1075520,12,0,male,child,596870,4,single_with_child,,,2,Primaires
+879,1076195,21015A22-,MARBOTIN A. (RUE),1076195,12,0,male,parent,596202,1,couple_with_child,,,2,Primaires
+880,1073690,21015A22-,MARBOTIN A. (RUE),1073690,12,0,male,child,596032,1,couple_with_child,,,2,Primaires
+881,1077246,21015A231,J. BLOCKX (RUE),1077246,12,0,male,child,597924,1,couple_with_child,,,2,Primaires
+882,1077191,21015A231,J. BLOCKX (RUE),1077191,12,0,male,child,597900,1,couple_with_child,,,2,Primaires
+883,1084313,21015A20-,HELMET,1084313,12,0,male,parent,599426,1,couple_with_child,,,2,Primaires
+884,1084324,21015A20-,HELMET,1084324,12,0,male,parent,598796,1,couple_with_child,,,2,Primaires
+885,1084309,21015A20-,HELMET,1084309,12,0,male,parent,599612,1,couple_with_child,,,2,Primaires
+886,1080611,21015A20-,HELMET,1080611,12,0,male,child,599325,4,single_with_child,,,2,Primaires
+887,1084312,21015A20-,HELMET,1084312,12,0,male,parent,599734,4,single_with_child,,,2,Primaires
+888,1084323,21015A20-,HELMET,1084323,12,0,male,parent,600684,4,single_with_child,,,2,Primaires
+889,1084322,21015A20-,HELMET,1084322,12,0,male,parent,599746,1,couple_with_child,,,2,Primaires
+890,1086606,21015A21-,GUIDO GEZELLE (RUE),1086606,12,0,male,parent,601911,1,couple_with_child,,,2,Primaires
+891,1085167,21015A21-,GUIDO GEZELLE (RUE),1085167,12,0,male,child,601788,4,single_with_child,,,2,Primaires
+892,1085522,21015A21-,GUIDO GEZELLE (RUE),1085522,12,0,male,child,601922,1,couple_with_child,,,2,Primaires
+893,1087314,21016A901,CENTRE-OUEST,1087314,12,0,male,child,602999,4,single_with_child,,,2,Primaires
+894,1090171,21016A81-,BASCULE,1090171,12,0,male,child,604615,4,single_with_child,,,2,Primaires
+895,1094781,21016A82-,CHURCHILL,1094781,12,0,male,child,607397,1,couple_with_child,,,2,Primaires
+896,1093676,21016A82-,CHURCHILL,1093676,12,0,male,child,606859,4,single_with_child,,,2,Primaires
+897,1099104,21016A232,BEAU SEJOUR,1099104,12,0,male,child,610075,1,couple_with_child,,,2,Primaires
+898,1101146,21016A831,LONGCHAMP,1101146,12,0,male,child,611243,1,couple_with_child,,,2,Primaires
+899,1106005,21016A85-,BRUGMANN,1106005,12,0,male,child,614128,1,couple_with_child,,,2,Primaires
+900,1109446,21016A03-,COGHEN,1109446,12,0,male,child,616195,1,couple_with_child,,,2,Primaires
+901,1112902,21016A02-,ALSEMBERG-NORD,1112902,12,0,male,child,618041,1,couple_with_child,,,2,Primaires
+902,1112467,21016A02-,ALSEMBERG-NORD,1112467,12,0,male,child,617859,4,single_with_child,,,2,Primaires
+903,1119238,21016A933,VOSSEGAT-OUEST,1119238,12,0,male,child,621735,1,couple_with_child,,,2,Primaires
+904,1123518,21016A701,MERLO,1123518,12,0,male,child,624164,4,single_with_child,,,2,Primaires
+905,1127522,21016A71-,KEIENBEMPT,1127522,12,0,male,child,626382,1,couple_with_child,,,2,Primaires
+906,1130051,21016A80-,VANDERKINDERE,1130051,12,0,male,child,627939,1,couple_with_child,,,2,Primaires
+907,1134875,21016A64-,MOLENSTEEN,1134875,12,0,male,parent,630516,1,couple_with_child,,,2,Primaires
+908,1136722,21016A05-,LE CHAT,1136722,12,0,male,child,631650,1,couple_with_child,,,2,Primaires
+909,1136437,21016A05-,LE CHAT,1136437,12,0,male,child,631525,4,single_with_child,,,2,Primaires
+910,1146644,21016A01-,DIEWEG,1146644,12,0,male,child,636950,1,couple_with_child,,,2,Primaires
+911,1146092,21016A01-,DIEWEG,1146092,12,0,male,child,636750,4,single_with_child,,,2,Primaires
+912,1151281,21016A00-,GLOBE-EST,1151281,12,0,male,child,639611,4,single_with_child,,,2,Primaires
+913,1151381,21016A00-,GLOBE-EST,1151381,12,0,male,child,639652,1,couple_with_child,,,2,Primaires
+914,1156165,21016A102,GROESELENBERG,1156165,12,0,male,child,642187,1,couple_with_child,,,2,Primaires
+915,1158507,21016A12-,HAMOIR,1158507,12,0,male,child,643531,4,single_with_child,,,2,Primaires
+916,1160841,21016A44-,PECHERIE,1160841,12,0,male,child,644954,1,couple_with_child,,,2,Primaires
+917,1165827,21016A400,SAINT-JOB,1165827,12,0,male,child,647712,4,single_with_child,,,2,Primaires
+918,1168353,21016A429,CARLOO,1168353,12,0,male,child,649093,1,couple_with_child,,,2,Primaires
+919,1172260,21016A639,HOMBORCH,1172260,12,0,male,child,651190,4,single_with_child,,,2,Primaires
+920,1176224,21016A342,FOND,1176224,12,0,male,child,653220,1,couple_with_child,,,2,Primaires
+921,1179433,21016A311,FORT JACO,1179433,12,0,male,child,655069,1,couple_with_child,,,2,Primaires
+922,1184109,21017A11-,FLOREAL,1184109,12,0,male,child,657740,4,single_with_child,,,2,Primaires
+923,1186565,21017A230,BEGUINETTES,1186565,12,0,male,child,659094,4,single_with_child,,,2,Primaires
+924,1189700,21017A41-,AVENUE DE VISE,1189700,12,0,male,child,660876,1,couple_with_child,,,2,Primaires
+925,1191497,21017A523,MARTIN-PECHEUR,1191497,12,0,male,child,661984,1,couple_with_child,,,2,Primaires
+926,1197234,21017A01-,COIN DU BALAI,1197234,12,0,male,child,665363,1,couple_with_child,,,2,Primaires
+927,1199343,21017A12-,LE LOGIS-NORD,1199343,12,0,male,child,666538,4,single_with_child,,,2,Primaires
+928,1201304,21017A13-,BOULEAUX,1201304,12,0,male,child,667669,1,couple_with_child,,,2,Primaires
+929,1202964,21017A212,AVENUE DE LA TENDERIE,1202964,12,0,male,child,668570,1,couple_with_child,,,2,Primaires
+930,1206140,21017A451,FUTAIE,1206140,12,0,male,child,670385,4,single_with_child,,,2,Primaires
+931,1209624,21018A20-,GEORGES HENRI (AVENUE),1209624,12,0,male,child,672320,1,couple_with_child,,,2,Primaires
+932,1212381,21018A72-,ROGATIONS,1212381,12,0,male,child,673952,1,couple_with_child,,,2,Primaires
+933,1215107,21018A21-,DE BROQUEVILLE (AVENUE)-NORD,1215107,12,0,male,child,675730,1,couple_with_child,,,2,Primaires
+934,1221667,21018A311,PARC SCHUMAN,1221667,12,0,male,child,679396,1,couple_with_child,,,2,Primaires
+935,1224337,21018A33-,NEERVELD,1224337,12,0,male,child,680988,1,couple_with_child,,,2,Primaires
+936,1226594,21018A22-,DE BROQUEVILLE (AVENUE)-SUD,1226594,12,0,male,child,682393,1,couple_with_child,,,2,Primaires
+937,1229068,21018A512,QUARTIER DES PEINTRES,1229068,12,0,male,child,683695,4,single_with_child,,,2,Primaires
+938,1230652,21018A031,ABELOOS,1230652,12,0,male,child,684629,1,couple_with_child,,,2,Primaires
+939,1232246,21018A04-,BEETEPUT,1232246,12,0,male,child,685558,4,single_with_child,,,2,Primaires
+940,1234378,21018A02-,SLEGERS (AVENUE),1234378,12,0,male,child,686634,1,couple_with_child,,,2,Primaires
+941,1236589,21018A63-,CONSTELLATIONS,1236589,12,0,male,child,687860,1,couple_with_child,,,2,Primaires
+942,1238441,21018A05-,DRIES,1238441,12,0,male,child,688853,1,couple_with_child,,,2,Primaires
+943,1240765,21018A61-,HEYDENBERG-EST,1240765,12,0,male,parent,690020,1,couple_with_child,,,2,Primaires
+944,1242612,21018A62-,HEYDENBERG-OUEST,1242612,12,0,male,child,691153,1,couple_with_child,,,2,Primaires
+945,1246441,21018A24-,LAMBEAU (AVENUE),1246441,12,0,male,child,693242,1,couple_with_child,,,2,Primaires
+946,1248629,21018A30-,SAINTE-FAMILLE,1248629,12,0,male,child,694530,4,single_with_child,,,2,Primaires
+947,1250512,21018A643,DEUX MAISONS,1250512,12,0,male,child,695669,1,couple_with_child,,,2,Primaires
+948,1254820,21018A00-,TOMBERG,1254820,12,0,male,child,698204,1,couple_with_child,,,2,Primaires
+949,1257929,21018A41-,EUROPE,1257929,12,0,male,child,699906,1,couple_with_child,,,2,Primaires
+950,1265171,21018A12-,STOCKEL (CHAUSSEE DE),1265171,12,0,male,parent,703990,1,couple_with_child,,,2,Primaires
+951,1269641,21018A3MJ,GULLEDELLE,1269641,12,0,male,child,706819,4,single_with_child,,,2,Primaires
+952,1270140,21018A3MJ,GULLEDELLE,1270140,12,0,male,child,707021,1,couple_with_child,,,2,Primaires
+953,1277679,21019A131,KONKEL,1277679,12,0,male,child,711194,1,couple_with_child,,,2,Primaires
+954,1282343,21019A51-,COLLEGE SAINT-MICHEL,1282343,12,0,male,child,713782,1,couple_with_child,,,2,Primaires
+955,1292757,21019A33-,MIMOSAS (AVENUE),1292757,12,0,male,child,719407,1,couple_with_child,,,2,Primaires
+956,1298547,21019A32-,CHANT D'OISEAU,1298547,12,0,male,child,722585,1,couple_with_child,,,2,Primaires
+957,1307586,21019A10-,STOCKEL,1307586,12,0,male,child,727591,1,couple_with_child,,,2,Primaires
+958,1311681,21019A40-,SAINTE-ALIX,1311681,12,0,male,child,729892,4,single_with_child,,,2,Primaires
+959,2573,21001A041,VEEWEYDE-SUD,2573,12,1,female,child,1252,4,single_with_child,,,2,Primaires
+960,429,21001A041,VEEWEYDE-SUD,429,12,1,female,child,236,1,couple_with_child,,,2,Primaires
+961,3177,21001A472,STADE COMMUNAL - INDUSTRIE,3177,12,1,female,child,1595,4,single_with_child,,,2,Primaires
+962,5327,21001A83-,PETERBOS,5327,12,1,female,child,2778,1,couple_with_child,,,2,Primaires
+963,6780,21001A83-,PETERBOS,6780,12,1,female,child,3554,4,single_with_child,,,2,Primaires
+964,5884,21001A83-,PETERBOS,5884,12,1,female,child,3024,4,single_with_child,,,2,Primaires
+965,7907,21001A503,VIVES,7907,12,1,female,child,4357,1,couple_with_child,,,2,Primaires
+966,8028,21001A503,VIVES,8028,12,1,female,child,4418,4,single_with_child,,,2,Primaires
+967,10426,21001A332,ROUE,10426,12,1,female,parent,5469,1,couple_with_child,,,2,Primaires
+968,12020,21001A43-,VAN BEETHOVEN,12020,12,1,female,parent,5977,1,couple_with_child,,,2,Primaires
+969,12900,21001A401,ARBORETUM,12900,12,1,female,child,7161,4,single_with_child,,,2,Primaires
+970,14071,21001A32-,AURORE,14071,12,1,female,child,7864,1,couple_with_child,,,2,Primaires
+971,17198,21001A32-,AURORE,17198,12,1,female,child,9503,4,single_with_child,,,2,Primaires
+972,17249,21001A32-,AURORE,17249,12,1,female,child,9520,4,single_with_child,,,2,Primaires
+973,14512,21001A32-,AURORE,14512,12,1,female,child,8052,1,couple_with_child,,,2,Primaires
+974,20595,21001A41-,ROMAIN ROLLAND,20595,12,1,female,child,11471,4,single_with_child,,,2,Primaires
+975,18879,21001A41-,ROMAIN ROLLAND,18879,12,1,female,child,10585,4,single_with_child,,,2,Primaires
+976,21346,21001A85-,AUBADE,21346,12,1,female,child,11961,1,couple_with_child,,,2,Primaires
+977,23464,21001A51-,SCHERDEMAEL,23464,12,1,female,child,13134,4,single_with_child,,,2,Primaires
+978,25912,21001A552,TREFLE,25912,12,1,female,child,14498,1,couple_with_child,,,2,Primaires
+979,27794,21001A552,TREFLE,27794,12,1,female,parent,14611,1,couple_with_child,,,2,Primaires
+980,28285,21001A84-,POESIE,28285,12,1,female,child,15824,4,single_with_child,,,2,Primaires
+981,29880,21001A34-,ROUE - CITE JARDIN,29880,12,1,female,child,16611,1,couple_with_child,,,2,Primaires
+982,31573,21001A34-,ROUE - CITE JARDIN,31573,12,1,female,parent,16678,1,couple_with_child,,,2,Primaires
+983,32161,21001A350,CERIA - ZONE D'HABITAT,32161,12,1,female,child,17756,1,couple_with_child,,,2,Primaires
+984,35447,21001A441,DOCTEUR ROUX,35447,12,1,female,parent,19442,4,single_with_child,,,2,Primaires
+985,33890,21001A441,DOCTEUR ROUX,33890,12,1,female,child,18716,1,couple_with_child,,,2,Primaires
+986,35989,21001C512,CHANTS D'OISEAUX,35989,12,1,female,child,19975,1,couple_with_child,,,2,Primaires
+987,37986,21001C71-,BON AIR - CITE JARDIN,37986,12,1,female,child,21101,1,couple_with_child,,,2,Primaires
+988,39953,21001A82-,MOORTEBEEK,39953,12,1,female,child,22184,4,single_with_child,,,2,Primaires
+989,39632,21001A82-,MOORTEBEEK,39632,12,1,female,child,22053,1,couple_with_child,,,2,Primaires
+990,42549,21001A451,VENIZELOS,42549,12,1,female,child,23785,1,couple_with_child,,,2,Primaires
+991,46527,21001A30-,BIZET,46527,12,1,female,parent,25081,1,couple_with_child,,,2,Primaires
+992,46524,21001A30-,BIZET,46524,12,1,female,parent,24686,1,couple_with_child,,,2,Primaires
+993,49877,21001A80-,SILLON,49877,12,1,female,parent,26778,4,single_with_child,,,2,Primaires
+994,49508,21001A80-,SILLON,49508,12,1,female,child,27570,4,single_with_child,,,2,Primaires
+995,49882,21001A80-,SILLON,49882,12,1,female,parent,26602,1,couple_with_child,,,2,Primaires
+996,50941,21001A81-,BROECK,50941,12,1,female,child,28524,1,couple_with_child,,,2,Primaires
+997,50797,21001A81-,BROECK,50797,12,1,female,child,28460,1,couple_with_child,,,2,Primaires
+998,52457,21001A31-,CHAUSSEE DE MONS - SAINT-LUC,52457,12,1,female,child,29428,1,couple_with_child,,,2,Primaires
+999,55113,21001A031,RAUTER-SUD,55113,12,1,female,parent,30100,1,couple_with_child,,,2,Primaires
+1000,54138,21001A031,RAUTER-SUD,54138,12,1,female,child,30172,4,single_with_child,,,2,Primaires
+1001,56427,21001B22-,BROGNIEZ-SUD,56427,12,1,female,parent,30912,4,single_with_child,,,2,Primaires
+1002,58305,21001B321,ALBERT I- QUARTIER,58305,12,1,female,child,32389,4,single_with_child,,,2,Primaires
+1003,58457,21001B321,ALBERT I- QUARTIER,58457,12,1,female,parent,32136,1,couple_with_child,,,2,Primaires
+1004,63906,21001B20-,CONSEIL-NORD,63906,12,1,female,parent,33700,1,couple_with_child,,,2,Primaires
+1005,63480,21001B20-,CONSEIL-NORD,63480,12,1,female,child,34828,4,single_with_child,,,2,Primaires
+1006,63901,21001B20-,CONSEIL-NORD,63901,12,1,female,parent,33443,1,couple_with_child,,,2,Primaires
+1007,63912,21001B20-,CONSEIL-NORD,63912,12,1,female,parent,33920,4,single_with_child,,,2,Primaires
+1008,64902,21001B23-,CONSEIL-SUD,64902,12,1,female,child,35766,1,couple_with_child,,,2,Primaires
+1009,67110,21001A142,VEEWEYDE-NORD,67110,12,1,female,child,37079,4,single_with_child,,,2,Primaires
+1010,67603,21001A051,LINDE-EST,67603,12,1,female,child,37316,1,couple_with_child,,,2,Primaires
+1011,71309,21001A941,CROCUS,71309,12,1,female,parent,38464,1,couple_with_child,,,2,Primaires
+1012,69639,21001A941,CROCUS,69639,12,1,female,child,38418,1,couple_with_child,,,2,Primaires
+1013,73941,21001A90-,SCHEUTKAPEL,73941,12,1,female,parent,40133,4,single_with_child,,,2,Primaires
+1014,72545,21001A90-,SCHEUTKAPEL,72545,12,1,female,child,39928,1,couple_with_child,,,2,Primaires
+1015,75199,21001A132,RAUTER-NORD,75199,12,1,female,parent,40943,1,couple_with_child,,,2,Primaires
+1016,75945,21001B31-,ALBERT I- IMMEUBLES,75945,12,1,female,child,41795,4,single_with_child,,,2,Primaires
+1017,79989,21001B25-,REVISION-NORD,79989,12,1,female,parent,42141,1,couple_with_child,,,2,Primaires
+1018,79996,21001B25-,REVISION-NORD,79996,12,1,female,parent,42821,1,couple_with_child,,,2,Primaires
+1019,77431,21001B25-,REVISION-NORD,77431,12,1,female,child,42451,1,couple_with_child,,,2,Primaires
+1020,80948,21001B11-,ROSEE-OUEST,80948,12,1,female,child,44378,4,single_with_child,,,2,Primaires
+1021,82168,21001A72-,OSSEGEM,82168,12,1,female,child,45003,4,single_with_child,,,2,Primaires
+1022,82447,21001A72-,OSSEGEM,82447,12,1,female,child,45109,1,couple_with_child,,,2,Primaires
+1023,84461,21001A72-,OSSEGEM,84461,12,1,female,parent,45155,1,couple_with_child,,,2,Primaires
+1024,87884,21001A011,KLEINMOLEN,87884,12,1,female,parent,46948,1,couple_with_child,,,2,Primaires
+1025,87885,21001A011,KLEINMOLEN,87885,12,1,female,parent,46951,1,couple_with_child,,,2,Primaires
+1026,87634,21001A011,KLEINMOLEN,87634,12,1,female,child,47929,4,single_with_child,,,2,Primaires
+1027,89095,21001B17-,ABATTOIR,89095,12,1,female,parent,48431,1,couple_with_child,,,2,Primaires
+1028,89458,21001A712,SCHEUT - DE SMET,89458,12,1,female,child,48899,4,single_with_child,,,2,Primaires
+1029,91578,21001B21-,BROGNIEZ-NORD,91578,12,1,female,child,49846,1,couple_with_child,,,2,Primaires
+1030,93889,21001B21-,BROGNIEZ-NORD,93889,12,1,female,parent,49731,1,couple_with_child,,,2,Primaires
+1031,91470,21001B21-,BROGNIEZ-NORD,91470,12,1,female,child,49809,1,couple_with_child,,,2,Primaires
+1032,94975,21001A911,SCHEUT-EST,94975,12,1,female,child,51666,1,couple_with_child,,,2,Primaires
+1033,94947,21001A911,SCHEUT-EST,94947,12,1,female,child,51655,1,couple_with_child,,,2,Primaires
+1034,98253,21001A931,AGRAFE-NORBERT GILLE,98253,12,1,female,parent,52806,4,single_with_child,,,2,Primaires
+1035,98250,21001A931,AGRAFE-NORBERT GILLE,98250,12,1,female,parent,52684,1,couple_with_child,,,2,Primaires
+1036,99477,21001A74-,SCHEUT-OUEST,99477,12,1,female,child,53893,1,couple_with_child,,,2,Primaires
+1037,101170,21001A74-,SCHEUT-OUEST,101170,12,1,female,parent,53764,1,couple_with_child,,,2,Primaires
+1038,104676,21001A92-,JAKOB SMITS,104676,12,1,female,child,56462,4,single_with_child,,,2,Primaires
+1039,102580,21001A92-,JAKOB SMITS,102580,12,1,female,child,55505,1,couple_with_child,,,2,Primaires
+1040,104707,21001A92-,JAKOB SMITS,104707,12,1,female,child,56473,4,single_with_child,,,2,Primaires
+1041,108010,21001A00-,RESISTANCE,108010,12,1,female,parent,57074,1,couple_with_child,,,2,Primaires
+1042,108006,21001A00-,RESISTANCE,108006,12,1,female,parent,56992,4,single_with_child,,,2,Primaires
+1043,109288,21001A95-,BUFFON,109288,12,1,female,child,58970,1,couple_with_child,,,2,Primaires
+1044,109414,21001A95-,BUFFON,109414,12,1,female,child,59020,4,single_with_child,,,2,Primaires
+1045,109669,21001A95-,BUFFON,109669,12,1,female,child,59108,1,couple_with_child,,,2,Primaires
+1046,114011,21001B10-,ROSEE-EST,114011,12,1,female,child,61319,4,single_with_child,,,2,Primaires
+1047,112332,21001B10-,ROSEE-EST,112332,12,1,female,child,60485,1,couple_with_child,,,2,Primaires
+1048,115585,21001B332,GOUJONS,115585,12,1,female,parent,61842,1,couple_with_child,,,2,Primaires
+1049,117647,21001B241,REVISION-SUD,117647,12,1,female,parent,62520,1,couple_with_child,,,2,Primaires
+1050,117643,21001B241,REVISION-SUD,117643,12,1,female,parent,62901,1,couple_with_child,,,2,Primaires
+1051,119022,21001A10-,PORSELEIN,119022,12,1,female,parent,63636,1,couple_with_child,,,2,Primaires
+1052,122217,21001A120,MINIMES,122217,12,1,female,child,65725,4,single_with_child,,,2,Primaires
+1053,119543,21001A120,MINIMES,119543,12,1,female,child,64417,1,couple_with_child,,,2,Primaires
+1054,120186,21001A120,MINIMES,120186,12,1,female,child,64676,4,single_with_child,,,2,Primaires
+1055,124084,21001A152,LINDE-OUEST,124084,12,1,female,parent,66260,1,couple_with_child,,,2,Primaires
+1056,124559,21001A02-,WAYEZ,124559,12,1,female,child,67072,1,couple_with_child,,,2,Primaires
+1057,125833,21001A112,BIESTEBROEK,125833,12,1,female,child,67774,1,couple_with_child,,,2,Primaires
+1058,126083,21001A112,BIESTEBROEK,126083,12,1,female,child,67872,1,couple_with_child,,,2,Primaires
+1059,133876,21002A511,INVALIDES (BOULEVARD DES),133876,12,1,female,child,72176,4,single_with_child,,,2,Primaires
+1060,150244,21002A21-,LEBON,150244,12,1,female,parent,80213,1,couple_with_child,,,2,Primaires
+1061,154197,21002A030,LAMMERENDRIES,154197,12,1,female,child,83498,4,single_with_child,,,2,Primaires
+1062,158029,21002A10-,TRANSVAAL,158029,12,1,female,child,85527,4,single_with_child,,,2,Primaires
+1063,168097,21003A312,POTAARDE  VLAK,168097,12,1,female,child,90601,4,single_with_child,,,2,Primaires
+1064,169504,21003A323,SEPT ETOILES,169504,12,1,female,child,91481,4,single_with_child,,,2,Primaires
+1065,170580,21003A342,HOGENBOS,170580,12,1,female,parent,91727,1,couple_with_child,,,2,Primaires
+1066,171805,21003A04-,L. DE SMET,171805,12,1,female,child,92745,1,couple_with_child,,,2,Primaires
+1067,173746,21003A0AJ,HUNDERENVELD,173746,12,1,female,parent,93327,1,couple_with_child,,,2,Primaires
+1068,175088,21003A02-,LAURE - BASILIQUE,175088,12,1,female,child,94494,4,single_with_child,,,2,Primaires
+1069,174853,21003A02-,LAURE - BASILIQUE,174853,12,1,female,child,94407,4,single_with_child,,,2,Primaires
+1070,177875,21003A03-,HAUT-CHAMP,177875,12,1,female,child,95959,1,couple_with_child,,,2,Primaires
+1071,180954,21003A011,MOLENBERG,180954,12,1,female,parent,97142,1,couple_with_child,,,2,Primaires
+1072,182497,21003A00-,CENTRE,182497,12,1,female,child,98423,1,couple_with_child,,,2,Primaires
+1073,184937,21003A00-,CENTRE,184937,12,1,female,parent,98696,4,single_with_child,,,2,Primaires
+1074,185651,21003A11-,CITE MODERNE,185651,12,1,female,child,100008,4,single_with_child,,,2,Primaires
+1075,187112,21003A05-,DE SELLIERS DE MORANVILLE,187112,12,1,female,child,100703,1,couple_with_child,,,2,Primaires
+1076,189238,21003A41-,MONNET,189238,12,1,female,parent,101653,1,couple_with_child,,,2,Primaires
+1077,191624,21003A10-,HOPITAL FRANCAIS,191624,12,1,female,child,103082,1,couple_with_child,,,2,Primaires
+1078,192940,21003A10-,HOPITAL FRANCAIS,192940,12,1,female,child,103816,4,single_with_child,,,2,Primaires
+1079,195499,21004B421,MARIE-LOUISE (SQUARE),195499,12,1,female,child,105239,1,couple_with_child,,,2,Primaires
+1080,195244,21004B421,MARIE-LOUISE (SQUARE),195244,12,1,female,child,105122,1,couple_with_child,,,2,Primaires
+1081,194908,21004B421,MARIE-LOUISE (SQUARE),194908,12,1,female,child,104973,1,couple_with_child,,,2,Primaires
+1082,198241,21004B411,DEUX EGLISES (RUE DES),198241,12,1,female,child,107102,1,couple_with_child,,,2,Primaires
+1083,200174,21004F511,AVENUE DES PAGODES,200174,12,1,female,child,108240,1,couple_with_child,,,2,Primaires
+1084,200123,21004F511,AVENUE DES PAGODES,200123,12,1,female,child,108224,4,single_with_child,,,2,Primaires
+1085,201613,21004C62-,BOENDAAL-OUEST,201613,12,1,female,child,109005,1,couple_with_child,,,2,Primaires
+1086,202888,21004G310,HAREN-SUD-OUEST,202888,12,1,female,child,109664,1,couple_with_child,,,2,Primaires
+1087,203899,21004F94-,VAL MARIA,203899,12,1,female,child,110171,1,couple_with_child,,,2,Primaires
+1088,205504,21004F901,PLACE PETER BENOIT,205504,12,1,female,child,110926,1,couple_with_child,,,2,Primaires
+1089,205159,21004F901,PLACE PETER BENOIT,205159,12,1,female,child,110794,1,couple_with_child,,,2,Primaires
+1090,207896,21004G30-,SAINTE-ELISABETH,207896,12,1,female,child,112038,1,couple_with_child,,,2,Primaires
+1091,207488,21004G30-,SAINTE-ELISABETH,207488,12,1,female,child,111902,1,couple_with_child,,,2,Primaires
+1092,209996,21004G30-,SAINTE-ELISABETH,209996,12,1,female,parent,112040,1,couple_with_child,,,2,Primaires
+1093,212299,21004F930,COIN DES CERISES,212299,12,1,female,parent,113685,1,couple_with_child,,,2,Primaires
+1094,212292,21004F930,COIN DES CERISES,212292,12,1,female,parent,113586,1,couple_with_child,,,2,Primaires
+1095,213592,21004G321,HAREN-EST,213592,12,1,female,parent,114825,1,couple_with_child,,,2,Primaires
+1096,214465,21004B45-,ECOLE MILITAIRE,214465,12,1,female,child,115580,1,couple_with_child,,,2,Primaires
+1097,216017,21004A25-,BEGUINAGE (PLACE DU),216017,12,1,female,child,116643,1,couple_with_child,,,2,Primaires
+1098,220069,21004B44-,AMBIORIX-SUD (SQUARE),220069,12,1,female,child,119088,1,couple_with_child,,,2,Primaires
+1099,219058,21004B44-,AMBIORIX-SUD (SQUARE),219058,12,1,female,child,118581,1,couple_with_child,,,2,Primaires
+1100,224144,21004B43-,AMBIORIX-NORD (SQUARE),224144,12,1,female,child,121426,1,couple_with_child,,,2,Primaires
+1101,227080,21004B43-,AMBIORIX-NORD (SQUARE),227080,12,1,female,child,123313,4,single_with_child,,,2,Primaires
+1102,222854,21004B43-,AMBIORIX-NORD (SQUARE),222854,12,1,female,child,120868,1,couple_with_child,,,2,Primaires
+1103,223460,21004B43-,AMBIORIX-NORD (SQUARE),223460,12,1,female,child,121135,4,single_with_child,,,2,Primaires
+1104,231304,21004A24-,MARCHE AU PORCS,231304,12,1,female,parent,124428,1,couple_with_child,,,2,Primaires
+1105,228736,21004A24-,MARCHE AU PORCS,228736,12,1,female,child,124297,1,couple_with_child,,,2,Primaires
+1106,231968,21004A35-,AD. MAX (BOULEVARD),231968,12,1,female,child,126441,1,couple_with_child,,,2,Primaires
+1107,234685,21004A83-,E. JACQMAIN (BOULEVARD)-OUEST,234685,12,1,female,parent,127683,4,single_with_child,,,2,Primaires
+1108,235757,21004F531,RUE DES FAINES,235757,12,1,female,child,128760,1,couple_with_child,,,2,Primaires
+1109,235722,21004F531,RUE DES FAINES,235722,12,1,female,child,128751,4,single_with_child,,,2,Primaires
+1110,239142,21004F91-,CROIX DE GUERRE (AVENUE DES),239142,12,1,female,child,130560,1,couple_with_child,,,2,Primaires
+1111,240187,21004F91-,CROIX DE GUERRE (AVENUE DES),240187,12,1,female,child,130989,4,single_with_child,,,2,Primaires
+1112,243126,21004F922,RUE CHATEAU BEYAERD,243126,12,1,female,child,132490,1,couple_with_child,,,2,Primaires
+1113,244575,21004F922,RUE CHATEAU BEYAERD,244575,12,1,female,child,133219,4,single_with_child,,,2,Primaires
+1114,246728,21004C61-,U.L.B.,246728,12,1,female,child,134493,4,single_with_child,,,2,Primaires
+1115,247467,21004C54-,LOUISE (AVENUE)-SUD-EST,247467,12,1,female,child,134888,1,couple_with_child,,,2,Primaires
+1116,250212,21004C63-,NATIONS (SQUARE DES),250212,12,1,female,child,136576,4,single_with_child,,,2,Primaires
+1117,251749,21004F953,RUE DU WIMPELBERG,251749,12,1,female,child,137590,1,couple_with_child,,,2,Primaires
+1118,253456,21004F9MJ,NEDER-HEEMBEEK-NORD,253456,12,1,female,child,138433,1,couple_with_child,,,2,Primaires
+1119,254870,21004A02-,SAINT-FRANCOIS XAVIER,254870,12,1,female,child,139164,1,couple_with_child,,,2,Primaires
+1120,257579,21004A70-,BLAES (RUE)-SUD,257579,12,1,female,child,140831,4,single_with_child,,,2,Primaires
+1121,260763,21004A70-,BLAES (RUE)-SUD,260763,12,1,female,parent,141404,4,single_with_child,,,2,Primaires
+1122,256971,21004A70-,BLAES (RUE)-SUD,256971,12,1,female,child,140581,1,couple_with_child,,,2,Primaires
+1123,257807,21004A70-,BLAES (RUE)-SUD,257807,12,1,female,child,140925,4,single_with_child,,,2,Primaires
+1124,263256,21004A03-,BON SECOURS - PALAIS DU MIDI,263256,12,1,female,parent,143148,1,couple_with_child,,,2,Primaires
+1125,266615,21004A23-,NOUVEAU MARCHE AU GRAIN,266615,12,1,female,parent,145427,1,couple_with_child,,,2,Primaires
+1126,264195,21004A23-,NOUVEAU MARCHE AU GRAIN,264195,12,1,female,child,144929,1,couple_with_child,,,2,Primaires
+1127,267172,21004A01-,VIEILLE HALLE AUX BLES,267172,12,1,female,child,146806,1,couple_with_child,,,2,Primaires
+1128,271341,21004A22-,SENNE (RUE DE LA),271341,12,1,female,parent,147530,1,couple_with_child,,,2,Primaires
+1129,268794,21004A22-,SENNE (RUE DE LA),268794,12,1,female,child,147728,1,couple_with_child,,,2,Primaires
+1130,269381,21004A22-,SENNE (RUE DE LA),269381,12,1,female,child,147914,1,couple_with_child,,,2,Primaires
+1131,273742,21004A72-,SAINT-THOMAS (INSTITUT),273742,12,1,female,parent,150098,1,couple_with_child,,,2,Primaires
+1132,274238,21004A71-,BLAES (RUE)-CENTRE,274238,12,1,female,child,151193,4,single_with_child,,,2,Primaires
+1133,276448,21004A34-,MONNAIE,276448,12,1,female,child,152774,1,couple_with_child,,,2,Primaires
+1134,279217,21004A04-,NOTRE-DAME DE LA CHAPELLE,279217,12,1,female,parent,154099,1,couple_with_child,,,2,Primaires
+1135,280331,21004A16-,PALAIS JUSTICE-HOP. ST.-PIERRE,280331,12,1,female,child,155278,1,couple_with_child,,,2,Primaires
+1136,281985,21004A16-,PALAIS JUSTICE-HOP. ST.-PIERRE,281985,12,1,female,parent,155252,1,couple_with_child,,,2,Primaires
+1137,282505,21004A20-,BOURSE-NORD-OUEST,282505,12,1,female,child,157026,1,couple_with_child,,,2,Primaires
+1138,282926,21004A20-,BOURSE-NORD-OUEST,282926,12,1,female,child,157238,4,single_with_child,,,2,Primaires
+1139,285525,21004A14-,GRAND SABLON,285525,12,1,female,child,158964,1,couple_with_child,,,2,Primaires
+1140,288357,21004A32-,CONGRES - GARE,288357,12,1,female,child,161032,1,couple_with_child,,,2,Primaires
+1141,289621,21004C52-,LOUISE (AVENUE)-NORD-OUEST,289621,12,1,female,child,161902,1,couple_with_child,,,2,Primaires
+1142,291392,21004C552,LOUISE (AVENUE)-SUD,291392,12,1,female,child,162995,1,couple_with_child,,,2,Primaires
+1143,293146,21004C51-,LOUISE (AVENUE)-NORD-EST,293146,12,1,female,child,164092,1,couple_with_child,,,2,Primaires
+1144,294873,21004A33-,LIBERTE (PLACE DE LA),294873,12,1,female,child,165160,4,single_with_child,,,2,Primaires
+1145,296641,21004A33-,LIBERTE (PLACE DE LA),296641,12,1,female,parent,165089,4,single_with_child,,,2,Primaires
+1146,296945,21004C53-,LOUISE (AVENUE)-SUD-OUEST,296945,12,1,female,child,166627,1,couple_with_child,,,2,Primaires
+1147,300226,21004A21-,ANNEESSENS (PLACE),300226,12,1,female,child,168329,1,couple_with_child,,,2,Primaires
+1148,300214,21004A21-,ANNEESSENS (PLACE),300214,12,1,female,child,168325,1,couple_with_child,,,2,Primaires
+1149,304416,21004A21-,ANNEESSENS (PLACE),304416,12,1,female,parent,168117,1,couple_with_child,,,2,Primaires
+1150,299648,21004A21-,ANNEESSENS (PLACE),299648,12,1,female,child,168109,1,couple_with_child,,,2,Primaires
+1151,303873,21004A21-,ANNEESSENS (PLACE),303873,12,1,female,child,170403,4,single_with_child,,,2,Primaires
+1152,305318,21004A13-,PETIT SABLON,305318,12,1,female,child,171546,1,couple_with_child,,,2,Primaires
+1153,311497,21004E70-,MARIE-CHRISTINE (RUE),311497,12,1,female,parent,173540,1,couple_with_child,,,2,Primaires
+1154,311508,21004E70-,MARIE-CHRISTINE (RUE),311508,12,1,female,parent,172968,1,couple_with_child,,,2,Primaires
+1155,308460,21004E70-,MARIE-CHRISTINE (RUE),308460,12,1,female,child,173002,1,couple_with_child,,,2,Primaires
+1156,308176,21004E70-,MARIE-CHRISTINE (RUE),308176,12,1,female,child,172909,1,couple_with_child,,,2,Primaires
+1157,320200,21004E74-,EM. DELVA (RUE),320200,12,1,female,parent,176674,1,couple_with_child,,,2,Primaires
+1158,314566,21004E74-,EM. DELVA (RUE),314566,12,1,female,child,176056,1,couple_with_child,,,2,Primaires
+1159,320204,21004E74-,EM. DELVA (RUE),320204,12,1,female,parent,175879,1,couple_with_child,,,2,Primaires
+1160,320202,21004E74-,EM. DELVA (RUE),320202,12,1,female,parent,175948,1,couple_with_child,,,2,Primaires
+1161,315148,21004E74-,EM. DELVA (RUE),315148,12,1,female,child,176261,1,couple_with_child,,,2,Primaires
+1162,320213,21004E74-,EM. DELVA (RUE),320213,12,1,female,parent,176359,1,couple_with_child,,,2,Primaires
+1163,326195,21004E201,AVENUE JEAN DE BOLOGNE,326195,12,1,female,child,182023,4,single_with_child,,,2,Primaires
+1164,322499,21004E201,AVENUE JEAN DE BOLOGNE,322499,12,1,female,child,180224,1,couple_with_child,,,2,Primaires
+1165,322677,21004E201,AVENUE JEAN DE BOLOGNE,322677,12,1,female,child,180296,1,couple_with_child,,,2,Primaires
+1166,323567,21004E201,AVENUE JEAN DE BOLOGNE,323567,12,1,female,child,180649,4,single_with_child,,,2,Primaires
+1167,322713,21004E201,AVENUE JEAN DE BOLOGNE,322713,12,1,female,child,180304,1,couple_with_child,,,2,Primaires
+1168,327909,21004E83-,STIENON (AVENUE),327909,12,1,female,child,183063,1,couple_with_child,,,2,Primaires
+1169,328009,21004E83-,STIENON (AVENUE),328009,12,1,female,child,183109,1,couple_with_child,,,2,Primaires
+1170,331581,21004E83-,STIENON (AVENUE),331581,12,1,female,parent,183881,4,single_with_child,,,2,Primaires
+1171,328823,21004E83-,STIENON (AVENUE),328823,12,1,female,child,183436,1,couple_with_child,,,2,Primaires
+1172,337053,21004E130,SACRE-COEUR,337053,12,1,female,parent,185497,1,couple_with_child,,,2,Primaires
+1173,333968,21004E130,SACRE-COEUR,333968,12,1,female,child,185838,1,couple_with_child,,,2,Primaires
+1174,337040,21004E130,SACRE-COEUR,337040,12,1,female,parent,185302,1,couple_with_child,,,2,Primaires
+1175,333072,21004E130,SACRE-COEUR,333072,12,1,female,child,185563,1,couple_with_child,,,2,Primaires
+1176,341159,21004E73-,EM. BOCKSTAEL (BOULEVARD)-SUD,341159,12,1,female,parent,188238,4,single_with_child,,,2,Primaires
+1177,337869,21004E73-,EM. BOCKSTAEL (BOULEVARD)-SUD,337869,12,1,female,child,188244,1,couple_with_child,,,2,Primaires
+1178,338677,21004E73-,EM. BOCKSTAEL (BOULEVARD)-SUD,338677,12,1,female,child,188530,1,couple_with_child,,,2,Primaires
+1179,344441,21004E72-,MAISON ROUGE (PLACE)-SUD,344441,12,1,female,child,191200,4,single_with_child,,,2,Primaires
+1180,344054,21004E72-,MAISON ROUGE (PLACE)-SUD,344054,12,1,female,child,191065,1,couple_with_child,,,2,Primaires
+1181,343624,21004E72-,MAISON ROUGE (PLACE)-SUD,343624,12,1,female,child,190919,1,couple_with_child,,,2,Primaires
+1182,342729,21004E72-,MAISON ROUGE (PLACE)-SUD,342729,12,1,female,child,190609,1,couple_with_child,,,2,Primaires
+1183,343126,21004E72-,MAISON ROUGE (PLACE)-SUD,343126,12,1,female,child,190749,1,couple_with_child,,,2,Primaires
+1184,348351,21004D64-,MASUI (PLACE)-NORD,348351,12,1,female,child,193493,4,single_with_child,,,2,Primaires
+1185,350537,21004D62-,ANVERS (CHAUSSEE D')-NORD,350537,12,1,female,child,194497,1,couple_with_child,,,2,Primaires
+1186,353047,21004D62-,ANVERS (CHAUSSEE D')-NORD,353047,12,1,female,parent,195606,4,single_with_child,,,2,Primaires
+1187,350579,21004D62-,ANVERS (CHAUSSEE D')-NORD,350579,12,1,female,child,194514,1,couple_with_child,,,2,Primaires
+1188,354243,21004E211,RUE DE WAND,354243,12,1,female,parent,196201,4,single_with_child,,,2,Primaires
+1189,360414,21004E12-,PRINCE LEOPOLD (SQUARE),360414,12,1,female,parent,198255,4,single_with_child,,,2,Primaires
+1190,360422,21004E12-,PRINCE LEOPOLD (SQUARE),360422,12,1,female,parent,198459,1,couple_with_child,,,2,Primaires
+1191,360427,21004E12-,PRINCE LEOPOLD (SQUARE),360427,12,1,female,parent,197438,1,couple_with_child,,,2,Primaires
+1192,360434,21004E12-,PRINCE LEOPOLD (SQUARE),360434,12,1,female,parent,197719,1,couple_with_child,,,2,Primaires
+1193,362697,21004E800,DIVIN JESUS,362697,12,1,female,child,201059,1,couple_with_child,,,2,Primaires
+1194,363606,21004E233,DE MEYSSE (AVENUE),363606,12,1,female,child,201567,1,couple_with_child,,,2,Primaires
+1195,364605,21004E101,PARVIS NOTRE DAME,364605,12,1,female,child,202109,1,couple_with_child,,,2,Primaires
+1196,364945,21004E101,PARVIS NOTRE DAME,364945,12,1,female,child,202245,4,single_with_child,,,2,Primaires
+1197,367335,21004A811,QUAI DU COMMERCE,367335,12,1,female,child,203566,1,couple_with_child,,,2,Primaires
+1198,369236,21004A811,QUAI DU COMMERCE,369236,12,1,female,parent,203357,1,couple_with_child,,,2,Primaires
+1199,370584,21004D672,QUAI DE WILLEBROECK,370584,12,1,female,parent,205064,1,couple_with_child,,,2,Primaires
+1200,373245,21004E14-,ECOLE DES CADETS,373245,12,1,female,child,206766,4,single_with_child,,,2,Primaires
+1201,373188,21004E14-,ECOLE DES CADETS,373188,12,1,female,child,206746,4,single_with_child,,,2,Primaires
+1202,374845,21004F522,AVENUE DE VERSAILLES,374845,12,1,female,child,207747,1,couple_with_child,,,2,Primaires
+1203,374751,21004F522,AVENUE DE VERSAILLES,374751,12,1,female,child,207708,4,single_with_child,,,2,Primaires
+1204,377834,21004E82-,CITE MODELE,377834,12,1,female,child,209397,1,couple_with_child,,,2,Primaires
+1205,380354,21004E82-,CITE MODELE,380354,12,1,female,parent,209647,1,couple_with_child,,,2,Primaires
+1206,380353,21004E82-,CITE MODELE,380353,12,1,female,parent,209233,1,couple_with_child,,,2,Primaires
+1207,382206,21004E222,MUTSAARD (AVENUE),382206,12,1,female,child,211936,1,couple_with_child,,,2,Primaires
+1208,383528,21004E222,MUTSAARD (AVENUE),383528,12,1,female,child,212745,4,single_with_child,,,2,Primaires
+1209,385295,21004E81-,DISQUE (RUE DU),385295,12,1,female,parent,213278,4,single_with_child,,,2,Primaires
+1210,385716,21004D600,PARVIS SAINT-ROCH,385716,12,1,female,child,214054,4,single_with_child,,,2,Primaires
+1211,389586,21004D610,ANVERS (CHAUSSEE D')-SUD,389586,12,1,female,parent,215329,1,couple_with_child,,,2,Primaires
+1212,389576,21004D610,ANVERS (CHAUSSEE D')-SUD,389576,12,1,female,parent,215197,4,single_with_child,,,2,Primaires
+1213,393290,21005A10-,GENERAL HENRI (RUE),393290,12,1,female,child,218287,4,single_with_child,,,2,Primaires
+1214,394788,21005A042,PH. BAUCQ (RUE),394788,12,1,female,child,219068,1,couple_with_child,,,2,Primaires
+1215,398372,21005A042,PH. BAUCQ (RUE),398372,12,1,female,parent,219580,1,couple_with_child,,,2,Primaires
+1216,399960,21005A02-,CHAMP DU ROI (RUE),399960,12,1,female,child,222070,1,couple_with_child,,,2,Primaires
+1217,402326,21005A33-,CARDINAL LAVIGERIE (RUE),402326,12,1,female,child,223642,1,couple_with_child,,,2,Primaires
+1218,406935,21005A14-,ARMEE (AVENUE DE L'),406935,12,1,female,parent,224507,4,single_with_child,,,2,Primaires
+1219,408617,21005A13-,LA CHASSE,408617,12,1,female,parent,226908,4,single_with_child,,,2,Primaires
+1220,412486,21005A01-,SAINTE-GERTRUDE,412486,12,1,female,child,229670,4,single_with_child,,,2,Primaires
+1221,415305,21005A311,CASERNE (Etterbeek),415305,12,1,female,parent,230618,1,couple_with_child,,,2,Primaires
+1222,415891,21005A20-,PORTE DE TERVUEREN - TONGRES,415891,12,1,female,child,231549,1,couple_with_child,,,2,Primaires
+1223,417958,21005A15-,SAINT-MICHEL COLLEGE,417958,12,1,female,child,232797,1,couple_with_child,,,2,Primaires
+1224,420253,21005A031,MAELBEEK,420253,12,1,female,child,234104,4,single_with_child,,,2,Primaires
+1225,423042,21005A051,RINSDELLE,423042,12,1,female,child,235674,1,couple_with_child,,,2,Primaires
+1226,422673,21005A051,RINSDELLE,422673,12,1,female,child,235501,1,couple_with_child,,,2,Primaires
+1227,427378,21005A11-,NOTRE-DAME DU SACRE-COEUR,427378,12,1,female,child,238267,4,single_with_child,,,2,Primaires
+1228,433907,21005A00-,HOTEL COMMUNAL,433907,12,1,female,parent,240086,1,couple_with_child,,,2,Primaires
+1229,436145,21005A12-,SAINT-ANTOINE,436145,12,1,female,child,243339,1,couple_with_child,,,2,Primaires
+1230,436108,21005A12-,SAINT-ANTOINE,436108,12,1,female,child,243329,1,couple_with_child,,,2,Primaires
+1231,444238,21006A12-,GERMINAL I,444238,12,1,female,child,248389,4,single_with_child,,,2,Primaires
+1232,444606,21006A11-,OASIS - PROVENCE - LANGUEDOC,444606,12,1,female,child,248569,1,couple_with_child,,,2,Primaires
+1233,445882,21006A153,KEET,445882,12,1,female,child,249220,1,couple_with_child,,,2,Primaires
+1234,448194,21006A13-,MAISON COMMUNALE,448194,12,1,female,parent,250155,1,couple_with_child,,,2,Primaires
+1235,449007,21006A02-,IEDER ZIJN HUIS - STROOBANTS,449007,12,1,female,child,251085,4,single_with_child,,,2,Primaires
+1236,449857,21006A03-,BLOCS SAINT-VINCENT,449857,12,1,female,child,251544,4,single_with_child,,,2,Primaires
+1237,451544,21006A515,CARLI,451544,12,1,female,parent,252175,1,couple_with_child,,,2,Primaires
+1238,454350,21006A403,QUARTIER CICERO,454350,12,1,female,parent,253054,1,couple_with_child,,,2,Primaires
+1239,454836,21006A474,COMMUNAUTES,454836,12,1,female,child,254170,1,couple_with_child,,,2,Primaires
+1240,456471,21006A201,HAUT-EVERE,456471,12,1,female,child,255014,1,couple_with_child,,,2,Primaires
+1241,456196,21006A201,HAUT-EVERE,456196,12,1,female,child,254916,1,couple_with_child,,,2,Primaires
+1242,459660,21006A21-,HOME FAMILIAL BRABANT,459660,12,1,female,parent,256470,1,couple_with_child,,,2,Primaires
+1243,460831,21006A23-,DU BONHEUR,460831,12,1,female,child,257411,1,couple_with_child,,,2,Primaires
+1244,460415,21006A23-,DU BONHEUR,460415,12,1,female,child,257236,1,couple_with_child,,,2,Primaires
+1245,465433,21006A101,CONSCIENCE,465433,12,1,female,child,259965,1,couple_with_child,,,2,Primaires
+1246,465328,21006A101,CONSCIENCE,465328,12,1,female,child,259927,1,couple_with_child,,,2,Primaires
+1247,465542,21006A101,CONSCIENCE,465542,12,1,female,child,260003,1,couple_with_child,,,2,Primaires
+1248,471762,21006A001,VIEIL EVERE,471762,12,1,female,parent,262401,4,single_with_child,,,2,Primaires
+1249,471755,21006A001,VIEIL EVERE,471755,12,1,female,parent,262000,1,couple_with_child,,,2,Primaires
+1250,472660,21006A414,P. DUPONT (RUE),472660,12,1,female,child,263901,1,couple_with_child,,,2,Primaires
+1251,475196,21006A414,P. DUPONT (RUE),475196,12,1,female,child,265181,4,single_with_child,,,2,Primaires
+1252,477423,21006A25-,GIBET,477423,12,1,female,parent,266114,1,couple_with_child,,,2,Primaires
+1253,478663,21006A22-,SAINT-EXUPERY,478663,12,1,female,child,267321,1,couple_with_child,,,2,Primaires
+1254,478343,21006A22-,SAINT-EXUPERY,478343,12,1,female,child,267176,1,couple_with_child,,,2,Primaires
+1255,482974,21006A011,CENTRE,482974,12,1,female,parent,268243,4,single_with_child,,,2,Primaires
+1256,480696,21006A011,CENTRE,480696,12,1,female,child,268407,1,couple_with_child,,,2,Primaires
+1257,484396,21006A142,ED. DEKNOOP (RUE),484396,12,1,female,parent,269752,1,couple_with_child,,,2,Primaires
+1258,484949,21006A042,KERKHOEK,484949,12,1,female,child,270555,1,couple_with_child,,,2,Primaires
+1259,486404,21006A052,CHAMP DE REPOS,486404,12,1,female,child,271281,1,couple_with_child,,,2,Primaires
+1260,487299,21006A052,CHAMP DE REPOS,487299,12,1,female,child,271615,1,couple_with_child,,,2,Primaires
+1261,489492,21006A323,GERMINAL II,489492,12,1,female,parent,272479,1,couple_with_child,,,2,Primaires
+1262,490033,21007A03-,FOYER FORESTOIS - FAMILLE,490033,12,1,female,child,273145,1,couple_with_child,,,2,Primaires
+1263,492081,21007A201,ROOSENDAEL (RUE),492081,12,1,female,child,274301,1,couple_with_child,,,2,Primaires
+1264,495774,21007A75-,TOURNOI (RUE DU),495774,12,1,female,child,276540,4,single_with_child,,,2,Primaires
+1265,499287,21007A142,MONTE CARLO,499287,12,1,female,parent,277783,1,couple_with_child,,,2,Primaires
+1266,502082,21007A53-,WIELEMANS CEUPPENS,502082,12,1,female,parent,278896,1,couple_with_child,,,2,Primaires
+1267,503452,21007A50-,BERANGER,503452,12,1,female,child,280566,1,couple_with_child,,,2,Primaires
+1268,503459,21007A50-,BERANGER,503459,12,1,female,child,280568,1,couple_with_child,,,2,Primaires
+1269,509100,21007A61-,MONTENEGRO (RUE),509100,12,1,female,child,283553,1,couple_with_child,,,2,Primaires
+1270,512429,21007A61-,MONTENEGRO (RUE),512429,12,1,female,child,285216,4,single_with_child,,,2,Primaires
+1271,509523,21007A61-,MONTENEGRO (RUE),509523,12,1,female,child,283714,1,couple_with_child,,,2,Primaires
+1272,517932,21007A00-,CENTRE SAINT-DENIS,517932,12,1,female,parent,287222,1,couple_with_child,,,2,Primaires
+1273,517934,21007A00-,CENTRE SAINT-DENIS,517934,12,1,female,parent,286944,1,couple_with_child,,,2,Primaires
+1274,520765,21007A101,BOURGOGNE,520765,12,1,female,child,289765,4,single_with_child,,,2,Primaires
+1275,522993,21007A071,BOLLINCKX,522993,12,1,female,parent,290598,1,couple_with_child,,,2,Primaires
+1276,525302,21007A70-,ALTITUDE  CENT,525302,12,1,female,child,292049,4,single_with_child,,,2,Primaires
+1277,526449,21007A70-,ALTITUDE  CENT,526449,12,1,female,child,292791,4,single_with_child,,,2,Primaires
+1278,528169,21007A239,NEPTUNE (AVENUE) I,528169,12,1,female,child,293796,4,single_with_child,,,2,Primaires
+1279,530012,21007A239,NEPTUNE (AVENUE) I,530012,12,1,female,child,294791,4,single_with_child,,,2,Primaires
+1280,532695,21007A01-,CURE D'ARS,532695,12,1,female,child,296205,4,single_with_child,,,2,Primaires
+1281,533434,21007A52-,VAN VOLXEM - PETITE INDUSTRIE,533434,12,1,female,child,296505,1,couple_with_child,,,2,Primaires
+1282,536000,21007A40-,PONT DE LUTTRE,536000,12,1,female,parent,297239,1,couple_with_child,,,2,Primaires
+1283,541339,21007A60-,SAINT-ANTOINE,541339,12,1,female,parent,298892,1,couple_with_child,,,2,Primaires
+1284,541330,21007A60-,SAINT-ANTOINE,541330,12,1,female,parent,298748,1,couple_with_child,,,2,Primaires
+1285,542273,21007A73-,BERCKENDAEL (RUE),542273,12,1,female,child,301088,1,couple_with_child,,,2,Primaires
+1286,545203,21007A72-,MOLIERE,545203,12,1,female,child,302758,1,couple_with_child,,,2,Primaires
+1287,549086,21007A72-,MOLIERE,549086,12,1,female,parent,303126,4,single_with_child,,,2,Primaires
+1288,549724,21007A71-,CHAUSSEE D'ALSEMBERG,549724,12,1,female,child,305220,4,single_with_child,,,2,Primaires
+1289,551787,21008A30-,LE HOME,551787,12,1,female,child,306377,1,couple_with_child,,,2,Primaires
+1290,553188,21008A00-,CENTRE,553188,12,1,female,child,307142,1,couple_with_child,,,2,Primaires
+1291,557068,21008A220,VILLAS DE GANSHOREN (OUEST),557068,12,1,female,child,309442,4,single_with_child,,,2,Primaires
+1292,555363,21008A220,VILLAS DE GANSHOREN (OUEST),555363,12,1,female,child,308432,1,couple_with_child,,,2,Primaires
+1293,558218,21008A02-,SIPPELBERG,558218,12,1,female,child,310120,4,single_with_child,,,2,Primaires
+1294,560627,21008A02-,SIPPELBERG,560627,12,1,female,parent,310407,1,couple_with_child,,,2,Primaires
+1295,562724,21008A240,REFORME,562724,12,1,female,child,312568,1,couple_with_child,,,2,Primaires
+1296,565194,21008A20-,CHARLES-QUINT,565194,12,1,female,child,314018,1,couple_with_child,,,2,Primaires
+1297,566385,21008A20-,CHARLES-QUINT,566385,12,1,female,child,314501,1,couple_with_child,,,2,Primaires
+1298,568647,21008A20-,CHARLES-QUINT,568647,12,1,female,parent,314227,1,couple_with_child,,,2,Primaires
+1299,570705,21008A33-,VAN PAGE-NORD,570705,12,1,female,child,316859,4,single_with_child,,,2,Primaires
+1300,571398,21008A32-,HEIDEKEN,571398,12,1,female,child,317275,4,single_with_child,,,2,Primaires
+1301,575695,21008A10-,PLATEAU,575695,12,1,female,child,319511,4,single_with_child,,,2,Primaires
+1302,575966,21008A10-,PLATEAU,575966,12,1,female,parent,318864,1,couple_with_child,,,2,Primaires
+1303,577548,21008A21-,MAIL,577548,12,1,female,child,320565,1,couple_with_child,,,2,Primaires
+1304,578682,21008A21-,MAIL,578682,12,1,female,child,321191,4,single_with_child,,,2,Primaires
+1305,582158,21009A20-,PETITE SUISSE (PLACE DE LA),582158,12,1,female,child,323583,4,single_with_child,,,2,Primaires
+1306,583074,21009A23-,ETOILE (ROND POINT DE L'),583074,12,1,female,child,324162,1,couple_with_child,,,2,Primaires
+1307,590364,21009A652,HOPITAUX,590364,12,1,female,parent,327532,1,couple_with_child,,,2,Primaires
+1308,595408,21009A041,ARBRE BENIT,595408,12,1,female,child,332224,4,single_with_child,,,2,Primaires
+1309,598903,21009A00-,CENTRE,598903,12,1,female,child,334532,1,couple_with_child,,,2,Primaires
+1310,602219,21009A02-,MUSEE,602219,12,1,female,child,336649,1,couple_with_child,,,2,Primaires
+1311,606798,21009A03-,ERMITAGE,606798,12,1,female,child,339707,1,couple_with_child,,,2,Primaires
+1312,612480,21009A63-,MACAU,612480,12,1,female,child,343317,4,single_with_child,,,2,Primaires
+1313,618000,21009A42-,RENIER CHALON,618000,12,1,female,child,346768,4,single_with_child,,,2,Primaires
+1314,618782,21009A40-,MELEZES,618782,12,1,female,child,347217,1,couple_with_child,,,2,Primaires
+1315,623972,21009A33-,SAINT-ADRIEN,623972,12,1,female,child,350348,4,single_with_child,,,2,Primaires
+1316,627751,21009A21-,ETE,627751,12,1,female,child,352600,1,couple_with_child,,,2,Primaires
+1317,632149,21009A43-,FERNAND NEURAY,632149,12,1,female,child,355606,1,couple_with_child,,,2,Primaires
+1318,634226,21009A41-,SAINT-GEORGES,634226,12,1,female,child,356855,1,couple_with_child,,,2,Primaires
+1319,640984,21009A52-,GRAY (RUE),640984,12,1,female,parent,359054,1,couple_with_child,,,2,Primaires
+1320,644298,21009A44-,PREVOT,644298,12,1,female,parent,362093,1,couple_with_child,,,2,Primaires
+1321,652924,21009A111,WERY (RUE),652924,12,1,female,child,368671,1,couple_with_child,,,2,Primaires
+1322,655928,21009A01-,BLYCKAERTS,655928,12,1,female,child,370612,1,couple_with_child,,,2,Primaires
+1323,658806,21009A22-,UNIVERSITE,658806,12,1,female,child,372562,1,couple_with_child,,,2,Primaires
+1324,663514,21009A53-,LONDRES (PLACE DE),663514,12,1,female,child,375439,1,couple_with_child,,,2,Primaires
+1325,667311,21009A612,LIEGEOIS (RUE),667311,12,1,female,child,378086,1,couple_with_child,,,2,Primaires
+1326,672659,21009A73-,BERCKENDAEL,672659,12,1,female,child,381468,4,single_with_child,,,2,Primaires
+1327,677398,21009A451,CHATELAIN (PLACE DU)-EST,677398,12,1,female,parent,382906,1,couple_with_child,,,2,Primaires
+1328,679343,21010A04-,NOTRE-DAME DE LOURDES,679343,12,1,female,child,385280,1,couple_with_child,,,2,Primaires
+1329,678344,21010A04-,NOTRE-DAME DE LOURDES,678344,12,1,female,child,384881,1,couple_with_child,,,2,Primaires
+1330,681523,21010A04-,NOTRE-DAME DE LOURDES,681523,12,1,female,child,386404,4,single_with_child,,,2,Primaires
+1331,683185,21010A03-,MIROIR,683185,12,1,female,child,387323,1,couple_with_child,,,2,Primaires
+1332,682927,21010A03-,MIROIR,682927,12,1,female,child,387244,1,couple_with_child,,,2,Primaires
+1333,686676,21010A10-,ANCIENNE BARRIERE,686676,12,1,female,child,389212,1,couple_with_child,,,2,Primaires
+1334,688773,21010A121,F. MOHRFELD (RUE DE),688773,12,1,female,child,390334,4,single_with_child,,,2,Primaires
+1335,690468,21010A111,HEYMBOSCH,690468,12,1,female,child,391344,4,single_with_child,,,2,Primaires
+1336,690587,21010A111,HEYMBOSCH,690587,12,1,female,child,391394,1,couple_with_child,,,2,Primaires
+1337,693551,21010A312,BAECK DUPRE,693551,12,1,female,child,393123,1,couple_with_child,,,2,Primaires
+1338,697539,21010A1AJ,ARBRE BALLON,697539,12,1,female,parent,393829,4,single_with_child,,,2,Primaires
+1339,697242,21010A1AJ,ARBRE BALLON,697242,12,1,female,child,394859,4,single_with_child,,,2,Primaires
+1340,699663,21010A05-,ALBERT (QUARTIER),699663,12,1,female,child,396035,4,single_with_child,,,2,Primaires
+1341,699213,21010A05-,ALBERT (QUARTIER),699213,12,1,female,child,395852,1,couple_with_child,,,2,Primaires
+1342,703379,21010A05-,ALBERT (QUARTIER),703379,12,1,female,parent,395576,4,single_with_child,,,2,Primaires
+1343,702863,21010A05-,ALBERT (QUARTIER),702863,12,1,female,child,397581,4,single_with_child,,,2,Primaires
+1344,704887,21010A13-,CITE-JARDIN,704887,12,1,female,child,398934,4,single_with_child,,,2,Primaires
+1345,705002,21010A13-,CITE-JARDIN,705002,12,1,female,child,398976,1,couple_with_child,,,2,Primaires
+1346,705101,21010A13-,CITE-JARDIN,705101,12,1,female,child,399024,4,single_with_child,,,2,Primaires
+1347,715489,21010A00-,CENTRE,715489,12,1,female,parent,401832,4,single_with_child,,,2,Primaires
+1348,715488,21010A00-,CENTRE,715488,12,1,female,parent,402137,1,couple_with_child,,,2,Primaires
+1349,714766,21010A00-,CENTRE,714766,12,1,female,child,404048,4,single_with_child,,,2,Primaires
+1350,715493,21010A00-,CENTRE,715493,12,1,female,parent,401654,1,couple_with_child,,,2,Primaires
+1351,720320,21010A141,BRUGMANN,720320,12,1,female,parent,405957,1,couple_with_child,,,2,Primaires
+1352,717785,21010A141,BRUGMANN,717785,12,1,female,child,405810,1,couple_with_child,,,2,Primaires
+1353,716926,21010A141,BRUGMANN,716926,12,1,female,child,405474,4,single_with_child,,,2,Primaires
+1354,721702,21010A01-,ESSEGHEM,721702,12,1,female,child,407960,1,couple_with_child,,,2,Primaires
+1355,721913,21010A01-,ESSEGHEM,721913,12,1,female,child,408046,4,single_with_child,,,2,Primaires
+1356,725535,21010A01-,ESSEGHEM,725535,12,1,female,parent,408011,4,single_with_child,,,2,Primaires
+1357,725540,21010A01-,ESSEGHEM,725540,12,1,female,parent,407595,1,couple_with_child,,,2,Primaires
+1358,727505,21010A21-,MADELEINE,727505,12,1,female,child,410871,4,single_with_child,,,2,Primaires
+1359,729372,21010A21-,MADELEINE,729372,12,1,female,child,411841,4,single_with_child,,,2,Primaires
+1360,727797,21010A21-,MADELEINE,727797,12,1,female,child,410979,1,couple_with_child,,,2,Primaires
+1361,734351,21010A02-,LEOPOLD I,734351,12,1,female,parent,413292,1,couple_with_child,,,2,Primaires
+1362,734350,21010A02-,LEOPOLD I,734350,12,1,female,parent,412832,1,couple_with_child,,,2,Primaires
+1363,732433,21010A02-,LEOPOLD I,732433,12,1,female,child,413321,1,couple_with_child,,,2,Primaires
+1364,735812,21011A11-,LEPREUX,735812,12,1,female,child,415228,4,single_with_child,,,2,Primaires
+1365,736678,21011A11-,LEPREUX,736678,12,1,female,child,415701,4,single_with_child,,,2,Primaires
+1366,737983,21011A30-,ARCHERS - FOUREZ,737983,12,1,female,child,416330,1,couple_with_child,,,2,Primaires
+1367,737695,21011A30-,ARCHERS - FOUREZ,737695,12,1,female,child,416223,4,single_with_child,,,2,Primaires
+1368,743428,21011A20-,PLATEAU,743428,12,1,female,parent,418195,1,couple_with_child,,,2,Primaires
+1369,741312,21011A20-,PLATEAU,741312,12,1,female,child,417976,1,couple_with_child,,,2,Primaires
+1370,740503,21011A20-,PLATEAU,740503,12,1,female,child,417727,1,couple_with_child,,,2,Primaires
+1371,744976,21011A10-,PAIX (AVENUE DE LA),744976,12,1,female,child,420043,1,couple_with_child,,,2,Primaires
+1372,744546,21011A10-,PAIX (AVENUE DE LA),744546,12,1,female,child,419871,1,couple_with_child,,,2,Primaires
+1373,750857,21011A01-,SAINTE-ANNE,750857,12,1,female,parent,421285,1,couple_with_child,,,2,Primaires
+1374,747894,21011A01-,SAINTE-ANNE,747894,12,1,female,child,421535,4,single_with_child,,,2,Primaires
+1375,750854,21011A01-,SAINTE-ANNE,750854,12,1,female,parent,421343,1,couple_with_child,,,2,Primaires
+1376,750860,21011A01-,SAINTE-ANNE,750860,12,1,female,parent,421660,1,couple_with_child,,,2,Primaires
+1377,751717,21011A02-,JACQUET (RUE DE),751717,12,1,female,child,423544,1,couple_with_child,,,2,Primaires
+1378,753249,21011A02-,JACQUET (RUE DE),753249,12,1,female,parent,423913,4,single_with_child,,,2,Primaires
+1379,754027,21011A00-,VANHUFFEL,754027,12,1,female,child,424676,1,couple_with_child,,,2,Primaires
+1380,755527,21011A00-,VANHUFFEL,755527,12,1,female,parent,424929,1,couple_with_child,,,2,Primaires
+1381,756705,21011A12-,BASILIQUE,756705,12,1,female,child,426154,1,couple_with_child,,,2,Primaires
+1382,756170,21011A12-,BASILIQUE,756170,12,1,female,child,425917,4,single_with_child,,,2,Primaires
+1383,758714,21012A552,PFEIFFER,758714,12,1,female,child,427272,4,single_with_child,,,2,Primaires
+1384,759784,21012A833,ELBERS,759784,12,1,female,child,427871,1,couple_with_child,,,2,Primaires
+1385,762459,21012A84-,METTEWIE-BUILDINGS,762459,12,1,female,parent,428745,1,couple_with_child,,,2,Primaires
+1386,760871,21012A84-,METTEWIE-BUILDINGS,760871,12,1,female,child,428533,4,single_with_child,,,2,Primaires
+1387,764282,21012A24-,OSSEGHEM,764282,12,1,female,child,430298,1,couple_with_child,,,2,Primaires
+1388,763815,21012A24-,OSSEGHEM,763815,12,1,female,child,430114,1,couple_with_child,,,2,Primaires
+1389,764601,21012A24-,OSSEGHEM,764601,12,1,female,child,430424,1,couple_with_child,,,2,Primaires
+1390,766114,21012A24-,OSSEGHEM,766114,12,1,female,child,431235,4,single_with_child,,,2,Primaires
+1391,768279,21012A26-,MACHTENS-NORD,768279,12,1,female,child,432523,1,couple_with_child,,,2,Primaires
+1392,768529,21012A26-,MACHTENS-NORD,768529,12,1,female,child,432631,1,couple_with_child,,,2,Primaires
+1393,771075,21012A26-,MACHTENS-NORD,771075,12,1,female,parent,432952,1,couple_with_child,,,2,Primaires
+1394,771078,21012A26-,MACHTENS-NORD,771078,12,1,female,parent,431890,1,couple_with_child,,,2,Primaires
+1395,772163,21012A25-,BEEKKANT,772163,12,1,female,parent,434538,1,couple_with_child,,,2,Primaires
+1396,772684,21012A172,GARE OUEST,772684,12,1,female,child,435042,1,couple_with_child,,,2,Primaires
+1397,775404,21012A041,QUATRE VENTS,775404,12,1,female,parent,435842,1,couple_with_child,,,2,Primaires
+1398,775403,21012A041,QUATRE VENTS,775403,12,1,female,parent,435571,4,single_with_child,,,2,Primaires
+1399,777913,21012A10-,DUCHESSE DE BRABANT,777913,12,1,female,parent,437231,4,single_with_child,,,2,Primaires
+1400,777911,21012A10-,DUCHESSE DE BRABANT,777911,12,1,female,parent,436772,1,couple_with_child,,,2,Primaires
+1401,780515,21012A00-,CENTRE,780515,12,1,female,parent,438412,1,couple_with_child,,,2,Primaires
+1402,779089,21012A00-,CENTRE,779089,12,1,female,child,438257,1,couple_with_child,,,2,Primaires
+1403,781842,21012A05-,SAINT-JOSEPH,781842,12,1,female,parent,439623,4,single_with_child,,,2,Primaires
+1404,782799,21012A851,CONDOR,782799,12,1,female,child,440371,4,single_with_child,,,2,Primaires
+1405,782539,21012A851,CONDOR,782539,12,1,female,child,440257,1,couple_with_child,,,2,Primaires
+1406,783821,21012A882,DARING,783821,12,1,female,child,440944,1,couple_with_child,,,2,Primaires
+1407,785858,21012A13-,BIRMINGHAM-NORD,785858,12,1,female,child,441941,4,single_with_child,,,2,Primaires
+1408,787423,21012A12-,BIRMINGHAM-SUD,787423,12,1,female,parent,442398,1,couple_with_child,,,2,Primaires
+1409,789956,21012A672,ULENS,789956,12,1,female,parent,443220,1,couple_with_child,,,2,Primaires
+1410,789959,21012A672,ULENS,789959,12,1,female,parent,443102,1,couple_with_child,,,2,Primaires
+1411,789961,21012A672,ULENS,789961,12,1,female,parent,443317,1,couple_with_child,,,2,Primaires
+1412,792259,21012A60-,LAEKENVELD,792259,12,1,female,child,445011,1,couple_with_child,,,2,Primaires
+1413,795043,21012A60-,LAEKENVELD,795043,12,1,female,parent,445073,1,couple_with_child,,,2,Primaires
+1414,791230,21012A60-,LAEKENVELD,791230,12,1,female,child,444664,1,couple_with_child,,,2,Primaires
+1415,794630,21012A60-,LAEKENVELD,794630,12,1,female,child,446139,4,single_with_child,,,2,Primaires
+1416,795048,21012A60-,LAEKENVELD,795048,12,1,female,parent,444529,1,couple_with_child,,,2,Primaires
+1417,796506,21012A63-,DUBRUCQ-NORD,796506,12,1,female,child,447248,4,single_with_child,,,2,Primaires
+1418,796837,21012A63-,DUBRUCQ-NORD,796837,12,1,female,child,447363,1,couple_with_child,,,2,Primaires
+1419,803150,21012A62-,LIBERATEURS,803150,12,1,female,parent,449213,4,single_with_child,,,2,Primaires
+1420,799499,21012A62-,LIBERATEURS,799499,12,1,female,child,448678,1,couple_with_child,,,2,Primaires
+1421,803165,21012A62-,LIBERATEURS,803165,12,1,female,parent,448348,1,couple_with_child,,,2,Primaires
+1422,799382,21012A62-,LIBERATEURS,799382,12,1,female,child,448638,4,single_with_child,,,2,Primaires
+1423,803149,21012A62-,LIBERATEURS,803149,12,1,female,parent,449277,1,couple_with_child,,,2,Primaires
+1424,806653,21012A511,STEYNS,806653,12,1,female,parent,451432,1,couple_with_child,,,2,Primaires
+1425,804901,21012A511,STEYNS,804901,12,1,female,child,451579,1,couple_with_child,,,2,Primaires
+1426,804674,21012A511,STEYNS,804674,12,1,female,child,451514,1,couple_with_child,,,2,Primaires
+1427,808823,21012A20-,BAECK,808823,12,1,female,parent,453360,4,single_with_child,,,2,Primaires
+1428,808830,21012A20-,BAECK,808830,12,1,female,parent,452854,1,couple_with_child,,,2,Primaires
+1429,809956,21012A72-,LAVALLEE,809956,12,1,female,child,454226,1,couple_with_child,,,2,Primaires
+1430,809699,21012A72-,LAVALLEE,809699,12,1,female,child,454138,1,couple_with_child,,,2,Primaires
+1431,811604,21012A72-,LAVALLEE,811604,12,1,female,parent,454218,1,couple_with_child,,,2,Primaires
+1432,812482,21012A611,MEXICO,812482,12,1,female,child,455502,1,couple_with_child,,,2,Primaires
+1433,813420,21012A611,MEXICO,813420,12,1,female,parent,455337,1,couple_with_child,,,2,Primaires
+1434,817247,21012A54-,DELHAIZE,817247,12,1,female,parent,456736,1,couple_with_child,,,2,Primaires
+1435,815335,21012A54-,DELHAIZE,815335,12,1,female,child,456921,1,couple_with_child,,,2,Primaires
+1436,815571,21012A54-,DELHAIZE,815571,12,1,female,child,457002,4,single_with_child,,,2,Primaires
+1437,819030,21012A50-,BENES,819030,12,1,female,child,458856,1,couple_with_child,,,2,Primaires
+1438,818868,21012A50-,BENES,818868,12,1,female,child,458790,1,couple_with_child,,,2,Primaires
+1439,818947,21012A50-,BENES,818947,12,1,female,child,458826,4,single_with_child,,,2,Primaires
+1440,818962,21012A50-,BENES,818962,12,1,female,child,458830,1,couple_with_child,,,2,Primaires
+1441,824830,21012A71-,PIERS,824830,12,1,female,parent,461021,1,couple_with_child,,,2,Primaires
+1442,821930,21012A71-,PIERS,821930,12,1,female,child,460434,1,couple_with_child,,,2,Primaires
+1443,824825,21012A71-,PIERS,824825,12,1,female,parent,460646,1,couple_with_child,,,2,Primaires
+1444,824826,21012A71-,PIERS,824826,12,1,female,parent,460589,1,couple_with_child,,,2,Primaires
+1445,826104,21012A21-,MARIE-JOSE BLOCS,826104,12,1,female,child,462757,1,couple_with_child,,,2,Primaires
+1446,827121,21012A21-,MARIE-JOSE BLOCS,827121,12,1,female,parent,462458,4,single_with_child,,,2,Primaires
+1447,832849,21012A152,ETANGS NOIRS,832849,12,1,female,parent,464623,4,single_with_child,,,2,Primaires
+1448,828478,21012A152,ETANGS NOIRS,828478,12,1,female,child,463958,1,couple_with_child,,,2,Primaires
+1449,829711,21012A152,ETANGS NOIRS,829711,12,1,female,child,464378,1,couple_with_child,,,2,Primaires
+1450,832833,21012A152,ETANGS NOIRS,832833,12,1,female,parent,463907,1,couple_with_child,,,2,Primaires
+1451,832847,21012A152,ETANGS NOIRS,832847,12,1,female,parent,464454,1,couple_with_child,,,2,Primaires
+1452,828347,21012A152,ETANGS NOIRS,828347,12,1,female,child,463910,1,couple_with_child,,,2,Primaires
+1453,835187,21012A52-,NEEP (QUARTIER DU),835187,12,1,female,child,467607,4,single_with_child,,,2,Primaires
+1454,835443,21012A52-,NEEP (QUARTIER DU),835443,12,1,female,child,467709,4,single_with_child,,,2,Primaires
+1455,837044,21012A52-,NEEP (QUARTIER DU),837044,12,1,female,child,468558,4,single_with_child,,,2,Primaires
+1456,837452,21012A52-,NEEP (QUARTIER DU),837452,12,1,female,parent,467960,1,couple_with_child,,,2,Primaires
+1457,838413,21012A30-,METTEWIE - IDYLLE,838413,12,1,female,child,469439,1,couple_with_child,,,2,Primaires
+1458,838084,21012A30-,METTEWIE - IDYLLE,838084,12,1,female,child,469306,1,couple_with_child,,,2,Primaires
+1459,844033,21012A23-,MACHTENS-SUD,844033,12,1,female,parent,470872,1,couple_with_child,,,2,Primaires
+1460,844034,21012A23-,MACHTENS-SUD,844034,12,1,female,parent,470824,1,couple_with_child,,,2,Primaires
+1461,841734,21012A23-,MACHTENS-SUD,841734,12,1,female,child,471139,1,couple_with_child,,,2,Primaires
+1462,841197,21012A23-,MACHTENS-SUD,841197,12,1,female,child,470919,1,couple_with_child,,,2,Primaires
+1463,845828,21012A41-,MOORTEBEEK,845828,12,1,female,parent,473105,4,single_with_child,,,2,Primaires
+1464,844873,21012A41-,MOORTEBEEK,844873,12,1,female,child,472774,4,single_with_child,,,2,Primaires
+1465,847697,21012A822,KORENBEEK,847697,12,1,female,child,474256,4,single_with_child,,,2,Primaires
+1466,848223,21012A822,KORENBEEK,848223,12,1,female,child,474458,4,single_with_child,,,2,Primaires
+1467,850936,21012A822,KORENBEEK,850936,12,1,female,parent,474293,4,single_with_child,,,2,Primaires
+1468,850939,21012A822,KORENBEEK,850939,12,1,female,parent,474767,1,couple_with_child,,,2,Primaires
+1469,850547,21012A822,KORENBEEK,850547,12,1,female,child,475643,4,single_with_child,,,2,Primaires
+1470,851537,21012A811,MYRTES-NORD,851537,12,1,female,child,476311,4,single_with_child,,,2,Primaires
+1471,853392,21012A141,INDEPENDANCE,853392,12,1,female,child,477160,1,couple_with_child,,,2,Primaires
+1472,854618,21012A141,INDEPENDANCE,854618,12,1,female,parent,477040,1,couple_with_child,,,2,Primaires
+1473,854622,21012A141,INDEPENDANCE,854622,12,1,female,parent,476912,1,couple_with_child,,,2,Primaires
+1474,855806,21012A03-,RANSFORT,855806,12,1,female,child,478498,1,couple_with_child,,,2,Primaires
+1475,856673,21012A03-,RANSFORT,856673,12,1,female,parent,478233,4,single_with_child,,,2,Primaires
+1476,857367,21012A11-,INDUSTRIE,857367,12,1,female,child,479382,1,couple_with_child,,,2,Primaires
+1477,858805,21012A02-,BRUNFAUT (QUARTIER),858805,12,1,female,child,480242,1,couple_with_child,,,2,Primaires
+1478,859678,21012A011,CANAL-SUD,859678,12,1,female,child,480672,1,couple_with_child,,,2,Primaires
+1479,861883,21012A732,CANAL-NORD,861883,12,1,female,parent,481455,1,couple_with_child,,,2,Primaires
+1480,862780,21013A242,BETHLEEM (PLACE DE),862780,12,1,female,child,482307,1,couple_with_child,,,2,Primaires
+1481,865583,21013A101,PARVIS,865583,12,1,female,child,483768,1,couple_with_child,,,2,Primaires
+1482,868095,21013A13-,DETHY (RUE),868095,12,1,female,child,485161,1,couple_with_child,,,2,Primaires
+1483,873762,21013A422,CRICKX (RUE),873762,12,1,female,parent,487075,1,couple_with_child,,,2,Primaires
+1484,873764,21013A422,CRICKX (RUE),873764,12,1,female,parent,487049,4,single_with_child,,,2,Primaires
+1485,875621,21013A11-,PARME (RUE DE),875621,12,1,female,parent,488403,4,single_with_child,,,2,Primaires
+1486,879003,21013A01-,ESPAGNE (RUE D'),879003,12,1,female,child,491361,4,single_with_child,,,2,Primaires
+1487,879000,21013A01-,ESPAGNE (RUE D'),879000,12,1,female,child,491360,4,single_with_child,,,2,Primaires
+1488,879891,21013A04-,PRISON,879891,12,1,female,child,491806,1,couple_with_child,,,2,Primaires
+1489,881799,21013A201,ANGLETERRE (RUE D'),881799,12,1,female,child,492906,4,single_with_child,,,2,Primaires
+1490,884504,21013A252,DANEMARK (RUE DE),884504,12,1,female,child,494336,1,couple_with_child,,,2,Primaires
+1491,887344,21013A23-,ROI (AVENUE DU),887344,12,1,female,parent,495286,1,couple_with_child,,,2,Primaires
+1492,888861,21013A02-,CAPOUILLET (RUE),888861,12,1,female,child,496862,4,single_with_child,,,2,Primaires
+1493,888268,21013A02-,CAPOUILLET (RUE),888268,12,1,female,child,496551,4,single_with_child,,,2,Primaires
+1494,895391,21013A22-,REGIES,895391,12,1,female,parent,499028,1,couple_with_child,,,2,Primaires
+1495,895392,21013A22-,REGIES,895392,12,1,female,parent,499161,1,couple_with_child,,,2,Primaires
+1496,897720,21013A211,FONTAINAS,897720,12,1,female,child,502140,4,single_with_child,,,2,Primaires
+1497,898363,21013A052,FAIDER (RUE),898363,12,1,female,child,502510,1,couple_with_child,,,2,Primaires
+1498,900236,21013A151,METAL (RUE DU),900236,12,1,female,child,503646,4,single_with_child,,,2,Primaires
+1499,903802,21013A522,RUE D'ECOSSE,903802,12,1,female,parent,505237,1,couple_with_child,,,2,Primaires
+1500,906091,21013A40-,BARRIERE,906091,12,1,female,parent,506652,1,couple_with_child,,,2,Primaires
+1501,909083,21013A41-,VILLAS (AVENUE DES),909083,12,1,female,parent,507789,1,couple_with_child,,,2,Primaires
+1502,907023,21013A41-,VILLAS (AVENUE DES),907023,12,1,female,child,507831,4,single_with_child,,,2,Primaires
+1503,909629,21013A031,AMAZONE (RUE DE),909629,12,1,female,child,509325,4,single_with_child,,,2,Primaires
+1504,911761,21013A00-,HOTEL DE VILLE,911761,12,1,female,child,510578,1,couple_with_child,,,2,Primaires
+1505,912155,21013A00-,HOTEL DE VILLE,912155,12,1,female,child,510764,1,couple_with_child,,,2,Primaires
+1506,916297,21013A51-,TOISON D'OR (AVENUE),916297,12,1,female,parent,512631,1,couple_with_child,,,2,Primaires
+1507,917777,21014A00-,PLACE SAINT-JOSSE,917777,12,1,female,child,514212,1,couple_with_child,,,2,Primaires
+1508,919878,21014A00-,PLACE SAINT-JOSSE,919878,12,1,female,parent,513932,1,couple_with_child,,,2,Primaires
+1509,919880,21014A00-,PLACE SAINT-JOSSE,919880,12,1,female,parent,514049,1,couple_with_child,,,2,Primaires
+1510,917080,21014A00-,PLACE SAINT-JOSSE,917080,12,1,female,child,513930,1,couple_with_child,,,2,Primaires
+1511,920550,21014A02-,CHARITE,920550,12,1,female,child,515832,1,couple_with_child,,,2,Primaires
+1512,920302,21014A02-,CHARITE,920302,12,1,female,child,515710,1,couple_with_child,,,2,Primaires
+1513,923198,21014A14-,PRAIRIE,923198,12,1,female,parent,516851,1,couple_with_child,,,2,Primaires
+1514,923197,21014A14-,PRAIRIE,923197,12,1,female,parent,517129,1,couple_with_child,,,2,Primaires
+1515,927301,21014A41-,BOSSUET,927301,12,1,female,parent,518176,1,couple_with_child,,,2,Primaires
+1516,924442,21014A41-,BOSSUET,924442,12,1,female,child,518098,4,single_with_child,,,2,Primaires
+1517,924254,21014A41-,BOSSUET,924254,12,1,female,child,518027,4,single_with_child,,,2,Primaires
+1518,926822,21014A41-,BOSSUET,926822,12,1,female,child,519250,4,single_with_child,,,2,Primaires
+1519,924997,21014A41-,BOSSUET,924997,12,1,female,child,518296,1,couple_with_child,,,2,Primaires
+1520,930034,21014A10-,SAINT-FRANCOIS,930034,12,1,female,parent,519924,1,couple_with_child,,,2,Primaires
+1521,929514,21014A10-,SAINT-FRANCOIS,929514,12,1,female,child,520656,4,single_with_child,,,2,Primaires
+1522,927914,21014A10-,SAINT-FRANCOIS,927914,12,1,female,child,519922,4,single_with_child,,,2,Primaires
+1523,930665,21014A03-,MADOU,930665,12,1,female,child,521461,1,couple_with_child,,,2,Primaires
+1524,932590,21014A01-,STEURS,932590,12,1,female,child,522400,4,single_with_child,,,2,Primaires
+1525,936407,21014A04-,HAECHT (CHAUSSEE DE),936407,12,1,female,parent,523159,4,single_with_child,,,2,Primaires
+1526,933855,21014A04-,HAECHT (CHAUSSEE DE),933855,12,1,female,child,523051,1,couple_with_child,,,2,Primaires
+1527,934475,21014A04-,HAECHT (CHAUSSEE DE),934475,12,1,female,child,523279,1,couple_with_child,,,2,Primaires
+1528,934453,21014A04-,HAECHT (CHAUSSEE DE),934453,12,1,female,child,523273,4,single_with_child,,,2,Primaires
+1529,938179,21014A05-,HOUWAERT,938179,12,1,female,child,525380,4,single_with_child,,,2,Primaires
+1530,938715,21014A05-,HOUWAERT,938715,12,1,female,child,525581,1,couple_with_child,,,2,Primaires
+1531,944365,21014A05-,HOUWAERT,944365,12,1,female,parent,526509,1,couple_with_child,,,2,Primaires
+1532,939302,21014A05-,HOUWAERT,939302,12,1,female,child,525812,4,single_with_child,,,2,Primaires
+1533,944384,21014A05-,HOUWAERT,944384,12,1,female,parent,526804,4,single_with_child,,,2,Primaires
+1534,944383,21014A05-,HOUWAERT,944383,12,1,female,parent,526305,4,single_with_child,,,2,Primaires
+1535,943547,21014A05-,HOUWAERT,943547,12,1,female,child,528224,4,single_with_child,,,2,Primaires
+1536,939814,21014A05-,HOUWAERT,939814,12,1,female,child,526004,4,single_with_child,,,2,Primaires
+1537,944370,21014A05-,HOUWAERT,944370,12,1,female,parent,525121,1,couple_with_child,,,2,Primaires
+1538,945183,21014A3MJ,MANHATTAN,945183,12,1,female,child,529164,4,single_with_child,,,2,Primaires
+1539,946616,21015A50-,OPALE,946616,12,1,female,child,529939,1,couple_with_child,,,2,Primaires
+1540,947070,21015A50-,OPALE,947070,12,1,female,child,530150,1,couple_with_child,,,2,Primaires
+1541,947229,21015A50-,OPALE,947229,12,1,female,child,530225,4,single_with_child,,,2,Primaires
+1542,947153,21015A50-,OPALE,947153,12,1,female,child,530189,1,couple_with_child,,,2,Primaires
+1543,950277,21015A50-,OPALE,950277,12,1,female,child,531973,4,single_with_child,,,2,Primaires
+1544,953279,21015A77-,R.T.B.,953279,12,1,female,parent,533097,1,couple_with_child,,,2,Primaires
+1545,951388,21015A77-,R.T.B.,951388,12,1,female,child,532718,4,single_with_child,,,2,Primaires
+1546,954872,21015A73-,H. EVENEPOEL (RUE),954872,12,1,female,parent,534430,1,couple_with_child,,,2,Primaires
+1547,955836,21015A31-,PATRIE,955836,12,1,female,child,535404,1,couple_with_child,,,2,Primaires
+1548,957946,21015A31-,PATRIE,957946,12,1,female,parent,535951,4,single_with_child,,,2,Primaires
+1549,957948,21015A31-,PATRIE,957948,12,1,female,parent,535603,1,couple_with_child,,,2,Primaires
+1550,959801,21015A36-,CAMBIER (AVENUE E.),959801,12,1,female,child,537608,4,single_with_child,,,2,Primaires
+1551,958633,21015A36-,CAMBIER (AVENUE E.),958633,12,1,female,child,536944,1,couple_with_child,,,2,Primaires
+1552,960846,21015A70-,P. HYMANS (RUE),960846,12,1,female,child,538205,4,single_with_child,,,2,Primaires
+1553,960620,21015A70-,P. HYMANS (RUE),960620,12,1,female,child,538106,1,couple_with_child,,,2,Primaires
+1554,962443,21015A721,F. COURTENS (AVENUE),962443,12,1,female,child,539103,1,couple_with_child,,,2,Primaires
+1555,965548,21015A34-,PAQUERETTES (RUE),965548,12,1,female,parent,539897,4,single_with_child,,,2,Primaires
+1556,965425,21015A34-,PAQUERETTES (RUE),965425,12,1,female,child,540549,4,single_with_child,,,2,Primaires
+1557,965863,21015A63-,DESCHANEL P. (AVENUE),965863,12,1,female,child,540767,1,couple_with_child,,,2,Primaires
+1558,965963,21015A63-,DESCHANEL P. (AVENUE),965963,12,1,female,child,540806,1,couple_with_child,,,2,Primaires
+1559,967463,21015A883,THEUNIS PIERRE (RUE),967463,12,1,female,child,541651,1,couple_with_child,,,2,Primaires
+1560,968633,21015A811,TERDELT,968633,12,1,female,child,542289,1,couple_with_child,,,2,Primaires
+1561,971391,21015A831,LATINIS (AVENUE G.),971391,12,1,female,child,543728,1,couple_with_child,,,2,Primaires
+1562,970700,21015A831,LATINIS (AVENUE G.),970700,12,1,female,child,543439,1,couple_with_child,,,2,Primaires
+1563,970597,21015A831,LATINIS (AVENUE G.),970597,12,1,female,child,543390,1,couple_with_child,,,2,Primaires
+1564,969869,21015A831,LATINIS (AVENUE G.),969869,12,1,female,child,543088,1,couple_with_child,,,2,Primaires
+1565,976365,21015A03-,JOSAPHAT (RUE),976365,12,1,female,child,546080,4,single_with_child,,,2,Primaires
+1566,976938,21015A03-,JOSAPHAT (RUE),976938,12,1,female,child,546275,4,single_with_child,,,2,Primaires
+1567,978967,21015A03-,JOSAPHAT (RUE),978967,12,1,female,parent,545388,1,couple_with_child,,,2,Primaires
+1568,978968,21015A03-,JOSAPHAT (RUE),978968,12,1,female,parent,545375,1,couple_with_child,,,2,Primaires
+1569,975269,21015A03-,JOSAPHAT (RUE),975269,12,1,female,child,545701,1,couple_with_child,,,2,Primaires
+1570,980293,21015A021,HOUFFALIZE (PLACE),980293,12,1,female,child,548165,1,couple_with_child,,,2,Primaires
+1571,982706,21015A021,HOUFFALIZE (PLACE),982706,12,1,female,parent,549081,4,single_with_child,,,2,Primaires
+1572,980013,21015A021,HOUFFALIZE (PLACE),980013,12,1,female,child,548065,1,couple_with_child,,,2,Primaires
+1573,986757,21015A30-,GRANDE RUE AU BOIS,986757,12,1,female,parent,550617,4,single_with_child,,,2,Primaires
+1574,984209,21015A30-,GRANDE RUE AU BOIS,984209,12,1,female,child,550165,4,single_with_child,,,2,Primaires
+1575,986377,21015A30-,GRANDE RUE AU BOIS,986377,12,1,female,child,551317,4,single_with_child,,,2,Primaires
+1576,984712,21015A30-,GRANDE RUE AU BOIS,984712,12,1,female,child,550357,1,couple_with_child,,,2,Primaires
+1577,988654,21015A32-,CONSOLATION (RUE DE LA),988654,12,1,female,child,552420,1,couple_with_child,,,2,Primaires
+1578,989907,21015A32-,CONSOLATION (RUE DE LA),989907,12,1,female,parent,551832,1,couple_with_child,,,2,Primaires
+1579,987687,21015A32-,CONSOLATION (RUE DE LA),987687,12,1,female,child,552026,1,couple_with_child,,,2,Primaires
+1580,993100,21015A64-,DUPLOYE SQUARE,993100,12,1,female,parent,553483,4,single_with_child,,,2,Primaires
+1581,991358,21015A64-,DUPLOYE SQUARE,991358,12,1,female,child,553790,1,couple_with_child,,,2,Primaires
+1582,991194,21015A64-,DUPLOYE SQUARE,991194,12,1,female,child,553742,4,single_with_child,,,2,Primaires
+1583,994122,21015A33-,BIENFAITEURS (PLACE DE),994122,12,1,female,child,555280,1,couple_with_child,,,2,Primaires
+1584,995849,21015A33-,BIENFAITEURS (PLACE DE),995849,12,1,female,parent,555469,4,single_with_child,,,2,Primaires
+1585,998222,21015A35-,JEAN STOBBAERTS (AVENUE),998222,12,1,female,parent,556456,1,couple_with_child,,,2,Primaires
+1586,996639,21015A35-,JEAN STOBBAERTS (AVENUE),996639,12,1,female,child,556611,1,couple_with_child,,,2,Primaires
+1587,998773,21015A53-,DAILLY (PLACE),998773,12,1,female,child,557819,4,single_with_child,,,2,Primaires
+1588,999794,21015A53-,DAILLY (PLACE),999794,12,1,female,child,558258,1,couple_with_child,,,2,Primaires
+1589,999180,21015A53-,DAILLY (PLACE),999180,12,1,female,child,557990,1,couple_with_child,,,2,Primaires
+1590,1004643,21015A54-,EMERAUDE (AVENUE),1004643,12,1,female,child,560895,4,single_with_child,,,2,Primaires
+1591,1004454,21015A54-,EMERAUDE (AVENUE),1004454,12,1,female,child,560814,4,single_with_child,,,2,Primaires
+1592,1003254,21015A54-,EMERAUDE (AVENUE),1003254,12,1,female,child,560283,1,couple_with_child,,,2,Primaires
+1593,1003715,21015A54-,EMERAUDE (AVENUE),1003715,12,1,female,child,560486,4,single_with_child,,,2,Primaires
+1594,1006920,21015A54-,EMERAUDE (AVENUE),1006920,12,1,female,child,562203,4,single_with_child,,,2,Primaires
+1595,1008510,21015A52-,LINTHOUT (RUE),1008510,12,1,female,child,563130,1,couple_with_child,,,2,Primaires
+1596,1008370,21015A52-,LINTHOUT (RUE),1008370,12,1,female,child,563064,1,couple_with_child,,,2,Primaires
+1597,1008794,21015A52-,LINTHOUT (RUE),1008794,12,1,female,child,563261,4,single_with_child,,,2,Primaires
+1598,1012394,21015A51-,CERISIERS (AVENUE DES),1012394,12,1,female,parent,564850,1,couple_with_child,,,2,Primaires
+1599,1011077,21015A51-,CERISIERS (AVENUE DES),1011077,12,1,female,child,564635,1,couple_with_child,,,2,Primaires
+1600,1016801,21015A05-,ROYALE SAINTE-MARIE (RUE),1016801,12,1,female,parent,566386,1,couple_with_child,,,2,Primaires
+1601,1016798,21015A05-,ROYALE SAINTE-MARIE (RUE),1016798,12,1,female,parent,566483,4,single_with_child,,,2,Primaires
+1602,1016805,21015A05-,ROYALE SAINTE-MARIE (RUE),1016805,12,1,female,parent,565992,1,couple_with_child,,,2,Primaires
+1603,1016806,21015A05-,ROYALE SAINTE-MARIE (RUE),1016806,12,1,female,parent,566300,4,single_with_child,,,2,Primaires
+1604,1019720,21015A12-,HUART HAMOIR (AVENUE),1019720,12,1,female,parent,568348,1,couple_with_child,,,2,Primaires
+1605,1018286,21015A12-,HUART HAMOIR (AVENUE),1018286,12,1,female,child,568308,1,couple_with_child,,,2,Primaires
+1606,1019718,21015A12-,HUART HAMOIR (AVENUE),1019718,12,1,female,parent,568164,1,couple_with_child,,,2,Primaires
+1607,1023314,21015A152,PR. ELISABETH-NORD,1023314,12,1,female,parent,570199,1,couple_with_child,,,2,Primaires
+1608,1023311,21015A152,PR. ELISABETH-NORD,1023311,12,1,female,parent,569880,1,couple_with_child,,,2,Primaires
+1609,1023318,21015A152,PR. ELISABETH-NORD,1023318,12,1,female,parent,569967,1,couple_with_child,,,2,Primaires
+1610,1021518,21015A152,PR. ELISABETH-NORD,1021518,12,1,female,child,569917,1,couple_with_child,,,2,Primaires
+1611,1025460,21015A101,GARE,1025460,12,1,female,parent,571338,1,couple_with_child,,,2,Primaires
+1612,1024227,21015A101,GARE,1024227,12,1,female,child,571353,1,couple_with_child,,,2,Primaires
+1613,1026324,21015A111,MAETERLINCK,1026324,12,1,female,child,572415,1,couple_with_child,,,2,Primaires
+1614,1028414,21015A111,MAETERLINCK,1028414,12,1,female,parent,572337,1,couple_with_child,,,2,Primaires
+1615,1028405,21015A111,MAETERLINCK,1028405,12,1,female,parent,572471,1,couple_with_child,,,2,Primaires
+1616,1029759,21015A622,BRUSILIA,1029759,12,1,female,child,574127,4,single_with_child,,,2,Primaires
+1617,1031546,21015A71-,JARDINS,1031546,12,1,female,child,575084,4,single_with_child,,,2,Primaires
+1618,1030670,21015A71-,JARDINS,1030670,12,1,female,child,574615,4,single_with_child,,,2,Primaires
+1619,1036474,21015A04-,L'OLIVIER (RUE),1036474,12,1,female,parent,575826,1,couple_with_child,,,2,Primaires
+1620,1036476,21015A04-,L'OLIVIER (RUE),1036476,12,1,female,parent,575639,1,couple_with_child,,,2,Primaires
+1621,1035901,21015A04-,L'OLIVIER (RUE),1035901,12,1,female,child,576998,4,single_with_child,,,2,Primaires
+1622,1033190,21015A04-,L'OLIVIER (RUE),1033190,12,1,female,child,575760,4,single_with_child,,,2,Primaires
+1623,1036472,21015A04-,L'OLIVIER (RUE),1036472,12,1,female,parent,575694,1,couple_with_child,,,2,Primaires
+1624,1037432,21015A421,PALAIS (RUE DE),1037432,12,1,female,child,577990,1,couple_with_child,,,2,Primaires
+1625,1038632,21015A421,PALAIS (RUE DE),1038632,12,1,female,child,578600,4,single_with_child,,,2,Primaires
+1626,1042553,21015A40-,BRABANT (RUE DE),1042553,12,1,female,parent,579072,1,couple_with_child,,,2,Primaires
+1627,1042555,21015A40-,BRABANT (RUE DE),1042555,12,1,female,parent,578990,4,single_with_child,,,2,Primaires
+1628,1040116,21015A40-,BRABANT (RUE DE),1040116,12,1,female,child,579367,4,single_with_child,,,2,Primaires
+1629,1040017,21015A40-,BRABANT (RUE DE),1040017,12,1,female,child,579327,1,couple_with_child,,,2,Primaires
+1630,1044701,21015A43-,GARE DU NORD,1044701,12,1,female,parent,581457,1,couple_with_child,,,2,Primaires
+1631,1044700,21015A43-,GARE DU NORD,1044700,12,1,female,parent,581476,1,couple_with_child,,,2,Primaires
+1632,1045458,21015A44-,REINE (AVENUE),1045458,12,1,female,child,582250,1,couple_with_child,,,2,Primaires
+1633,1045877,21015A44-,REINE (AVENUE),1045877,12,1,female,child,582393,4,single_with_child,,,2,Primaires
+1634,1045873,21015A44-,REINE (AVENUE),1045873,12,1,female,child,582392,4,single_with_child,,,2,Primaires
+1635,1046312,21015A44-,REINE (AVENUE),1046312,12,1,female,child,582542,1,couple_with_child,,,2,Primaires
+1636,1049478,21015A41-,VANDERLINDEN (RUE),1049478,12,1,female,child,584114,1,couple_with_child,,,2,Primaires
+1637,1049456,21015A41-,VANDERLINDEN (RUE),1049456,12,1,female,child,584104,1,couple_with_child,,,2,Primaires
+1638,1051472,21015A41-,VANDERLINDEN (RUE),1051472,12,1,female,child,585037,4,single_with_child,,,2,Primaires
+1639,1053364,21015A612,BRICHAUT (RUE DE),1053364,12,1,female,child,585993,1,couple_with_child,,,2,Primaires
+1640,1056230,21015A612,BRICHAUT (RUE DE),1056230,12,1,female,parent,586061,1,couple_with_child,,,2,Primaires
+1641,1053426,21015A612,BRICHAUT (RUE DE),1053426,12,1,female,child,586015,1,couple_with_child,,,2,Primaires
+1642,1056232,21015A612,BRICHAUT (RUE DE),1056232,12,1,female,parent,585588,1,couple_with_child,,,2,Primaires
+1643,1057269,21015A45-,STEPHENSON (PLACE),1057269,12,1,female,child,587985,1,couple_with_child,,,2,Primaires
+1644,1057267,21015A45-,STEPHENSON (PLACE),1057267,12,1,female,child,587985,1,couple_with_child,,,2,Primaires
+1645,1060315,21015A00-,COLIGNON (PLACE),1060315,12,1,female,child,589341,1,couple_with_child,,,2,Primaires
+1646,1065535,21015A00-,COLIGNON (PLACE),1065535,12,1,female,parent,589992,1,couple_with_child,,,2,Primaires
+1647,1059547,21015A00-,COLIGNON (PLACE),1059547,12,1,female,child,589077,1,couple_with_child,,,2,Primaires
+1648,1061289,21015A00-,COLIGNON (PLACE),1061289,12,1,female,child,589685,1,couple_with_child,,,2,Primaires
+1649,1060110,21015A00-,COLIGNON (PLACE),1060110,12,1,female,child,589266,1,couple_with_child,,,2,Primaires
+1650,1065539,21015A00-,COLIGNON (PLACE),1065539,12,1,female,parent,590388,1,couple_with_child,,,2,Primaires
+1651,1060341,21015A00-,COLIGNON (PLACE),1060341,12,1,female,child,589347,1,couple_with_child,,,2,Primaires
+1652,1066514,21015A01-,VAN YSENDYCK (RUE),1066514,12,1,female,child,592564,1,couple_with_child,,,2,Primaires
+1653,1070022,21015A24-,WAELHEM (RUE),1070022,12,1,female,parent,593372,1,couple_with_child,,,2,Primaires
+1654,1068019,21015A24-,WAELHEM (RUE),1068019,12,1,female,child,593282,1,couple_with_child,,,2,Primaires
+1655,1070024,21015A24-,WAELHEM (RUE),1070024,12,1,female,parent,593459,1,couple_with_child,,,2,Primaires
+1656,1070948,21015A13-,PORTAELS (RUE),1070948,12,1,female,child,594712,1,couple_with_child,,,2,Primaires
+1657,1072376,21015A13-,PORTAELS (RUE),1072376,12,1,female,parent,594976,1,couple_with_child,,,2,Primaires
+1658,1075937,21015A22-,MARBOTIN A. (RUE),1075937,12,1,female,parent,596382,1,couple_with_child,,,2,Primaires
+1659,1075936,21015A22-,MARBOTIN A. (RUE),1075936,12,1,female,parent,596188,1,couple_with_child,,,2,Primaires
+1660,1075934,21015A22-,MARBOTIN A. (RUE),1075934,12,1,female,parent,596884,4,single_with_child,,,2,Primaires
+1661,1075542,21015A22-,MARBOTIN A. (RUE),1075542,12,1,female,child,596878,4,single_with_child,,,2,Primaires
+1662,1077276,21015A231,J. BLOCKX (RUE),1077276,12,1,female,child,597935,1,couple_with_child,,,2,Primaires
+1663,1077108,21015A231,J. BLOCKX (RUE),1077108,12,1,female,child,597867,1,couple_with_child,,,2,Primaires
+1664,1083311,21015A20-,HELMET,1083311,12,1,female,child,600643,4,single_with_child,,,2,Primaires
+1665,1083395,21015A20-,HELMET,1083395,12,1,female,child,600674,4,single_with_child,,,2,Primaires
+1666,1080303,21015A20-,HELMET,1080303,12,1,female,child,599237,4,single_with_child,,,2,Primaires
+1667,1081235,21015A20-,HELMET,1081235,12,1,female,child,599520,1,couple_with_child,,,2,Primaires
+1668,1083383,21015A20-,HELMET,1083383,12,1,female,child,600668,4,single_with_child,,,2,Primaires
+1669,1080260,21015A20-,HELMET,1080260,12,1,female,child,599224,1,couple_with_child,,,2,Primaires
+1670,1086238,21015A21-,GUIDO GEZELLE (RUE),1086238,12,1,female,child,602310,4,single_with_child,,,2,Primaires
+1671,1086255,21015A21-,GUIDO GEZELLE (RUE),1086255,12,1,female,child,602316,4,single_with_child,,,2,Primaires
+1672,1087780,21016A901,CENTRE-OUEST,1087780,12,1,female,child,603212,1,couple_with_child,,,2,Primaires
+1673,1090392,21016A81-,BASCULE,1090392,12,1,female,child,604719,4,single_with_child,,,2,Primaires
+1674,1097751,21016A82-,CHURCHILL,1097751,12,1,female,child,609204,4,single_with_child,,,2,Primaires
+1675,1101461,21016A831,LONGCHAMP,1101461,12,1,female,child,611375,1,couple_with_child,,,2,Primaires
+1676,1107512,21016A85-,BRUGMANN,1107512,12,1,female,parent,614355,1,couple_with_child,,,2,Primaires
+1677,1111193,21016A03-,COGHEN,1111193,12,1,female,child,617151,4,single_with_child,,,2,Primaires
+1678,1112279,21016A02-,ALSEMBERG-NORD,1112279,12,1,female,child,617774,1,couple_with_child,,,2,Primaires
+1679,1119060,21016A933,VOSSEGAT-OUEST,1119060,12,1,female,child,621658,4,single_with_child,,,2,Primaires
+1680,1123171,21016A701,MERLO,1123171,12,1,female,child,624010,4,single_with_child,,,2,Primaires
+1681,1128572,21016A71-,KEIENBEMPT,1128572,12,1,female,parent,626398,1,couple_with_child,,,2,Primaires
+1682,1130932,21016A80-,VANDERKINDERE,1130932,12,1,female,child,628331,1,couple_with_child,,,2,Primaires
+1683,1135196,21016A64-,MOLENSTEEN,1135196,12,1,female,child,630747,4,single_with_child,,,2,Primaires
+1684,1136940,21016A05-,LE CHAT,1136940,12,1,female,child,631744,4,single_with_child,,,2,Primaires
+1685,1149694,21016A01-,DIEWEG,1149694,12,1,female,parent,636993,1,couple_with_child,,,2,Primaires
+1686,1154442,21016A00-,GLOBE-EST,1154442,12,1,female,child,641289,4,single_with_child,,,2,Primaires
+1687,1155678,21016A102,GROESELENBERG,1155678,12,1,female,child,641990,1,couple_with_child,,,2,Primaires
+1688,1158481,21016A12-,HAMOIR,1158481,12,1,female,child,643517,1,couple_with_child,,,2,Primaires
+1689,1161822,21016A44-,PECHERIE,1161822,12,1,female,child,645370,1,couple_with_child,,,2,Primaires
+1690,1165187,21016A400,SAINT-JOB,1165187,12,1,female,child,647461,4,single_with_child,,,2,Primaires
+1691,1173413,21016A639,HOMBORCH,1173413,12,1,female,child,651784,4,single_with_child,,,2,Primaires
+1692,1178323,21016A342,FOND,1178323,12,1,female,parent,653027,1,couple_with_child,,,2,Primaires
+1693,1184001,21017A11-,FLOREAL,1184001,12,1,female,child,657690,4,single_with_child,,,2,Primaires
+1694,1187376,21017A230,BEGUINETTES,1187376,12,1,female,parent,659205,1,couple_with_child,,,2,Primaires
+1695,1190593,21017A41-,AVENUE DE VISE,1190593,12,1,female,child,661371,4,single_with_child,,,2,Primaires
+1696,1192843,21017A523,MARTIN-PECHEUR,1192843,12,1,female,parent,661846,1,couple_with_child,,,2,Primaires
+1697,1197315,21017A01-,COIN DU BALAI,1197315,12,1,female,child,665399,1,couple_with_child,,,2,Primaires
+1698,1199475,21017A12-,LE LOGIS-NORD,1199475,12,1,female,child,666592,1,couple_with_child,,,2,Primaires
+1699,1203040,21017A212,AVENUE DE LA TENDERIE,1203040,12,1,female,child,668605,1,couple_with_child,,,2,Primaires
+1700,1206998,21017A451,FUTAIE,1206998,12,1,female,parent,670444,1,couple_with_child,,,2,Primaires
+1701,1209666,21018A20-,GEORGES HENRI (AVENUE),1209666,12,1,female,child,672340,4,single_with_child,,,2,Primaires
+1702,1212493,21018A72-,ROGATIONS,1212493,12,1,female,child,674000,1,couple_with_child,,,2,Primaires
+1703,1216037,21018A21-,DE BROQUEVILLE (AVENUE)-NORD,1216037,12,1,female,child,676194,4,single_with_child,,,2,Primaires
+1704,1221879,21018A311,PARC SCHUMAN,1221879,12,1,female,child,679500,1,couple_with_child,,,2,Primaires
+1705,1225855,21018A33-,NEERVELD,1225855,12,1,female,parent,681201,1,couple_with_child,,,2,Primaires
+1706,1226621,21018A22-,DE BROQUEVILLE (AVENUE)-SUD,1226621,12,1,female,child,682405,4,single_with_child,,,2,Primaires
+1707,1229789,21018A512,QUARTIER DES PEINTRES,1229789,12,1,female,child,684124,4,single_with_child,,,2,Primaires
+1708,1230572,21018A031,ABELOOS,1230572,12,1,female,child,684589,1,couple_with_child,,,2,Primaires
+1709,1233046,21018A04-,BEETEPUT,1233046,12,1,female,child,685895,1,couple_with_child,,,2,Primaires
+1710,1236582,21018A63-,CONSTELLATIONS,1236582,12,1,female,child,687858,1,couple_with_child,,,2,Primaires
+1711,1241348,21018A61-,HEYDENBERG-EST,1241348,12,1,female,parent,689447,1,couple_with_child,,,2,Primaires
+1712,1243028,21018A62-,HEYDENBERG-OUEST,1243028,12,1,female,child,691346,1,couple_with_child,,,2,Primaires
+1713,1247412,21018A24-,LAMBEAU (AVENUE),1247412,12,1,female,child,693822,4,single_with_child,,,2,Primaires
+1714,1251706,21018A643,DEUX MAISONS,1251706,12,1,female,child,696352,4,single_with_child,,,2,Primaires
+1715,1256093,21018A00-,TOMBERG,1256093,12,1,female,parent,698082,4,single_with_child,,,2,Primaires
+1716,1258223,21018A41-,EUROPE,1258223,12,1,female,child,700058,1,couple_with_child,,,2,Primaires
+1717,1269276,21018A3MJ,GULLEDELLE,1269276,12,1,female,child,706661,1,couple_with_child,,,2,Primaires
+1718,1298482,21019A32-,CHANT D'OISEAU,1298482,12,1,female,child,722561,4,single_with_child,,,2,Primaires
+1719,1306835,21019A10-,STOCKEL,1306835,12,1,female,child,727226,1,couple_with_child,,,2,Primaires
+1720,1313497,21019A40-,SAINTE-ALIX,1313497,12,1,female,child,730757,4,single_with_child,,,2,Primaires
