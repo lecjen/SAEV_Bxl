@@ -1,0 +1,144 @@
+,SectorStatID,SectorStatName,PersID,Age,GenderID,GenderName,ChildOrParent,HouseholdID,HouseholdTypeID,HouseholdTypeName,Code,Commune,WorkerID,WorkerType
+0,21001A43-,VAN BEETHOVEN,10939,11,0,male,child,5982,1,couple_with_child,21001A43-,Anderlecht,3,Secondaires
+1,21001A90-,SCHEUTKAPEL,71360,11,0,male,child,38489,1,couple_with_child,21001A90-,Anderlecht,3,Secondaires
+2,21001A90-,SCHEUTKAPEL,70927,11,0,male,child,38317,1,couple_with_child,21001A90-,Anderlecht,3,Secondaires
+3,21001B23-,CONSEIL-SUD,64187,11,0,male,parent,34323,1,couple_with_child,21001B23-,Anderlecht,3,Secondaires
+4,21001A02-,WAYEZ,122206,11,0,male,child,64469,1,couple_with_child,21001A02-,Anderlecht,3,Secondaires
+5,21001A92-,JAKOB SMITS,101597,11,0,male,child,53900,1,couple_with_child,21001A92-,Anderlecht,3,Secondaires
+6,21002A10-,TRANSVAAL,156309,11,0,male,child,82848,4,single_with_child,21002A10-,Auderghem,3,Secondaires
+7,21002A30-,TRIOMPHE (BOULEVARD DU),143720,11,0,male,parent,75314,1,couple_with_child,21002A30-,Auderghem,3,Secondaires
+8,21002A030,LAMMERENDRIES,151665,11,0,male,child,80336,1,couple_with_child,21002A030,Auderghem,3,Secondaires
+9,21003A05-,DE SELLIERS DE MORANVILLE,183394,11,0,male,child,96717,4,single_with_child,21003A05-,Berchem Sainte-Agathe,3,Secondaires
+10,21004E72-,MAISON ROUGE (PLACE)-SUD,336273,11,0,male,child,183681,1,couple_with_child,21004E72-,Bruxelles,3,Secondaires
+11,21004E72-,MAISON ROUGE (PLACE)-SUD,338181,11,0,male,child,184303,1,couple_with_child,21004E72-,Bruxelles,3,Secondaires
+12,21004F531,RUE DES FAINES,231130,11,0,male,child,124169,1,couple_with_child,21004F531,Bruxelles,3,Secondaires
+13,21004D62-,ANVERS (CHAUSSEE D')-NORD,343440,11,0,male,child,187202,1,couple_with_child,21004D62-,Bruxelles,3,Secondaires
+14,21004E800,DIVIN JESUS,355677,11,0,male,child,193547,1,couple_with_child,21004E800,Bruxelles,3,Secondaires
+15,21004A70-,BLAES (RUE)-SUD,251950,11,0,male,child,135578,1,couple_with_child,21004A70-,Bruxelles,3,Secondaires
+16,21004D610,ANVERS (CHAUSSEE D')-SUD,380229,11,0,male,child,207066,4,single_with_child,21004D610,Bruxelles,3,Secondaires
+17,21004E101,PARVIS NOTRE DAME,358630,11,0,male,child,195004,1,couple_with_child,21004E101,Bruxelles,3,Secondaires
+18,21004E74-,EM. DELVA (RUE),309836,11,0,male,child,170682,4,single_with_child,21004E74-,Bruxelles,3,Secondaires
+19,21004G30-,SAINTE-ELISABETH,204438,11,0,male,child,108026,1,couple_with_child,21004G30-,Bruxelles,3,Secondaires
+20,21005A22-,PORTE DE TERVUEREN - L. DE LAN,434830,11,0,male,child,238539,1,couple_with_child,21005A22-,Etterbeek,3,Secondaires
+21,21005A10-,GENERAL HENRI (RUE),384380,11,0,male,child,209208,4,single_with_child,21005A10-,Etterbeek,3,Secondaires
+22,21006A201,HAUT-EVERE,448571,11,0,male,child,246370,1,couple_with_child,21006A201,Evere,3,Secondaires
+23,21006A323,GERMINAL II,480521,11,0,male,child,263016,4,single_with_child,21006A323,Evere,3,Secondaires
+24,21006A22-,SAINT-EXUPERY,470807,11,0,male,child,258200,1,couple_with_child,21006A22-,Evere,3,Secondaires
+25,21007A53-,WIELEMANS CEUPPENS,491966,11,0,male,child,269340,4,single_with_child,21007A53-,Forest,3,Secondaires
+26,21007A51-,CHATAIGNE,498019,11,0,male,parent,272236,1,couple_with_child,21007A51-,Forest,3,Secondaires
+27,21009A34-,STADE COMMUNAL,543797,11,0,male,parent,298466,1,couple_with_child,21009A34-,Ixelles,3,Secondaires
+28,21009A73-,BERCKENDAEL,590151,11,0,male,child,328223,4,single_with_child,21009A73-,Ixelles,3,Secondaires
+29,21009A53-,LONDRES (PLACE DE),579453,11,0,male,child,321288,1,couple_with_child,21009A53-,Ixelles,3,Secondaires
+30,21009A612,LIEGEOIS (RUE),584483,11,0,male,child,324521,4,single_with_child,21009A612,Ixelles,3,Secondaires
+31,21009A34-,STADE COMMUNAL,543798,11,0,male,parent,298476,1,couple_with_child,21009A34-,Ixelles,3,Secondaires
+32,21009A22-,UNIVERSITE,575340,11,0,male,child,318718,1,couple_with_child,21009A22-,Ixelles,3,Secondaires
+33,21010A121,F. MOHRFELD (RUE DE),604483,11,0,male,child,335863,4,single_with_child,21010A121,Jette,3,Secondaires
+34,21010A03-,MIROIR,598558,11,0,male,child,332956,1,couple_with_child,21010A03-,Jette,3,Secondaires
+35,21010A05-,ALBERT (QUARTIER),615658,11,0,male,child,341415,1,couple_with_child,21010A05-,Jette,3,Secondaires
+36,21011A30-,ARCHERS - FOUREZ,653074,11,0,male,child,360391,1,couple_with_child,21011A30-,Koekelberg,3,Secondaires
+37,21012A72-,LAVALLEE,725381,11,0,male,parent,396630,4,single_with_child,21012A72-,Molenbeek Saint-Jean,3,Secondaires
+38,21012A72-,LAVALLEE,723386,11,0,male,child,395961,4,single_with_child,21012A72-,Molenbeek Saint-Jean,3,Secondaires
+39,21012A11-,INDUSTRIE,770143,11,0,male,child,420057,1,couple_with_child,21012A11-,Molenbeek Saint-Jean,3,Secondaires
+40,21012A53-,SIPPELBERG,727491,11,0,male,parent,397939,1,couple_with_child,21012A53-,Molenbeek Saint-Jean,3,Secondaires
+41,21012A13-,BIRMINGHAM-NORD,699094,11,0,male,child,384042,1,couple_with_child,21012A13-,Molenbeek Saint-Jean,3,Secondaires
+42,21012A24-,OSSEGHEM,679014,11,0,male,child,373528,4,single_with_child,21012A24-,Molenbeek Saint-Jean,3,Secondaires
+43,21013A22-,REGIES,805934,11,0,male,child,439910,1,couple_with_child,21013A22-,Saint-Gilles,3,Secondaires
+44,21013A121,GUILLAUME TELL-SUD,783405,11,0,male,parent,426854,4,single_with_child,21013A121,Saint-Gilles,3,Secondaires
+45,21014A04-,HAECHT (CHAUSSEE DE),848990,11,0,male,parent,463202,1,couple_with_child,21014A04-,Saint-Josse-ten-Noode,3,Secondaires
+46,21015A421,PALAIS (RUE DE),948994,11,0,male,child,516047,4,single_with_child,21015A421,Schaerbeek,3,Secondaires
+47,21015A03-,JOSAPHAT (RUE),891008,11,0,male,parent,485054,4,single_with_child,21015A03-,Schaerbeek,3,Secondaires
+48,21015A021,HOUFFALIZE (PLACE),892797,11,0,male,child,487549,4,single_with_child,21015A021,Schaerbeek,3,Secondaires
+49,21015A40-,BRABANT (RUE DE),951865,11,0,male,child,517505,4,single_with_child,21015A40-,Schaerbeek,3,Secondaires
+50,21015A152,PR. ELISABETH-NORD,933284,11,0,male,child,508344,1,couple_with_child,21015A152,Schaerbeek,3,Secondaires
+51,21015A32-,CONSOLATION (RUE DE LA),900023,11,0,male,child,491278,1,couple_with_child,21015A32-,Schaerbeek,3,Secondaires
+52,21015A24-,WAELHEM (RUE),980942,11,0,male,parent,530234,4,single_with_child,21015A24-,Schaerbeek,3,Secondaires
+53,21015A152,PR. ELISABETH-NORD,932492,11,0,male,child,508086,1,couple_with_child,21015A152,Schaerbeek,3,Secondaires
+54,21016A410,ALPHONSE XIII,1077969,11,0,male,child,584101,1,couple_with_child,21016A410,Uccle,3,Secondaires
+55,21016A82-,CHURCHILL,1004438,11,0,male,child,543499,4,single_with_child,21016A82-,Uccle,3,Secondaires
+56,21016A81-,BASCULE,1001804,11,0,male,child,541703,1,couple_with_child,21016A81-,Uccle,3,Secondaires
+57,21016A831,LONGCHAMP,1012183,11,0,male,child,547774,1,couple_with_child,21016A831,Uccle,3,Secondaires
+58,21016A311,FORT JACO,1087233,11,0,male,child,589022,1,couple_with_child,21016A311,Uccle,3,Secondaires
+59,21017A512,VANDER ELST - BIEN FAIRE,1088521,11,0,male,child,589766,1,couple_with_child,21017A512,Watermael-Boitsfort,3,Secondaires
+60,21017A443,VILLE-ET-FORET - ELAN,1096527,11,0,male,parent,593952,1,couple_with_child,21017A443,Watermael-Boitsfort,3,Secondaires
+61,21017A212,AVENUE DE LA TENDERIE,1110057,11,0,male,child,602205,1,couple_with_child,21017A212,Watermael-Boitsfort,3,Secondaires
+62,21018A13-,GROOTVELD,1169121,11,0,male,parent,635548,1,couple_with_child,21018A13-,Woluwe Saint-Lambert,3,Secondaires
+63,21018A24-,LAMBEAU (AVENUE),1152014,11,0,male,child,625662,1,couple_with_child,21018A24-,Woluwe Saint-Lambert,3,Secondaires
+64,21018A24-,LAMBEAU (AVENUE),1152238,11,0,male,child,625752,1,couple_with_child,21018A24-,Woluwe Saint-Lambert,3,Secondaires
+65,21019A02-,CLOS DU SOLEIL,1190990,11,0,male,child,648171,1,couple_with_child,21019A02-,Woluwe Saint-Pierre,3,Secondaires
+66,21019A45-,HELICE (AVENUE DE L'),1184532,11,0,male,child,644520,1,couple_with_child,21019A45-,Woluwe Saint-Pierre,3,Secondaires
+67,21019A131,KONKEL,1182294,11,0,male,child,643387,4,single_with_child,21019A131,Woluwe Saint-Pierre,3,Secondaires
+68,21001A332,ROUE,9846,11,1,female,child,5359,4,single_with_child,21001A332,Anderlecht,3,Secondaires
+69,21001A10-,PORSELEIN,115836,11,1,female,child,61307,4,single_with_child,21001A10-,Anderlecht,3,Secondaires
+70,21001A451,VENIZELOS,41626,11,1,female,child,22856,1,couple_with_child,21001A451,Anderlecht,3,Secondaires
+71,21001A72-,OSSEGEM,82521,11,1,female,parent,43109,1,couple_with_child,21001A72-,Anderlecht,3,Secondaires
+72,21001A90-,SCHEUTKAPEL,72138,11,1,female,parent,38205,1,couple_with_child,21001A90-,Anderlecht,3,Secondaires
+73,21001A32-,AURORE,13957,11,1,female,child,7699,1,couple_with_child,21001A32-,Anderlecht,3,Secondaires
+74,21002A441,CHANT D'OISEAUX,138652,11,1,female,child,73119,1,couple_with_child,21002A441,Auderghem,3,Secondaires
+75,21002A43-,SOUVERAIN (BOULEVARD DU) NORD,159137,11,1,female,child,84361,1,couple_with_child,21002A43-,Auderghem,3,Secondaires
+76,21002A23-,TH. BALIS (PLACE),132401,11,1,female,child,69872,1,couple_with_child,21002A23-,Auderghem,3,Secondaires
+77,21003A312,POTAARDE  VLAK,163547,11,1,female,child,86572,1,couple_with_child,21003A312,Berchem Sainte-Agathe,3,Secondaires
+78,21003A212,CLOS DU ZAVELENBERG,177738,11,1,female,parent,93865,1,couple_with_child,21003A212,Berchem Sainte-Agathe,3,Secondaires
+79,21004A04-,NOTRE-DAME DE LA CHAPELLE,272926,11,1,female,child,148955,1,couple_with_child,21004A04-,Bruxelles,3,Secondaires
+80,21004E72-,MAISON ROUGE (PLACE)-SUD,335650,11,1,female,child,183481,1,couple_with_child,21004E72-,Bruxelles,3,Secondaires
+81,21004G30-,SAINTE-ELISABETH,202645,11,1,female,child,107487,1,couple_with_child,21004G30-,Bruxelles,3,Secondaires
+82,21004F922,RUE CHATEAU BEYAERD,239709,11,1,female,parent,127421,1,couple_with_child,21004F922,Bruxelles,3,Secondaires
+83,21004E14-,ECOLE DES CADETS,364597,11,1,female,child,198470,4,single_with_child,21004E14-,Bruxelles,3,Secondaires
+84,21004E12-,PRINCE LEOPOLD (SQUARE),353691,11,1,female,parent,190436,1,couple_with_child,21004E12-,Bruxelles,3,Secondaires
+85,21004A811,QUAI DU COMMERCE,362340,11,1,female,parent,196241,1,couple_with_child,21004A811,Bruxelles,3,Secondaires
+86,21004A03-,BON SECOURS - PALAIS DU MIDI,256389,11,1,female,child,138117,1,couple_with_child,21004A03-,Bruxelles,3,Secondaires
+87,21004B43-,AMBIORIX-NORD (SQUARE),219028,11,1,female,child,116697,1,couple_with_child,21004B43-,Bruxelles,3,Secondaires
+88,21004E201,AVENUE JEAN DE BOLOGNE,316037,11,1,female,child,173991,1,couple_with_child,21004E201,Bruxelles,3,Secondaires
+89,21005A00-,HOTEL COMMUNAL,424081,11,1,female,child,232073,1,couple_with_child,21005A00-,Etterbeek,3,Secondaires
+90,21005A12-,SAINT-ANTOINE,430161,11,1,female,child,235475,4,single_with_child,21005A12-,Etterbeek,3,Secondaires
+91,21005A042,PH. BAUCQ (RUE),390646,11,1,female,child,212730,4,single_with_child,21005A042,Etterbeek,3,Secondaires
+92,21005A00-,HOTEL COMMUNAL,424581,11,1,female,child,232289,1,couple_with_child,21005A00-,Etterbeek,3,Secondaires
+93,21006A515,CARLI,443616,11,1,female,child,243645,1,couple_with_child,21006A515,Evere,3,Secondaires
+94,21006A474,COMMUNAUTES,447382,11,1,female,child,245619,4,single_with_child,21006A474,Evere,3,Secondaires
+95,21007A201,ROOSENDAEL (RUE),483724,11,1,female,child,264798,4,single_with_child,21007A201,Forest,3,Secondaires
+96,21007A201,ROOSENDAEL (RUE),484585,11,1,female,child,265190,1,couple_with_child,21007A201,Forest,3,Secondaires
+97,21007A242,GLOBE,486859,11,1,female,parent,266503,1,couple_with_child,21007A242,Forest,3,Secondaires
+98,21009A53-,LONDRES (PLACE DE),582214,11,1,female,parent,321511,1,couple_with_child,21009A53-,Ixelles,3,Secondaires
+99,21009A03-,ERMITAGE,524410,11,1,female,child,286699,4,single_with_child,21009A03-,Ixelles,3,Secondaires
+100,21009A01-,BLYCKAERTS,571809,11,1,female,child,316488,1,couple_with_child,21009A01-,Ixelles,3,Secondaires
+101,21009A21-,ETE,544112,11,1,female,child,298909,4,single_with_child,21009A21-,Ixelles,3,Secondaires
+102,21010A00-,CENTRE,627948,11,1,female,child,347713,1,couple_with_child,21010A00-,Jette,3,Secondaires
+103,21010A1AJ,ARBRE BALLON,610407,11,1,female,child,339112,1,couple_with_child,21010A1AJ,Jette,3,Secondaires
+104,21010A02-,LEOPOLD I,646818,11,1,female,child,357276,1,couple_with_child,21010A02-,Jette,3,Secondaires
+105,21010A04-,NOTRE-DAME DE LOURDES,595496,11,1,female,child,331226,4,single_with_child,21010A04-,Jette,3,Secondaires
+106,21011A12-,BASILIQUE,671320,11,1,female,child,369508,1,couple_with_child,21011A12-,Koekelberg,3,Secondaires
+107,21012A41-,MOORTEBEEK,758747,11,1,female,parent,413767,1,couple_with_child,21012A41-,Molenbeek Saint-Jean,3,Secondaires
+108,21012A60-,LAEKENVELD,708684,11,1,female,parent,387190,1,couple_with_child,21012A60-,Molenbeek Saint-Jean,3,Secondaires
+109,21012A10-,DUCHESSE DE BRABANT,690926,11,1,female,child,379758,1,couple_with_child,21012A10-,Molenbeek Saint-Jean,3,Secondaires
+110,21012A152,ETANGS NOIRS,743347,11,1,female,child,405901,4,single_with_child,21012A152,Molenbeek Saint-Jean,3,Secondaires
+111,21012A71-,PIERS,735630,11,1,female,child,402063,4,single_with_child,21012A71-,Molenbeek Saint-Jean,3,Secondaires
+112,21013A201,ANGLETERRE (RUE D'),794997,11,1,female,child,433696,1,couple_with_child,21013A201,Saint-Gilles,3,Secondaires
+113,21013A422,CRICKX (RUE),785147,11,1,female,child,428111,1,couple_with_child,21013A422,Saint-Gilles,3,Secondaires
+114,21014A00-,PLACE SAINT-JOSSE,829618,11,1,female,child,454298,1,couple_with_child,21014A00-,Saint-Josse-ten-Noode,3,Secondaires
+115,21015A12-,HUART HAMOIR (AVENUE),929765,11,1,female,child,506706,1,couple_with_child,21015A12-,Schaerbeek,3,Secondaires
+116,21015A32-,CONSOLATION (RUE DE LA),898895,11,1,female,child,490837,1,couple_with_child,21015A32-,Schaerbeek,3,Secondaires
+117,21015A22-,MARBOTIN A. (RUE),986803,11,1,female,parent,533582,1,couple_with_child,21015A22-,Schaerbeek,3,Secondaires
+118,21015A41-,VANDERLINDEN (RUE),959827,11,1,female,child,521585,4,single_with_child,21015A41-,Schaerbeek,3,Secondaires
+119,21015A50-,OPALE,859345,11,1,female,child,469899,1,couple_with_child,21015A50-,Schaerbeek,3,Secondaires
+120,21015A41-,VANDERLINDEN (RUE),961532,11,1,female,child,522129,1,couple_with_child,21015A41-,Schaerbeek,3,Secondaires
+121,21015A622,BRUSILIA,940384,11,1,female,child,511943,1,couple_with_child,21015A622,Schaerbeek,3,Secondaires
+122,21015A20-,HELMET,990691,11,1,female,child,536216,1,couple_with_child,21015A20-,Schaerbeek,3,Secondaires
+123,21016A81-,BASCULE,1001846,11,1,female,child,541724,1,couple_with_child,21016A81-,Uccle,3,Secondaires
+124,21016A701,MERLO,1032766,11,1,female,child,559512,4,single_with_child,21016A701,Uccle,3,Secondaires
+125,21016A05-,LE CHAT,1045802,11,1,female,child,566789,4,single_with_child,21016A05-,Uccle,3,Secondaires
+126,21016A102,GROESELENBERG,1065767,11,1,female,parent,576901,1,couple_with_child,21016A102,Uccle,3,Secondaires
+127,21016A521,VERREWINKEL,1082825,11,1,female,parent,586652,1,couple_with_child,21016A521,Uccle,3,Secondaires
+128,21016A933,VOSSEGAT-OUEST,1029374,11,1,female,child,557596,1,couple_with_child,21016A933,Uccle,3,Secondaires
+129,21016A82-,CHURCHILL,1006030,11,1,female,child,544266,1,couple_with_child,21016A82-,Uccle,3,Secondaires
+130,21017A000,CENTRE DE BOITSFORT,1111386,11,1,female,child,602998,4,single_with_child,21017A000,Watermael-Boitsfort,3,Secondaires
+131,21017A01-,COIN DU BALAI,1105169,11,1,female,child,599398,4,single_with_child,21017A01-,Watermael-Boitsfort,3,Secondaires
+132,21017A635,PRINCES BRABANCONS,1090682,11,1,female,parent,590902,1,couple_with_child,21017A635,Watermael-Boitsfort,3,Secondaires
+133,21018A15-,LES SOURCES,1167086,11,1,female,child,634610,1,couple_with_child,21018A15-,Woluwe Saint-Lambert,3,Secondaires
+134,21018A83-,KLAKKEDELLE,1171698,11,1,female,child,637296,1,couple_with_child,21018A83-,Woluwe Saint-Lambert,3,Secondaires
+135,21018A20-,GEORGES HENRI (AVENUE),1116938,11,1,female,child,606031,1,couple_with_child,21018A20-,Woluwe Saint-Lambert,3,Secondaires
+136,21018A21-,DE BROQUEVILLE (AVENUE)-NORD,1123384,11,1,female,child,609866,1,couple_with_child,21018A21-,Woluwe Saint-Lambert,3,Secondaires
+137,21018A24-,LAMBEAU (AVENUE),1152599,11,1,female,child,625899,1,couple_with_child,21018A24-,Woluwe Saint-Lambert,3,Secondaires
+138,21018A031,ABELOOS,1137426,11,1,female,child,617786,1,couple_with_child,21018A031,Woluwe Saint-Lambert,3,Secondaires
+139,21019A43-,CORNICHE VERTE,1223421,11,1,female,parent,665647,1,couple_with_child,21019A43-,Woluwe Saint-Pierre,3,Secondaires
+140,21019A34-,EUROPE (QUARTIER DE L'),1194324,11,1,female,child,650047,4,single_with_child,21019A34-,Woluwe Saint-Pierre,3,Secondaires
+141,21019A10-,STOCKEL,1210290,11,1,female,child,658653,1,couple_with_child,21019A10-,Woluwe Saint-Pierre,3,Secondaires
+142,21019A35-,HORIZON (AVENUE),1205493,11,1,female,child,655979,1,couple_with_child,21019A35-,Woluwe Saint-Pierre,3,Secondaires

@@ -1,0 +1,75 @@
+,SectorStatID,SectorStatName,PersID,Age,GenderID,GenderName,ChildOrParent,HouseholdID,HouseholdTypeID,HouseholdTypeName,Code_x,Commune_x,Code_y,Name,Commune_y,WorkerID,WorkerType
+0,21001A43-,VAN BEETHOVEN,10990,18,1,female,child,6003,4,single_with_child,21001A43-,Anderlecht,21001A43-,VAN BEETHOVEN,Anderlecht,7,StayHome
+1,21001C70-,BON AIR - CENTRE,24248,18,1,female,parent,13411,5,colloc,21001C70-,Anderlecht,21001C70-,BON AIR - CENTRE,Anderlecht,7,StayHome
+2,21006A23-,DU BONHEUR,454505,18,1,female,parent,249245,2,couple_no_child,21006A23-,Evere,21006A23-,DU BONHEUR,Evere,7,StayHome
+3,21007A101,BOURGOGNE,510623,18,1,female,child,279086,1,couple_with_child,21007A101,Forest,21007A101,BOURGOGNE,Forest,7,StayHome
+4,21010A04-,NOTRE-DAME DE LOURDES,595732,18,1,female,child,331316,1,couple_with_child,21010A04-,Jette,21010A04-,NOTRE-DAME DE LOURDES,Jette,7,StayHome
+5,21016A111,VERT CHASSEUR,1014244,18,1,female,parent,548917,2,couple_no_child,21016A111,Uccle,21016A111,VERT CHASSEUR,Uccle,7,StayHome
+6,21001A041,VEEWEYDE-SUD,2176,18,0,male,parent,861,1,couple_with_child,21001A041,Anderlecht,21001A041,VEEWEYDE-SUD,Anderlecht,7,StayHome
+7,21001A451,VENIZELOS,41452,18,0,male,child,22791,1,couple_with_child,21001A451,Anderlecht,21001A451,VENIZELOS,Anderlecht,7,StayHome
+8,21001A74-,SCHEUT-OUEST,97577,18,0,male,child,52028,1,couple_with_child,21001A74-,Anderlecht,21001A74-,SCHEUT-OUEST,Anderlecht,7,StayHome
+9,21001A041,VEEWEYDE-SUD,2046,18,0,male,parent,817,1,couple_with_child,21001A041,Anderlecht,21001A041,VEEWEYDE-SUD,Anderlecht,7,StayHome
+10,21001A152,LINDE-OUEST,121382,18,0,male,parent,64001,1,couple_with_child,21001A152,Anderlecht,21001A152,LINDE-OUEST,Anderlecht,7,StayHome
+11,21001A120,MINIMES,118239,18,0,male,child,62380,1,couple_with_child,21001A120,Anderlecht,21001A120,MINIMES,Anderlecht,7,StayHome
+12,21001A90-,SCHEUTKAPEL,71087,18,0,male,child,38386,1,couple_with_child,21001A90-,Anderlecht,21001A90-,SCHEUTKAPEL,Anderlecht,7,StayHome
+13,21001A941,CROCUS,68524,18,0,male,child,37044,1,couple_with_child,21001A941,Anderlecht,21001A941,CROCUS,Anderlecht,7,StayHome
+14,21001B21-,BROGNIEZ-NORD,91479,18,0,male,parent,49051,3,single,21001B21-,Anderlecht,21001B21-,BROGNIEZ-NORD,Anderlecht,7,StayHome
+15,21001A152,LINDE-OUEST,121278,18,0,male,parent,63962,1,couple_with_child,21001A152,Anderlecht,21001A152,LINDE-OUEST,Anderlecht,7,StayHome
+16,21001C512,CHANTS D'OISEAUX,35719,18,0,male,parent,19435,2,couple_no_child,21001C512,Anderlecht,21001C512,CHANTS D'OISEAUX,Anderlecht,7,StayHome
+17,21001A112,BIESTEBROEK,123551,18,0,male,child,65219,4,single_with_child,21001A112,Anderlecht,21001A112,BIESTEBROEK,Anderlecht,7,StayHome
+18,21001B21-,BROGNIEZ-NORD,90901,18,0,male,parent,48520,1,couple_with_child,21001B21-,Anderlecht,21001B21-,BROGNIEZ-NORD,Anderlecht,7,StayHome
+19,21001B20-,CONSEIL-NORD,60739,18,0,male,parent,32525,1,couple_with_child,21001B20-,Anderlecht,21001B20-,CONSEIL-NORD,Anderlecht,7,StayHome
+20,21001A472,STADE COMMUNAL - INDUSTRIE,3477,18,0,male,parent,1699,1,couple_with_child,21001A472,Anderlecht,21001A472,STADE COMMUNAL - INDUSTRIE,Anderlecht,7,StayHome
+21,21001A00-,RESISTANCE,103585,18,0,male,child,55050,1,couple_with_child,21001A00-,Anderlecht,21001A00-,RESISTANCE,Anderlecht,7,StayHome
+22,21001B22-,BROGNIEZ-SUD,54260,18,0,male,parent,29717,2,couple_no_child,21001B22-,Anderlecht,21001B22-,BROGNIEZ-SUD,Anderlecht,7,StayHome
+23,21001A51-,SCHERDEMAEL,22678,18,0,male,parent,12489,3,single,21001A51-,Anderlecht,21001A51-,SCHERDEMAEL,Anderlecht,7,StayHome
+24,21001A472,STADE COMMUNAL - INDUSTRIE,3613,18,0,male,parent,1807,3,single,21001A472,Anderlecht,21001A472,STADE COMMUNAL - INDUSTRIE,Anderlecht,7,StayHome
+25,21001C70-,BON AIR - CENTRE,24241,18,0,male,parent,13410,3,single,21001C70-,Anderlecht,21001C70-,BON AIR - CENTRE,Anderlecht,7,StayHome
+26,21001A31-,CHAUSSEE DE MONS - SAINT-LUC,50816,18,0,male,child,28001,1,couple_with_child,21001A31-,Anderlecht,21001A31-,CHAUSSEE DE MONS - SAINT-LUC,Anderlecht,7,StayHome
+27,21001B20-,CONSEIL-NORD,58064,18,0,male,child,31654,1,couple_with_child,21001B20-,Anderlecht,21001B20-,CONSEIL-NORD,Anderlecht,7,StayHome
+28,21001A34-,ROUE - CITE JARDIN,29312,18,0,male,child,15943,1,couple_with_child,21001A34-,Anderlecht,21001A34-,ROUE - CITE JARDIN,Anderlecht,7,StayHome
+29,21001A503,VIVES,8495,18,0,male,parent,4598,1,couple_with_child,21001A503,Anderlecht,21001A503,VIVES,Anderlecht,7,StayHome
+30,21001B20-,CONSEIL-NORD,61621,18,0,male,parent,33267,3,single,21001B20-,Anderlecht,21001B20-,CONSEIL-NORD,Anderlecht,7,StayHome
+31,21001A441,DOCTEUR ROUX,34112,18,0,male,parent,18491,3,single,21001A441,Anderlecht,21001A441,DOCTEUR ROUX,Anderlecht,7,StayHome
+32,21001A90-,SCHEUTKAPEL,70360,18,0,male,child,38091,1,couple_with_child,21001A90-,Anderlecht,21001A90-,SCHEUTKAPEL,Anderlecht,7,StayHome
+33,21001A95-,BUFFON,108654,18,0,male,parent,57329,1,couple_with_child,21001A95-,Anderlecht,21001A95-,BUFFON,Anderlecht,7,StayHome
+34,21001A95-,BUFFON,108482,18,0,male,parent,57283,1,couple_with_child,21001A95-,Anderlecht,21001A95-,BUFFON,Anderlecht,7,StayHome
+35,21001A911,SCHEUT-EST,92340,18,0,male,child,49668,1,couple_with_child,21001A911,Anderlecht,21001A911,SCHEUT-EST,Anderlecht,7,StayHome
+36,21001A74-,SCHEUT-OUEST,98571,18,0,male,parent,52486,3,single,21001A74-,Anderlecht,21001A74-,SCHEUT-OUEST,Anderlecht,7,StayHome
+37,21001A32-,AURORE,15312,18,0,male,child,8285,4,single_with_child,21001A32-,Anderlecht,21001A32-,AURORE,Anderlecht,7,StayHome
+38,21001A00-,RESISTANCE,104977,18,0,male,parent,55551,1,couple_with_child,21001A00-,Anderlecht,21001A00-,RESISTANCE,Anderlecht,7,StayHome
+39,21001A95-,BUFFON,108719,18,0,male,parent,57367,2,couple_no_child,21001A95-,Anderlecht,21001A95-,BUFFON,Anderlecht,7,StayHome
+40,21001A72-,OSSEGEM,81720,18,0,male,parent,43818,1,couple_with_child,21001A72-,Anderlecht,21001A72-,OSSEGEM,Anderlecht,7,StayHome
+41,21001A32-,AURORE,14778,18,0,male,child,8047,1,couple_with_child,21001A32-,Anderlecht,21001A32-,AURORE,Anderlecht,7,StayHome
+42,21001A92-,JAKOB SMITS,100923,18,0,male,child,53662,1,couple_with_child,21001A92-,Anderlecht,21001A92-,JAKOB SMITS,Anderlecht,7,StayHome
+43,21001B25-,REVISION-NORD,75176,18,0,male,child,40636,1,couple_with_child,21001B25-,Anderlecht,21001B25-,REVISION-NORD,Anderlecht,7,StayHome
+44,21001B10-,ROSEE-EST,111296,18,0,male,parent,58570,2,couple_no_child,21001B10-,Anderlecht,21001B10-,ROSEE-EST,Anderlecht,7,StayHome
+45,21001A451,VENIZELOS,41521,18,0,male,child,22817,1,couple_with_child,21001A451,Anderlecht,21001A451,VENIZELOS,Anderlecht,7,StayHome
+46,21001A34-,ROUE - CITE JARDIN,30072,18,0,male,parent,16189,1,couple_with_child,21001A34-,Anderlecht,21001A34-,ROUE - CITE JARDIN,Anderlecht,7,StayHome
+47,21001A95-,BUFFON,108949,18,0,male,parent,57597,3,single,21001A95-,Anderlecht,21001A95-,BUFFON,Anderlecht,7,StayHome
+48,21001A00-,RESISTANCE,105438,18,0,male,parent,55956,3,single,21001A00-,Anderlecht,21001A00-,RESISTANCE,Anderlecht,7,StayHome
+49,21001B21-,BROGNIEZ-NORD,90895,18,0,male,parent,48518,1,couple_with_child,21001B21-,Anderlecht,21001B21-,BROGNIEZ-NORD,Anderlecht,7,StayHome
+50,21001A51-,SCHERDEMAEL,22439,18,0,male,parent,12260,1,couple_with_child,21001A51-,Anderlecht,21001A51-,SCHERDEMAEL,Anderlecht,7,StayHome
+51,21001A92-,JAKOB SMITS,102186,18,0,male,parent,54083,1,couple_with_child,21001A92-,Anderlecht,21001A92-,JAKOB SMITS,Anderlecht,7,StayHome
+52,21001B20-,CONSEIL-NORD,58930,18,0,male,child,31942,1,couple_with_child,21001B20-,Anderlecht,21001B20-,CONSEIL-NORD,Anderlecht,7,StayHome
+53,21001B11-,ROSEE-OUEST,78905,18,0,male,parent,42526,3,single,21001B11-,Anderlecht,21001B11-,ROSEE-OUEST,Anderlecht,7,StayHome
+54,21001A32-,AURORE,16053,18,0,male,parent,8574,1,couple_with_child,21001A32-,Anderlecht,21001A32-,AURORE,Anderlecht,7,StayHome
+55,21001B11-,ROSEE-OUEST,78443,18,0,male,child,42297,1,couple_with_child,21001B11-,Anderlecht,21001B11-,ROSEE-OUEST,Anderlecht,7,StayHome
+56,21001A84-,POESIE,28076,18,0,male,parent,15306,1,couple_with_child,21001A84-,Anderlecht,21001A84-,POESIE,Anderlecht,7,StayHome
+57,21001A911,SCHEUT-EST,93815,18,0,male,parent,50176,1,couple_with_child,21001A911,Anderlecht,21001A911,SCHEUT-EST,Anderlecht,7,StayHome
+58,21001A90-,SCHEUTKAPEL,70584,18,0,male,child,38179,1,couple_with_child,21001A90-,Anderlecht,21001A90-,SCHEUTKAPEL,Anderlecht,7,StayHome
+59,21004A35-,AD. MAX (BOULEVARD),228035,18,0,male,parent,122345,3,single,21004A35-,Bruxelles,21004A35-,AD. MAX (BOULEVARD),Bruxelles,7,StayHome
+60,21004A811,QUAI DU COMMERCE,361512,18,0,male,parent,196535,2,couple_no_child,21004A811,Bruxelles,21004A811,QUAI DU COMMERCE,Bruxelles,7,StayHome
+61,21004A70-,BLAES (RUE)-SUD,254073,18,0,male,parent,136396,1,couple_with_child,21004A70-,Bruxelles,21004A70-,BLAES (RUE)-SUD,Bruxelles,7,StayHome
+62,21004A70-,BLAES (RUE)-SUD,254881,18,0,male,parent,137165,3,single,21004A70-,Bruxelles,21004A70-,BLAES (RUE)-SUD,Bruxelles,7,StayHome
+63,21007A783,PARC DE FOREST,512386,18,0,male,child,280083,1,couple_with_child,21007A783,Forest,21007A783,PARC DE FOREST,Forest,7,StayHome
+64,21014A41-,BOSSUET,839512,18,0,male,parent,459455,5,colloc,21014A41-,Saint-Josse-ten-Noode,21014A41-,BOSSUET,Saint-Josse-ten-Noode,7,StayHome
+65,21014A04-,HAECHT (CHAUSSEE DE),847938,18,0,male,parent,463765,1,couple_with_child,21014A04-,Saint-Josse-ten-Noode,21014A04-,HAECHT (CHAUSSEE DE),Saint-Josse-ten-Noode,7,StayHome
+66,21014A00-,PLACE SAINT-JOSSE,831971,18,0,male,parent,455532,3,single,21014A00-,Saint-Josse-ten-Noode,21014A00-,PLACE SAINT-JOSSE,Saint-Josse-ten-Noode,7,StayHome
+67,21015A20-,HELMET,991408,18,0,male,child,536420,1,couple_with_child,21015A20-,Schaerbeek,21015A20-,HELMET,Schaerbeek,7,StayHome
+68,21015A54-,EMERAUDE (AVENUE),918293,18,0,male,parent,500807,3,single,21015A54-,Schaerbeek,21015A54-,EMERAUDE (AVENUE),Schaerbeek,7,StayHome
+69,21015A04-,L'OLIVIER (RUE),946925,18,0,male,parent,514914,3,single,21015A04-,Schaerbeek,21015A04-,L'OLIVIER (RUE),Schaerbeek,7,StayHome
+70,21012A63-,DUBRUCQ-NORD,711441,18,0,male,parent,389936,5,colloc,21012A63-,Molenbeek Saint-Jean,21012A63-,DUBRUCQ-NORD,Molenbeek Saint-Jean,7,StayHome
+71,21012A10-,DUCHESSE DE BRABANT,691035,18,0,male,parent,379792,1,couple_with_child,21012A10-,Molenbeek Saint-Jean,21012A10-,DUCHESSE DE BRABANT,Molenbeek Saint-Jean,7,StayHome
+72,21012A41-,MOORTEBEEK,758289,18,0,male,parent,413931,1,couple_with_child,21012A41-,Molenbeek Saint-Jean,21012A41-,MOORTEBEEK,Molenbeek Saint-Jean,7,StayHome
+73,21012A152,ETANGS NOIRS,745546,18,0,male,parent,407150,3,single,21012A152,Molenbeek Saint-Jean,21012A152,ETANGS NOIRS,Molenbeek Saint-Jean,7,StayHome

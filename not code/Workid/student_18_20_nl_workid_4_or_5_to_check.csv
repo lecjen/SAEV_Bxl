@@ -1,0 +1,89 @@
+,SectorStatID,SectorStatName,PersID,Age,GenderID,GenderName,ChildOrParent,HouseholdID,HouseholdTypeID,HouseholdTypeName,Code,Commune,WorkerID,WorkerType
+17,21011A20-,PLATEAU,657310,18,1,female,parent,362394,5,colloc,21011A20-,Koekelberg,4 or 5,Unif on or off campus
+79,21015A00-,COLIGNON (PLACE),975901,19,1,female,parent,528677,5,colloc,21015A00-,Schaerbeek,4 or 5,Unif on or off campus
+95,21004E70-,MARIE-CHRISTINE (RUE),304991,19,1,female,parent,168469,5,colloc,21004E70-,Bruxelles,4 or 5,Unif on or off campus
+111,21004E12-,PRINCE LEOPOLD (SQUARE),353270,19,1,female,parent,191977,5,colloc,21004E12-,Bruxelles,4 or 5,Unif on or off campus
+163,21001A00-,RESISTANCE,105577,19,1,female,parent,56000,5,colloc,21001A00-,Anderlecht,4 or 5,Unif on or off campus
+166,21015A45-,STEPHENSON (PLACE),968775,19,1,female,parent,525677,5,colloc,21015A45-,Schaerbeek,4 or 5,Unif on or off campus
+241,21013A51-,TOISON D'OR (AVENUE),828598,19,1,female,parent,453704,5,colloc,21013A51-,Saint-Gilles,4 or 5,Unif on or off campus
+337,21012A23-,MACHTENS-SUD,756736,19,1,female,parent,413178,5,colloc,21012A23-,Molenbeek Saint-Jean,4 or 5,Unif on or off campus
+380,21010A05-,ALBERT (QUARTIER),618244,19,1,female,parent,342620,5,colloc,21010A05-,Jette,4 or 5,Unif on or off campus
+410,21001A011,KLEINMOLEN,85634,19,1,female,parent,46037,5,colloc,21001A011,Anderlecht,4 or 5,Unif on or off campus
+440,21015A13-,PORTAELS (RUE),983007,19,1,female,parent,532421,5,colloc,21015A13-,Schaerbeek,4 or 5,Unif on or off campus
+445,21012A10-,DUCHESSE DE BRABANT,691549,19,1,female,parent,380099,5,colloc,21012A10-,Molenbeek Saint-Jean,4 or 5,Unif on or off campus
+451,21012A21-,MARIE-JOSE BLOCS,740211,19,1,female,parent,404536,5,colloc,21012A21-,Molenbeek Saint-Jean,4 or 5,Unif on or off campus
+495,21015A44-,REINE (AVENUE),958970,19,1,female,parent,520998,5,colloc,21015A44-,Schaerbeek,4 or 5,Unif on or off campus
+524,21010A04-,NOTRE-DAME DE LOURDES,597548,19,1,female,parent,332200,5,colloc,21010A04-,Jette,4 or 5,Unif on or off campus
+574,21015A04-,L'OLIVIER (RUE),947137,19,1,female,parent,514975,5,colloc,21015A04-,Schaerbeek,4 or 5,Unif on or off campus
+589,21015A13-,PORTAELS (RUE),982998,19,1,female,parent,532419,5,colloc,21015A13-,Schaerbeek,4 or 5,Unif on or off campus
+599,21004A70-,BLAES (RUE)-SUD,255128,19,1,female,parent,137234,5,colloc,21004A70-,Bruxelles,4 or 5,Unif on or off campus
+617,21004E72-,MAISON ROUGE (PLACE)-SUD,340392,19,1,female,parent,185417,5,colloc,21004E72-,Bruxelles,4 or 5,Unif on or off campus
+627,21012A60-,LAEKENVELD,708352,19,1,female,parent,388333,5,colloc,21012A60-,Molenbeek Saint-Jean,4 or 5,Unif on or off campus
+768,21012A21-,MARIE-JOSE BLOCS,740212,19,1,female,parent,404536,5,colloc,21012A21-,Molenbeek Saint-Jean,4 or 5,Unif on or off campus
+819,21019A15-,KAPELLEVELD,1218837,19,1,female,parent,663077,5,colloc,21019A15-,Woluwe Saint-Pierre,4 or 5,Unif on or off campus
+836,21004E800,DIVIN JESUS,356309,19,1,female,parent,193843,5,colloc,21004E800,Bruxelles,4 or 5,Unif on or off campus
+847,21002A52-,BEAULIEU,162437,19,1,female,parent,86075,5,colloc,21002A52-,Auderghem,4 or 5,Unif on or off campus
+945,21004D610,ANVERS (CHAUSSEE D')-SUD,382112,19,1,female,parent,207917,5,colloc,21004D610,Bruxelles,4 or 5,Unif on or off campus
+978,21015A142,SAINTE-FAMILLE,939988,19,1,female,parent,511697,5,colloc,21015A142,Schaerbeek,4 or 5,Unif on or off campus
+1059,21015A24-,WAELHEM (RUE),980515,19,1,female,parent,531179,5,colloc,21015A24-,Schaerbeek,4 or 5,Unif on or off campus
+1090,21002A041,VIGNETTE,160999,19,1,female,parent,85337,5,colloc,21002A041,Auderghem,4 or 5,Unif on or off campus
+1098,21004A83-,E. JACQMAIN (BOULEVARD)-OUEST,229587,19,1,female,parent,123328,5,colloc,21004A83-,Bruxelles,4 or 5,Unif on or off campus
+1135,21017A12-,LE LOGIS-NORD,1107520,19,1,female,parent,600686,5,colloc,21017A12-,Watermael-Boitsfort,4 or 5,Unif on or off campus
+1140,21010A04-,NOTRE-DAME DE LOURDES,597469,19,1,female,parent,332186,5,colloc,21010A04-,Jette,4 or 5,Unif on or off campus
+1157,21012A62-,LIBERATEURS,716279,19,1,female,parent,392257,5,colloc,21012A62-,Molenbeek Saint-Jean,4 or 5,Unif on or off campus
+1162,21004A70-,BLAES (RUE)-SUD,255049,19,1,female,parent,137222,5,colloc,21004A70-,Bruxelles,4 or 5,Unif on or off campus
+1208,21017A212,AVENUE DE LA TENDERIE,1110955,19,1,female,parent,602722,5,colloc,21017A212,Watermael-Boitsfort,4 or 5,Unif on or off campus
+1215,21012A041,QUATRE VENTS,688965,19,1,female,parent,378848,5,colloc,21012A041,Molenbeek Saint-Jean,4 or 5,Unif on or off campus
+1241,21018A643,DEUX MAISONS,1157163,19,1,female,parent,628619,5,colloc,21018A643,Woluwe Saint-Lambert,4 or 5,Unif on or off campus
+1264,21012A172,GARE OUEST,686933,19,1,female,parent,377870,5,colloc,21012A172,Molenbeek Saint-Jean,4 or 5,Unif on or off campus
+1267,21001A31-,CHAUSSEE DE MONS - SAINT-LUC,51338,19,1,female,parent,28248,5,colloc,21001A31-,Anderlecht,4 or 5,Unif on or off campus
+1320,21015A782,CIMETIERE DE SAINT-JOSSE,867371,19,1,female,parent,474642,5,colloc,21015A782,Schaerbeek,4 or 5,Unif on or off campus
+1337,21001A011,KLEINMOLEN,85639,19,1,female,parent,46038,5,colloc,21001A011,Anderlecht,4 or 5,Unif on or off campus
+1349,21012A041,QUATRE VENTS,688946,19,1,female,parent,378844,5,colloc,21012A041,Molenbeek Saint-Jean,4 or 5,Unif on or off campus
+1460,21001A00-,RESISTANCE,105585,19,1,female,parent,56001,5,colloc,21001A00-,Anderlecht,4 or 5,Unif on or off campus
+1467,21012A71-,PIERS,737874,19,1,female,parent,403074,5,colloc,21012A71-,Molenbeek Saint-Jean,4 or 5,Unif on or off campus
+1485,21004G30-,SAINTE-ELISABETH,205193,19,1,female,parent,108403,5,colloc,21004G30-,Bruxelles,4 or 5,Unif on or off campus
+1511,21015A03-,JOSAPHAT (RUE),890295,19,1,female,parent,486315,5,colloc,21015A03-,Schaerbeek,4 or 5,Unif on or off campus
+1549,21015A21-,GUIDO GEZELLE (RUE),997134,19,1,female,parent,539139,5,colloc,21015A21-,Schaerbeek,4 or 5,Unif on or off campus
+1564,21004F522,AVENUE DE VERSAILLES,369273,19,1,female,parent,200848,5,colloc,21004F522,Bruxelles,4 or 5,Unif on or off campus
+1566,21015A63-,DESCHANEL P. (AVENUE),879016,19,1,female,parent,480810,5,colloc,21015A63-,Schaerbeek,4 or 5,Unif on or off campus
+1671,21012A72-,LAVALLEE,725012,19,0,male,parent,396646,5,colloc,21012A72-,Molenbeek Saint-Jean,4 or 5,Unif on or off campus
+1682,21015A22-,MARBOTIN A. (RUE),986512,19,0,male,parent,534055,5,colloc,21015A22-,Schaerbeek,4 or 5,Unif on or off campus
+1737,21001A911,SCHEUT-EST,94230,19,0,male,parent,50446,5,colloc,21001A911,Anderlecht,4 or 5,Unif on or off campus
+1739,21004E70-,MARIE-CHRISTINE (RUE),304987,19,0,male,parent,168469,5,colloc,21004E70-,Bruxelles,4 or 5,Unif on or off campus
+1876,21012A71-,PIERS,737927,19,0,male,parent,403084,5,colloc,21012A71-,Molenbeek Saint-Jean,4 or 5,Unif on or off campus
+1964,21015A40-,BRABANT (RUE DE),953428,19,0,male,parent,518336,5,colloc,21015A40-,Schaerbeek,4 or 5,Unif on or off campus
+1973,21012A12-,BIRMINGHAM-SUD,700937,19,0,male,parent,384963,5,colloc,21012A12-,Molenbeek Saint-Jean,4 or 5,Unif on or off campus
+2031,21006A25-,GIBET,469221,19,0,male,parent,257309,5,colloc,21006A25-,Evere,4 or 5,Unif on or off campus
+2104,21004E74-,EM. DELVA (RUE),313788,19,0,male,parent,172501,5,colloc,21004E74-,Bruxelles,4 or 5,Unif on or off campus
+2126,21019A21-,MANOIR,1213965,19,0,male,parent,660566,5,colloc,21019A21-,Woluwe Saint-Pierre,4 or 5,Unif on or off campus
+2216,21001B25-,REVISION-NORD,77925,19,0,male,parent,41860,5,colloc,21001B25-,Anderlecht,4 or 5,Unif on or off campus
+2339,21004E101,PARVIS NOTRE DAME,359384,19,0,male,parent,195503,5,colloc,21004E101,Bruxelles,4 or 5,Unif on or off campus
+2386,21015A05-,ROYALE SAINTE-MARIE (RUE),927664,19,0,male,parent,505586,5,colloc,21015A05-,Schaerbeek,4 or 5,Unif on or off campus
+2418,21004F94-,VAL MARIA,199761,19,0,male,parent,105886,5,colloc,21004F94-,Bruxelles,4 or 5,Unif on or off campus
+2425,21019A21-,MANOIR,1213964,19,0,male,parent,660566,5,colloc,21019A21-,Woluwe Saint-Pierre,4 or 5,Unif on or off campus
+2478,21014A14-,PRAIRIE,835586,19,0,male,parent,457664,5,colloc,21014A14-,Saint-Josse-ten-Noode,4 or 5,Unif on or off campus
+2524,21016A111,VERT CHASSEUR,1014363,19,0,male,parent,548996,5,colloc,21016A111,Uccle,4 or 5,Unif on or off campus
+2541,21012A152,ETANGS NOIRS,745698,19,0,male,parent,407199,5,colloc,21012A152,Molenbeek Saint-Jean,4 or 5,Unif on or off campus
+2727,21001B10-,ROSEE-EST,111739,20,1,female,parent,58966,5,colloc,21001B10-,Anderlecht,4 or 5,Unif on or off campus
+3308,21016A601,BOURDON,1052772,20,1,female,parent,570522,5,colloc,21016A601,Uccle,4 or 5,Unif on or off campus
+3500,21017A021,DREVE DES EQUIPAGES,1103873,20,1,female,parent,598710,5,colloc,21017A021,Watermael-Boitsfort,4 or 5,Unif on or off campus
+3519,21001B31-,ALBERT I- IMMEUBLES,74069,20,1,female,parent,40071,5,colloc,21001B31-,Anderlecht,4 or 5,Unif on or off campus
+3581,21012A152,ETANGS NOIRS,745736,20,1,female,parent,407207,5,colloc,21012A152,Molenbeek Saint-Jean,4 or 5,Unif on or off campus
+3665,21004A70-,BLAES (RUE)-SUD,255012,20,1,female,parent,137216,5,colloc,21004A70-,Bruxelles,4 or 5,Unif on or off campus
+3710,21013A23-,ROI (AVENUE DU),799955,20,1,female,parent,436245,5,colloc,21013A23-,Saint-Gilles,4 or 5,Unif on or off campus
+4100,21013A252,DANEMARK (RUE DE),798379,20,1,female,parent,435465,5,colloc,21013A252,Saint-Gilles,4 or 5,Unif on or off campus
+4142,21002A441,CHANT D'OISEAUX,138971,20,1,female,parent,73257,5,colloc,21002A441,Auderghem,4 or 5,Unif on or off campus
+4669,21014A14-,PRAIRIE,835605,20,0,male,parent,457667,5,colloc,21014A14-,Saint-Josse-ten-Noode,4 or 5,Unif on or off campus
+4691,21015A04-,L'OLIVIER (RUE),947250,20,0,male,parent,514994,5,colloc,21015A04-,Schaerbeek,4 or 5,Unif on or off campus
+4748,21015A40-,BRABANT (RUE DE),953333,20,0,male,parent,518319,5,colloc,21015A40-,Schaerbeek,4 or 5,Unif on or off campus
+5123,21001B10-,ROSEE-EST,111800,20,0,male,parent,58977,5,colloc,21001B10-,Anderlecht,4 or 5,Unif on or off campus
+5167,21004A72-,SAINT-THOMAS (INSTITUT),268164,20,0,male,parent,145554,5,colloc,21004A72-,Bruxelles,4 or 5,Unif on or off campus
+5203,21012A172,GARE OUEST,686936,20,0,male,parent,377871,5,colloc,21012A172,Molenbeek Saint-Jean,4 or 5,Unif on or off campus
+5251,21003A323,SEPT ETOILES,165739,20,0,male,parent,87754,5,colloc,21003A323,Berchem Sainte-Agathe,4 or 5,Unif on or off campus
+5275,21004E72-,MAISON ROUGE (PLACE)-SUD,340360,20,0,male,parent,185412,5,colloc,21004E72-,Bruxelles,4 or 5,Unif on or off campus
+5633,21004E800,DIVIN JESUS,356361,20,0,male,parent,193853,5,colloc,21004E800,Bruxelles,4 or 5,Unif on or off campus
+5906,21001A152,LINDE-OUEST,121604,20,0,male,parent,64183,5,colloc,21001A152,Anderlecht,4 or 5,Unif on or off campus
+5921,21013A13-,DETHY (RUE),782182,20,0,male,parent,426566,5,colloc,21013A13-,Saint-Gilles,4 or 5,Unif on or off campus
+5934,21001A031,RAUTER-SUD,53221,20,0,male,parent,29191,5,colloc,21001A031,Anderlecht,4 or 5,Unif on or off campus
+5968,21018A13-,GROOTVELD,1168869,20,0,male,parent,635618,5,colloc,21018A13-,Woluwe Saint-Lambert,4 or 5,Unif on or off campus

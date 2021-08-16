@@ -1,0 +1,115 @@
+,SectorStatID,SectorStatName,PersID,Age,GenderID,GenderName,ChildOrParent,HouseholdID,HouseholdTypeID,HouseholdTypeName,Code,Commune,WorkerID,WorkerType
+0,21001A95-,BUFFON,108505,5,0,male,child,57288,1,couple_with_child,21001A95-,Anderlecht,2,Primaires
+1,21001B241,REVISION-SUD,114403,5,0,male,child,60410,1,couple_with_child,21001B241,Anderlecht,2,Primaires
+2,21001A92-,JAKOB SMITS,101079,5,0,male,child,53720,1,couple_with_child,21001A92-,Anderlecht,2,Primaires
+3,21001A72-,OSSEGEM,81699,5,0,male,child,43812,4,single_with_child,21001A72-,Anderlecht,2,Primaires
+4,21001A95-,BUFFON,108416,5,0,male,child,57263,4,single_with_child,21001A95-,Anderlecht,2,Primaires
+5,21002A130,PARC DES PRINCES,140230,5,0,male,child,73897,1,couple_with_child,21002A130,Auderghem,2,Primaires
+6,21003A2MJ,GARE,185630,5,0,male,parent,97848,1,couple_with_child,21003A2MJ,Berchem Sainte-Agathe,2,Primaires
+7,21004D62-,ANVERS (CHAUSSEE D')-NORD,345119,5,0,male,child,187783,1,couple_with_child,21004D62-,Bruxelles,2,Primaires
+8,21004E72-,MAISON ROUGE (PLACE)-SUD,341271,5,0,male,parent,184133,1,couple_with_child,21004E72-,Bruxelles,2,Primaires
+9,21004A34-,MONNAIE,271020,5,0,male,child,147566,1,couple_with_child,21004A34-,Bruxelles,2,Primaires
+10,21004E14-,ECOLE DES CADETS,365255,5,0,male,child,198656,1,couple_with_child,21004E14-,Bruxelles,2,Primaires
+11,21004E73-,EM. BOCKSTAEL (BOULEVARD)-SUD,332272,5,0,male,child,181709,1,couple_with_child,21004E73-,Bruxelles,2,Primaires
+12,21004A21-,ANNEESSENS (PLACE),298937,5,0,male,parent,163666,4,single_with_child,21004A21-,Bruxelles,2,Primaires
+13,21004E82-,CITE MODELE,371178,5,0,male,child,201857,1,couple_with_child,21004E82-,Bruxelles,2,Primaires
+14,21004A33-,LIBERTE (PLACE DE LA),289140,5,0,male,child,159741,1,couple_with_child,21004A33-,Bruxelles,2,Primaires
+15,21004E74-,EM. DELVA (RUE),309043,5,0,male,child,170408,1,couple_with_child,21004E74-,Bruxelles,2,Primaires
+16,21004E74-,EM. DELVA (RUE),314576,5,0,male,parent,169410,1,couple_with_child,21004E74-,Bruxelles,2,Primaires
+17,21005A042,PH. BAUCQ (RUE),387732,5,0,male,child,211064,1,couple_with_child,21005A042,Etterbeek,2,Primaires
+18,21005A10-,GENERAL HENRI (RUE),385088,5,0,male,child,209513,1,couple_with_child,21005A10-,Etterbeek,2,Primaires
+19,21005A12-,SAINT-ANTOINE,431316,5,0,male,child,236003,1,couple_with_child,21005A12-,Etterbeek,2,Primaires
+20,21006A052,CHAMP DE REPOS,479622,5,0,male,child,262344,1,couple_with_child,21006A052,Evere,2,Primaires
+21,21006A052,CHAMP DE REPOS,479429,5,0,male,child,262284,1,couple_with_child,21006A052,Evere,2,Primaires
+22,21007A61-,MONTENEGRO (RUE),502217,5,0,male,child,274422,4,single_with_child,21007A61-,Forest,2,Primaires
+23,21007A06-,KATANGA,504655,5,0,male,child,275945,1,couple_with_child,21007A06-,Forest,2,Primaires
+24,21007A61-,MONTENEGRO (RUE),502007,5,0,male,child,274341,1,couple_with_child,21007A61-,Forest,2,Primaires
+25,21009A33-,SAINT-ADRIEN,541352,5,0,male,child,297167,1,couple_with_child,21009A33-,Ixelles,2,Primaires
+26,21009A451,CHATELAIN (PLACE DU)-EST,591262,5,0,male,child,328861,1,couple_with_child,21009A451,Ixelles,2,Primaires
+27,21009A22-,UNIVERSITE,576406,5,0,male,child,319242,1,couple_with_child,21009A22-,Ixelles,2,Primaires
+28,21009A52-,GRAY (RUE),555437,5,0,male,child,305702,4,single_with_child,21009A52-,Ixelles,2,Primaires
+29,21010A10-,ANCIENNE BARRIERE,603444,5,0,male,child,335247,1,couple_with_child,21010A10-,Jette,2,Primaires
+30,21010A10-,ANCIENNE BARRIERE,603396,5,0,male,child,335231,1,couple_with_child,21010A10-,Jette,2,Primaires
+31,21011A30-,ARCHERS - FOUREZ,653240,5,0,male,child,360443,1,couple_with_child,21011A30-,Koekelberg,2,Primaires
+32,21012A672,ULENS,702949,5,0,male,child,385812,1,couple_with_child,21012A672,Molenbeek Saint-Jean,2,Primaires
+33,21012A72-,LAVALLEE,724522,5,0,male,child,396319,1,couple_with_child,21012A72-,Molenbeek Saint-Jean,2,Primaires
+34,21012A63-,DUBRUCQ-NORD,710547,5,0,male,child,389550,1,couple_with_child,21012A63-,Molenbeek Saint-Jean,2,Primaires
+35,21012A72-,LAVALLEE,724373,5,0,male,child,396277,1,couple_with_child,21012A72-,Molenbeek Saint-Jean,2,Primaires
+36,21012A24-,OSSEGHEM,680757,5,0,male,parent,373225,1,couple_with_child,21012A24-,Molenbeek Saint-Jean,2,Primaires
+37,21012A53-,SIPPELBERG,727507,5,0,male,parent,397961,1,couple_with_child,21012A53-,Molenbeek Saint-Jean,2,Primaires
+38,21013A02-,CAPOUILLET (RUE),800992,5,0,male,child,436941,1,couple_with_child,21013A02-,Saint-Gilles,2,Primaires
+39,21014A00-,PLACE SAINT-JOSSE,830985,5,0,male,child,454829,4,single_with_child,21014A00-,Saint-Josse-ten-Noode,2,Primaires
+40,21015A831,LATINIS (AVENUE G.),882653,5,0,male,child,482904,1,couple_with_child,21015A831,Schaerbeek,2,Primaires
+41,21015A811,TERDELT,881337,5,0,male,parent,481638,1,couple_with_child,21015A811,Schaerbeek,2,Primaires
+42,21015A30-,GRANDE RUE AU BOIS,896010,5,0,male,child,489230,1,couple_with_child,21015A30-,Schaerbeek,2,Primaires
+43,21015A53-,DAILLY (PLACE),912506,5,0,male,child,497528,1,couple_with_child,21015A53-,Schaerbeek,2,Primaires
+44,21016A82-,CHURCHILL,1007272,5,0,male,child,544814,1,couple_with_child,21016A82-,Uccle,2,Primaires
+45,21016A831,LONGCHAMP,1012090,5,0,male,child,547736,1,couple_with_child,21016A831,Uccle,2,Primaires
+46,21016A400,SAINT-JOB,1074664,5,0,male,child,582212,1,couple_with_child,21016A400,Uccle,2,Primaires
+47,21016A01-,DIEWEG,1056065,5,0,male,child,572213,1,couple_with_child,21016A01-,Uccle,2,Primaires
+48,21017A000,CENTRE DE BOITSFORT,1111684,5,0,male,child,603127,1,couple_with_child,21017A000,Watermael-Boitsfort,2,Primaires
+49,21017A41-,AVENUE DE VISE,1097714,5,0,male,child,594947,1,couple_with_child,21017A41-,Watermael-Boitsfort,2,Primaires
+50,21018A00-,TOMBERG,1160425,5,0,male,child,630766,1,couple_with_child,21018A00-,Woluwe Saint-Lambert,2,Primaires
+51,21018A12-,STOCKEL (CHAUSSEE DE),1170581,5,0,male,parent,636031,1,couple_with_child,21018A12-,Woluwe Saint-Lambert,2,Primaires
+52,21018A62-,HEYDENBERG-OUEST,1148455,5,0,male,child,623764,4,single_with_child,21018A62-,Woluwe Saint-Lambert,2,Primaires
+53,21018A61-,HEYDENBERG-EST,1147223,5,0,male,parent,622534,1,couple_with_child,21018A61-,Woluwe Saint-Lambert,2,Primaires
+54,21019A33-,MIMOSAS (AVENUE),1198225,5,0,male,parent,651584,1,couple_with_child,21019A33-,Woluwe Saint-Pierre,2,Primaires
+55,21019A22-,PUTDAAL,1220884,5,0,male,child,664360,1,couple_with_child,21019A22-,Woluwe Saint-Pierre,2,Primaires
+56,21019A42-,SALOME AVENUE,1220204,5,0,male,child,663920,1,couple_with_child,21019A42-,Woluwe Saint-Pierre,2,Primaires
+57,21019A34-,EUROPE (QUARTIER DE L'),1195243,5,0,male,parent,650120,1,couple_with_child,21019A34-,Woluwe Saint-Pierre,2,Primaires
+58,21001A41-,ROMAIN ROLLAND,19408,5,1,female,child,10499,1,couple_with_child,21001A41-,Anderlecht,2,Primaires
+59,21001A931,AGRAFE-NORBERT GILLE,96277,5,1,female,parent,50867,1,couple_with_child,21001A931,Anderlecht,2,Primaires
+60,21001B25-,REVISION-NORD,75227,5,1,female,child,40656,1,couple_with_child,21001B25-,Anderlecht,2,Primaires
+61,21001A84-,POESIE,27936,5,1,female,child,15268,1,couple_with_child,21001A84-,Anderlecht,2,Primaires
+62,21002A12-,AVENUE SCHALLER,158055,5,1,female,child,83720,1,couple_with_child,21002A12-,Auderghem,2,Primaires
+63,21002A45-,VAL DUC,137407,5,1,female,child,72493,1,couple_with_child,21002A45-,Auderghem,2,Primaires
+64,21003A41-,MONNET,184586,5,1,female,child,97510,4,single_with_child,21003A41-,Berchem Sainte-Agathe,2,Primaires
+65,21004E130,SACRE-COEUR,327937,5,1,female,child,179353,1,couple_with_child,21004E130,Bruxelles,2,Primaires
+66,21004E130,SACRE-COEUR,326161,5,1,female,child,178842,4,single_with_child,21004E130,Bruxelles,2,Primaires
+67,21004E130,SACRE-COEUR,327533,5,1,female,child,179238,1,couple_with_child,21004E130,Bruxelles,2,Primaires
+68,21004D62-,ANVERS (CHAUSSEE D')-NORD,344789,5,1,female,child,187671,1,couple_with_child,21004D62-,Bruxelles,2,Primaires
+69,21004E70-,MARIE-CHRISTINE (RUE),303128,5,1,female,child,167525,1,couple_with_child,21004E70-,Bruxelles,2,Primaires
+70,21004E12-,PRINCE LEOPOLD (SQUARE),350519,5,1,female,child,190718,4,single_with_child,21004E12-,Bruxelles,2,Primaires
+71,21004E73-,EM. BOCKSTAEL (BOULEVARD)-SUD,334629,5,1,female,parent,181466,1,couple_with_child,21004E73-,Bruxelles,2,Primaires
+72,21005A12-,SAINT-ANTOINE,431481,5,1,female,child,236093,4,single_with_child,21005A12-,Etterbeek,2,Primaires
+73,21005A042,PH. BAUCQ (RUE),389238,5,1,female,child,211693,1,couple_with_child,21005A042,Etterbeek,2,Primaires
+74,21005A02-,CHAMP DU ROI (RUE),393165,5,1,female,child,214064,1,couple_with_child,21005A02-,Etterbeek,2,Primaires
+75,21006A101,CONSCIENCE,459213,5,1,female,child,251745,4,single_with_child,21006A101,Evere,2,Primaires
+76,21006A042,KERKHOEK,477125,5,1,female,child,261261,1,couple_with_child,21006A042,Evere,2,Primaires
+77,21007A101,BOURGOGNE,511173,5,1,female,child,279305,1,couple_with_child,21007A101,Forest,2,Primaires
+78,21007A50-,BERANGER,495661,5,1,female,child,271138,1,couple_with_child,21007A50-,Forest,2,Primaires
+79,21009A83-,L. ERNOTTE (RUE),553004,5,1,female,child,304518,1,couple_with_child,21009A83-,Ixelles,2,Primaires
+80,21009A01-,BLYCKAERTS,572394,5,1,female,child,316756,1,couple_with_child,21009A01-,Ixelles,2,Primaires
+81,21009A63-,MACAU,529463,5,1,female,child,290000,1,couple_with_child,21009A63-,Ixelles,2,Primaires
+82,21009A121,GENERAL DE GAULLE,528120,5,1,female,child,289167,1,couple_with_child,21009A121,Ixelles,2,Primaires
+83,21010A03-,MIROIR,599025,5,1,female,child,333083,1,couple_with_child,21010A03-,Jette,2,Primaires
+84,21010A01-,ESSEGHEM,640222,5,1,female,parent,353256,4,single_with_child,21010A01-,Jette,2,Primaires
+85,21010A13-,CITE-JARDIN,620396,5,1,female,child,344069,1,couple_with_child,21010A13-,Jette,2,Primaires
+86,21011A11-,LEPREUX,650694,5,1,female,child,359256,1,couple_with_child,21011A11-,Koekelberg,2,Primaires
+87,21012A882,DARING,697679,5,1,female,child,383373,1,couple_with_child,21012A882,Molenbeek Saint-Jean,2,Primaires
+88,21012A72-,LAVALLEE,723943,5,1,female,child,396144,1,couple_with_child,21012A72-,Molenbeek Saint-Jean,2,Primaires
+89,21012A152,ETANGS NOIRS,743080,5,1,female,child,405811,4,single_with_child,21012A152,Molenbeek Saint-Jean,2,Primaires
+90,21012A732,CANAL-NORD,774327,5,1,female,child,422267,1,couple_with_child,21012A732,Molenbeek Saint-Jean,2,Primaires
+91,21013A01-,ESPAGNE (RUE D'),789158,5,1,female,child,430452,1,couple_with_child,21013A01-,Saint-Gilles,2,Primaires
+92,21013A242,BETHLEEM (PLACE DE),775785,5,1,female,child,423064,1,couple_with_child,21013A242,Saint-Gilles,2,Primaires
+93,21014A10-,SAINT-FRANCOIS,841548,5,1,female,child,460407,1,couple_with_child,21014A10-,Saint-Josse-ten-Noode,2,Primaires
+94,21015A101,GARE,936677,5,1,female,parent,509787,1,couple_with_child,21015A101,Schaerbeek,2,Primaires
+95,21015A231,J. BLOCKX (RUE),988936,5,1,female,child,535447,4,single_with_child,21015A231,Schaerbeek,2,Primaires
+96,21015A64-,DUPLOYE SQUARE,903090,5,1,female,child,492724,1,couple_with_child,21015A64-,Schaerbeek,2,Primaires
+97,21015A64-,DUPLOYE SQUARE,903600,5,1,female,child,492872,1,couple_with_child,21015A64-,Schaerbeek,2,Primaires
+98,21015A40-,BRABANT (RUE DE),952175,5,1,female,child,517618,1,couple_with_child,21015A40-,Schaerbeek,2,Primaires
+99,21016A01-,DIEWEG,1055384,5,1,female,child,571972,1,couple_with_child,21016A01-,Uccle,2,Primaires
+100,21016A00-,GLOBE-EST,1062000,5,1,female,child,575189,1,couple_with_child,21016A00-,Uccle,2,Primaires
+101,21016A03-,COGHEN,1020374,5,1,female,child,552546,1,couple_with_child,21016A03-,Uccle,2,Primaires
+102,21016A410,ALPHONSE XIII,1078202,5,1,female,child,584210,1,couple_with_child,21016A410,Uccle,2,Primaires
+103,21016A12-,HAMOIR,1066818,5,1,female,child,577900,1,couple_with_child,21016A12-,Uccle,2,Primaires
+104,21016A72-,MELKRIEK,1035813,5,1,female,parent,560890,1,couple_with_child,21016A72-,Uccle,2,Primaires
+105,21017A12-,LE LOGIS-NORD,1106655,5,1,female,child,600228,1,couple_with_child,21017A12-,Watermael-Boitsfort,2,Primaires
+106,21017A000,CENTRE DE BOITSFORT,1111801,5,1,female,child,603176,1,couple_with_child,21017A000,Watermael-Boitsfort,2,Primaires
+107,21018A72-,ROGATIONS,1120021,5,1,female,child,607787,1,couple_with_child,21018A72-,Woluwe Saint-Lambert,2,Primaires
+108,21018A33-,NEERVELD,1131591,5,1,female,child,614475,1,couple_with_child,21018A33-,Woluwe Saint-Lambert,2,Primaires
+109,21018A3MJ,GULLEDELLE,1175818,5,1,female,child,639723,1,couple_with_child,21018A3MJ,Woluwe Saint-Lambert,2,Primaires
+110,21019A42-,SALOME AVENUE,1220567,5,1,female,parent,663857,1,couple_with_child,21019A42-,Woluwe Saint-Pierre,2,Primaires
+111,21019A10-,STOCKEL,1211007,5,1,female,child,658993,1,couple_with_child,21019A10-,Woluwe Saint-Pierre,2,Primaires
+112,21019A052,DON BOSCO,1192143,5,1,female,parent,648543,1,couple_with_child,21019A052,Woluwe Saint-Pierre,2,Primaires
+113,21019A14-,VAL DE SEIGNEURS,1209071,5,1,female,child,657806,1,couple_with_child,21019A14-,Woluwe Saint-Pierre,2,Primaires

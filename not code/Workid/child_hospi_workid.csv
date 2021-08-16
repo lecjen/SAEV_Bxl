@@ -1,0 +1,402 @@
+,SectorStatID,SectorStatName,PersID,Age,GenderID,GenderName,ChildOrParent,HouseholdID,HouseholdTypeID,HouseholdTypeName,WorkerID,WorkerType
+0,21011A30-,ARCHERS - FOUREZ,654133,17,0,male,parent,361109,6,collectif,10,Hospital
+1,21012A62-,LIBERATEURS,716722,12,1,female,parent,392600,6,collectif,10,Hospital
+2,21007A03-,FOYER FORESTOIS - FAMILLE,482510,9,0,male,parent,264049,6,collectif,10,Hospital
+3,21013A23-,ROI (AVENUE DU),800172,6,1,female,parent,436416,6,collectif,10,Hospital
+4,21004E82-,CITE MODELE,373537,8,0,male,parent,203165,6,collectif,10,Hospital
+5,21014A03-,MADOU,844033,9,0,male,parent,462035,6,collectif,10,Hospital
+6,21001C70-,BON AIR - CENTRE,24302,9,1,female,parent,13455,6,collectif,10,Hospital
+7,21015A152,PR. ELISABETH-NORD,934574,6,1,female,parent,509084,6,collectif,10,Hospital
+8,21004D62-,ANVERS (CHAUSSEE D')-NORD,346589,7,0,male,parent,188758,6,collectif,10,Hospital
+9,21004A34-,MONNAIE,271649,11,1,female,parent,148125,6,collectif,10,Hospital
+10,21006A13-,MAISON COMMUNALE,440850,7,0,male,parent,242117,6,collectif,10,Hospital
+11,21010A00-,CENTRE,630275,8,1,female,parent,349067,6,collectif,10,Hospital
+12,21001B10-,ROSEE-EST,111917,12,1,female,parent,59082,6,collectif,10,Hospital
+13,21015A01-,VAN YSENDYCK (RUE),977995,12,1,female,parent,530047,6,collectif,10,Hospital
+14,21001B21-,BROGNIEZ-NORD,92158,3,0,male,parent,49558,6,collectif,10,Hospital
+15,21001B241,REVISION-SUD,115258,17,1,female,parent,60919,6,collectif,10,Hospital
+16,21016A601,BOURDON,1053071,15,0,male,parent,570794,6,collectif,10,Hospital
+17,21004G30-,SAINTE-ELISABETH,205469,13,1,female,parent,108595,6,collectif,10,Hospital
+18,21012A10-,DUCHESSE DE BRABANT,692018,4,0,male,parent,380527,6,collectif,10,Hospital
+19,21011A20-,PLATEAU,657808,12,1,female,parent,362801,6,collectif,10,Hospital
+20,21015A101,GARE,936658,8,1,female,parent,510153,6,collectif,10,Hospital
+21,21010A21-,MADELEINE,644291,15,1,female,parent,356104,6,collectif,10,Hospital
+22,21014A05-,HOUWAERT,857056,9,0,male,parent,468653,6,collectif,10,Hospital
+23,21001A30-,BIZET,45250,12,0,male,parent,24829,6,collectif,10,Hospital
+24,21012A71-,PIERS,738100,15,1,female,parent,403252,6,collectif,10,Hospital
+25,21005A15-,SAINT-MICHEL COLLEGE,411928,14,1,female,parent,225118,6,collectif,10,Hospital
+26,21015A40-,BRABANT (RUE DE),953568,14,1,female,parent,518428,6,collectif,10,Hospital
+27,21012A12-,BIRMINGHAM-SUD,701090,8,1,female,parent,385076,6,collectif,10,Hospital
+28,21002A12-,AVENUE SCHALLER,158607,13,0,male,parent,84079,6,collectif,10,Hospital
+29,21016A731,ROETAERT,1031491,9,1,female,parent,558825,6,collectif,10,Hospital
+30,21001B321,ALBERT I- QUARTIER,56682,13,1,female,parent,30977,6,collectif,10,Hospital
+31,21001B10-,ROSEE-EST,112154,3,0,male,parent,59319,6,collectif,10,Hospital
+32,21010A05-,ALBERT (QUARTIER),619094,10,0,male,parent,343324,6,collectif,10,Hospital
+33,21013A211,FONTAINAS,810774,9,0,male,parent,442746,6,collectif,10,Hospital
+34,21012A62-,LIBERATEURS,717065,15,0,male,parent,392943,6,collectif,10,Hospital
+35,21004E82-,CITE MODELE,373584,5,0,male,parent,203212,6,collectif,10,Hospital
+36,21004E74-,EM. DELVA (RUE),314464,9,0,male,parent,173107,6,collectif,10,Hospital
+37,21013A201,ANGLETERRE (RUE D'),796441,8,1,female,parent,434491,6,collectif,10,Hospital
+38,21012A02-,BRUNFAUT (QUARTIER),772115,16,0,male,parent,421237,6,collectif,10,Hospital
+39,21001A82-,MOORTEBEEK,39740,9,0,male,parent,21815,6,collectif,10,Hospital
+40,21006A011,CENTRE,474851,10,1,female,parent,260173,6,collectif,10,Hospital
+41,21004E12-,PRINCE LEOPOLD (SQUARE),353878,14,0,male,parent,192408,6,collectif,10,Hospital
+42,21004C65-,VIVIER D'OIE,198085,14,1,female,parent,105130,6,collectif,10,Hospital
+43,21001B22-,BROGNIEZ-SUD,54681,14,1,female,parent,30003,6,collectif,10,Hospital
+44,21004F522,AVENUE DE VERSAILLES,369405,15,1,female,parent,200937,6,collectif,10,Hospital
+45,21016A533,MOENSBERG,1049774,9,0,male,parent,569026,6,collectif,10,Hospital
+46,21015A111,MAETERLINCK,939654,9,1,female,parent,511490,6,collectif,10,Hospital
+47,21004D610,ANVERS (CHAUSSEE D')-SUD,382370,6,1,female,parent,208083,6,collectif,10,Hospital
+48,21004E800,DIVIN JESUS,356427,7,1,female,parent,193919,6,collectif,10,Hospital
+49,21002A411,PUTDAAL,148105,12,0,male,parent,78471,6,collectif,10,Hospital
+50,21004E72-,MAISON ROUGE (PLACE)-SUD,340951,6,1,female,parent,185807,6,collectif,10,Hospital
+51,21004A32-,CONGRES - GARE,283595,12,0,male,parent,156299,6,collectif,10,Hospital
+52,21001B21-,BROGNIEZ-NORD,91908,4,1,female,parent,49308,6,collectif,10,Hospital
+53,21004A02-,SAINT-FRANCOIS XAVIER,250747,14,0,male,parent,134961,6,collectif,10,Hospital
+54,21015A33-,BIENFAITEURS (PLACE DE),907333,8,1,female,parent,494993,6,collectif,10,Hospital
+55,21004F94-,VAL MARIA,199925,13,1,female,parent,106032,6,collectif,10,Hospital
+56,21001A83-,PETERBOS,7158,8,0,male,parent,3862,6,collectif,10,Hospital
+57,21001B11-,ROSEE-OUEST,79052,6,1,female,parent,42642,6,collectif,10,Hospital
+58,21004G30-,SAINTE-ELISABETH,205447,14,1,female,parent,108573,6,collectif,10,Hospital
+59,21015A021,HOUFFALIZE (PLACE),894645,7,0,male,parent,488636,6,collectif,10,Hospital
+60,21018A02-,SLEGERS (AVENUE),1141321,15,1,female,parent,619952,6,collectif,10,Hospital
+61,21002A12-,AVENUE SCHALLER,158619,10,0,male,parent,84091,6,collectif,10,Hospital
+62,21014A10-,SAINT-FRANCOIS,842468,12,1,female,parent,461100,6,collectif,10,Hospital
+63,21005A15-,SAINT-MICHEL COLLEGE,412057,8,0,male,parent,225247,6,collectif,10,Hospital
+64,21016A01-,DIEWEG,1058737,9,0,male,parent,573656,6,collectif,10,Hospital
+65,21004E130,SACRE-COEUR,330475,15,1,female,parent,180834,6,collectif,10,Hospital
+66,21004E70-,MARIE-CHRISTINE (RUE),305736,10,0,male,parent,169045,6,collectif,10,Hospital
+67,21004G321,HAREN-EST,209007,14,1,female,parent,110565,6,collectif,10,Hospital
+68,21015A21-,GUIDO GEZELLE (RUE),997311,8,1,female,parent,539247,6,collectif,10,Hospital
+69,21012A21-,MARIE-JOSE BLOCS,740582,8,0,male,parent,404878,6,collectif,10,Hospital
+70,21007A61-,MONTENEGRO (RUE),504494,7,0,male,parent,275870,6,collectif,10,Hospital
+71,21004F930,COIN DES CERISES,207819,14,0,male,parent,110007,6,collectif,10,Hospital
+72,21016A731,ROETAERT,1031481,11,1,female,parent,558815,6,collectif,10,Hospital
+73,21003A00-,CENTRE,181039,14,0,male,parent,95633,6,collectif,10,Hospital
+74,21013A422,CRICKX (RUE),786500,6,1,female,parent,428940,6,collectif,10,Hospital
+75,21007A61-,MONTENEGRO (RUE),504185,15,1,female,parent,275561,6,collectif,10,Hospital
+76,21009A812,SCHOOLGAT,538848,12,0,male,parent,295819,6,collectif,10,Hospital
+77,21006A03-,BLOCS SAINT-VINCENT,442526,8,1,female,parent,243064,6,collectif,10,Hospital
+78,21001A83-,PETERBOS,6857,14,1,female,parent,3561,6,collectif,10,Hospital
+79,21004E12-,PRINCE LEOPOLD (SQUARE),353917,12,0,male,parent,192447,6,collectif,10,Hospital
+80,21015A152,PR. ELISABETH-NORD,934561,8,1,female,parent,509071,6,collectif,10,Hospital
+81,21012A00-,CENTRE,694615,10,0,male,parent,381834,6,collectif,10,Hospital
+82,21014A14-,PRAIRIE,835694,9,1,female,parent,457738,6,collectif,10,Hospital
+83,21012A672,ULENS,704004,1,0,male,parent,386563,6,collectif,10,Hospital
+84,21015A50-,OPALE,862957,13,1,female,parent,471926,6,collectif,10,Hospital
+85,21017A624,PECHERIES,1101567,9,0,male,parent,597497,6,collectif,10,Hospital
+86,21001A72-,OSSEGEM,82563,7,1,female,parent,44432,6,collectif,10,Hospital
+87,21001B21-,BROGNIEZ-NORD,91824,13,1,female,parent,49224,6,collectif,10,Hospital
+88,21004A70-,BLAES (RUE)-SUD,255361,12,1,female,parent,137402,6,collectif,10,Hospital
+89,21001A732,SCHEUTVELD,69931,10,0,male,parent,37830,6,collectif,10,Hospital
+90,21011A02-,JACQUET (RUE DE),667806,8,0,male,parent,367675,6,collectif,10,Hospital
+91,21016A521,VERREWINKEL,1082808,17,1,female,parent,586797,6,collectif,10,Hospital
+92,21012A041,QUATRE VENTS,689390,5,0,male,parent,379238,6,collectif,10,Hospital
+93,21001A83-,PETERBOS,6941,9,1,female,parent,3645,6,collectif,10,Hospital
+94,21010A04-,NOTRE-DAME DE LOURDES,598111,8,0,male,parent,332718,6,collectif,10,Hospital
+95,21001B17-,ABATTOIR,87114,14,0,male,parent,46917,6,collectif,10,Hospital
+96,21005A031,MAELBEEK,413861,12,0,male,parent,226307,6,collectif,10,Hospital
+97,21015A64-,DUPLOYE SQUARE,904830,6,0,male,parent,493793,6,collectif,10,Hospital
+98,21012A141,INDEPENDANCE,767553,13,1,female,parent,418668,6,collectif,10,Hospital
+99,21019A40-,SAINTE-ALIX,1217234,10,1,female,parent,662156,6,collectif,10,Hospital
+100,21004E82-,CITE MODELE,373536,8,0,male,parent,203164,6,collectif,10,Hospital
+101,21007A03-,FOYER FORESTOIS - FAMILLE,482509,10,0,male,parent,264048,6,collectif,10,Hospital
+102,21012A54-,DELHAIZE,730774,14,1,female,parent,399542,6,collectif,10,Hospital
+103,21012A152,ETANGS NOIRS,746595,10,0,male,parent,407992,6,collectif,10,Hospital
+104,21001A503,VIVES,9008,7,1,female,parent,4984,6,collectif,10,Hospital
+105,21012A62-,LIBERATEURS,717177,8,0,male,parent,393055,6,collectif,10,Hospital
+106,21004A23-,NOUVEAU MARCHE AU GRAIN,261439,14,0,male,parent,141446,6,collectif,10,Hospital
+107,21006A171,ANCIEN COMBATTANTS (AVENUE),468177,11,0,male,parent,256709,6,collectif,10,Hospital
+108,21011A02-,JACQUET (RUE DE),667760,14,0,male,parent,367629,6,collectif,10,Hospital
+109,21015A45-,STEPHENSON (PLACE),969091,7,0,male,parent,525940,6,collectif,10,Hospital
+110,21012A672,ULENS,703738,6,1,female,parent,386297,6,collectif,10,Hospital
+111,21015A22-,MARBOTIN A. (RUE),987059,13,0,male,parent,534512,6,collectif,10,Hospital
+112,21001B321,ALBERT I- QUARTIER,56838,8,0,male,parent,31133,6,collectif,10,Hospital
+113,21018A13-,GROOTVELD,1169129,10,0,male,parent,635865,6,collectif,10,Hospital
+114,21004E70-,MARIE-CHRISTINE (RUE),305374,11,1,female,parent,168683,6,collectif,10,Hospital
+115,21004E12-,PRINCE LEOPOLD (SQUARE),353669,12,1,female,parent,192199,6,collectif,10,Hospital
+116,21003A323,SEPT ETOILES,165956,8,0,male,parent,87971,6,collectif,10,Hospital
+117,21007A252,MESSIDOR II,482791,2,0,male,parent,264261,6,collectif,10,Hospital
+118,21017A12-,LE LOGIS-NORD,1107710,15,1,female,parent,600830,6,collectif,10,Hospital
+119,21012A41-,MOORTEBEEK,758817,15,0,male,parent,414375,6,collectif,10,Hospital
+120,21010A01-,ESSEGHEM,640427,11,0,male,parent,354256,6,collectif,10,Hospital
+121,21017A41-,AVENUE DE VISE,1098233,12,0,male,parent,595329,6,collectif,10,Hospital
+122,21016A01-,DIEWEG,1058485,12,1,female,parent,573404,6,collectif,10,Hospital
+123,21001A52-,SCHERDEMAEL-NORD,24024,10,0,male,parent,13311,6,collectif,10,Hospital
+124,21019A31-,BEMEL,1201553,8,0,male,parent,653969,6,collectif,10,Hospital
+125,21012A822,KORENBEEK,763765,6,1,female,parent,416712,6,collectif,10,Hospital
+126,21016A639,HOMBORCH,1081810,13,0,male,parent,586249,6,collectif,10,Hospital
+127,21015A21-,GUIDO GEZELLE (RUE),997448,8,0,male,parent,539384,6,collectif,10,Hospital
+128,21004E12-,PRINCE LEOPOLD (SQUARE),353712,10,1,female,parent,192242,6,collectif,10,Hospital
+129,21012A60-,LAEKENVELD,708957,14,0,male,parent,388861,6,collectif,10,Hospital
+130,21012A62-,LIBERATEURS,716705,13,1,female,parent,392583,6,collectif,10,Hospital
+131,21012A71-,PIERS,738484,15,0,male,parent,403636,6,collectif,10,Hospital
+132,21009A73-,BERCKENDAEL,590521,15,0,male,parent,328443,6,collectif,10,Hospital
+133,21001A52-,SCHERDEMAEL-NORD,24023,10,0,male,parent,13310,6,collectif,10,Hospital
+134,21012A21-,MARIE-JOSE BLOCS,740314,14,1,female,parent,404610,6,collectif,10,Hospital
+135,21004A04-,NOTRE-DAME DE LA CHAPELLE,273529,14,1,female,parent,149331,6,collectif,10,Hospital
+136,21004A03-,BON SECOURS - PALAIS DU MIDI,257822,14,1,female,parent,139150,6,collectif,10,Hospital
+137,21004E72-,MAISON ROUGE (PLACE)-SUD,340845,14,1,female,parent,185701,6,collectif,10,Hospital
+138,21015A24-,WAELHEM (RUE),980909,15,0,male,parent,531531,6,collectif,10,Hospital
+139,21014A10-,SAINT-FRANCOIS,842451,14,1,female,parent,461083,6,collectif,10,Hospital
+140,21006A323,GERMINAL II,481276,12,0,male,parent,263453,6,collectif,10,Hospital
+141,21012A172,GARE OUEST,687153,13,0,male,parent,378067,6,collectif,10,Hospital
+142,21017A01-,COIN DU BALAI,1105302,14,1,female,parent,599493,6,collectif,10,Hospital
+143,21007A252,MESSIDOR II,482721,12,1,female,parent,264191,6,collectif,10,Hospital
+144,21018A82-,MARIE LA MISERABLE,1171171,16,0,male,parent,637020,6,collectif,10,Hospital
+145,21001C6PB,ZONE RURALE,1223927,11,0,male,parent,666132,6,collectif,10,Hospital
+146,21004G321,HAREN-EST,209076,8,0,male,parent,110634,6,collectif,10,Hospital
+147,21004F511,AVENUE DES PAGODES,196946,9,1,female,parent,104412,6,collectif,10,Hospital
+148,21015A04-,L'OLIVIER (RUE),947550,9,1,female,parent,515279,6,collectif,10,Hospital
+149,21004A72-,SAINT-THOMAS (INSTITUT),268329,12,0,male,parent,145710,6,collectif,10,Hospital
+150,21004E70-,MARIE-CHRISTINE (RUE),305445,6,1,female,parent,168754,6,collectif,10,Hospital
+151,21012A21-,MARIE-JOSE BLOCS,740498,14,0,male,parent,404794,6,collectif,10,Hospital
+152,21012A12-,BIRMINGHAM-SUD,701080,9,1,female,parent,385066,6,collectif,10,Hospital
+153,21019A20-,SAINT-PAUL,1207574,15,1,female,parent,657020,6,collectif,10,Hospital
+154,21003A10-,HOPITAL FRANCAIS,189045,8,1,female,parent,99819,6,collectif,10,Hospital
+155,21001C71-,BON AIR - CITE JARDIN,37746,10,0,male,parent,20696,6,collectif,10,Hospital
+156,21012A011,CANAL-SUD,773455,11,0,male,parent,421955,6,collectif,10,Hospital
+157,21019A131,KONKEL,1183281,6,0,male,parent,643930,6,collectif,10,Hospital
+158,21015A021,HOUFFALIZE (PLACE),894324,17,1,female,parent,488315,6,collectif,10,Hospital
+159,21012A672,ULENS,703904,14,0,male,parent,386463,6,collectif,10,Hospital
+160,21012A152,ETANGS NOIRS,746603,9,0,male,parent,408000,6,collectif,10,Hospital
+161,21015A101,GARE,936684,4,1,female,parent,510179,6,collectif,10,Hospital
+162,21004A22-,SENNE (RUE DE LA),265810,8,1,female,parent,144047,6,collectif,10,Hospital
+163,21017A12-,LE LOGIS-NORD,1107707,15,1,female,parent,600827,6,collectif,10,Hospital
+164,21012A60-,LAEKENVELD,709114,5,0,male,parent,389018,6,collectif,10,Hospital
+165,21015A612,BRICHAUT (RUE DE),967402,3,0,male,parent,525183,6,collectif,10,Hospital
+166,21013A23-,ROI (AVENUE DU),800284,9,0,male,parent,436528,6,collectif,10,Hospital
+167,21012A60-,LAEKENVELD,709006,12,0,male,parent,388910,6,collectif,10,Hospital
+168,21015A24-,WAELHEM (RUE),980956,9,0,male,parent,531578,6,collectif,10,Hospital
+169,21012A60-,LAEKENVELD,708663,12,1,female,parent,388567,6,collectif,10,Hospital
+170,21009A83-,L. ERNOTTE (RUE),553548,8,1,female,parent,304818,6,collectif,10,Hospital
+171,21013A51-,TOISON D'OR (AVENUE),828830,15,1,female,parent,453846,6,collectif,10,Hospital
+172,21012A63-,DUBRUCQ-NORD,711570,14,0,male,parent,390057,6,collectif,10,Hospital
+173,21007A53-,WIELEMANS CEUPPENS,493696,10,0,male,parent,270331,6,collectif,10,Hospital
+174,21002A041,VIGNETTE,161077,14,1,female,parent,85404,6,collectif,10,Hospital
+175,21010A04-,NOTRE-DAME DE LOURDES,598083,13,0,male,parent,332690,6,collectif,10,Hospital
+176,21001A031,RAUTER-SUD,53520,6,0,male,parent,29442,6,collectif,10,Hospital
+177,21015A00-,COLIGNON (PLACE),976453,6,1,female,parent,529102,6,collectif,10,Hospital
+178,21007A242,GLOBE,486941,8,0,male,parent,266708,6,collectif,10,Hospital
+179,21004E82-,CITE MODELE,373458,13,0,male,parent,203086,6,collectif,10,Hospital
+180,21006A001,VIEIL EVERE,463986,11,0,male,parent,254407,6,collectif,10,Hospital
+181,21014A05-,HOUWAERT,857021,13,0,male,parent,468618,6,collectif,10,Hospital
+182,21015A40-,BRABANT (RUE DE),953942,4,0,male,parent,518802,6,collectif,10,Hospital
+183,21001A401,ARBORETUM,12611,16,1,female,parent,6898,6,collectif,10,Hospital
+184,21018A63-,CONSTELLATIONS,1143645,13,0,male,parent,621268,6,collectif,10,Hospital
+185,21006A171,ANCIEN COMBATTANTS (AVENUE),468107,5,1,female,parent,256639,6,collectif,10,Hospital
+186,21019A22-,PUTDAAL,1221292,15,0,male,parent,664673,6,collectif,10,Hospital
+187,21015A00-,COLIGNON (PLACE),976458,6,1,female,parent,529107,6,collectif,10,Hospital
+188,21003A11-,CITE MODERNE,182144,12,1,female,parent,96162,6,collectif,10,Hospital
+189,21001B20-,CONSEIL-NORD,62438,14,0,male,parent,33819,6,collectif,10,Hospital
+190,21012A60-,LAEKENVELD,709130,4,0,male,parent,389034,6,collectif,10,Hospital
+191,21015A101,GARE,936678,5,1,female,parent,510173,6,collectif,10,Hospital
+192,21004E82-,CITE MODELE,373257,14,1,female,parent,202885,6,collectif,10,Hospital
+193,21019A34-,EUROPE (QUARTIER DE L'),1195147,12,1,female,parent,650438,6,collectif,10,Hospital
+194,21001B11-,ROSEE-OUEST,79179,9,0,male,parent,42769,6,collectif,10,Hospital
+195,21004E74-,EM. DELVA (RUE),314375,13,0,male,parent,173018,6,collectif,10,Hospital
+196,21006A312,J. BORDET (AVENUE DE),455770,7,1,female,parent,250262,6,collectif,10,Hospital
+197,21019A252,MONTGOLFIER,1181157,5,1,female,parent,642808,6,collectif,10,Hospital
+198,21015A021,HOUFFALIZE (PLACE),894625,8,0,male,parent,488616,6,collectif,10,Hospital
+199,21004E70-,MARIE-CHRISTINE (RUE),305337,14,1,female,parent,168646,6,collectif,10,Hospital
+200,21019A32-,CHANT D'OISEAU,1204645,12,0,male,parent,655556,6,collectif,10,Hospital
+201,21004D610,ANVERS (CHAUSSEE D')-SUD,382333,10,1,female,parent,208046,6,collectif,10,Hospital
+202,21001A83-,PETERBOS,6946,9,1,female,parent,3650,6,collectif,10,Hospital
+203,21004A72-,SAINT-THOMAS (INSTITUT),268341,10,0,male,parent,145722,6,collectif,10,Hospital
+204,21015A612,BRICHAUT (RUE DE),967358,10,0,male,parent,525139,6,collectif,10,Hospital
+205,21004E70-,MARIE-CHRISTINE (RUE),305767,8,0,male,parent,169076,6,collectif,10,Hospital
+206,21012A41-,MOORTEBEEK,758771,3,1,female,parent,414329,6,collectif,10,Hospital
+207,21007A41-,PONT DE LUTTRE-OUEST,489118,8,1,female,parent,267847,6,collectif,10,Hospital
+208,21015A50-,OPALE,862944,14,1,female,parent,471913,6,collectif,10,Hospital
+209,21004A72-,SAINT-THOMAS (INSTITUT),268201,14,1,female,parent,145582,6,collectif,10,Hospital
+210,21014A04-,HAECHT (CHAUSSEE DE),848814,7,1,female,parent,464413,6,collectif,10,Hospital
+211,21009A712,CHATELAIN (PLACE DU)-OUEST,561707,11,1,female,parent,310159,6,collectif,10,Hospital
+212,21001C512,CHANTS D'OISEAUX,36110,14,1,female,parent,19753,6,collectif,10,Hospital
+213,21004E101,PARVIS NOTRE DAME,359603,13,0,male,parent,195678,6,collectif,10,Hospital
+214,21004F922,RUE CHATEAU BEYAERD,239713,11,1,female,parent,128301,6,collectif,10,Hospital
+215,21018A32-,CLOS DES PEUPLIERS,1127310,14,0,male,parent,612066,6,collectif,10,Hospital
+216,21004G30-,SAINTE-ELISABETH,205504,11,1,female,parent,108630,6,collectif,10,Hospital
+217,21001A72-,OSSEGEM,82743,7,0,male,parent,44612,6,collectif,10,Hospital
+218,21018A22-,DE BROQUEVILLE (AVENUE)-SUD,1134356,12,0,male,parent,616180,6,collectif,10,Hospital
+219,21010A141,BRUGMANN,635021,8,1,female,parent,351560,6,collectif,10,Hospital
+220,21001A00-,RESISTANCE,105752,12,1,female,parent,56119,6,collectif,10,Hospital
+221,21009A63-,MACAU,531623,13,0,male,parent,291432,6,collectif,10,Hospital
+222,21004E72-,MAISON ROUGE (PLACE)-SUD,340966,5,1,female,parent,185822,6,collectif,10,Hospital
+223,21012A72-,LAVALLEE,725168,14,1,female,parent,396760,6,collectif,10,Hospital
+224,21016A311,FORT JACO,1088080,17,0,male,parent,589537,6,collectif,10,Hospital
+225,21003A0AJ,HUNDERENVELD,169855,15,1,female,parent,90048,6,collectif,10,Hospital
+226,21012A62-,LIBERATEURS,716701,13,1,female,parent,392579,6,collectif,10,Hospital
+227,21004F901,PLACE PETER BENOIT,202088,15,1,female,parent,107138,6,collectif,10,Hospital
+228,21004A21-,ANNEESSENS (PLACE),298355,11,1,female,parent,165078,6,collectif,10,Hospital
+229,21007A53-,WIELEMANS CEUPPENS,493703,8,0,male,parent,270338,6,collectif,10,Hospital
+230,21016A311,FORT JACO,1088108,12,0,male,parent,589565,6,collectif,10,Hospital
+231,21015A43-,GARE DU NORD,955677,3,1,female,parent,519612,6,collectif,10,Hospital
+232,21012A25-,BEEKKANT,686025,5,0,male,parent,377529,6,collectif,10,Hospital
+233,21003A04-,L. DE SMET,168882,4,0,male,parent,89558,6,collectif,10,Hospital
+234,21012A672,ULENS,703964,7,0,male,parent,386523,6,collectif,10,Hospital
+235,21001A82-,MOORTEBEEK,39625,7,1,female,parent,21700,6,collectif,10,Hospital
+236,21015A63-,DESCHANEL P. (AVENUE),879137,6,1,female,parent,480887,6,collectif,10,Hospital
+237,21015A12-,HUART HAMOIR (AVENUE),930940,12,1,female,parent,507455,6,collectif,10,Hospital
+238,21004E12-,PRINCE LEOPOLD (SQUARE),353672,12,1,female,parent,192202,6,collectif,10,Hospital
+239,21015A101,GARE,936672,5,1,female,parent,510167,6,collectif,10,Hospital
+240,21015A24-,WAELHEM (RUE),980970,7,0,male,parent,531592,6,collectif,10,Hospital
+241,21004B2MJ,SCHUMAN (ROND-POINT),213727,7,1,female,parent,113657,6,collectif,10,Hospital
+242,21015A00-,COLIGNON (PLACE),976312,15,1,female,parent,528961,6,collectif,10,Hospital
+243,21015A73-,H. EVENEPOEL (RUE),866999,12,1,female,parent,474386,6,collectif,10,Hospital
+244,21004E211,RUE DE WAND,347571,10,0,male,parent,189311,6,collectif,10,Hospital
+245,21018A60-,ROODEBEEK PARC,1158019,9,1,female,parent,629267,6,collectif,10,Hospital
+246,21001B25-,REVISION-NORD,78126,6,1,female,parent,42045,6,collectif,10,Hospital
+247,21003A331,ALLEE VERTE,167683,3,0,male,parent,88914,6,collectif,10,Hospital
+248,21012A02-,BRUNFAUT (QUARTIER),772007,15,1,female,parent,421129,6,collectif,10,Hospital
+249,21004A70-,BLAES (RUE)-SUD,255737,9,0,male,parent,137778,6,collectif,10,Hospital
+250,21018A62-,HEYDENBERG-OUEST,1150907,11,1,female,parent,625081,6,collectif,10,Hospital
+251,21004E12-,PRINCE LEOPOLD (SQUARE),353972,8,0,male,parent,192502,6,collectif,10,Hospital
+252,21018A20-,GEORGES HENRI (AVENUE),1118422,8,1,female,parent,606969,6,collectif,10,Hospital
+253,21001B20-,CONSEIL-NORD,62561,7,0,male,parent,33942,6,collectif,10,Hospital
+254,21013A242,BETHLEEM (PLACE DE),776727,7,1,female,parent,423600,6,collectif,10,Hospital
+255,21012A03-,RANSFORT,769493,11,1,female,parent,419668,6,collectif,10,Hospital
+256,21015A13-,PORTAELS (RUE),983340,6,0,male,parent,532688,6,collectif,10,Hospital
+257,21004E12-,PRINCE LEOPOLD (SQUARE),353868,14,0,male,parent,192398,6,collectif,10,Hospital
+258,21001A051,LINDE-EST,67117,4,0,male,parent,36447,6,collectif,10,Hospital
+259,21004A20-,BOURSE-NORD-OUEST,279157,13,1,female,parent,153058,6,collectif,10,Hospital
+260,21004E82-,CITE MODELE,373324,9,1,female,parent,202952,6,collectif,10,Hospital
+261,21018A34-,HOF TEN BERG-SUD,1126785,15,1,female,parent,611765,6,collectif,10,Hospital
+262,21003A10-,HOPITAL FRANCAIS,189033,10,1,female,parent,99807,6,collectif,10,Hospital
+263,21004G30-,SAINTE-ELISABETH,205690,12,0,male,parent,108816,6,collectif,10,Hospital
+264,21016A410,ALPHONSE XIII,1078595,5,0,male,parent,584499,6,collectif,10,Hospital
+265,21004E73-,EM. BOCKSTAEL (BOULEVARD)-SUD,334594,13,1,female,parent,182817,6,collectif,10,Hospital
+266,21010A03-,MIROIR,601473,15,1,female,parent,334263,6,collectif,10,Hospital
+267,21004A24-,MARCHE AU PORCS,226512,15,1,female,parent,121276,6,collectif,10,Hospital
+268,21011A20-,PLATEAU,657868,5,1,female,parent,362861,6,collectif,10,Hospital
+269,21016A639,HOMBORCH,1081656,12,1,female,parent,586095,6,collectif,10,Hospital
+270,21001A732,SCHEUTVELD,69925,13,0,male,parent,37824,6,collectif,10,Hospital
+271,21004F91-,CROIX DE GUERRE (AVENUE DES),236488,7,1,female,parent,126822,6,collectif,10,Hospital
+272,21006A171,ANCIEN COMBATTANTS (AVENUE),468181,9,0,male,parent,256713,6,collectif,10,Hospital
+273,21015A04-,L'OLIVIER (RUE),947505,16,1,female,parent,515234,6,collectif,10,Hospital
+274,21004A25-,BEGUINAGE (PLACE DU),213120,13,0,male,parent,113277,6,collectif,10,Hospital
+275,21004E70-,MARIE-CHRISTINE (RUE),305364,12,1,female,parent,168673,6,collectif,10,Hospital
+276,21012A011,CANAL-SUD,773445,12,0,male,parent,421945,6,collectif,10,Hospital
+277,21015A00-,COLIGNON (PLACE),976343,14,1,female,parent,528992,6,collectif,10,Hospital
+278,21004E82-,CITE MODELE,373345,7,1,female,parent,202973,6,collectif,10,Hospital
+279,21007A00-,CENTRE SAINT-DENIS,509265,11,0,male,parent,278440,6,collectif,10,Hospital
+280,21006A13-,MAISON COMMUNALE,440831,10,0,male,parent,242098,6,collectif,10,Hospital
+281,21010A01-,ESSEGHEM,640137,12,1,female,parent,353966,6,collectif,10,Hospital
+282,21019A01-,BOULEVARD DE LA WOLUWE,1198968,7,1,female,parent,652536,6,collectif,10,Hospital
+283,21012A60-,LAEKENVELD,709061,9,0,male,parent,388965,6,collectif,10,Hospital
+284,21001A031,RAUTER-SUD,53371,13,1,female,parent,29293,6,collectif,10,Hospital
+285,21018A61-,HEYDENBERG-EST,1147134,4,1,female,parent,622990,6,collectif,10,Hospital
+286,21010A01-,ESSEGHEM,640387,13,0,male,parent,354216,6,collectif,10,Hospital
+287,21014A12-,SAINT-LAZARE,844393,9,1,female,parent,462254,6,collectif,10,Hospital
+288,21001A441,DOCTEUR ROUX,34347,17,1,female,parent,18634,6,collectif,10,Hospital
+289,21004F901,PLACE PETER BENOIT,202208,15,0,male,parent,107258,6,collectif,10,Hospital
+290,21004A72-,SAINT-THOMAS (INSTITUT),268249,9,1,female,parent,145630,6,collectif,10,Hospital
+291,21010A01-,ESSEGHEM,640219,5,1,female,parent,354048,6,collectif,10,Hospital
+292,21012A02-,BRUNFAUT (QUARTIER),772018,13,1,female,parent,421140,6,collectif,10,Hospital
+293,21004B43-,AMBIORIX-NORD (SQUARE),222809,14,1,female,parent,118957,6,collectif,10,Hospital
+294,21012A52-,NEEP (QUARTIER DU),750764,11,0,male,parent,410222,6,collectif,10,Hospital
+295,21001A72-,OSSEGEM,82532,10,1,female,parent,44401,6,collectif,10,Hospital
+296,21012A12-,BIRMINGHAM-SUD,701281,3,0,male,parent,385267,6,collectif,10,Hospital
+297,21012A672,ULENS,703963,7,0,male,parent,386522,6,collectif,10,Hospital
+298,21001A95-,BUFFON,109394,9,0,male,parent,57894,6,collectif,10,Hospital
+299,21012A00-,CENTRE,694431,8,1,female,parent,381650,6,collectif,10,Hospital
+300,21003A02-,LAURE - BASILIQUE,173225,14,1,female,parent,91751,6,collectif,10,Hospital
+301,21001A34-,ROUE - CITE JARDIN,30748,13,0,male,parent,16758,6,collectif,10,Hospital
+302,21009A52-,GRAY (RUE),557538,12,0,male,parent,307085,6,collectif,10,Hospital
+303,21007A071,BOLLINCKX,514153,5,0,male,parent,280962,6,collectif,10,Hospital
+304,21013A242,BETHLEEM (PLACE DE),776737,6,1,female,parent,423610,6,collectif,10,Hospital
+305,21004E82-,CITE MODELE,373242,14,1,female,parent,202870,6,collectif,10,Hospital
+306,21019A22-,PUTDAAL,1221178,9,1,female,parent,664559,6,collectif,10,Hospital
+307,21001A503,VIVES,9061,7,0,male,parent,5037,6,collectif,10,Hospital
+308,21018A13-,GROOTVELD,1169117,12,0,male,parent,635853,6,collectif,10,Hospital
+309,21010A01-,ESSEGHEM,640096,14,1,female,parent,353925,6,collectif,10,Hospital
+310,21012A03-,RANSFORT,769710,12,0,male,parent,419885,6,collectif,10,Hospital
+311,21012A60-,LAEKENVELD,708673,11,1,female,parent,388577,6,collectif,10,Hospital
+312,21012A03-,RANSFORT,769755,7,0,male,parent,419930,6,collectif,10,Hospital
+313,21012A63-,DUBRUCQ-NORD,711595,10,0,male,parent,390082,6,collectif,10,Hospital
+314,21016A922,WOLVENBERG,1026399,12,0,male,parent,556080,6,collectif,10,Hospital
+315,21010A05-,ALBERT (QUARTIER),618666,13,1,female,parent,342896,6,collectif,10,Hospital
+316,21001A00-,RESISTANCE,105775,5,1,female,parent,56142,6,collectif,10,Hospital
+317,21013A211,FONTAINAS,810771,10,0,male,parent,442743,6,collectif,10,Hospital
+318,21001B23-,CONSEIL-SUD,64086,7,1,female,parent,34803,6,collectif,10,Hospital
+319,21004E101,PARVIS NOTRE DAME,359625,9,0,male,parent,195700,6,collectif,10,Hospital
+320,21001A34-,ROUE - CITE JARDIN,30574,12,1,female,parent,16584,6,collectif,10,Hospital
+321,21004E12-,PRINCE LEOPOLD (SQUARE),353711,10,1,female,parent,192241,6,collectif,10,Hospital
+322,21007A541,LYCEE,498850,5,1,female,parent,273001,6,collectif,10,Hospital
+323,21012A141,INDEPENDANCE,767715,14,0,male,parent,418830,6,collectif,10,Hospital
+324,21001A83-,PETERBOS,7147,9,0,male,parent,3851,6,collectif,10,Hospital
+325,21004A22-,SENNE (RUE DE LA),266125,4,0,male,parent,144362,6,collectif,10,Hospital
+326,21004F9MJ,NEDER-HEEMBEEK-NORD,248860,15,1,female,parent,133571,6,collectif,10,Hospital
+327,21004A04-,NOTRE-DAME DE LA CHAPELLE,273533,13,1,female,parent,149335,6,collectif,10,Hospital
+328,21004A72-,SAINT-THOMAS (INSTITUT),268205,13,1,female,parent,145586,6,collectif,10,Hospital
+329,21015A13-,PORTAELS (RUE),983199,7,1,female,parent,532547,6,collectif,10,Hospital
+330,21005A00-,HOTEL COMMUNAL,426580,8,0,male,parent,233698,6,collectif,10,Hospital
+331,21015A64-,DUPLOYE SQUARE,904606,11,1,female,parent,493569,6,collectif,10,Hospital
+332,21001A350,CERIA - ZONE D'HABITAT,32041,15,1,female,parent,17387,6,collectif,10,Hospital
+333,21015A43-,GARE DU NORD,955639,13,1,female,parent,519574,6,collectif,10,Hospital
+334,21012A03-,RANSFORT,769707,13,0,male,parent,419882,6,collectif,10,Hospital
+335,21015A00-,COLIGNON (PLACE),976867,10,0,male,parent,529516,6,collectif,10,Hospital
+336,21001A011,KLEINMOLEN,86028,15,0,male,parent,46338,6,collectif,10,Hospital
+337,21010A312,BAECK DUPRE,609791,16,0,male,parent,338778,6,collectif,10,Hospital
+338,21004A02-,SAINT-FRANCOIS XAVIER,250543,15,1,female,parent,134757,6,collectif,10,Hospital
+339,21012A141,INDEPENDANCE,767725,14,0,male,parent,418840,6,collectif,10,Hospital
+340,21001B21-,BROGNIEZ-NORD,92173,2,0,male,parent,49573,6,collectif,10,Hospital
+341,21004A21-,ANNEESSENS (PLACE),298374,10,1,female,parent,165097,6,collectif,10,Hospital
+342,21012A71-,PIERS,738570,8,0,male,parent,403722,6,collectif,10,Hospital
+343,21004A23-,NOUVEAU MARCHE AU GRAIN,261457,13,0,male,parent,141464,6,collectif,10,Hospital
+344,21002A441,CHANT D'OISEAUX,139227,7,0,male,parent,73503,6,collectif,10,Hospital
+345,21014A04-,HAECHT (CHAUSSEE DE),848781,13,1,female,parent,464380,6,collectif,10,Hospital
+346,21014A14-,PRAIRIE,835841,9,0,male,parent,457885,6,collectif,10,Hospital
+347,21018A12-,STOCKEL (CHAUSSEE DE),1170470,11,1,female,parent,636582,6,collectif,10,Hospital
+348,21002A11-,SACRE-COEUR,153700,12,0,male,parent,81521,6,collectif,10,Hospital
+349,21014A14-,PRAIRIE,835690,10,1,female,parent,457734,6,collectif,10,Hospital
+350,21006A13-,MAISON COMMUNALE,440733,9,1,female,parent,242000,6,collectif,10,Hospital
+351,21012A71-,PIERS,738532,12,0,male,parent,403684,6,collectif,10,Hospital
+352,21004A21-,ANNEESSENS (PLACE),298818,12,0,male,parent,165541,6,collectif,10,Hospital
+353,21014A02-,CHARITE,834359,2,1,female,parent,456958,6,collectif,10,Hospital
+354,21017A041,DREVE DU DUC,1114843,6,1,female,parent,604998,6,collectif,10,Hospital
+355,21003A11-,CITE MODERNE,182251,10,0,male,parent,96269,6,collectif,10,Hospital
+356,21001B21-,BROGNIEZ-NORD,92071,17,0,male,parent,49471,6,collectif,10,Hospital
+357,21001A83-,PETERBOS,6951,8,1,female,parent,3655,6,collectif,10,Hospital
+358,21001B23-,CONSEIL-SUD,64198,4,0,male,parent,34915,6,collectif,10,Hospital
+359,21001B321,ALBERT I- QUARTIER,56846,7,0,male,parent,31141,6,collectif,10,Hospital
+360,21006A13-,MAISON COMMUNALE,440721,14,1,female,parent,241988,6,collectif,10,Hospital
+361,21003A05-,DE SELLIERS DE MORANVILLE,184322,6,0,male,parent,97365,6,collectif,10,Hospital
+362,21012A72-,LAVALLEE,725186,11,1,female,parent,396778,6,collectif,10,Hospital
+363,21012A12-,BIRMINGHAM-SUD,701084,9,1,female,parent,385070,6,collectif,10,Hospital
+364,21001A84-,POESIE,28315,14,1,female,parent,15480,6,collectif,10,Hospital
+365,21007A541,LYCEE,498945,11,0,male,parent,273096,6,collectif,10,Hospital
+366,21001C71-,BON AIR - CITE JARDIN,37569,15,1,female,parent,20519,6,collectif,10,Hospital
+367,21005A322,NOUVELLE AVENUE-SUD,406031,5,0,male,parent,221884,6,collectif,10,Hospital
+368,21012A152,ETANGS NOIRS,746586,10,0,male,parent,407983,6,collectif,10,Hospital
+369,21001A441,DOCTEUR ROUX,34538,11,0,male,parent,18825,6,collectif,10,Hospital
+370,21018A14-,CHANCELLERIE,1168498,10,1,female,parent,635424,6,collectif,10,Hospital
+371,21001A503,VIVES,8989,14,1,female,parent,4965,6,collectif,10,Hospital
+372,21004E74-,EM. DELVA (RUE),314021,14,1,female,parent,172664,6,collectif,10,Hospital
+373,21004G3MJ,DOBBELENBERG (RUE DE),233414,13,1,female,parent,125278,6,collectif,10,Hospital
+374,21015A24-,WAELHEM (RUE),980998,4,0,male,parent,531620,6,collectif,10,Hospital
+375,21015A53-,DAILLY (PLACE),913286,14,1,female,parent,498117,6,collectif,10,Hospital
+376,21013A422,CRICKX (RUE),786484,11,1,female,parent,428924,6,collectif,10,Hospital
+377,21005A02-,CHAMP DU ROI (RUE),394577,14,0,male,parent,215145,6,collectif,10,Hospital
+378,21001A83-,PETERBOS,6936,10,1,female,parent,3640,6,collectif,10,Hospital
+379,21012A152,ETANGS NOIRS,746508,15,0,male,parent,407905,6,collectif,10,Hospital
+380,21015A77-,R.T.B.,865615,14,0,male,parent,473713,6,collectif,10,Hospital
+381,21004E72-,MAISON ROUGE (PLACE)-SUD,340854,14,1,female,parent,185710,6,collectif,10,Hospital
+382,21001A82-,MOORTEBEEK,39637,5,1,female,parent,21712,6,collectif,10,Hospital
+383,21017A13-,BOULEAUX,1109080,7,1,female,parent,601624,6,collectif,10,Hospital
+384,21012A23-,MACHTENS-SUD,756950,12,1,female,parent,413336,6,collectif,10,Hospital
+385,21015A00-,COLIGNON (PLACE),976339,14,1,female,parent,528988,6,collectif,10,Hospital
+386,21015A03-,JOSAPHAT (RUE),890706,9,1,female,parent,486595,6,collectif,10,Hospital
+387,21004E101,PARVIS NOTRE DAME,359506,11,1,female,parent,195581,6,collectif,10,Hospital
+388,21016A701,MERLO,1034413,14,0,male,parent,560411,6,collectif,10,Hospital
+389,21004D610,ANVERS (CHAUSSEE D')-SUD,382622,3,0,male,parent,208335,6,collectif,10,Hospital
+390,21015A21-,GUIDO GEZELLE (RUE),997439,9,0,male,parent,539375,6,collectif,10,Hospital
+391,21001A441,DOCTEUR ROUX,34369,10,1,female,parent,18656,6,collectif,10,Hospital
+392,21004E72-,MAISON ROUGE (PLACE)-SUD,341184,12,0,male,parent,186040,6,collectif,10,Hospital
+393,21016A912,GLOBE-OUEST,1027679,9,0,male,parent,556688,6,collectif,10,Hospital
+394,21012A62-,LIBERATEURS,716706,13,1,female,parent,392584,6,collectif,10,Hospital
+395,21012A71-,PIERS,738555,10,0,male,parent,403707,6,collectif,10,Hospital
+396,21016A701,MERLO,1034332,10,1,female,parent,560330,6,collectif,10,Hospital
+397,21001A85-,AUBADE,21029,6,0,male,parent,11517,6,collectif,10,Hospital
+398,21016A639,HOMBORCH,1081799,14,0,male,parent,586238,6,collectif,10,Hospital
+399,21016A933,VOSSEGAT-OUEST,1030998,13,0,male,parent,558561,6,collectif,10,Hospital
+400,21015A36-,CAMBIER (AVENUE E.),872212,13,0,male,parent,477346,6,collectif,10,Hospital
