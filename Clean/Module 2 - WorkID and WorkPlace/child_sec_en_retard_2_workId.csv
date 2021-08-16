@@ -1,0 +1,42 @@
+,Unnamed: 0.1,SectorStatID,SectorStatName,PersID,Age,GenderID,GenderName,ChildOrParent,HouseholdID,HouseholdTypeID,HouseholdTypeName,WorkerID,WorkerType,WorkerID,WorkerType
+0,226047,21004B43-,AMBIORIX-NORD (SQUARE),226047,13,0,male,parent,122352,1,couple_with_child,,,2,Primaires
+1,300128,21004A21-,ANNEESSENS (PLACE),300128,13,0,male,child,168292,1,couple_with_child,,,2,Primaires
+2,311915,21004E70-,MARIE-CHRISTINE (RUE),311915,13,0,male,parent,172705,1,couple_with_child,,,2,Primaires
+3,314326,21004E74-,EM. DELVA (RUE),314326,13,0,male,child,175981,1,couple_with_child,,,2,Primaires
+4,322425,21004E201,AVENUE JEAN DE BOLOGNE,322425,13,0,male,child,180190,1,couple_with_child,,,2,Primaires
+5,333629,21004E130,SACRE-COEUR,333629,13,0,male,child,185734,4,single_with_child,,,2,Primaires
+6,347802,21004E72-,MAISON ROUGE (PLACE)-SUD,347802,13,0,male,parent,191833,4,single_with_child,,,2,Primaires
+7,360661,21004E12-,PRINCE LEOPOLD (SQUARE),360661,13,0,male,parent,198430,1,couple_with_child,,,2,Primaires
+8,795370,21012A60-,LAEKENVELD,795370,13,0,male,parent,444544,4,single_with_child,,,2,Primaires
+9,803513,21012A62-,LIBERATEURS,803513,13,0,male,parent,448802,4,single_with_child,,,2,Primaires
+10,821887,21012A71-,PIERS,821887,13,0,male,child,460419,1,couple_with_child,,,2,Primaires
+11,830095,21012A152,ETANGS NOIRS,830095,13,0,male,child,464508,1,couple_with_child,,,2,Primaires
+12,847763,21012A822,KORENBEEK,847763,13,0,male,child,474273,1,couple_with_child,,,2,Primaires
+13,917384,21014A00-,PLACE SAINT-JOSSE,917384,13,0,male,child,514048,1,couple_with_child,,,2,Primaires
+14,927544,21014A41-,BOSSUET,927544,13,0,male,parent,518226,1,couple_with_child,,,2,Primaires
+15,928563,21014A10-,SAINT-FRANCOIS,928563,13,0,male,child,520114,1,couple_with_child,,,2,Primaires
+16,936628,21014A04-,HAECHT (CHAUSSEE DE),936628,13,0,male,parent,522963,1,couple_with_child,,,2,Primaires
+17,943588,21014A05-,HOUWAERT,943588,13,0,male,child,528237,4,single_with_child,,,2,Primaires
+18,938589,21014A05-,HOUWAERT,938589,13,0,male,child,525534,1,couple_with_child,,,2,Primaires
+19,946469,21015A50-,OPALE,946469,13,0,male,child,529884,4,single_with_child,,,2,Primaires
+20,970917,21015A831,LATINIS (AVENUE G.),970917,13,0,male,child,543529,1,couple_with_child,,,2,Primaires
+21,975523,21015A03-,JOSAPHAT (RUE),975523,13,0,male,child,545792,1,couple_with_child,,,2,Primaires
+22,980365,21015A021,HOUFFALIZE (PLACE),980365,13,0,male,child,548195,4,single_with_child,,,2,Primaires
+23,984513,21015A30-,GRANDE RUE AU BOIS,984513,13,0,male,child,550278,1,couple_with_child,,,2,Primaires
+24,987834,21015A32-,CONSOLATION (RUE DE LA),987834,13,0,male,child,552087,4,single_with_child,,,2,Primaires
+25,991042,21015A64-,DUPLOYE SQUARE,991042,13,0,male,child,553697,4,single_with_child,,,2,Primaires
+26,1001960,21015A53-,DAILLY (PLACE),1001960,13,0,male,parent,558372,1,couple_with_child,,,2,Primaires
+27,1003373,21015A54-,EMERAUDE (AVENUE),1003373,13,0,male,child,560331,1,couple_with_child,,,2,Primaires
+28,1008327,21015A52-,LINTHOUT (RUE),1008327,13,0,male,child,563043,1,couple_with_child,,,2,Primaires
+29,1014361,21015A05-,ROYALE SAINTE-MARIE (RUE),1014361,13,0,male,child,566130,1,couple_with_child,,,2,Primaires
+30,1021147,21015A152,PR. ELISABETH-NORD,1021147,13,0,male,child,569783,1,couple_with_child,,,2,Primaires
+31,1026195,21015A111,MAETERLINCK,1026195,13,0,male,child,572370,1,couple_with_child,,,2,Primaires
+32,1032794,21015A04-,L'OLIVIER (RUE),1032794,13,0,male,child,575628,4,single_with_child,,,2,Primaires
+33,1039986,21015A40-,BRABANT (RUE DE),1039986,13,0,male,child,579312,1,couple_with_child,,,2,Primaires
+34,1048512,21015A44-,REINE (AVENUE),1048512,13,0,male,parent,582549,1,couple_with_child,,,2,Primaires
+35,1049851,21015A41-,VANDERLINDEN (RUE),1049851,13,0,male,child,584243,1,couple_with_child,,,2,Primaires
+36,1053120,21015A612,BRICHAUT (RUE DE),1053120,13,0,male,child,585912,4,single_with_child,,,2,Primaires
+37,1065977,21015A00-,COLIGNON (PLACE),1065977,13,0,male,parent,588893,1,couple_with_child,,,2,Primaires
+38,1067830,21015A24-,WAELHEM (RUE),1067830,13,0,male,child,593212,1,couple_with_child,,,2,Primaires
+39,1076186,21015A22-,MARBOTIN A. (RUE),1076186,13,0,male,parent,595914,4,single_with_child,,,2,Primaires
+40,1080403,21015A20-,HELMET,1080403,13,0,male,child,599266,4,single_with_child,,,2,Primaires
