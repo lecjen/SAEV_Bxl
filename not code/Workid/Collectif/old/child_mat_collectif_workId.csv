@@ -1,0 +1,1992 @@
+,SectorStatID,SectorStatName,PersID,Age,GenderID,GenderName,ChildOrParent,HouseholdID,HouseholdTypeID,HouseHorldTypeName,WorkerID,WorkerType
+2694,21001A041,VEEWEYDE-SUD,2836,5,0,male,parent,1406,6,collectif,10,Hospital
+2695,21001A041,VEEWEYDE-SUD,2837,5,0,male,parent,1407,6,collectif,10,Hospital
+6616,21001A83-,PETERBOS,7166,5,0,male,parent,3870,6,collectif,10,Hospital
+6617,21001A83-,PETERBOS,7171,5,0,male,parent,3875,6,collectif,10,Hospital
+6618,21001A83-,PETERBOS,7172,5,0,male,parent,3876,6,collectif,10,Hospital
+9509,21001A332,ROUE,10273,5,1,female,parent,5621,6,collectif,10,Hospital
+9580,21001A332,ROUE,10394,5,0,male,parent,5742,6,collectif,10,Hospital
+11718,21001A401,ARBORETUM,12659,5,0,male,parent,6946,6,collectif,10,Hospital
+19536,21001A85-,AUBADE,20941,5,1,female,parent,11429,6,collectif,10,Hospital
+19537,21001A85-,AUBADE,20942,5,1,female,parent,11430,6,collectif,10,Hospital
+19538,21001A85-,AUBADE,20943,3,1,female,parent,11431,6,collectif,10,Hospital
+19539,21001A85-,AUBADE,20944,3,1,female,parent,11432,6,collectif,10,Hospital
+19616,21001A85-,AUBADE,21032,5,0,male,parent,11520,6,collectif,10,Hospital
+19617,21001A85-,AUBADE,21034,5,0,male,parent,11522,6,collectif,10,Hospital
+19618,21001A85-,AUBADE,21035,5,0,male,parent,11523,6,collectif,10,Hospital
+19619,21001A85-,AUBADE,21036,5,0,male,parent,11524,6,collectif,10,Hospital
+19620,21001A85-,AUBADE,21037,5,0,male,parent,11525,6,collectif,10,Hospital
+19621,21001A85-,AUBADE,21038,4,0,male,parent,11526,6,collectif,10,Hospital
+19622,21001A85-,AUBADE,21039,4,0,male,parent,11527,6,collectif,10,Hospital
+19623,21001A85-,AUBADE,21040,4,0,male,parent,11528,6,collectif,10,Hospital
+19624,21001A85-,AUBADE,21041,4,0,male,parent,11529,6,collectif,10,Hospital
+19625,21001A85-,AUBADE,21042,4,0,male,parent,11530,6,collectif,10,Hospital
+21888,21001A42-,KAT,23469,5,0,male,parent,12994,6,collectif,10,Hospital
+21889,21001A42-,KAT,23470,5,0,male,parent,12995,6,collectif,10,Hospital
+21890,21001A42-,KAT,23471,5,0,male,parent,12996,6,collectif,10,Hospital
+22405,21001A52-,SCHERDEMAEL-NORD,24034,4,0,male,parent,13321,6,collectif,10,Hospital
+22406,21001A52-,SCHERDEMAEL-NORD,24035,3,0,male,parent,13322,6,collectif,10,Hospital
+22665,21001C70-,BON AIR - CENTRE,24303,5,1,female,parent,13456,6,collectif,10,Hospital
+26425,21001A84-,POESIE,28335,4,1,female,parent,15500,6,collectif,10,Hospital
+26426,21001A84-,POESIE,28337,4,1,female,parent,15502,6,collectif,10,Hospital
+26427,21001A84-,POESIE,28338,4,1,female,parent,15503,6,collectif,10,Hospital
+26428,21001A84-,POESIE,28339,3,1,female,parent,15504,6,collectif,10,Hospital
+26429,21001A84-,POESIE,28342,3,1,female,parent,15507,6,collectif,10,Hospital
+26430,21001A84-,POESIE,28343,3,1,female,parent,15508,6,collectif,10,Hospital
+26442,21001A84-,POESIE,28401,4,0,male,parent,15566,6,collectif,10,Hospital
+32116,21001A441,DOCTEUR ROUX,34382,5,1,female,parent,18669,6,collectif,10,Hospital
+32117,21001A441,DOCTEUR ROUX,34383,5,1,female,parent,18670,6,collectif,10,Hospital
+32272,21001A441,DOCTEUR ROUX,34567,4,0,male,parent,18854,6,collectif,10,Hospital
+33785,21001C512,CHANTS D'OISEAUX,36232,5,0,male,parent,19875,6,collectif,10,Hospital
+33786,21001C512,CHANTS D'OISEAUX,36233,5,0,male,parent,19876,6,collectif,10,Hospital
+33787,21001C512,CHANTS D'OISEAUX,36235,4,0,male,parent,19878,6,collectif,10,Hospital
+37010,21001A82-,MOORTEBEEK,39637,5,1,female,parent,21712,6,collectif,10,Hospital
+37011,21001A82-,MOORTEBEEK,39638,5,1,female,parent,21713,6,collectif,10,Hospital
+37012,21001A82-,MOORTEBEEK,39639,5,1,female,parent,21714,6,collectif,10,Hospital
+37013,21001A82-,MOORTEBEEK,39640,5,1,female,parent,21715,6,collectif,10,Hospital
+37014,21001A82-,MOORTEBEEK,39643,5,1,female,parent,21718,6,collectif,10,Hospital
+37050,21001A82-,MOORTEBEEK,39758,5,0,male,parent,21833,6,collectif,10,Hospital
+42140,21001A30-,BIZET,45097,5,1,female,parent,24676,6,collectif,10,Hospital
+42141,21001A30-,BIZET,45098,5,1,female,parent,24677,6,collectif,10,Hospital
+42142,21001A30-,BIZET,45099,5,1,female,parent,24678,6,collectif,10,Hospital
+42143,21001A30-,BIZET,45100,5,1,female,parent,24679,6,collectif,10,Hospital
+42144,21001A30-,BIZET,45101,5,1,female,parent,24680,6,collectif,10,Hospital
+42145,21001A30-,BIZET,45102,5,1,female,parent,24681,6,collectif,10,Hospital
+42146,21001A30-,BIZET,45103,5,1,female,parent,24682,6,collectif,10,Hospital
+47946,21001A31-,CHAUSSEE DE MONS - SAINT-LUC,51474,4,0,male,parent,28360,6,collectif,10,Hospital
+47947,21001A31-,CHAUSSEE DE MONS - SAINT-LUC,51475,4,0,male,parent,28361,6,collectif,10,Hospital
+49898,21001A031,RAUTER-SUD,53521,5,0,male,parent,29443,6,collectif,10,Hospital
+51077,21001B22-,BROGNIEZ-SUD,54704,5,1,female,parent,30026,6,collectif,10,Hospital
+51078,21001B22-,BROGNIEZ-SUD,54705,5,1,female,parent,30027,6,collectif,10,Hospital
+51079,21001B22-,BROGNIEZ-SUD,54706,5,1,female,parent,30028,6,collectif,10,Hospital
+51080,21001B22-,BROGNIEZ-SUD,54707,5,1,female,parent,30029,6,collectif,10,Hospital
+51081,21001B22-,BROGNIEZ-SUD,54708,5,1,female,parent,30030,6,collectif,10,Hospital
+51082,21001B22-,BROGNIEZ-SUD,54709,5,1,female,parent,30031,6,collectif,10,Hospital
+51083,21001B22-,BROGNIEZ-SUD,54710,5,1,female,parent,30032,6,collectif,10,Hospital
+51084,21001B22-,BROGNIEZ-SUD,54711,5,1,female,parent,30033,6,collectif,10,Hospital
+51085,21001B22-,BROGNIEZ-SUD,54712,4,1,female,parent,30034,6,collectif,10,Hospital
+51086,21001B22-,BROGNIEZ-SUD,54713,4,1,female,parent,30035,6,collectif,10,Hospital
+51087,21001B22-,BROGNIEZ-SUD,54714,4,1,female,parent,30036,6,collectif,10,Hospital
+51088,21001B22-,BROGNIEZ-SUD,54715,4,1,female,parent,30037,6,collectif,10,Hospital
+51089,21001B22-,BROGNIEZ-SUD,54716,4,1,female,parent,30038,6,collectif,10,Hospital
+51090,21001B22-,BROGNIEZ-SUD,54717,4,1,female,parent,30039,6,collectif,10,Hospital
+51091,21001B22-,BROGNIEZ-SUD,54718,4,1,female,parent,30040,6,collectif,10,Hospital
+51092,21001B22-,BROGNIEZ-SUD,54719,3,1,female,parent,30041,6,collectif,10,Hospital
+51156,21001B22-,BROGNIEZ-SUD,54822,4,0,male,parent,30144,6,collectif,10,Hospital
+51157,21001B22-,BROGNIEZ-SUD,54824,4,0,male,parent,30146,6,collectif,10,Hospital
+51158,21001B22-,BROGNIEZ-SUD,54826,4,0,male,parent,30148,6,collectif,10,Hospital
+51159,21001B22-,BROGNIEZ-SUD,54828,4,0,male,parent,30150,6,collectif,10,Hospital
+53004,21001B321,ALBERT I- QUARTIER,56720,5,1,female,parent,31015,6,collectif,10,Hospital
+53005,21001B321,ALBERT I- QUARTIER,56721,5,1,female,parent,31016,6,collectif,10,Hospital
+53006,21001B321,ALBERT I- QUARTIER,56722,5,1,female,parent,31017,6,collectif,10,Hospital
+53007,21001B321,ALBERT I- QUARTIER,56728,4,1,female,parent,31023,6,collectif,10,Hospital
+53008,21001B321,ALBERT I- QUARTIER,56729,4,1,female,parent,31024,6,collectif,10,Hospital
+53009,21001B321,ALBERT I- QUARTIER,56730,4,1,female,parent,31025,6,collectif,10,Hospital
+53091,21001B321,ALBERT I- QUARTIER,56850,5,0,male,parent,31145,6,collectif,10,Hospital
+53092,21001B321,ALBERT I- QUARTIER,56851,5,0,male,parent,31146,6,collectif,10,Hospital
+53093,21001B321,ALBERT I- QUARTIER,56853,5,0,male,parent,31148,6,collectif,10,Hospital
+53094,21001B321,ALBERT I- QUARTIER,56854,5,0,male,parent,31149,6,collectif,10,Hospital
+53095,21001B321,ALBERT I- QUARTIER,56855,5,0,male,parent,31150,6,collectif,10,Hospital
+53096,21001B321,ALBERT I- QUARTIER,56856,4,0,male,parent,31151,6,collectif,10,Hospital
+53097,21001B321,ALBERT I- QUARTIER,56859,4,0,male,parent,31154,6,collectif,10,Hospital
+53098,21001B321,ALBERT I- QUARTIER,56860,4,0,male,parent,31155,6,collectif,10,Hospital
+53099,21001B321,ALBERT I- QUARTIER,56861,4,0,male,parent,31156,6,collectif,10,Hospital
+53100,21001B321,ALBERT I- QUARTIER,56862,4,0,male,parent,31157,6,collectif,10,Hospital
+53101,21001B321,ALBERT I- QUARTIER,56863,4,0,male,parent,31158,6,collectif,10,Hospital
+53102,21001B321,ALBERT I- QUARTIER,56864,4,0,male,parent,31159,6,collectif,10,Hospital
+53103,21001B321,ALBERT I- QUARTIER,56865,4,0,male,parent,31160,6,collectif,10,Hospital
+53104,21001B321,ALBERT I- QUARTIER,56866,4,0,male,parent,31161,6,collectif,10,Hospital
+53105,21001B321,ALBERT I- QUARTIER,56867,4,0,male,parent,31162,6,collectif,10,Hospital
+53106,21001B321,ALBERT I- QUARTIER,56868,4,0,male,parent,31163,6,collectif,10,Hospital
+53107,21001B321,ALBERT I- QUARTIER,56869,3,0,male,parent,31164,6,collectif,10,Hospital
+53108,21001B321,ALBERT I- QUARTIER,56870,3,0,male,parent,31165,6,collectif,10,Hospital
+53109,21001B321,ALBERT I- QUARTIER,56872,3,0,male,parent,31167,6,collectif,10,Hospital
+53110,21001B321,ALBERT I- QUARTIER,56873,3,0,male,parent,31168,6,collectif,10,Hospital
+58306,21001B20-,CONSEIL-NORD,62196,5,1,female,parent,33577,6,collectif,10,Hospital
+58307,21001B20-,CONSEIL-NORD,62197,5,1,female,parent,33578,6,collectif,10,Hospital
+58308,21001B20-,CONSEIL-NORD,62200,5,1,female,parent,33581,6,collectif,10,Hospital
+58309,21001B20-,CONSEIL-NORD,62203,4,1,female,parent,33584,6,collectif,10,Hospital
+58310,21001B20-,CONSEIL-NORD,62205,4,1,female,parent,33586,6,collectif,10,Hospital
+58311,21001B20-,CONSEIL-NORD,62208,4,1,female,parent,33589,6,collectif,10,Hospital
+58312,21001B20-,CONSEIL-NORD,62212,4,1,female,parent,33593,6,collectif,10,Hospital
+58313,21001B20-,CONSEIL-NORD,62220,3,1,female,parent,33601,6,collectif,10,Hospital
+58314,21001B20-,CONSEIL-NORD,62222,3,1,female,parent,33603,6,collectif,10,Hospital
+58315,21001B20-,CONSEIL-NORD,62223,3,1,female,parent,33604,6,collectif,10,Hospital
+58316,21001B20-,CONSEIL-NORD,62225,3,1,female,parent,33606,6,collectif,10,Hospital
+58317,21001B20-,CONSEIL-NORD,62226,3,1,female,parent,33607,6,collectif,10,Hospital
+58543,21001B20-,CONSEIL-NORD,62572,5,0,male,parent,33953,6,collectif,10,Hospital
+58544,21001B20-,CONSEIL-NORD,62573,5,0,male,parent,33954,6,collectif,10,Hospital
+58545,21001B20-,CONSEIL-NORD,62574,5,0,male,parent,33955,6,collectif,10,Hospital
+58546,21001B20-,CONSEIL-NORD,62575,5,0,male,parent,33956,6,collectif,10,Hospital
+58547,21001B20-,CONSEIL-NORD,62577,5,0,male,parent,33958,6,collectif,10,Hospital
+58548,21001B20-,CONSEIL-NORD,62578,5,0,male,parent,33959,6,collectif,10,Hospital
+58549,21001B20-,CONSEIL-NORD,62580,4,0,male,parent,33961,6,collectif,10,Hospital
+58550,21001B20-,CONSEIL-NORD,62582,4,0,male,parent,33963,6,collectif,10,Hospital
+58551,21001B20-,CONSEIL-NORD,62584,4,0,male,parent,33965,6,collectif,10,Hospital
+58552,21001B20-,CONSEIL-NORD,62586,4,0,male,parent,33967,6,collectif,10,Hospital
+58553,21001B20-,CONSEIL-NORD,62587,4,0,male,parent,33968,6,collectif,10,Hospital
+58554,21001B20-,CONSEIL-NORD,62588,3,0,male,parent,33969,6,collectif,10,Hospital
+58555,21001B20-,CONSEIL-NORD,62590,3,0,male,parent,33971,6,collectif,10,Hospital
+58556,21001B20-,CONSEIL-NORD,62591,3,0,male,parent,33972,6,collectif,10,Hospital
+58557,21001B20-,CONSEIL-NORD,62595,3,0,male,parent,33976,6,collectif,10,Hospital
+60012,21001B23-,CONSEIL-SUD,64089,5,1,female,parent,34806,6,collectif,10,Hospital
+60013,21001B23-,CONSEIL-SUD,64090,5,1,female,parent,34807,6,collectif,10,Hospital
+60014,21001B23-,CONSEIL-SUD,64092,4,1,female,parent,34809,6,collectif,10,Hospital
+60081,21001B23-,CONSEIL-SUD,64198,4,0,male,parent,34915,6,collectif,10,Hospital
+60082,21001B23-,CONSEIL-SUD,64199,4,0,male,parent,34916,6,collectif,10,Hospital
+62793,21001A051,LINDE-EST,67007,5,1,female,parent,36337,6,collectif,10,Hospital
+62794,21001A051,LINDE-EST,67009,5,1,female,parent,36339,6,collectif,10,Hospital
+62795,21001A051,LINDE-EST,67010,5,1,female,parent,36340,6,collectif,10,Hospital
+62796,21001A051,LINDE-EST,67011,5,1,female,parent,36341,6,collectif,10,Hospital
+62797,21001A051,LINDE-EST,67012,5,1,female,parent,36342,6,collectif,10,Hospital
+62798,21001A051,LINDE-EST,67013,4,1,female,parent,36343,6,collectif,10,Hospital
+62799,21001A051,LINDE-EST,67015,4,1,female,parent,36345,6,collectif,10,Hospital
+62800,21001A051,LINDE-EST,67016,4,1,female,parent,36346,6,collectif,10,Hospital
+62867,21001A051,LINDE-EST,67116,4,0,male,parent,36446,6,collectif,10,Hospital
+62868,21001A051,LINDE-EST,67117,4,0,male,parent,36447,6,collectif,10,Hospital
+62869,21001A051,LINDE-EST,67119,4,0,male,parent,36449,6,collectif,10,Hospital
+62870,21001A051,LINDE-EST,67121,4,0,male,parent,36451,6,collectif,10,Hospital
+62871,21001A051,LINDE-EST,67122,3,0,male,parent,36452,6,collectif,10,Hospital
+62872,21001A051,LINDE-EST,67123,3,0,male,parent,36453,6,collectif,10,Hospital
+62873,21001A051,LINDE-EST,67124,3,0,male,parent,36454,6,collectif,10,Hospital
+62874,21001A051,LINDE-EST,67126,3,0,male,parent,36456,6,collectif,10,Hospital
+68700,21001A132,RAUTER-NORD,73410,5,0,male,parent,39786,6,collectif,10,Hospital
+68701,21001A132,RAUTER-NORD,73411,5,0,male,parent,39787,6,collectif,10,Hospital
+68702,21001A132,RAUTER-NORD,73412,4,0,male,parent,39788,6,collectif,10,Hospital
+69461,21001B31-,ALBERT I- IMMEUBLES,74202,5,1,female,parent,40182,6,collectif,10,Hospital
+69462,21001B31-,ALBERT I- IMMEUBLES,74203,5,1,female,parent,40183,6,collectif,10,Hospital
+69463,21001B31-,ALBERT I- IMMEUBLES,74204,5,1,female,parent,40184,6,collectif,10,Hospital
+69464,21001B31-,ALBERT I- IMMEUBLES,74205,5,1,female,parent,40185,6,collectif,10,Hospital
+69562,21001B31-,ALBERT I- IMMEUBLES,74318,5,0,male,parent,40298,6,collectif,10,Hospital
+69563,21001B31-,ALBERT I- IMMEUBLES,74319,5,0,male,parent,40299,6,collectif,10,Hospital
+73274,21001B25-,REVISION-NORD,78128,5,1,female,parent,42047,6,collectif,10,Hospital
+73275,21001B25-,REVISION-NORD,78129,5,1,female,parent,42048,6,collectif,10,Hospital
+73276,21001B25-,REVISION-NORD,78131,4,1,female,parent,42050,6,collectif,10,Hospital
+73277,21001B25-,REVISION-NORD,78132,4,1,female,parent,42051,6,collectif,10,Hospital
+73278,21001B25-,REVISION-NORD,78133,4,1,female,parent,42052,6,collectif,10,Hospital
+73279,21001B25-,REVISION-NORD,78135,4,1,female,parent,42054,6,collectif,10,Hospital
+73404,21001B25-,REVISION-NORD,78336,5,0,male,parent,42255,6,collectif,10,Hospital
+73405,21001B25-,REVISION-NORD,78338,5,0,male,parent,42257,6,collectif,10,Hospital
+73406,21001B25-,REVISION-NORD,78342,4,0,male,parent,42261,6,collectif,10,Hospital
+73407,21001B25-,REVISION-NORD,78344,4,0,male,parent,42263,6,collectif,10,Hospital
+73408,21001B25-,REVISION-NORD,78345,4,0,male,parent,42264,6,collectif,10,Hospital
+73409,21001B25-,REVISION-NORD,78346,4,0,male,parent,42265,6,collectif,10,Hospital
+73410,21001B25-,REVISION-NORD,78347,4,0,male,parent,42266,6,collectif,10,Hospital
+74113,21001B11-,ROSEE-OUEST,79053,5,1,female,parent,42643,6,collectif,10,Hospital
+74114,21001B11-,ROSEE-OUEST,79054,5,1,female,parent,42644,6,collectif,10,Hospital
+74115,21001B11-,ROSEE-OUEST,79055,5,1,female,parent,42645,6,collectif,10,Hospital
+74116,21001B11-,ROSEE-OUEST,79056,5,1,female,parent,42646,6,collectif,10,Hospital
+74117,21001B11-,ROSEE-OUEST,79057,4,1,female,parent,42647,6,collectif,10,Hospital
+74118,21001B11-,ROSEE-OUEST,79058,3,1,female,parent,42648,6,collectif,10,Hospital
+74119,21001B11-,ROSEE-OUEST,79059,3,1,female,parent,42649,6,collectif,10,Hospital
+74120,21001B11-,ROSEE-OUEST,79060,3,1,female,parent,42650,6,collectif,10,Hospital
+74121,21001B11-,ROSEE-OUEST,79061,3,1,female,parent,42651,6,collectif,10,Hospital
+74122,21001B11-,ROSEE-OUEST,79062,3,1,female,parent,42652,6,collectif,10,Hospital
+74243,21001B11-,ROSEE-OUEST,79194,5,0,male,parent,42784,6,collectif,10,Hospital
+74244,21001B11-,ROSEE-OUEST,79195,5,0,male,parent,42785,6,collectif,10,Hospital
+74245,21001B11-,ROSEE-OUEST,79196,5,0,male,parent,42786,6,collectif,10,Hospital
+74246,21001B11-,ROSEE-OUEST,79197,4,0,male,parent,42787,6,collectif,10,Hospital
+74247,21001B11-,ROSEE-OUEST,79198,4,0,male,parent,42788,6,collectif,10,Hospital
+74248,21001B11-,ROSEE-OUEST,79199,4,0,male,parent,42789,6,collectif,10,Hospital
+74249,21001B11-,ROSEE-OUEST,79200,4,0,male,parent,42790,6,collectif,10,Hospital
+74250,21001B11-,ROSEE-OUEST,79201,4,0,male,parent,42791,6,collectif,10,Hospital
+74251,21001B11-,ROSEE-OUEST,79202,4,0,male,parent,42792,6,collectif,10,Hospital
+74252,21001B11-,ROSEE-OUEST,79203,3,0,male,parent,42793,6,collectif,10,Hospital
+74253,21001B11-,ROSEE-OUEST,79204,3,0,male,parent,42794,6,collectif,10,Hospital
+74254,21001B11-,ROSEE-OUEST,79206,3,0,male,parent,42796,6,collectif,10,Hospital
+74255,21001B11-,ROSEE-OUEST,79207,3,0,male,parent,42797,6,collectif,10,Hospital
+74256,21001B11-,ROSEE-OUEST,79208,3,0,male,parent,42798,6,collectif,10,Hospital
+77497,21001A72-,OSSEGEM,82583,4,1,female,parent,44452,6,collectif,10,Hospital
+77498,21001A72-,OSSEGEM,82585,3,1,female,parent,44454,6,collectif,10,Hospital
+77575,21001A72-,OSSEGEM,82754,5,0,male,parent,44623,6,collectif,10,Hospital
+77576,21001A72-,OSSEGEM,82755,5,0,male,parent,44624,6,collectif,10,Hospital
+77577,21001A72-,OSSEGEM,82756,5,0,male,parent,44625,6,collectif,10,Hospital
+77578,21001A72-,OSSEGEM,82760,5,0,male,parent,44629,6,collectif,10,Hospital
+80694,21001A011,KLEINMOLEN,85926,4,1,female,parent,46236,6,collectif,10,Hospital
+80695,21001A011,KLEINMOLEN,85927,4,1,female,parent,46237,6,collectif,10,Hospital
+80696,21001A011,KLEINMOLEN,85928,4,1,female,parent,46238,6,collectif,10,Hospital
+80697,21001A011,KLEINMOLEN,85930,4,1,female,parent,46240,6,collectif,10,Hospital
+80698,21001A011,KLEINMOLEN,85931,4,1,female,parent,46241,6,collectif,10,Hospital
+80699,21001A011,KLEINMOLEN,85932,4,1,female,parent,46242,6,collectif,10,Hospital
+80700,21001A011,KLEINMOLEN,85933,4,1,female,parent,46243,6,collectif,10,Hospital
+80701,21001A011,KLEINMOLEN,85934,3,1,female,parent,46244,6,collectif,10,Hospital
+80702,21001A011,KLEINMOLEN,85935,3,1,female,parent,46245,6,collectif,10,Hospital
+80703,21001A011,KLEINMOLEN,85936,3,1,female,parent,46246,6,collectif,10,Hospital
+80793,21001A011,KLEINMOLEN,86089,4,0,male,parent,46399,6,collectif,10,Hospital
+80794,21001A011,KLEINMOLEN,86091,4,0,male,parent,46401,6,collectif,10,Hospital
+80795,21001A011,KLEINMOLEN,86092,4,0,male,parent,46402,6,collectif,10,Hospital
+80796,21001A011,KLEINMOLEN,86094,4,0,male,parent,46404,6,collectif,10,Hospital
+80797,21001A011,KLEINMOLEN,86096,4,0,male,parent,46406,6,collectif,10,Hospital
+80798,21001A011,KLEINMOLEN,86097,4,0,male,parent,46407,6,collectif,10,Hospital
+80799,21001A011,KLEINMOLEN,86098,4,0,male,parent,46408,6,collectif,10,Hospital
+80800,21001A011,KLEINMOLEN,86100,3,0,male,parent,46410,6,collectif,10,Hospital
+80801,21001A011,KLEINMOLEN,86101,3,0,male,parent,46411,6,collectif,10,Hospital
+80802,21001A011,KLEINMOLEN,86102,3,0,male,parent,46412,6,collectif,10,Hospital
+80803,21001A011,KLEINMOLEN,86105,3,0,male,parent,46415,6,collectif,10,Hospital
+80804,21001A011,KLEINMOLEN,86106,3,0,male,parent,46416,6,collectif,10,Hospital
+80805,21001A011,KLEINMOLEN,86107,3,0,male,parent,46417,6,collectif,10,Hospital
+81753,21001B17-,ABATTOIR,87059,5,1,female,parent,46862,6,collectif,10,Hospital
+81754,21001B17-,ABATTOIR,87060,5,1,female,parent,46863,6,collectif,10,Hospital
+81755,21001B17-,ABATTOIR,87061,5,1,female,parent,46864,6,collectif,10,Hospital
+81756,21001B17-,ABATTOIR,87062,5,1,female,parent,46865,6,collectif,10,Hospital
+81757,21001B17-,ABATTOIR,87063,5,1,female,parent,46866,6,collectif,10,Hospital
+81758,21001B17-,ABATTOIR,87064,5,1,female,parent,46867,6,collectif,10,Hospital
+81759,21001B17-,ABATTOIR,87065,5,1,female,parent,46868,6,collectif,10,Hospital
+81760,21001B17-,ABATTOIR,87066,5,1,female,parent,46869,6,collectif,10,Hospital
+81824,21001B17-,ABATTOIR,87150,5,0,male,parent,46953,6,collectif,10,Hospital
+81825,21001B17-,ABATTOIR,87151,4,0,male,parent,46954,6,collectif,10,Hospital
+81826,21001B17-,ABATTOIR,87152,4,0,male,parent,46955,6,collectif,10,Hospital
+81827,21001B17-,ABATTOIR,87153,4,0,male,parent,46956,6,collectif,10,Hospital
+81828,21001B17-,ABATTOIR,87155,3,0,male,parent,46958,6,collectif,10,Hospital
+81829,21001B17-,ABATTOIR,87156,3,0,male,parent,46959,6,collectif,10,Hospital
+81830,21001B17-,ABATTOIR,87157,3,0,male,parent,46960,6,collectif,10,Hospital
+81831,21001B17-,ABATTOIR,87158,3,0,male,parent,46961,6,collectif,10,Hospital
+83060,21001A07-,BIRMINGHAM,88427,5,1,female,parent,47590,6,collectif,10,Hospital
+83061,21001A07-,BIRMINGHAM,88428,5,1,female,parent,47591,6,collectif,10,Hospital
+83062,21001A07-,BIRMINGHAM,88429,3,1,female,parent,47592,6,collectif,10,Hospital
+83123,21001A07-,BIRMINGHAM,88497,5,0,male,parent,47660,6,collectif,10,Hospital
+83124,21001A07-,BIRMINGHAM,88498,5,0,male,parent,47661,6,collectif,10,Hospital
+83125,21001A07-,BIRMINGHAM,88500,3,0,male,parent,47663,6,collectif,10,Hospital
+86437,21001B21-,BROGNIEZ-NORD,91899,5,1,female,parent,49299,6,collectif,10,Hospital
+86438,21001B21-,BROGNIEZ-NORD,91901,4,1,female,parent,49301,6,collectif,10,Hospital
+86439,21001B21-,BROGNIEZ-NORD,91903,4,1,female,parent,49303,6,collectif,10,Hospital
+86440,21001B21-,BROGNIEZ-NORD,91904,4,1,female,parent,49304,6,collectif,10,Hospital
+86441,21001B21-,BROGNIEZ-NORD,91905,4,1,female,parent,49305,6,collectif,10,Hospital
+86442,21001B21-,BROGNIEZ-NORD,91908,4,1,female,parent,49308,6,collectif,10,Hospital
+86443,21001B21-,BROGNIEZ-NORD,91909,4,1,female,parent,49309,6,collectif,10,Hospital
+86444,21001B21-,BROGNIEZ-NORD,91913,3,1,female,parent,49313,6,collectif,10,Hospital
+86445,21001B21-,BROGNIEZ-NORD,91914,3,1,female,parent,49314,6,collectif,10,Hospital
+86446,21001B21-,BROGNIEZ-NORD,91915,3,1,female,parent,49315,6,collectif,10,Hospital
+86447,21001B21-,BROGNIEZ-NORD,91916,3,1,female,parent,49316,6,collectif,10,Hospital
+86448,21001B21-,BROGNIEZ-NORD,91917,3,1,female,parent,49317,6,collectif,10,Hospital
+86449,21001B21-,BROGNIEZ-NORD,91918,3,1,female,parent,49318,6,collectif,10,Hospital
+86450,21001B21-,BROGNIEZ-NORD,91921,3,1,female,parent,49321,6,collectif,10,Hospital
+86451,21001B21-,BROGNIEZ-NORD,91922,3,1,female,parent,49322,6,collectif,10,Hospital
+86452,21001B21-,BROGNIEZ-NORD,91923,3,1,female,parent,49323,6,collectif,10,Hospital
+86620,21001B21-,BROGNIEZ-NORD,92143,5,0,male,parent,49543,6,collectif,10,Hospital
+86621,21001B21-,BROGNIEZ-NORD,92144,5,0,male,parent,49544,6,collectif,10,Hospital
+86622,21001B21-,BROGNIEZ-NORD,92146,5,0,male,parent,49546,6,collectif,10,Hospital
+86623,21001B21-,BROGNIEZ-NORD,92147,5,0,male,parent,49547,6,collectif,10,Hospital
+86624,21001B21-,BROGNIEZ-NORD,92149,4,0,male,parent,49549,6,collectif,10,Hospital
+86625,21001B21-,BROGNIEZ-NORD,92150,4,0,male,parent,49550,6,collectif,10,Hospital
+86626,21001B21-,BROGNIEZ-NORD,92151,4,0,male,parent,49551,6,collectif,10,Hospital
+86627,21001B21-,BROGNIEZ-NORD,92153,3,0,male,parent,49553,6,collectif,10,Hospital
+86628,21001B21-,BROGNIEZ-NORD,92154,3,0,male,parent,49554,6,collectif,10,Hospital
+86629,21001B21-,BROGNIEZ-NORD,92155,3,0,male,parent,49555,6,collectif,10,Hospital
+86630,21001B21-,BROGNIEZ-NORD,92156,3,0,male,parent,49556,6,collectif,10,Hospital
+86631,21001B21-,BROGNIEZ-NORD,92157,3,0,male,parent,49557,6,collectif,10,Hospital
+86632,21001B21-,BROGNIEZ-NORD,92158,3,0,male,parent,49558,6,collectif,10,Hospital
+86633,21001B21-,BROGNIEZ-NORD,92159,3,0,male,parent,49559,6,collectif,10,Hospital
+86634,21001B21-,BROGNIEZ-NORD,92160,3,0,male,parent,49560,6,collectif,10,Hospital
+86635,21001B21-,BROGNIEZ-NORD,92161,3,0,male,parent,49561,6,collectif,10,Hospital
+86636,21001B21-,BROGNIEZ-NORD,92162,3,0,male,parent,49562,6,collectif,10,Hospital
+90649,21001A931,AGRAFE-NORBERT GILLE,96277,5,1,female,parent,51449,6,collectif,10,Hospital
+90650,21001A931,AGRAFE-NORBERT GILLE,96278,5,1,female,parent,51450,6,collectif,10,Hospital
+90651,21001A931,AGRAFE-NORBERT GILLE,96279,5,1,female,parent,51451,6,collectif,10,Hospital
+90652,21001A931,AGRAFE-NORBERT GILLE,96280,5,1,female,parent,51452,6,collectif,10,Hospital
+90653,21001A931,AGRAFE-NORBERT GILLE,96281,5,1,female,parent,51453,6,collectif,10,Hospital
+90654,21001A931,AGRAFE-NORBERT GILLE,96282,5,1,female,parent,51454,6,collectif,10,Hospital
+90655,21001A931,AGRAFE-NORBERT GILLE,96283,4,1,female,parent,51455,6,collectif,10,Hospital
+90656,21001A931,AGRAFE-NORBERT GILLE,96284,4,1,female,parent,51456,6,collectif,10,Hospital
+90657,21001A931,AGRAFE-NORBERT GILLE,96285,4,1,female,parent,51457,6,collectif,10,Hospital
+90658,21001A931,AGRAFE-NORBERT GILLE,96286,3,1,female,parent,51458,6,collectif,10,Hospital
+90659,21001A931,AGRAFE-NORBERT GILLE,96287,3,1,female,parent,51459,6,collectif,10,Hospital
+90660,21001A931,AGRAFE-NORBERT GILLE,96288,3,1,female,parent,51460,6,collectif,10,Hospital
+90661,21001A931,AGRAFE-NORBERT GILLE,96289,3,1,female,parent,51461,6,collectif,10,Hospital
+90662,21001A931,AGRAFE-NORBERT GILLE,96290,3,1,female,parent,51462,6,collectif,10,Hospital
+90663,21001A931,AGRAFE-NORBERT GILLE,96291,3,1,female,parent,51463,6,collectif,10,Hospital
+90664,21001A931,AGRAFE-NORBERT GILLE,96292,3,1,female,parent,51464,6,collectif,10,Hospital
+90665,21001A931,AGRAFE-NORBERT GILLE,96293,3,1,female,parent,51465,6,collectif,10,Hospital
+90666,21001A931,AGRAFE-NORBERT GILLE,96294,3,1,female,parent,51466,6,collectif,10,Hospital
+90667,21001A931,AGRAFE-NORBERT GILLE,96296,3,1,female,parent,51468,6,collectif,10,Hospital
+90668,21001A931,AGRAFE-NORBERT GILLE,96297,3,1,female,parent,51469,6,collectif,10,Hospital
+90669,21001A931,AGRAFE-NORBERT GILLE,96298,3,1,female,parent,51470,6,collectif,10,Hospital
+90670,21001A931,AGRAFE-NORBERT GILLE,96299,3,1,female,parent,51471,6,collectif,10,Hospital
+90799,21001A931,AGRAFE-NORBERT GILLE,96460,5,0,male,parent,51632,6,collectif,10,Hospital
+90800,21001A931,AGRAFE-NORBERT GILLE,96462,5,0,male,parent,51634,6,collectif,10,Hospital
+90801,21001A931,AGRAFE-NORBERT GILLE,96463,5,0,male,parent,51635,6,collectif,10,Hospital
+90802,21001A931,AGRAFE-NORBERT GILLE,96464,5,0,male,parent,51636,6,collectif,10,Hospital
+90803,21001A931,AGRAFE-NORBERT GILLE,96465,4,0,male,parent,51637,6,collectif,10,Hospital
+90804,21001A931,AGRAFE-NORBERT GILLE,96466,4,0,male,parent,51638,6,collectif,10,Hospital
+90805,21001A931,AGRAFE-NORBERT GILLE,96468,4,0,male,parent,51640,6,collectif,10,Hospital
+90806,21001A931,AGRAFE-NORBERT GILLE,96469,4,0,male,parent,51641,6,collectif,10,Hospital
+90807,21001A931,AGRAFE-NORBERT GILLE,96470,4,0,male,parent,51642,6,collectif,10,Hospital
+90808,21001A931,AGRAFE-NORBERT GILLE,96471,4,0,male,parent,51643,6,collectif,10,Hospital
+90809,21001A931,AGRAFE-NORBERT GILLE,96473,4,0,male,parent,51645,6,collectif,10,Hospital
+90810,21001A931,AGRAFE-NORBERT GILLE,96474,3,0,male,parent,51646,6,collectif,10,Hospital
+99766,21001A00-,RESISTANCE,105776,5,1,female,parent,56143,6,collectif,10,Hospital
+105640,21001B10-,ROSEE-EST,111942,5,1,female,parent,59107,6,collectif,10,Hospital
+105641,21001B10-,ROSEE-EST,111943,5,1,female,parent,59108,6,collectif,10,Hospital
+105642,21001B10-,ROSEE-EST,111946,5,1,female,parent,59111,6,collectif,10,Hospital
+105643,21001B10-,ROSEE-EST,111947,5,1,female,parent,59112,6,collectif,10,Hospital
+105644,21001B10-,ROSEE-EST,111949,4,1,female,parent,59114,6,collectif,10,Hospital
+105645,21001B10-,ROSEE-EST,111950,4,1,female,parent,59115,6,collectif,10,Hospital
+105646,21001B10-,ROSEE-EST,111952,4,1,female,parent,59117,6,collectif,10,Hospital
+105647,21001B10-,ROSEE-EST,111954,4,1,female,parent,59119,6,collectif,10,Hospital
+105775,21001B10-,ROSEE-EST,112150,5,0,male,parent,59315,6,collectif,10,Hospital
+105776,21001B10-,ROSEE-EST,112151,5,0,male,parent,59316,6,collectif,10,Hospital
+105777,21001B10-,ROSEE-EST,112152,4,0,male,parent,59317,6,collectif,10,Hospital
+105778,21001B10-,ROSEE-EST,112154,3,0,male,parent,59319,6,collectif,10,Hospital
+105779,21001B10-,ROSEE-EST,112155,3,0,male,parent,59320,6,collectif,10,Hospital
+105780,21001B10-,ROSEE-EST,112157,3,0,male,parent,59322,6,collectif,10,Hospital
+105781,21001B10-,ROSEE-EST,112158,3,0,male,parent,59323,6,collectif,10,Hospital
+108739,21001B241,REVISION-SUD,115295,5,1,female,parent,60956,6,collectif,10,Hospital
+108740,21001B241,REVISION-SUD,115299,5,1,female,parent,60960,6,collectif,10,Hospital
+108844,21001B241,REVISION-SUD,115457,5,0,male,parent,61118,6,collectif,10,Hospital
+108845,21001B241,REVISION-SUD,115461,4,0,male,parent,61122,6,collectif,10,Hospital
+108846,21001B241,REVISION-SUD,115462,4,0,male,parent,61123,6,collectif,10,Hospital
+108847,21001B241,REVISION-SUD,115464,4,0,male,parent,61125,6,collectif,10,Hospital
+108848,21001B241,REVISION-SUD,115465,4,0,male,parent,61126,6,collectif,10,Hospital
+108849,21001B241,REVISION-SUD,115466,4,0,male,parent,61127,6,collectif,10,Hospital
+108850,21001B241,REVISION-SUD,115467,4,0,male,parent,61128,6,collectif,10,Hospital
+108851,21001B241,REVISION-SUD,115468,4,0,male,parent,61129,6,collectif,10,Hospital
+108852,21001B241,REVISION-SUD,115469,4,0,male,parent,61130,6,collectif,10,Hospital
+108853,21001B241,REVISION-SUD,115471,3,0,male,parent,61132,6,collectif,10,Hospital
+108854,21001B241,REVISION-SUD,115475,3,0,male,parent,61136,6,collectif,10,Hospital
+108855,21001B241,REVISION-SUD,115476,3,0,male,parent,61137,6,collectif,10,Hospital
+113405,21001A120,MINIMES,120298,4,0,male,parent,63544,6,collectif,10,Hospital
+113406,21001A120,MINIMES,120299,4,0,male,parent,63545,6,collectif,10,Hospital
+113407,21001A120,MINIMES,120300,4,0,male,parent,63546,6,collectif,10,Hospital
+113408,21001A120,MINIMES,120301,4,0,male,parent,63547,6,collectif,10,Hospital
+113409,21001A120,MINIMES,120302,4,0,male,parent,63548,6,collectif,10,Hospital
+113410,21001A120,MINIMES,120305,4,0,male,parent,63551,6,collectif,10,Hospital
+114782,21001A152,LINDE-OUEST,121787,5,0,male,parent,64332,6,collectif,10,Hospital
+114783,21001A152,LINDE-OUEST,121788,5,0,male,parent,64333,6,collectif,10,Hospital
+114784,21001A152,LINDE-OUEST,121789,5,0,male,parent,64334,6,collectif,10,Hospital
+114785,21001A152,LINDE-OUEST,121793,4,0,male,parent,64338,6,collectif,10,Hospital
+114786,21001A152,LINDE-OUEST,121794,4,0,male,parent,64339,6,collectif,10,Hospital
+114787,21001A152,LINDE-OUEST,121795,4,0,male,parent,64340,6,collectif,10,Hospital
+115753,21001A02-,WAYEZ,122797,3,1,female,parent,64788,6,collectif,10,Hospital
+115754,21001A02-,WAYEZ,122800,3,1,female,parent,64791,6,collectif,10,Hospital
+115755,21001A02-,WAYEZ,122801,3,1,female,parent,64792,6,collectif,10,Hospital
+115797,21001A02-,WAYEZ,122879,5,0,male,parent,64870,6,collectif,10,Hospital
+115798,21001A02-,WAYEZ,122880,5,0,male,parent,64871,6,collectif,10,Hospital
+115799,21001A02-,WAYEZ,122881,5,0,male,parent,64872,6,collectif,10,Hospital
+115800,21001A02-,WAYEZ,122882,5,0,male,parent,64873,6,collectif,10,Hospital
+118632,21001A112,BIESTEBROEK,125911,5,0,male,parent,66445,6,collectif,10,Hospital
+126300,21002A22-,CANARIS (AVENUE DES),134026,4,1,female,parent,70747,6,collectif,10,Hospital
+126301,21002A22-,CANARIS (AVENUE DES),134027,4,1,female,parent,70748,6,collectif,10,Hospital
+126302,21002A22-,CANARIS (AVENUE DES),134028,4,1,female,parent,70749,6,collectif,10,Hospital
+126303,21002A22-,CANARIS (AVENUE DES),134030,3,1,female,parent,70751,6,collectif,10,Hospital
+126345,21002A22-,CANARIS (AVENUE DES),134099,3,0,male,parent,70820,6,collectif,10,Hospital
+126346,21002A22-,CANARIS (AVENUE DES),134100,3,0,male,parent,70821,6,collectif,10,Hospital
+131089,21002A441,CHANT D'OISEAUX,139090,4,1,female,parent,73366,6,collectif,10,Hospital
+131090,21002A441,CHANT D'OISEAUX,139092,4,1,female,parent,73368,6,collectif,10,Hospital
+131091,21002A441,CHANT D'OISEAUX,139093,4,1,female,parent,73369,6,collectif,10,Hospital
+131198,21002A441,CHANT D'OISEAUX,139235,5,0,male,parent,73511,6,collectif,10,Hospital
+134113,21002A372,QUARTIER INDUSTRIE,142361,5,1,female,parent,75154,6,collectif,10,Hospital
+134114,21002A372,QUARTIER INDUSTRIE,142362,5,1,female,parent,75155,6,collectif,10,Hospital
+134115,21002A372,QUARTIER INDUSTRIE,142363,5,1,female,parent,75156,6,collectif,10,Hospital
+134116,21002A372,QUARTIER INDUSTRIE,142364,5,1,female,parent,75157,6,collectif,10,Hospital
+134117,21002A372,QUARTIER INDUSTRIE,142365,5,1,female,parent,75158,6,collectif,10,Hospital
+134118,21002A372,QUARTIER INDUSTRIE,142366,4,1,female,parent,75159,6,collectif,10,Hospital
+134119,21002A372,QUARTIER INDUSTRIE,142367,4,1,female,parent,75160,6,collectif,10,Hospital
+134168,21002A372,QUARTIER INDUSTRIE,142435,5,0,male,parent,75228,6,collectif,10,Hospital
+134169,21002A372,QUARTIER INDUSTRIE,142437,3,0,male,parent,75230,6,collectif,10,Hospital
+134170,21002A372,QUARTIER INDUSTRIE,142438,3,0,male,parent,75231,6,collectif,10,Hospital
+134171,21002A372,QUARTIER INDUSTRIE,142439,3,0,male,parent,75232,6,collectif,10,Hospital
+141788,21002A02-,CENTRE-SUD,150490,4,1,female,parent,79783,6,collectif,10,Hospital
+141789,21002A02-,CENTRE-SUD,150491,4,1,female,parent,79784,6,collectif,10,Hospital
+144785,21002A11-,SACRE-COEUR,153663,3,1,female,parent,81484,6,collectif,10,Hospital
+144786,21002A11-,SACRE-COEUR,153664,3,1,female,parent,81485,6,collectif,10,Hospital
+144787,21002A11-,SACRE-COEUR,153665,3,1,female,parent,81486,6,collectif,10,Hospital
+144795,21002A11-,SACRE-COEUR,153718,4,0,male,parent,81539,6,collectif,10,Hospital
+152434,21002A01-,SAINTE-ANNE,161882,4,0,male,parent,85841,6,collectif,10,Hospital
+152435,21002A01-,SAINTE-ANNE,161883,4,0,male,parent,85842,6,collectif,10,Hospital
+156182,21003A323,SEPT ETOILES,165868,5,1,female,parent,87883,6,collectif,10,Hospital
+156183,21003A323,SEPT ETOILES,165869,5,1,female,parent,87884,6,collectif,10,Hospital
+156184,21003A323,SEPT ETOILES,165870,4,1,female,parent,87885,6,collectif,10,Hospital
+156185,21003A323,SEPT ETOILES,165872,3,1,female,parent,87887,6,collectif,10,Hospital
+156244,21003A323,SEPT ETOILES,165963,4,0,male,parent,87978,6,collectif,10,Hospital
+156245,21003A323,SEPT ETOILES,165965,3,0,male,parent,87980,6,collectif,10,Hospital
+157020,21003A342,HOGENBOS,166753,4,1,female,parent,88359,6,collectif,10,Hospital
+157021,21003A342,HOGENBOS,166754,4,1,female,parent,88360,6,collectif,10,Hospital
+157022,21003A342,HOGENBOS,166755,4,1,female,parent,88361,6,collectif,10,Hospital
+157163,21003A342,HOGENBOS,166915,5,0,male,parent,88521,6,collectif,10,Hospital
+157164,21003A342,HOGENBOS,166916,5,0,male,parent,88522,6,collectif,10,Hospital
+157165,21003A342,HOGENBOS,166917,4,0,male,parent,88523,6,collectif,10,Hospital
+157166,21003A342,HOGENBOS,166918,4,0,male,parent,88524,6,collectif,10,Hospital
+157167,21003A342,HOGENBOS,166920,4,0,male,parent,88526,6,collectif,10,Hospital
+157168,21003A342,HOGENBOS,166921,4,0,male,parent,88527,6,collectif,10,Hospital
+157169,21003A342,HOGENBOS,166922,3,0,male,parent,88528,6,collectif,10,Hospital
+157170,21003A342,HOGENBOS,166923,3,0,male,parent,88529,6,collectif,10,Hospital
+157171,21003A342,HOGENBOS,166924,3,0,male,parent,88530,6,collectif,10,Hospital
+157920,21003A331,ALLEE VERTE,167680,4,0,male,parent,88911,6,collectif,10,Hospital
+157921,21003A331,ALLEE VERTE,167681,4,0,male,parent,88912,6,collectif,10,Hospital
+157922,21003A331,ALLEE VERTE,167682,3,0,male,parent,88913,6,collectif,10,Hospital
+157923,21003A331,ALLEE VERTE,167683,3,0,male,parent,88914,6,collectif,10,Hospital
+158971,21003A04-,L. DE SMET,168783,5,1,female,parent,89459,6,collectif,10,Hospital
+158972,21003A04-,L. DE SMET,168787,3,1,female,parent,89463,6,collectif,10,Hospital
+158973,21003A04-,L. DE SMET,168789,3,1,female,parent,89465,6,collectif,10,Hospital
+159051,21003A04-,L. DE SMET,168881,4,0,male,parent,89557,6,collectif,10,Hospital
+159052,21003A04-,L. DE SMET,168882,4,0,male,parent,89558,6,collectif,10,Hospital
+159053,21003A04-,L. DE SMET,168883,4,0,male,parent,89559,6,collectif,10,Hospital
+159054,21003A04-,L. DE SMET,168884,4,0,male,parent,89560,6,collectif,10,Hospital
+159055,21003A04-,L. DE SMET,168885,4,0,male,parent,89561,6,collectif,10,Hospital
+159056,21003A04-,L. DE SMET,168886,4,0,male,parent,89562,6,collectif,10,Hospital
+163272,21003A02-,LAURE - BASILIQUE,173428,5,0,male,parent,91954,6,collectif,10,Hospital
+163273,21003A02-,LAURE - BASILIQUE,173429,5,0,male,parent,91955,6,collectif,10,Hospital
+163274,21003A02-,LAURE - BASILIQUE,173430,5,0,male,parent,91956,6,collectif,10,Hospital
+166823,21003A011,MOLENBERG,177111,4,0,male,parent,93812,6,collectif,10,Hospital
+171579,21003A11-,CITE MODERNE,182167,5,1,female,parent,96185,6,collectif,10,Hospital
+173582,21003A05-,DE SELLIERS DE MORANVILLE,184220,4,1,female,parent,97263,6,collectif,10,Hospital
+173583,21003A05-,DE SELLIERS DE MORANVILLE,184221,4,1,female,parent,97264,6,collectif,10,Hospital
+174768,21003A2MJ,GARE,185547,5,1,female,parent,97994,6,collectif,10,Hospital
+174769,21003A2MJ,GARE,185548,5,1,female,parent,97995,6,collectif,10,Hospital
+174770,21003A2MJ,GARE,185549,4,1,female,parent,97996,6,collectif,10,Hospital
+174771,21003A2MJ,GARE,185550,3,1,female,parent,97997,6,collectif,10,Hospital
+174845,21003A2MJ,GARE,185629,5,0,male,parent,98076,6,collectif,10,Hospital
+174846,21003A2MJ,GARE,185630,5,0,male,parent,98077,6,collectif,10,Hospital
+174847,21003A2MJ,GARE,185632,4,0,male,parent,98079,6,collectif,10,Hospital
+174848,21003A2MJ,GARE,185633,4,0,male,parent,98080,6,collectif,10,Hospital
+185284,21004F511,AVENUE DES PAGODES,196952,5,1,female,parent,104418,6,collectif,10,Hospital
+185302,21004F511,AVENUE DES PAGODES,197026,5,0,male,parent,104492,6,collectif,10,Hospital
+185303,21004F511,AVENUE DES PAGODES,197028,5,0,male,parent,104494,6,collectif,10,Hospital
+185304,21004F511,AVENUE DES PAGODES,197032,5,0,male,parent,104498,6,collectif,10,Hospital
+185947,21004C62-,BOENDAAL-OUEST,197698,5,1,female,parent,104923,6,collectif,10,Hospital
+185948,21004C62-,BOENDAAL-OUEST,197700,4,1,female,parent,104925,6,collectif,10,Hospital
+185949,21004C62-,BOENDAAL-OUEST,197701,3,1,female,parent,104926,6,collectif,10,Hospital
+187406,21004G310,HAREN-SUD-OUEST,199238,5,0,male,parent,105693,6,collectif,10,Hospital
+187407,21004G310,HAREN-SUD-OUEST,199239,5,0,male,parent,105694,6,collectif,10,Hospital
+187408,21004G310,HAREN-SUD-OUEST,199240,5,0,male,parent,105695,6,collectif,10,Hospital
+187409,21004G310,HAREN-SUD-OUEST,199241,5,0,male,parent,105696,6,collectif,10,Hospital
+187410,21004G310,HAREN-SUD-OUEST,199242,3,0,male,parent,105697,6,collectif,10,Hospital
+188117,21004F94-,VAL MARIA,199958,5,1,female,parent,106065,6,collectif,10,Hospital
+190210,21004F901,PLACE PETER BENOIT,202145,5,1,female,parent,107195,6,collectif,10,Hospital
+190211,21004F901,PLACE PETER BENOIT,202149,3,1,female,parent,107199,6,collectif,10,Hospital
+190258,21004F901,PLACE PETER BENOIT,202253,5,0,male,parent,107303,6,collectif,10,Hospital
+190259,21004F901,PLACE PETER BENOIT,202255,5,0,male,parent,107305,6,collectif,10,Hospital
+190260,21004F901,PLACE PETER BENOIT,202256,5,0,male,parent,107306,6,collectif,10,Hospital
+190261,21004F901,PLACE PETER BENOIT,202257,5,0,male,parent,107307,6,collectif,10,Hospital
+190262,21004F901,PLACE PETER BENOIT,202260,5,0,male,parent,107310,6,collectif,10,Hospital
+190263,21004F901,PLACE PETER BENOIT,202264,4,0,male,parent,107314,6,collectif,10,Hospital
+190264,21004F901,PLACE PETER BENOIT,202266,3,0,male,parent,107316,6,collectif,10,Hospital
+190265,21004F901,PLACE PETER BENOIT,202267,3,0,male,parent,107317,6,collectif,10,Hospital
+195493,21004F930,COIN DES CERISES,207713,5,1,female,parent,109901,6,collectif,10,Hospital
+195623,21004F930,COIN DES CERISES,207915,5,0,male,parent,110103,6,collectif,10,Hospital
+195624,21004F930,COIN DES CERISES,207916,5,0,male,parent,110104,6,collectif,10,Hospital
+196709,21004G321,HAREN-EST,209080,5,0,male,parent,110638,6,collectif,10,Hospital
+196710,21004G321,HAREN-EST,209081,5,0,male,parent,110639,6,collectif,10,Hospital
+198583,21004B45-,ECOLE MILITAIRE,211027,5,1,female,parent,111885,6,collectif,10,Hospital
+198584,21004B45-,ECOLE MILITAIRE,211028,5,1,female,parent,111886,6,collectif,10,Hospital
+198585,21004B45-,ECOLE MILITAIRE,211030,5,1,female,parent,111888,6,collectif,10,Hospital
+198586,21004B45-,ECOLE MILITAIRE,211032,5,1,female,parent,111890,6,collectif,10,Hospital
+198587,21004B45-,ECOLE MILITAIRE,211034,4,1,female,parent,111892,6,collectif,10,Hospital
+198588,21004B45-,ECOLE MILITAIRE,211035,4,1,female,parent,111893,6,collectif,10,Hospital
+198589,21004B45-,ECOLE MILITAIRE,211036,4,1,female,parent,111894,6,collectif,10,Hospital
+198622,21004B45-,ECOLE MILITAIRE,211132,5,0,male,parent,111990,6,collectif,10,Hospital
+198623,21004B45-,ECOLE MILITAIRE,211133,5,0,male,parent,111991,6,collectif,10,Hospital
+198624,21004B45-,ECOLE MILITAIRE,211139,4,0,male,parent,111997,6,collectif,10,Hospital
+201003,21004B2MJ,SCHUMAN (ROND-POINT),213728,4,1,female,parent,113658,6,collectif,10,Hospital
+201004,21004B2MJ,SCHUMAN (ROND-POINT),213729,4,1,female,parent,113659,6,collectif,10,Hospital
+201019,21004B2MJ,SCHUMAN (ROND-POINT),213771,3,0,male,parent,113701,6,collectif,10,Hospital
+209567,21004B43-,AMBIORIX-NORD (SQUARE),222827,3,1,female,parent,118975,6,collectif,10,Hospital
+209579,21004B43-,AMBIORIX-NORD (SQUARE),223057,5,0,male,parent,119205,6,collectif,10,Hospital
+212883,21004A24-,MARCHE AU PORCS,226537,4,1,female,parent,121301,6,collectif,10,Hospital
+212884,21004A24-,MARCHE AU PORCS,226539,4,1,female,parent,121303,6,collectif,10,Hospital
+212885,21004A24-,MARCHE AU PORCS,226540,4,1,female,parent,121304,6,collectif,10,Hospital
+213041,21004A24-,MARCHE AU PORCS,226790,5,0,male,parent,121554,6,collectif,10,Hospital
+213042,21004A24-,MARCHE AU PORCS,226791,5,0,male,parent,121555,6,collectif,10,Hospital
+213043,21004A24-,MARCHE AU PORCS,226795,4,0,male,parent,121559,6,collectif,10,Hospital
+215762,21004A83-,E. JACQMAIN (BOULEVARD)-OUEST,229737,5,1,female,parent,123448,6,collectif,10,Hospital
+215763,21004A83-,E. JACQMAIN (BOULEVARD)-OUEST,229739,5,1,female,parent,123450,6,collectif,10,Hospital
+215764,21004A83-,E. JACQMAIN (BOULEVARD)-OUEST,229741,4,1,female,parent,123452,6,collectif,10,Hospital
+215765,21004A83-,E. JACQMAIN (BOULEVARD)-OUEST,229742,4,1,female,parent,123453,6,collectif,10,Hospital
+215766,21004A83-,E. JACQMAIN (BOULEVARD)-OUEST,229744,4,1,female,parent,123455,6,collectif,10,Hospital
+215767,21004A83-,E. JACQMAIN (BOULEVARD)-OUEST,229746,4,1,female,parent,123457,6,collectif,10,Hospital
+215768,21004A83-,E. JACQMAIN (BOULEVARD)-OUEST,229747,4,1,female,parent,123458,6,collectif,10,Hospital
+215769,21004A83-,E. JACQMAIN (BOULEVARD)-OUEST,229748,3,1,female,parent,123459,6,collectif,10,Hospital
+215862,21004A83-,E. JACQMAIN (BOULEVARD)-OUEST,229884,5,0,male,parent,123595,6,collectif,10,Hospital
+215863,21004A83-,E. JACQMAIN (BOULEVARD)-OUEST,229885,5,0,male,parent,123596,6,collectif,10,Hospital
+215864,21004A83-,E. JACQMAIN (BOULEVARD)-OUEST,229886,5,0,male,parent,123597,6,collectif,10,Hospital
+215865,21004A83-,E. JACQMAIN (BOULEVARD)-OUEST,229887,4,0,male,parent,123598,6,collectif,10,Hospital
+215866,21004A83-,E. JACQMAIN (BOULEVARD)-OUEST,229888,4,0,male,parent,123599,6,collectif,10,Hospital
+215867,21004A83-,E. JACQMAIN (BOULEVARD)-OUEST,229889,4,0,male,parent,123600,6,collectif,10,Hospital
+215868,21004A83-,E. JACQMAIN (BOULEVARD)-OUEST,229890,4,0,male,parent,123601,6,collectif,10,Hospital
+215869,21004A83-,E. JACQMAIN (BOULEVARD)-OUEST,229891,3,0,male,parent,123602,6,collectif,10,Hospital
+219264,21004G3MJ,DOBBELENBERG (RUE DE),233444,5,1,female,parent,125308,6,collectif,10,Hospital
+219265,21004G3MJ,DOBBELENBERG (RUE DE),233445,5,1,female,parent,125309,6,collectif,10,Hospital
+219266,21004G3MJ,DOBBELENBERG (RUE DE),233446,5,1,female,parent,125310,6,collectif,10,Hospital
+219267,21004G3MJ,DOBBELENBERG (RUE DE),233447,5,1,female,parent,125311,6,collectif,10,Hospital
+219268,21004G3MJ,DOBBELENBERG (RUE DE),233448,5,1,female,parent,125312,6,collectif,10,Hospital
+219269,21004G3MJ,DOBBELENBERG (RUE DE),233449,5,1,female,parent,125313,6,collectif,10,Hospital
+219270,21004G3MJ,DOBBELENBERG (RUE DE),233450,4,1,female,parent,125314,6,collectif,10,Hospital
+219330,21004G3MJ,DOBBELENBERG (RUE DE),233524,5,0,male,parent,125388,6,collectif,10,Hospital
+219331,21004G3MJ,DOBBELENBERG (RUE DE),233525,5,0,male,parent,125389,6,collectif,10,Hospital
+219332,21004G3MJ,DOBBELENBERG (RUE DE),233526,5,0,male,parent,125390,6,collectif,10,Hospital
+219333,21004G3MJ,DOBBELENBERG (RUE DE),233527,5,0,male,parent,125391,6,collectif,10,Hospital
+219334,21004G3MJ,DOBBELENBERG (RUE DE),233528,4,0,male,parent,125392,6,collectif,10,Hospital
+219335,21004G3MJ,DOBBELENBERG (RUE DE),233529,4,0,male,parent,125393,6,collectif,10,Hospital
+219336,21004G3MJ,DOBBELENBERG (RUE DE),233530,4,0,male,parent,125394,6,collectif,10,Hospital
+219337,21004G3MJ,DOBBELENBERG (RUE DE),233531,3,0,male,parent,125395,6,collectif,10,Hospital
+219338,21004G3MJ,DOBBELENBERG (RUE DE),233532,3,0,male,parent,125396,6,collectif,10,Hospital
+219339,21004G3MJ,DOBBELENBERG (RUE DE),233534,3,0,male,parent,125398,6,collectif,10,Hospital
+230463,21004B2NJ,CITE DE LA CHAUSSEE,245498,5,1,female,parent,131906,6,collectif,10,Hospital
+230464,21004B2NJ,CITE DE LA CHAUSSEE,245499,4,1,female,parent,131907,6,collectif,10,Hospital
+230465,21004B2NJ,CITE DE LA CHAUSSEE,245500,4,1,female,parent,131908,6,collectif,10,Hospital
+230466,21004B2NJ,CITE DE LA CHAUSSEE,245501,3,1,female,parent,131909,6,collectif,10,Hospital
+230523,21004B2NJ,CITE DE LA CHAUSSEE,245580,5,0,male,parent,131988,6,collectif,10,Hospital
+230524,21004B2NJ,CITE DE LA CHAUSSEE,245583,4,0,male,parent,131991,6,collectif,10,Hospital
+230525,21004B2NJ,CITE DE LA CHAUSSEE,245584,3,0,male,parent,131992,6,collectif,10,Hospital
+230526,21004B2NJ,CITE DE LA CHAUSSEE,245586,3,0,male,parent,131994,6,collectif,10,Hospital
+232286,21004F953,RUE DU WIMPELBERG,247401,5,1,female,parent,133004,6,collectif,10,Hospital
+232287,21004F953,RUE DU WIMPELBERG,247402,4,1,female,parent,133005,6,collectif,10,Hospital
+232288,21004F953,RUE DU WIMPELBERG,247403,4,1,female,parent,133006,6,collectif,10,Hospital
+232289,21004F953,RUE DU WIMPELBERG,247404,4,1,female,parent,133007,6,collectif,10,Hospital
+232290,21004F953,RUE DU WIMPELBERG,247406,4,1,female,parent,133009,6,collectif,10,Hospital
+232291,21004F953,RUE DU WIMPELBERG,247407,3,1,female,parent,133010,6,collectif,10,Hospital
+232292,21004F953,RUE DU WIMPELBERG,247408,3,1,female,parent,133011,6,collectif,10,Hospital
+232371,21004F953,RUE DU WIMPELBERG,247499,5,0,male,parent,133102,6,collectif,10,Hospital
+232372,21004F953,RUE DU WIMPELBERG,247500,5,0,male,parent,133103,6,collectif,10,Hospital
+232373,21004F953,RUE DU WIMPELBERG,247501,5,0,male,parent,133104,6,collectif,10,Hospital
+232374,21004F953,RUE DU WIMPELBERG,247502,4,0,male,parent,133105,6,collectif,10,Hospital
+232375,21004F953,RUE DU WIMPELBERG,247503,4,0,male,parent,133106,6,collectif,10,Hospital
+232376,21004F953,RUE DU WIMPELBERG,247504,4,0,male,parent,133107,6,collectif,10,Hospital
+232377,21004F953,RUE DU WIMPELBERG,247505,4,0,male,parent,133108,6,collectif,10,Hospital
+233751,21004F9MJ,NEDER-HEEMBEEK-NORD,248921,5,1,female,parent,133632,6,collectif,10,Hospital
+233752,21004F9MJ,NEDER-HEEMBEEK-NORD,248922,5,1,female,parent,133633,6,collectif,10,Hospital
+233753,21004F9MJ,NEDER-HEEMBEEK-NORD,248924,5,1,female,parent,133635,6,collectif,10,Hospital
+233754,21004F9MJ,NEDER-HEEMBEEK-NORD,248925,5,1,female,parent,133636,6,collectif,10,Hospital
+233755,21004F9MJ,NEDER-HEEMBEEK-NORD,248926,5,1,female,parent,133637,6,collectif,10,Hospital
+233756,21004F9MJ,NEDER-HEEMBEEK-NORD,248928,4,1,female,parent,133639,6,collectif,10,Hospital
+233757,21004F9MJ,NEDER-HEEMBEEK-NORD,248929,4,1,female,parent,133640,6,collectif,10,Hospital
+233758,21004F9MJ,NEDER-HEEMBEEK-NORD,248930,4,1,female,parent,133641,6,collectif,10,Hospital
+233759,21004F9MJ,NEDER-HEEMBEEK-NORD,248931,4,1,female,parent,133642,6,collectif,10,Hospital
+233760,21004F9MJ,NEDER-HEEMBEEK-NORD,248932,4,1,female,parent,133643,6,collectif,10,Hospital
+233761,21004F9MJ,NEDER-HEEMBEEK-NORD,248935,4,1,female,parent,133646,6,collectif,10,Hospital
+233762,21004F9MJ,NEDER-HEEMBEEK-NORD,248936,4,1,female,parent,133647,6,collectif,10,Hospital
+233763,21004F9MJ,NEDER-HEEMBEEK-NORD,248937,3,1,female,parent,133648,6,collectif,10,Hospital
+233764,21004F9MJ,NEDER-HEEMBEEK-NORD,248938,3,1,female,parent,133649,6,collectif,10,Hospital
+233765,21004F9MJ,NEDER-HEEMBEEK-NORD,248939,3,1,female,parent,133650,6,collectif,10,Hospital
+233811,21004F9MJ,NEDER-HEEMBEEK-NORD,249028,5,0,male,parent,133739,6,collectif,10,Hospital
+233812,21004F9MJ,NEDER-HEEMBEEK-NORD,249030,5,0,male,parent,133741,6,collectif,10,Hospital
+233813,21004F9MJ,NEDER-HEEMBEEK-NORD,249033,4,0,male,parent,133744,6,collectif,10,Hospital
+233814,21004F9MJ,NEDER-HEEMBEEK-NORD,249037,4,0,male,parent,133748,6,collectif,10,Hospital
+233815,21004F9MJ,NEDER-HEEMBEEK-NORD,249041,3,0,male,parent,133752,6,collectif,10,Hospital
+233816,21004F9MJ,NEDER-HEEMBEEK-NORD,249042,3,0,male,parent,133753,6,collectif,10,Hospital
+233817,21004F9MJ,NEDER-HEEMBEEK-NORD,249043,3,0,male,parent,133754,6,collectif,10,Hospital
+233818,21004F9MJ,NEDER-HEEMBEEK-NORD,249045,3,0,male,parent,133756,6,collectif,10,Hospital
+233819,21004F9MJ,NEDER-HEEMBEEK-NORD,249046,3,0,male,parent,133757,6,collectif,10,Hospital
+235262,21004A02-,SAINT-FRANCOIS XAVIER,250566,4,1,female,parent,134780,6,collectif,10,Hospital
+235263,21004A02-,SAINT-FRANCOIS XAVIER,250567,3,1,female,parent,134781,6,collectif,10,Hospital
+235264,21004A02-,SAINT-FRANCOIS XAVIER,250570,3,1,female,parent,134784,6,collectif,10,Hospital
+235454,21004A02-,SAINT-FRANCOIS XAVIER,250788,5,0,male,parent,135002,6,collectif,10,Hospital
+235455,21004A02-,SAINT-FRANCOIS XAVIER,250789,5,0,male,parent,135003,6,collectif,10,Hospital
+235456,21004A02-,SAINT-FRANCOIS XAVIER,250791,5,0,male,parent,135005,6,collectif,10,Hospital
+235457,21004A02-,SAINT-FRANCOIS XAVIER,250794,4,0,male,parent,135008,6,collectif,10,Hospital
+235458,21004A02-,SAINT-FRANCOIS XAVIER,250796,4,0,male,parent,135010,6,collectif,10,Hospital
+235459,21004A02-,SAINT-FRANCOIS XAVIER,250797,4,0,male,parent,135011,6,collectif,10,Hospital
+235460,21004A02-,SAINT-FRANCOIS XAVIER,250798,3,0,male,parent,135012,6,collectif,10,Hospital
+235461,21004A02-,SAINT-FRANCOIS XAVIER,250799,3,0,male,parent,135013,6,collectif,10,Hospital
+240239,21004A70-,BLAES (RUE)-SUD,255763,5,0,male,parent,137804,6,collectif,10,Hospital
+240240,21004A70-,BLAES (RUE)-SUD,255764,5,0,male,parent,137805,6,collectif,10,Hospital
+242241,21004A03-,BON SECOURS - PALAIS DU MIDI,257854,4,1,female,parent,139182,6,collectif,10,Hospital
+242309,21004A03-,BON SECOURS - PALAIS DU MIDI,258026,4,0,male,parent,139354,6,collectif,10,Hospital
+242310,21004A03-,BON SECOURS - PALAIS DU MIDI,258029,3,0,male,parent,139357,6,collectif,10,Hospital
+245356,21004A23-,NOUVEAU MARCHE AU GRAIN,261191,4,1,female,parent,141198,6,collectif,10,Hospital
+245357,21004A23-,NOUVEAU MARCHE AU GRAIN,261192,4,1,female,parent,141199,6,collectif,10,Hospital
+245594,21004A23-,NOUVEAU MARCHE AU GRAIN,261500,5,0,male,parent,141507,6,collectif,10,Hospital
+246449,21004A01-,VIEILLE HALLE AUX BLES,262357,5,1,female,parent,142126,6,collectif,10,Hospital
+246450,21004A01-,VIEILLE HALLE AUX BLES,262358,5,1,female,parent,142127,6,collectif,10,Hospital
+246451,21004A01-,VIEILLE HALLE AUX BLES,262359,5,1,female,parent,142128,6,collectif,10,Hospital
+246452,21004A01-,VIEILLE HALLE AUX BLES,262360,4,1,female,parent,142129,6,collectif,10,Hospital
+246453,21004A01-,VIEILLE HALLE AUX BLES,262361,4,1,female,parent,142130,6,collectif,10,Hospital
+246454,21004A01-,VIEILLE HALLE AUX BLES,262362,4,1,female,parent,142131,6,collectif,10,Hospital
+246455,21004A01-,VIEILLE HALLE AUX BLES,262363,4,1,female,parent,142132,6,collectif,10,Hospital
+246456,21004A01-,VIEILLE HALLE AUX BLES,262364,3,1,female,parent,142133,6,collectif,10,Hospital
+246457,21004A01-,VIEILLE HALLE AUX BLES,262365,3,1,female,parent,142134,6,collectif,10,Hospital
+246458,21004A01-,VIEILLE HALLE AUX BLES,262366,3,1,female,parent,142135,6,collectif,10,Hospital
+246459,21004A01-,VIEILLE HALLE AUX BLES,262367,3,1,female,parent,142136,6,collectif,10,Hospital
+246530,21004A01-,VIEILLE HALLE AUX BLES,262484,4,0,male,parent,142253,6,collectif,10,Hospital
+246531,21004A01-,VIEILLE HALLE AUX BLES,262485,4,0,male,parent,142254,6,collectif,10,Hospital
+250042,21004A22-,SENNE (RUE DE LA),266106,5,0,male,parent,144343,6,collectif,10,Hospital
+250043,21004A22-,SENNE (RUE DE LA),266108,5,0,male,parent,144345,6,collectif,10,Hospital
+250044,21004A22-,SENNE (RUE DE LA),266110,5,0,male,parent,144347,6,collectif,10,Hospital
+250045,21004A22-,SENNE (RUE DE LA),266112,5,0,male,parent,144349,6,collectif,10,Hospital
+250046,21004A22-,SENNE (RUE DE LA),266117,4,0,male,parent,144354,6,collectif,10,Hospital
+250047,21004A22-,SENNE (RUE DE LA),266119,4,0,male,parent,144356,6,collectif,10,Hospital
+250048,21004A22-,SENNE (RUE DE LA),266120,4,0,male,parent,144357,6,collectif,10,Hospital
+250049,21004A22-,SENNE (RUE DE LA),266121,4,0,male,parent,144358,6,collectif,10,Hospital
+250050,21004A22-,SENNE (RUE DE LA),266122,4,0,male,parent,144359,6,collectif,10,Hospital
+250051,21004A22-,SENNE (RUE DE LA),266123,4,0,male,parent,144360,6,collectif,10,Hospital
+250052,21004A22-,SENNE (RUE DE LA),266124,4,0,male,parent,144361,6,collectif,10,Hospital
+250053,21004A22-,SENNE (RUE DE LA),266125,4,0,male,parent,144362,6,collectif,10,Hospital
+250054,21004A22-,SENNE (RUE DE LA),266126,4,0,male,parent,144363,6,collectif,10,Hospital
+252110,21004A72-,SAINT-THOMAS (INSTITUT),268376,4,0,male,parent,145757,6,collectif,10,Hospital
+252111,21004A72-,SAINT-THOMAS (INSTITUT),268380,4,0,male,parent,145761,6,collectif,10,Hospital
+252112,21004A72-,SAINT-THOMAS (INSTITUT),268385,4,0,male,parent,145766,6,collectif,10,Hospital
+253615,21004A71-,BLAES (RUE)-CENTRE,269936,5,1,female,parent,146803,6,collectif,10,Hospital
+253616,21004A71-,BLAES (RUE)-CENTRE,269937,5,1,female,parent,146804,6,collectif,10,Hospital
+253617,21004A71-,BLAES (RUE)-CENTRE,269939,5,1,female,parent,146806,6,collectif,10,Hospital
+253618,21004A71-,BLAES (RUE)-CENTRE,269940,5,1,female,parent,146807,6,collectif,10,Hospital
+253619,21004A71-,BLAES (RUE)-CENTRE,269941,5,1,female,parent,146808,6,collectif,10,Hospital
+253620,21004A71-,BLAES (RUE)-CENTRE,269943,3,1,female,parent,146810,6,collectif,10,Hospital
+253621,21004A71-,BLAES (RUE)-CENTRE,269944,3,1,female,parent,146811,6,collectif,10,Hospital
+253802,21004A71-,BLAES (RUE)-CENTRE,270152,5,0,male,parent,147019,6,collectif,10,Hospital
+253803,21004A71-,BLAES (RUE)-CENTRE,270153,4,0,male,parent,147020,6,collectif,10,Hospital
+253804,21004A71-,BLAES (RUE)-CENTRE,270154,4,0,male,parent,147021,6,collectif,10,Hospital
+253805,21004A71-,BLAES (RUE)-CENTRE,270155,4,0,male,parent,147022,6,collectif,10,Hospital
+253806,21004A71-,BLAES (RUE)-CENTRE,270156,4,0,male,parent,147023,6,collectif,10,Hospital
+253807,21004A71-,BLAES (RUE)-CENTRE,270157,3,0,male,parent,147024,6,collectif,10,Hospital
+253808,21004A71-,BLAES (RUE)-CENTRE,270158,3,0,male,parent,147025,6,collectif,10,Hospital
+253809,21004A71-,BLAES (RUE)-CENTRE,270159,3,0,male,parent,147026,6,collectif,10,Hospital
+254367,21004A002,BOURSE,270728,3,1,female,parent,147419,6,collectif,10,Hospital
+255251,21004A34-,MONNAIE,271659,5,1,female,parent,148135,6,collectif,10,Hospital
+255252,21004A34-,MONNAIE,271660,5,1,female,parent,148136,6,collectif,10,Hospital
+255364,21004A34-,MONNAIE,271799,5,0,male,parent,148275,6,collectif,10,Hospital
+255365,21004A34-,MONNAIE,271800,5,0,male,parent,148276,6,collectif,10,Hospital
+255366,21004A34-,MONNAIE,271801,5,0,male,parent,148277,6,collectif,10,Hospital
+255367,21004A34-,MONNAIE,271802,4,0,male,parent,148278,6,collectif,10,Hospital
+255368,21004A34-,MONNAIE,271804,4,0,male,parent,148280,6,collectif,10,Hospital
+255369,21004A34-,MONNAIE,271805,3,0,male,parent,148281,6,collectif,10,Hospital
+255370,21004A34-,MONNAIE,271806,3,0,male,parent,148282,6,collectif,10,Hospital
+255920,21004A15-,JACOBS (PLACE),272372,3,1,female,parent,148668,6,collectif,10,Hospital
+255951,21004A15-,JACOBS (PLACE),272425,5,0,male,parent,148721,6,collectif,10,Hospital
+257122,21004A04-,NOTRE-DAME DE LA CHAPELLE,273668,5,0,male,parent,149470,6,collectif,10,Hospital
+257123,21004A04-,NOTRE-DAME DE LA CHAPELLE,273669,5,0,male,parent,149471,6,collectif,10,Hospital
+259784,21004A16-,PALAIS JUSTICE-HOP. ST.-PIERRE,276384,5,1,female,parent,151294,6,collectif,10,Hospital
+264199,21004A14-,GRAND SABLON,281299,3,0,male,parent,154611,6,collectif,10,Hospital
+264200,21004A14-,GRAND SABLON,281300,3,0,male,parent,154612,6,collectif,10,Hospital
+264201,21004A14-,GRAND SABLON,281301,3,0,male,parent,154613,6,collectif,10,Hospital
+267480,21004C52-,LOUISE (AVENUE)-NORD-OUEST,284829,5,1,female,parent,157090,6,collectif,10,Hospital
+267481,21004C52-,LOUISE (AVENUE)-NORD-OUEST,284831,4,1,female,parent,157092,6,collectif,10,Hospital
+267482,21004C52-,LOUISE (AVENUE)-NORD-OUEST,284835,3,1,female,parent,157096,6,collectif,10,Hospital
+280127,21004A21-,ANNEESSENS (PLACE),298424,5,1,female,parent,165147,6,collectif,10,Hospital
+280128,21004A21-,ANNEESSENS (PLACE),298425,5,1,female,parent,165148,6,collectif,10,Hospital
+280129,21004A21-,ANNEESSENS (PLACE),298427,5,1,female,parent,165150,6,collectif,10,Hospital
+280130,21004A21-,ANNEESSENS (PLACE),298428,5,1,female,parent,165151,6,collectif,10,Hospital
+280131,21004A21-,ANNEESSENS (PLACE),298433,4,1,female,parent,165156,6,collectif,10,Hospital
+280132,21004A21-,ANNEESSENS (PLACE),298436,4,1,female,parent,165159,6,collectif,10,Hospital
+280133,21004A21-,ANNEESSENS (PLACE),298440,3,1,female,parent,165163,6,collectif,10,Hospital
+280134,21004A21-,ANNEESSENS (PLACE),298443,3,1,female,parent,165166,6,collectif,10,Hospital
+280135,21004A21-,ANNEESSENS (PLACE),298445,3,1,female,parent,165168,6,collectif,10,Hospital
+280136,21004A21-,ANNEESSENS (PLACE),298446,3,1,female,parent,165169,6,collectif,10,Hospital
+280523,21004A21-,ANNEESSENS (PLACE),298924,5,0,male,parent,165647,6,collectif,10,Hospital
+280524,21004A21-,ANNEESSENS (PLACE),298925,5,0,male,parent,165648,6,collectif,10,Hospital
+280525,21004A21-,ANNEESSENS (PLACE),298926,5,0,male,parent,165649,6,collectif,10,Hospital
+280526,21004A21-,ANNEESSENS (PLACE),298927,5,0,male,parent,165650,6,collectif,10,Hospital
+280527,21004A21-,ANNEESSENS (PLACE),298928,5,0,male,parent,165651,6,collectif,10,Hospital
+280528,21004A21-,ANNEESSENS (PLACE),298929,5,0,male,parent,165652,6,collectif,10,Hospital
+280529,21004A21-,ANNEESSENS (PLACE),298931,5,0,male,parent,165654,6,collectif,10,Hospital
+280530,21004A21-,ANNEESSENS (PLACE),298932,5,0,male,parent,165655,6,collectif,10,Hospital
+280531,21004A21-,ANNEESSENS (PLACE),298933,5,0,male,parent,165656,6,collectif,10,Hospital
+280532,21004A21-,ANNEESSENS (PLACE),298935,5,0,male,parent,165658,6,collectif,10,Hospital
+280533,21004A21-,ANNEESSENS (PLACE),298936,5,0,male,parent,165659,6,collectif,10,Hospital
+280534,21004A21-,ANNEESSENS (PLACE),298937,5,0,male,parent,165660,6,collectif,10,Hospital
+280535,21004A21-,ANNEESSENS (PLACE),298939,5,0,male,parent,165662,6,collectif,10,Hospital
+280536,21004A21-,ANNEESSENS (PLACE),298940,4,0,male,parent,165663,6,collectif,10,Hospital
+280537,21004A21-,ANNEESSENS (PLACE),298941,4,0,male,parent,165664,6,collectif,10,Hospital
+280538,21004A21-,ANNEESSENS (PLACE),298942,4,0,male,parent,165665,6,collectif,10,Hospital
+280539,21004A21-,ANNEESSENS (PLACE),298943,4,0,male,parent,165666,6,collectif,10,Hospital
+280540,21004A21-,ANNEESSENS (PLACE),298944,4,0,male,parent,165667,6,collectif,10,Hospital
+280541,21004A21-,ANNEESSENS (PLACE),298945,4,0,male,parent,165668,6,collectif,10,Hospital
+280542,21004A21-,ANNEESSENS (PLACE),298946,4,0,male,parent,165669,6,collectif,10,Hospital
+280543,21004A21-,ANNEESSENS (PLACE),298947,4,0,male,parent,165670,6,collectif,10,Hospital
+280544,21004A21-,ANNEESSENS (PLACE),298948,4,0,male,parent,165671,6,collectif,10,Hospital
+280545,21004A21-,ANNEESSENS (PLACE),298949,4,0,male,parent,165672,6,collectif,10,Hospital
+280546,21004A21-,ANNEESSENS (PLACE),298950,4,0,male,parent,165673,6,collectif,10,Hospital
+280547,21004A21-,ANNEESSENS (PLACE),298952,4,0,male,parent,165675,6,collectif,10,Hospital
+280548,21004A21-,ANNEESSENS (PLACE),298953,3,0,male,parent,165676,6,collectif,10,Hospital
+280549,21004A21-,ANNEESSENS (PLACE),298954,3,0,male,parent,165677,6,collectif,10,Hospital
+280550,21004A21-,ANNEESSENS (PLACE),298955,3,0,male,parent,165678,6,collectif,10,Hospital
+280551,21004A21-,ANNEESSENS (PLACE),298956,3,0,male,parent,165679,6,collectif,10,Hospital
+280552,21004A21-,ANNEESSENS (PLACE),298957,3,0,male,parent,165680,6,collectif,10,Hospital
+280553,21004A21-,ANNEESSENS (PLACE),298958,3,0,male,parent,165681,6,collectif,10,Hospital
+280554,21004A21-,ANNEESSENS (PLACE),298959,3,0,male,parent,165682,6,collectif,10,Hospital
+280555,21004A21-,ANNEESSENS (PLACE),298960,3,0,male,parent,165683,6,collectif,10,Hospital
+280556,21004A21-,ANNEESSENS (PLACE),298961,3,0,male,parent,165684,6,collectif,10,Hospital
+280557,21004A21-,ANNEESSENS (PLACE),298963,3,0,male,parent,165686,6,collectif,10,Hospital
+280558,21004A21-,ANNEESSENS (PLACE),298965,3,0,male,parent,165688,6,collectif,10,Hospital
+280559,21004A21-,ANNEESSENS (PLACE),298966,3,0,male,parent,165689,6,collectif,10,Hospital
+280560,21004A21-,ANNEESSENS (PLACE),298967,3,0,male,parent,165690,6,collectif,10,Hospital
+280561,21004A21-,ANNEESSENS (PLACE),298968,3,0,male,parent,165691,6,collectif,10,Hospital
+281498,21004A13-,PETIT SABLON,299987,3,0,male,parent,166423,6,collectif,10,Hospital
+287171,21004E70-,MARIE-CHRISTINE (RUE),305824,5,0,male,parent,169133,6,collectif,10,Hospital
+287172,21004E70-,MARIE-CHRISTINE (RUE),305825,5,0,male,parent,169134,6,collectif,10,Hospital
+287173,21004E70-,MARIE-CHRISTINE (RUE),305827,5,0,male,parent,169136,6,collectif,10,Hospital
+287174,21004E70-,MARIE-CHRISTINE (RUE),305828,5,0,male,parent,169137,6,collectif,10,Hospital
+287175,21004E70-,MARIE-CHRISTINE (RUE),305830,5,0,male,parent,169139,6,collectif,10,Hospital
+287176,21004E70-,MARIE-CHRISTINE (RUE),305831,4,0,male,parent,169140,6,collectif,10,Hospital
+287177,21004E70-,MARIE-CHRISTINE (RUE),305832,4,0,male,parent,169141,6,collectif,10,Hospital
+287178,21004E70-,MARIE-CHRISTINE (RUE),305834,4,0,male,parent,169143,6,collectif,10,Hospital
+287179,21004E70-,MARIE-CHRISTINE (RUE),305835,4,0,male,parent,169144,6,collectif,10,Hospital
+287180,21004E70-,MARIE-CHRISTINE (RUE),305837,4,0,male,parent,169146,6,collectif,10,Hospital
+287181,21004E70-,MARIE-CHRISTINE (RUE),305839,4,0,male,parent,169148,6,collectif,10,Hospital
+287182,21004E70-,MARIE-CHRISTINE (RUE),305840,4,0,male,parent,169149,6,collectif,10,Hospital
+287183,21004E70-,MARIE-CHRISTINE (RUE),305841,4,0,male,parent,169150,6,collectif,10,Hospital
+287184,21004E70-,MARIE-CHRISTINE (RUE),305842,4,0,male,parent,169151,6,collectif,10,Hospital
+287185,21004E70-,MARIE-CHRISTINE (RUE),305843,4,0,male,parent,169152,6,collectif,10,Hospital
+287186,21004E70-,MARIE-CHRISTINE (RUE),305844,4,0,male,parent,169153,6,collectif,10,Hospital
+287187,21004E70-,MARIE-CHRISTINE (RUE),305845,4,0,male,parent,169154,6,collectif,10,Hospital
+295493,21004E74-,EM. DELVA (RUE),314571,5,0,male,parent,173214,6,collectif,10,Hospital
+295494,21004E74-,EM. DELVA (RUE),314572,5,0,male,parent,173215,6,collectif,10,Hospital
+295495,21004E74-,EM. DELVA (RUE),314574,5,0,male,parent,173217,6,collectif,10,Hospital
+295496,21004E74-,EM. DELVA (RUE),314575,5,0,male,parent,173218,6,collectif,10,Hospital
+295497,21004E74-,EM. DELVA (RUE),314577,5,0,male,parent,173220,6,collectif,10,Hospital
+295498,21004E74-,EM. DELVA (RUE),314580,5,0,male,parent,173223,6,collectif,10,Hospital
+295499,21004E74-,EM. DELVA (RUE),314583,5,0,male,parent,173226,6,collectif,10,Hospital
+295500,21004E74-,EM. DELVA (RUE),314584,5,0,male,parent,173227,6,collectif,10,Hospital
+295501,21004E74-,EM. DELVA (RUE),314585,5,0,male,parent,173228,6,collectif,10,Hospital
+295502,21004E74-,EM. DELVA (RUE),314586,5,0,male,parent,173229,6,collectif,10,Hospital
+295503,21004E74-,EM. DELVA (RUE),314587,5,0,male,parent,173230,6,collectif,10,Hospital
+295504,21004E74-,EM. DELVA (RUE),314588,5,0,male,parent,173231,6,collectif,10,Hospital
+295505,21004E74-,EM. DELVA (RUE),314590,5,0,male,parent,173233,6,collectif,10,Hospital
+295506,21004E74-,EM. DELVA (RUE),314591,5,0,male,parent,173234,6,collectif,10,Hospital
+295507,21004E74-,EM. DELVA (RUE),314592,5,0,male,parent,173235,6,collectif,10,Hospital
+295508,21004E74-,EM. DELVA (RUE),314593,5,0,male,parent,173236,6,collectif,10,Hospital
+295509,21004E74-,EM. DELVA (RUE),314596,4,0,male,parent,173239,6,collectif,10,Hospital
+295510,21004E74-,EM. DELVA (RUE),314597,4,0,male,parent,173240,6,collectif,10,Hospital
+295511,21004E74-,EM. DELVA (RUE),314598,4,0,male,parent,173241,6,collectif,10,Hospital
+295512,21004E74-,EM. DELVA (RUE),314600,4,0,male,parent,173243,6,collectif,10,Hospital
+295513,21004E74-,EM. DELVA (RUE),314602,4,0,male,parent,173245,6,collectif,10,Hospital
+295514,21004E74-,EM. DELVA (RUE),314603,4,0,male,parent,173246,6,collectif,10,Hospital
+295515,21004E74-,EM. DELVA (RUE),314604,4,0,male,parent,173247,6,collectif,10,Hospital
+295516,21004E74-,EM. DELVA (RUE),314605,4,0,male,parent,173248,6,collectif,10,Hospital
+295517,21004E74-,EM. DELVA (RUE),314606,4,0,male,parent,173249,6,collectif,10,Hospital
+295518,21004E74-,EM. DELVA (RUE),314607,4,0,male,parent,173250,6,collectif,10,Hospital
+295519,21004E74-,EM. DELVA (RUE),314608,4,0,male,parent,173251,6,collectif,10,Hospital
+295520,21004E74-,EM. DELVA (RUE),314610,3,0,male,parent,173253,6,collectif,10,Hospital
+295521,21004E74-,EM. DELVA (RUE),314611,3,0,male,parent,173254,6,collectif,10,Hospital
+295522,21004E74-,EM. DELVA (RUE),314612,3,0,male,parent,173255,6,collectif,10,Hospital
+295523,21004E74-,EM. DELVA (RUE),314613,3,0,male,parent,173256,6,collectif,10,Hospital
+295524,21004E74-,EM. DELVA (RUE),314615,3,0,male,parent,173258,6,collectif,10,Hospital
+310887,21004E130,SACRE-COEUR,330512,3,1,female,parent,180871,6,collectif,10,Hospital
+311089,21004E130,SACRE-COEUR,330766,4,0,male,parent,181125,6,collectif,10,Hospital
+311090,21004E130,SACRE-COEUR,330767,4,0,male,parent,181126,6,collectif,10,Hospital
+311091,21004E130,SACRE-COEUR,330768,4,0,male,parent,181127,6,collectif,10,Hospital
+311092,21004E130,SACRE-COEUR,330770,4,0,male,parent,181129,6,collectif,10,Hospital
+311093,21004E130,SACRE-COEUR,330772,4,0,male,parent,181131,6,collectif,10,Hospital
+311094,21004E130,SACRE-COEUR,330773,4,0,male,parent,181132,6,collectif,10,Hospital
+311095,21004E130,SACRE-COEUR,330774,4,0,male,parent,181133,6,collectif,10,Hospital
+311096,21004E130,SACRE-COEUR,330776,4,0,male,parent,181135,6,collectif,10,Hospital
+314814,21004E73-,EM. BOCKSTAEL (BOULEVARD)-SUD,334631,5,1,female,parent,182854,6,collectif,10,Hospital
+314815,21004E73-,EM. BOCKSTAEL (BOULEVARD)-SUD,334635,4,1,female,parent,182858,6,collectif,10,Hospital
+314998,21004E73-,EM. BOCKSTAEL (BOULEVARD)-SUD,334876,4,0,male,parent,183099,6,collectif,10,Hospital
+314999,21004E73-,EM. BOCKSTAEL (BOULEVARD)-SUD,334877,4,0,male,parent,183100,6,collectif,10,Hospital
+315000,21004E73-,EM. BOCKSTAEL (BOULEVARD)-SUD,334878,4,0,male,parent,183101,6,collectif,10,Hospital
+315001,21004E73-,EM. BOCKSTAEL (BOULEVARD)-SUD,334879,4,0,male,parent,183102,6,collectif,10,Hospital
+315002,21004E73-,EM. BOCKSTAEL (BOULEVARD)-SUD,334880,4,0,male,parent,183103,6,collectif,10,Hospital
+315003,21004E73-,EM. BOCKSTAEL (BOULEVARD)-SUD,334881,4,0,male,parent,183104,6,collectif,10,Hospital
+315004,21004E73-,EM. BOCKSTAEL (BOULEVARD)-SUD,334883,4,0,male,parent,183106,6,collectif,10,Hospital
+315005,21004E73-,EM. BOCKSTAEL (BOULEVARD)-SUD,334884,4,0,male,parent,183107,6,collectif,10,Hospital
+315006,21004E73-,EM. BOCKSTAEL (BOULEVARD)-SUD,334885,4,0,male,parent,183108,6,collectif,10,Hospital
+315007,21004E73-,EM. BOCKSTAEL (BOULEVARD)-SUD,334886,4,0,male,parent,183109,6,collectif,10,Hospital
+315008,21004E73-,EM. BOCKSTAEL (BOULEVARD)-SUD,334887,4,0,male,parent,183110,6,collectif,10,Hospital
+315009,21004E73-,EM. BOCKSTAEL (BOULEVARD)-SUD,334888,4,0,male,parent,183111,6,collectif,10,Hospital
+315010,21004E73-,EM. BOCKSTAEL (BOULEVARD)-SUD,334889,4,0,male,parent,183112,6,collectif,10,Hospital
+315011,21004E73-,EM. BOCKSTAEL (BOULEVARD)-SUD,334890,4,0,male,parent,183113,6,collectif,10,Hospital
+315012,21004E73-,EM. BOCKSTAEL (BOULEVARD)-SUD,334892,4,0,male,parent,183115,6,collectif,10,Hospital
+315013,21004E73-,EM. BOCKSTAEL (BOULEVARD)-SUD,334894,3,0,male,parent,183117,6,collectif,10,Hospital
+315014,21004E73-,EM. BOCKSTAEL (BOULEVARD)-SUD,334895,3,0,male,parent,183118,6,collectif,10,Hospital
+315015,21004E73-,EM. BOCKSTAEL (BOULEVARD)-SUD,334898,3,0,male,parent,183121,6,collectif,10,Hospital
+315016,21004E73-,EM. BOCKSTAEL (BOULEVARD)-SUD,334899,3,0,male,parent,183122,6,collectif,10,Hospital
+315017,21004E73-,EM. BOCKSTAEL (BOULEVARD)-SUD,334900,3,0,male,parent,183123,6,collectif,10,Hospital
+315018,21004E73-,EM. BOCKSTAEL (BOULEVARD)-SUD,334903,3,0,male,parent,183126,6,collectif,10,Hospital
+315019,21004E73-,EM. BOCKSTAEL (BOULEVARD)-SUD,334904,3,0,male,parent,183127,6,collectif,10,Hospital
+315020,21004E73-,EM. BOCKSTAEL (BOULEVARD)-SUD,334905,3,0,male,parent,183128,6,collectif,10,Hospital
+320907,21004E72-,MAISON ROUGE (PLACE)-SUD,340959,5,1,female,parent,185815,6,collectif,10,Hospital
+320908,21004E72-,MAISON ROUGE (PLACE)-SUD,340963,5,1,female,parent,185819,6,collectif,10,Hospital
+320909,21004E72-,MAISON ROUGE (PLACE)-SUD,340965,5,1,female,parent,185821,6,collectif,10,Hospital
+320910,21004E72-,MAISON ROUGE (PLACE)-SUD,340968,5,1,female,parent,185824,6,collectif,10,Hospital
+320911,21004E72-,MAISON ROUGE (PLACE)-SUD,340969,5,1,female,parent,185825,6,collectif,10,Hospital
+320912,21004E72-,MAISON ROUGE (PLACE)-SUD,340971,4,1,female,parent,185827,6,collectif,10,Hospital
+321147,21004E72-,MAISON ROUGE (PLACE)-SUD,341266,5,0,male,parent,186122,6,collectif,10,Hospital
+321148,21004E72-,MAISON ROUGE (PLACE)-SUD,341267,5,0,male,parent,186123,6,collectif,10,Hospital
+321149,21004E72-,MAISON ROUGE (PLACE)-SUD,341268,5,0,male,parent,186124,6,collectif,10,Hospital
+321150,21004E72-,MAISON ROUGE (PLACE)-SUD,341269,5,0,male,parent,186125,6,collectif,10,Hospital
+321151,21004E72-,MAISON ROUGE (PLACE)-SUD,341270,5,0,male,parent,186126,6,collectif,10,Hospital
+321152,21004E72-,MAISON ROUGE (PLACE)-SUD,341271,5,0,male,parent,186127,6,collectif,10,Hospital
+321153,21004E72-,MAISON ROUGE (PLACE)-SUD,341272,5,0,male,parent,186128,6,collectif,10,Hospital
+321154,21004E72-,MAISON ROUGE (PLACE)-SUD,341273,5,0,male,parent,186129,6,collectif,10,Hospital
+321155,21004E72-,MAISON ROUGE (PLACE)-SUD,341274,5,0,male,parent,186130,6,collectif,10,Hospital
+321156,21004E72-,MAISON ROUGE (PLACE)-SUD,341275,5,0,male,parent,186131,6,collectif,10,Hospital
+321157,21004E72-,MAISON ROUGE (PLACE)-SUD,341277,4,0,male,parent,186133,6,collectif,10,Hospital
+321158,21004E72-,MAISON ROUGE (PLACE)-SUD,341278,4,0,male,parent,186134,6,collectif,10,Hospital
+321159,21004E72-,MAISON ROUGE (PLACE)-SUD,341279,4,0,male,parent,186135,6,collectif,10,Hospital
+322185,21004D64-,MASUI (PLACE)-NORD,342360,5,0,male,parent,186628,6,collectif,10,Hospital
+322186,21004D64-,MASUI (PLACE)-NORD,342361,5,0,male,parent,186629,6,collectif,10,Hospital
+322187,21004D64-,MASUI (PLACE)-NORD,342364,3,0,male,parent,186632,6,collectif,10,Hospital
+322188,21004D64-,MASUI (PLACE)-NORD,342365,3,0,male,parent,186633,6,collectif,10,Hospital
+322189,21004D64-,MASUI (PLACE)-NORD,342368,3,0,male,parent,186636,6,collectif,10,Hospital
+322585,21004E112,RUE DES CHRYSANTHEMES,342765,5,1,female,parent,186848,6,collectif,10,Hospital
+322586,21004E112,RUE DES CHRYSANTHEMES,342766,5,1,female,parent,186849,6,collectif,10,Hospital
+322587,21004E112,RUE DES CHRYSANTHEMES,342767,4,1,female,parent,186850,6,collectif,10,Hospital
+322588,21004E112,RUE DES CHRYSANTHEMES,342768,4,1,female,parent,186851,6,collectif,10,Hospital
+322589,21004E112,RUE DES CHRYSANTHEMES,342769,4,1,female,parent,186852,6,collectif,10,Hospital
+322590,21004E112,RUE DES CHRYSANTHEMES,342770,4,1,female,parent,186853,6,collectif,10,Hospital
+322591,21004E112,RUE DES CHRYSANTHEMES,342771,3,1,female,parent,186854,6,collectif,10,Hospital
+322694,21004E112,RUE DES CHRYSANTHEMES,342874,5,0,male,parent,186957,6,collectif,10,Hospital
+322695,21004E112,RUE DES CHRYSANTHEMES,342875,5,0,male,parent,186958,6,collectif,10,Hospital
+322696,21004E112,RUE DES CHRYSANTHEMES,342876,5,0,male,parent,186959,6,collectif,10,Hospital
+322697,21004E112,RUE DES CHRYSANTHEMES,342877,4,0,male,parent,186960,6,collectif,10,Hospital
+322698,21004E112,RUE DES CHRYSANTHEMES,342878,3,0,male,parent,186961,6,collectif,10,Hospital
+322699,21004E112,RUE DES CHRYSANTHEMES,342879,3,0,male,parent,186962,6,collectif,10,Hospital
+322700,21004E112,RUE DES CHRYSANTHEMES,342880,3,0,male,parent,186963,6,collectif,10,Hospital
+326185,21004D62-,ANVERS (CHAUSSEE D')-NORD,346449,5,1,female,parent,188618,6,collectif,10,Hospital
+326186,21004D62-,ANVERS (CHAUSSEE D')-NORD,346450,5,1,female,parent,188619,6,collectif,10,Hospital
+326288,21004D62-,ANVERS (CHAUSSEE D')-NORD,346593,4,0,male,parent,188762,6,collectif,10,Hospital
+326289,21004D62-,ANVERS (CHAUSSEE D')-NORD,346594,4,0,male,parent,188763,6,collectif,10,Hospital
+326290,21004D62-,ANVERS (CHAUSSEE D')-NORD,346595,4,0,male,parent,188764,6,collectif,10,Hospital
+326291,21004D62-,ANVERS (CHAUSSEE D')-NORD,346596,4,0,male,parent,188765,6,collectif,10,Hospital
+327149,21004E211,RUE DE WAND,347468,5,1,female,parent,189208,6,collectif,10,Hospital
+327150,21004E211,RUE DE WAND,347469,5,1,female,parent,189209,6,collectif,10,Hospital
+327151,21004E211,RUE DE WAND,347470,5,1,female,parent,189210,6,collectif,10,Hospital
+327234,21004E211,RUE DE WAND,347588,4,0,male,parent,189328,6,collectif,10,Hospital
+327743,21004D631,ALLEE VERTE - BASSIN VERGOTE,348115,4,1,female,parent,189674,6,collectif,10,Hospital
+327744,21004D631,ALLEE VERTE - BASSIN VERGOTE,348117,3,1,female,parent,189676,6,collectif,10,Hospital
+327745,21004D631,ALLEE VERTE - BASSIN VERGOTE,348119,3,1,female,parent,189678,6,collectif,10,Hospital
+327805,21004D631,ALLEE VERTE - BASSIN VERGOTE,348203,4,0,male,parent,189762,6,collectif,10,Hospital
+327806,21004D631,ALLEE VERTE - BASSIN VERGOTE,348205,4,0,male,parent,189764,6,collectif,10,Hospital
+333153,21004E12-,PRINCE LEOPOLD (SQUARE),353749,4,1,female,parent,192279,6,collectif,10,Hospital
+333154,21004E12-,PRINCE LEOPOLD (SQUARE),353750,4,1,female,parent,192280,6,collectif,10,Hospital
+333155,21004E12-,PRINCE LEOPOLD (SQUARE),353751,4,1,female,parent,192281,6,collectif,10,Hospital
+333295,21004E12-,PRINCE LEOPOLD (SQUARE),353990,5,0,male,parent,192520,6,collectif,10,Hospital
+333296,21004E12-,PRINCE LEOPOLD (SQUARE),353992,5,0,male,parent,192522,6,collectif,10,Hospital
+333297,21004E12-,PRINCE LEOPOLD (SQUARE),353993,5,0,male,parent,192523,6,collectif,10,Hospital
+333298,21004E12-,PRINCE LEOPOLD (SQUARE),353994,5,0,male,parent,192524,6,collectif,10,Hospital
+333299,21004E12-,PRINCE LEOPOLD (SQUARE),353995,5,0,male,parent,192525,6,collectif,10,Hospital
+333300,21004E12-,PRINCE LEOPOLD (SQUARE),353996,5,0,male,parent,192526,6,collectif,10,Hospital
+333301,21004E12-,PRINCE LEOPOLD (SQUARE),353997,5,0,male,parent,192527,6,collectif,10,Hospital
+333302,21004E12-,PRINCE LEOPOLD (SQUARE),353998,5,0,male,parent,192528,6,collectif,10,Hospital
+333303,21004E12-,PRINCE LEOPOLD (SQUARE),353999,5,0,male,parent,192529,6,collectif,10,Hospital
+333304,21004E12-,PRINCE LEOPOLD (SQUARE),354000,5,0,male,parent,192530,6,collectif,10,Hospital
+333305,21004E12-,PRINCE LEOPOLD (SQUARE),354002,5,0,male,parent,192532,6,collectif,10,Hospital
+333306,21004E12-,PRINCE LEOPOLD (SQUARE),354003,5,0,male,parent,192533,6,collectif,10,Hospital
+333307,21004E12-,PRINCE LEOPOLD (SQUARE),354004,5,0,male,parent,192534,6,collectif,10,Hospital
+333308,21004E12-,PRINCE LEOPOLD (SQUARE),354007,5,0,male,parent,192537,6,collectif,10,Hospital
+333309,21004E12-,PRINCE LEOPOLD (SQUARE),354009,3,0,male,parent,192539,6,collectif,10,Hospital
+333310,21004E12-,PRINCE LEOPOLD (SQUARE),354011,3,0,male,parent,192541,6,collectif,10,Hospital
+333311,21004E12-,PRINCE LEOPOLD (SQUARE),354012,3,0,male,parent,192542,6,collectif,10,Hospital
+333312,21004E12-,PRINCE LEOPOLD (SQUARE),354013,3,0,male,parent,192543,6,collectif,10,Hospital
+333313,21004E12-,PRINCE LEOPOLD (SQUARE),354014,3,0,male,parent,192544,6,collectif,10,Hospital
+333314,21004E12-,PRINCE LEOPOLD (SQUARE),354015,3,0,male,parent,192545,6,collectif,10,Hospital
+333643,21004D6NJ,TOUR ET TAXIS,354361,5,1,female,parent,192706,6,collectif,10,Hospital
+333644,21004D6NJ,TOUR ET TAXIS,354362,4,1,female,parent,192707,6,collectif,10,Hospital
+334252,21004A822,RUE DES COMMERCANTS,355009,4,1,female,parent,193176,6,collectif,10,Hospital
+334253,21004A822,RUE DES COMMERCANTS,355010,3,1,female,parent,193177,6,collectif,10,Hospital
+334329,21004A822,RUE DES COMMERCANTS,355140,4,0,male,parent,193307,6,collectif,10,Hospital
+341042,21004A811,QUAI DU COMMERCE,362358,5,1,female,parent,197230,6,collectif,10,Hospital
+341043,21004A811,QUAI DU COMMERCE,362363,4,1,female,parent,197235,6,collectif,10,Hospital
+341044,21004A811,QUAI DU COMMERCE,362365,4,1,female,parent,197237,6,collectif,10,Hospital
+341089,21004A811,QUAI DU COMMERCE,362521,4,0,male,parent,197393,6,collectif,10,Hospital
+341090,21004A811,QUAI DU COMMERCE,362522,4,0,male,parent,197394,6,collectif,10,Hospital
+351381,21004E82-,CITE MODELE,373580,5,0,male,parent,203208,6,collectif,10,Hospital
+351382,21004E82-,CITE MODELE,373581,5,0,male,parent,203209,6,collectif,10,Hospital
+351383,21004E82-,CITE MODELE,373583,5,0,male,parent,203211,6,collectif,10,Hospital
+351384,21004E82-,CITE MODELE,373584,5,0,male,parent,203212,6,collectif,10,Hospital
+351385,21004E82-,CITE MODELE,373586,4,0,male,parent,203214,6,collectif,10,Hospital
+351386,21004E82-,CITE MODELE,373588,4,0,male,parent,203216,6,collectif,10,Hospital
+351387,21004E82-,CITE MODELE,373594,3,0,male,parent,203222,6,collectif,10,Hospital
+351388,21004E82-,CITE MODELE,373595,3,0,male,parent,203223,6,collectif,10,Hospital
+355668,21004E81-,DISQUE (RUE DU),378119,4,1,female,parent,205811,6,collectif,10,Hospital
+355669,21004E81-,DISQUE (RUE DU),378122,4,1,female,parent,205814,6,collectif,10,Hospital
+356914,21004D600,PARVIS SAINT-ROCH,379490,5,1,female,parent,206647,6,collectif,10,Hospital
+359614,21004D610,ANVERS (CHAUSSEE D')-SUD,382381,5,1,female,parent,208094,6,collectif,10,Hospital
+359615,21004D610,ANVERS (CHAUSSEE D')-SUD,382382,5,1,female,parent,208095,6,collectif,10,Hospital
+359616,21004D610,ANVERS (CHAUSSEE D')-SUD,382386,5,1,female,parent,208099,6,collectif,10,Hospital
+359617,21004D610,ANVERS (CHAUSSEE D')-SUD,382387,4,1,female,parent,208100,6,collectif,10,Hospital
+359618,21004D610,ANVERS (CHAUSSEE D')-SUD,382388,4,1,female,parent,208101,6,collectif,10,Hospital
+359619,21004D610,ANVERS (CHAUSSEE D')-SUD,382392,4,1,female,parent,208105,6,collectif,10,Hospital
+359620,21004D610,ANVERS (CHAUSSEE D')-SUD,382393,4,1,female,parent,208106,6,collectif,10,Hospital
+359621,21004D610,ANVERS (CHAUSSEE D')-SUD,382395,4,1,female,parent,208108,6,collectif,10,Hospital
+359622,21004D610,ANVERS (CHAUSSEE D')-SUD,382399,3,1,female,parent,208112,6,collectif,10,Hospital
+359623,21004D610,ANVERS (CHAUSSEE D')-SUD,382402,3,1,female,parent,208115,6,collectif,10,Hospital
+359624,21004D610,ANVERS (CHAUSSEE D')-SUD,382404,3,1,female,parent,208117,6,collectif,10,Hospital
+359768,21004D610,ANVERS (CHAUSSEE D')-SUD,382605,5,0,male,parent,208318,6,collectif,10,Hospital
+359769,21004D610,ANVERS (CHAUSSEE D')-SUD,382607,5,0,male,parent,208320,6,collectif,10,Hospital
+359770,21004D610,ANVERS (CHAUSSEE D')-SUD,382608,5,0,male,parent,208321,6,collectif,10,Hospital
+359771,21004D610,ANVERS (CHAUSSEE D')-SUD,382610,5,0,male,parent,208323,6,collectif,10,Hospital
+359772,21004D610,ANVERS (CHAUSSEE D')-SUD,382611,5,0,male,parent,208324,6,collectif,10,Hospital
+359773,21004D610,ANVERS (CHAUSSEE D')-SUD,382612,5,0,male,parent,208325,6,collectif,10,Hospital
+359774,21004D610,ANVERS (CHAUSSEE D')-SUD,382614,5,0,male,parent,208327,6,collectif,10,Hospital
+359775,21004D610,ANVERS (CHAUSSEE D')-SUD,382615,5,0,male,parent,208328,6,collectif,10,Hospital
+359776,21004D610,ANVERS (CHAUSSEE D')-SUD,382616,5,0,male,parent,208329,6,collectif,10,Hospital
+359777,21004D610,ANVERS (CHAUSSEE D')-SUD,382617,5,0,male,parent,208330,6,collectif,10,Hospital
+359778,21004D610,ANVERS (CHAUSSEE D')-SUD,382619,4,0,male,parent,208332,6,collectif,10,Hospital
+359779,21004D610,ANVERS (CHAUSSEE D')-SUD,382621,3,0,male,parent,208334,6,collectif,10,Hospital
+359780,21004D610,ANVERS (CHAUSSEE D')-SUD,382622,3,0,male,parent,208335,6,collectif,10,Hospital
+359781,21004D610,ANVERS (CHAUSSEE D')-SUD,382623,3,0,male,parent,208336,6,collectif,10,Hospital
+359782,21004D610,ANVERS (CHAUSSEE D')-SUD,382624,3,0,male,parent,208337,6,collectif,10,Hospital
+409168,21005A21-,PORTE DE TERVUEREN - BRAFFORT,436033,4,1,female,parent,239385,6,collectif,10,Hospital
+409169,21005A21-,PORTE DE TERVUEREN - BRAFFORT,436034,3,1,female,parent,239386,6,collectif,10,Hospital
+409170,21005A21-,PORTE DE TERVUEREN - BRAFFORT,436035,3,1,female,parent,239387,6,collectif,10,Hospital
+409171,21005A21-,PORTE DE TERVUEREN - BRAFFORT,436036,3,1,female,parent,239388,6,collectif,10,Hospital
+409172,21005A21-,PORTE DE TERVUEREN - BRAFFORT,436038,3,1,female,parent,239390,6,collectif,10,Hospital
+409248,21005A21-,PORTE DE TERVUEREN - BRAFFORT,436130,5,0,male,parent,239482,6,collectif,10,Hospital
+409249,21005A21-,PORTE DE TERVUEREN - BRAFFORT,436131,4,0,male,parent,239483,6,collectif,10,Hospital
+409250,21005A21-,PORTE DE TERVUEREN - BRAFFORT,436132,4,0,male,parent,239484,6,collectif,10,Hospital
+409251,21005A21-,PORTE DE TERVUEREN - BRAFFORT,436133,4,0,male,parent,239485,6,collectif,10,Hospital
+413592,21006A13-,MAISON COMMUNALE,440748,5,1,female,parent,242015,6,collectif,10,Hospital
+413632,21006A13-,MAISON COMMUNALE,440857,5,0,male,parent,242124,6,collectif,10,Hospital
+413633,21006A13-,MAISON COMMUNALE,440859,5,0,male,parent,242126,6,collectif,10,Hospital
+413634,21006A13-,MAISON COMMUNALE,440860,5,0,male,parent,242127,6,collectif,10,Hospital
+413635,21006A13-,MAISON COMMUNALE,440861,5,0,male,parent,242128,6,collectif,10,Hospital
+413636,21006A13-,MAISON COMMUNALE,440862,5,0,male,parent,242129,6,collectif,10,Hospital
+413637,21006A13-,MAISON COMMUNALE,440863,4,0,male,parent,242130,6,collectif,10,Hospital
+415642,21006A094,BON PASTEUR,443029,3,0,male,parent,243436,6,collectif,10,Hospital
+419234,21006A403,QUARTIER CICERO,446881,4,0,male,parent,245429,6,collectif,10,Hospital
+419235,21006A403,QUARTIER CICERO,446883,4,0,male,parent,245431,6,collectif,10,Hospital
+419236,21006A403,QUARTIER CICERO,446884,4,0,male,parent,245432,6,collectif,10,Hospital
+427446,21006A312,J. BORDET (AVENUE DE),455771,4,1,female,parent,250263,6,collectif,10,Hospital
+427447,21006A312,J. BORDET (AVENUE DE),455772,3,1,female,parent,250264,6,collectif,10,Hospital
+432061,21006A101,CONSCIENCE,460707,3,0,male,parent,252741,6,collectif,10,Hospital
+435155,21006A001,VIEIL EVERE,464002,5,0,male,parent,254423,6,collectif,10,Hospital
+435156,21006A001,VIEIL EVERE,464005,5,0,male,parent,254426,6,collectif,10,Hospital
+438976,21006A171,ANCIEN COMBATTANTS (AVENUE),468106,5,1,female,parent,256638,6,collectif,10,Hospital
+438977,21006A171,ANCIEN COMBATTANTS (AVENUE),468107,5,1,female,parent,256639,6,collectif,10,Hospital
+438978,21006A171,ANCIEN COMBATTANTS (AVENUE),468108,5,1,female,parent,256640,6,collectif,10,Hospital
+438979,21006A171,ANCIEN COMBATTANTS (AVENUE),468109,4,1,female,parent,256641,6,collectif,10,Hospital
+438980,21006A171,ANCIEN COMBATTANTS (AVENUE),468110,4,1,female,parent,256642,6,collectif,10,Hospital
+438981,21006A171,ANCIEN COMBATTANTS (AVENUE),468111,4,1,female,parent,256643,6,collectif,10,Hospital
+438982,21006A171,ANCIEN COMBATTANTS (AVENUE),468112,4,1,female,parent,256644,6,collectif,10,Hospital
+438983,21006A171,ANCIEN COMBATTANTS (AVENUE),468113,3,1,female,parent,256645,6,collectif,10,Hospital
+438984,21006A171,ANCIEN COMBATTANTS (AVENUE),468114,3,1,female,parent,256646,6,collectif,10,Hospital
+438985,21006A171,ANCIEN COMBATTANTS (AVENUE),468115,3,1,female,parent,256647,6,collectif,10,Hospital
+439038,21006A171,ANCIEN COMBATTANTS (AVENUE),468191,5,0,male,parent,256723,6,collectif,10,Hospital
+439039,21006A171,ANCIEN COMBATTANTS (AVENUE),468192,4,0,male,parent,256724,6,collectif,10,Hospital
+439040,21006A171,ANCIEN COMBATTANTS (AVENUE),468193,4,0,male,parent,256725,6,collectif,10,Hospital
+439041,21006A171,ANCIEN COMBATTANTS (AVENUE),468194,4,0,male,parent,256726,6,collectif,10,Hospital
+439042,21006A171,ANCIEN COMBATTANTS (AVENUE),468195,4,0,male,parent,256727,6,collectif,10,Hospital
+439043,21006A171,ANCIEN COMBATTANTS (AVENUE),468196,3,0,male,parent,256728,6,collectif,10,Hospital
+439044,21006A171,ANCIEN COMBATTANTS (AVENUE),468197,3,0,male,parent,256729,6,collectif,10,Hospital
+439045,21006A171,ANCIEN COMBATTANTS (AVENUE),468198,3,0,male,parent,256730,6,collectif,10,Hospital
+439046,21006A171,ANCIEN COMBATTANTS (AVENUE),468199,3,0,male,parent,256731,6,collectif,10,Hospital
+440121,21006A25-,GIBET,469429,5,0,male,parent,257495,6,collectif,10,Hospital
+452567,21007A252,MESSIDOR II,482738,5,1,female,parent,264208,6,collectif,10,Hospital
+452568,21007A252,MESSIDOR II,482739,5,1,female,parent,264209,6,collectif,10,Hospital
+452569,21007A252,MESSIDOR II,482740,5,1,female,parent,264210,6,collectif,10,Hospital
+452570,21007A252,MESSIDOR II,482742,3,1,female,parent,264212,6,collectif,10,Hospital
+452616,21007A252,MESSIDOR II,482788,5,0,male,parent,264258,6,collectif,10,Hospital
+452617,21007A252,MESSIDOR II,482789,5,0,male,parent,264259,6,collectif,10,Hospital
+452618,21007A252,MESSIDOR II,482790,4,0,male,parent,264260,6,collectif,10,Hospital
+456435,21007A242,GLOBE,486948,5,0,male,parent,266715,6,collectif,10,Hospital
+458505,21007A41-,PONT DE LUTTRE-OUEST,489125,5,1,female,parent,267854,6,collectif,10,Hospital
+458506,21007A41-,PONT DE LUTTRE-OUEST,489126,5,1,female,parent,267855,6,collectif,10,Hospital
+458507,21007A41-,PONT DE LUTTRE-OUEST,489127,5,1,female,parent,267856,6,collectif,10,Hospital
+458508,21007A41-,PONT DE LUTTRE-OUEST,489128,5,1,female,parent,267857,6,collectif,10,Hospital
+458604,21007A41-,PONT DE LUTTRE-OUEST,489224,4,0,male,parent,267953,6,collectif,10,Hospital
+458605,21007A41-,PONT DE LUTTRE-OUEST,489225,3,0,male,parent,267954,6,collectif,10,Hospital
+458606,21007A41-,PONT DE LUTTRE-OUEST,489226,3,0,male,parent,267955,6,collectif,10,Hospital
+467723,21007A541,LYCEE,498850,5,1,female,parent,273001,6,collectif,10,Hospital
+467724,21007A541,LYCEE,498852,4,1,female,parent,273003,6,collectif,10,Hospital
+467725,21007A541,LYCEE,498853,4,1,female,parent,273004,6,collectif,10,Hospital
+467726,21007A541,LYCEE,498854,3,1,female,parent,273005,6,collectif,10,Hospital
+467727,21007A541,LYCEE,498855,3,1,female,parent,273006,6,collectif,10,Hospital
+467825,21007A541,LYCEE,498954,5,0,male,parent,273105,6,collectif,10,Hospital
+467826,21007A541,LYCEE,498955,5,0,male,parent,273106,6,collectif,10,Hospital
+467827,21007A541,LYCEE,498956,5,0,male,parent,273107,6,collectif,10,Hospital
+467828,21007A541,LYCEE,498957,4,0,male,parent,273108,6,collectif,10,Hospital
+467829,21007A541,LYCEE,498958,4,0,male,parent,273109,6,collectif,10,Hospital
+467830,21007A541,LYCEE,498959,4,0,male,parent,273110,6,collectif,10,Hospital
+467831,21007A541,LYCEE,498960,4,0,male,parent,273111,6,collectif,10,Hospital
+472930,21007A61-,MONTENEGRO (RUE),504236,4,1,female,parent,275612,6,collectif,10,Hospital
+472931,21007A61-,MONTENEGRO (RUE),504237,4,1,female,parent,275613,6,collectif,10,Hospital
+472932,21007A61-,MONTENEGRO (RUE),504241,4,1,female,parent,275617,6,collectif,10,Hospital
+472933,21007A61-,MONTENEGRO (RUE),504251,4,1,female,parent,275627,6,collectif,10,Hospital
+472934,21007A61-,MONTENEGRO (RUE),504255,3,1,female,parent,275631,6,collectif,10,Hospital
+472935,21007A61-,MONTENEGRO (RUE),504258,3,1,female,parent,275634,6,collectif,10,Hospital
+472936,21007A61-,MONTENEGRO (RUE),504260,3,1,female,parent,275636,6,collectif,10,Hospital
+472937,21007A61-,MONTENEGRO (RUE),504261,3,1,female,parent,275637,6,collectif,10,Hospital
+472938,21007A61-,MONTENEGRO (RUE),504262,3,1,female,parent,275638,6,collectif,10,Hospital
+473080,21007A61-,MONTENEGRO (RUE),504515,5,0,male,parent,275891,6,collectif,10,Hospital
+473081,21007A61-,MONTENEGRO (RUE),504520,5,0,male,parent,275896,6,collectif,10,Hospital
+473082,21007A61-,MONTENEGRO (RUE),504521,5,0,male,parent,275897,6,collectif,10,Hospital
+473083,21007A61-,MONTENEGRO (RUE),504522,5,0,male,parent,275898,6,collectif,10,Hospital
+473084,21007A61-,MONTENEGRO (RUE),504523,5,0,male,parent,275899,6,collectif,10,Hospital
+473085,21007A61-,MONTENEGRO (RUE),504524,5,0,male,parent,275900,6,collectif,10,Hospital
+473086,21007A61-,MONTENEGRO (RUE),504525,5,0,male,parent,275901,6,collectif,10,Hospital
+473087,21007A61-,MONTENEGRO (RUE),504526,4,0,male,parent,275902,6,collectif,10,Hospital
+473088,21007A61-,MONTENEGRO (RUE),504527,4,0,male,parent,275903,6,collectif,10,Hospital
+473693,21007A06-,KATANGA,505142,4,1,female,parent,276207,6,collectif,10,Hospital
+473694,21007A06-,KATANGA,505143,4,1,female,parent,276208,6,collectif,10,Hospital
+473695,21007A06-,KATANGA,505144,4,1,female,parent,276209,6,collectif,10,Hospital
+473696,21007A06-,KATANGA,505145,3,1,female,parent,276210,6,collectif,10,Hospital
+473697,21007A06-,KATANGA,505146,3,1,female,parent,276211,6,collectif,10,Hospital
+473698,21007A06-,KATANGA,505147,3,1,female,parent,276212,6,collectif,10,Hospital
+473797,21007A06-,KATANGA,505255,3,0,male,parent,276320,6,collectif,10,Hospital
+474216,21007A04-,FOYER FORESTOIS - MADELON,505735,5,0,male,parent,276627,6,collectif,10,Hospital
+474217,21007A04-,FOYER FORESTOIS - MADELON,505736,5,0,male,parent,276628,6,collectif,10,Hospital
+474218,21007A04-,FOYER FORESTOIS - MADELON,505738,4,0,male,parent,276630,6,collectif,10,Hospital
+480910,21007A783,PARC DE FOREST,512836,3,0,male,parent,280386,6,collectif,10,Hospital
+498546,21009A602,BELVEDERE,531890,5,1,female,parent,291681,6,collectif,10,Hospital
+498547,21009A602,BELVEDERE,531891,4,1,female,parent,291682,6,collectif,10,Hospital
+498548,21009A602,BELVEDERE,531892,3,1,female,parent,291683,6,collectif,10,Hospital
+498632,21009A602,BELVEDERE,531982,5,0,male,parent,291773,6,collectif,10,Hospital
+498633,21009A602,BELVEDERE,531983,5,0,male,parent,291774,6,collectif,10,Hospital
+498634,21009A602,BELVEDERE,531986,3,0,male,parent,291777,6,collectif,10,Hospital
+498635,21009A602,BELVEDERE,531987,3,0,male,parent,291778,6,collectif,10,Hospital
+505038,21009A812,SCHOOLGAT,538853,4,0,male,parent,295824,6,collectif,10,Hospital
+509758,21009A34-,STADE COMMUNAL,543731,5,1,female,parent,298639,6,collectif,10,Hospital
+509759,21009A34-,STADE COMMUNAL,543732,5,1,female,parent,298640,6,collectif,10,Hospital
+518935,21009A83-,L. ERNOTTE (RUE),553620,5,0,male,parent,304890,6,collectif,10,Hospital
+518936,21009A83-,L. ERNOTTE (RUE),553621,5,0,male,parent,304891,6,collectif,10,Hospital
+518937,21009A83-,L. ERNOTTE (RUE),553622,5,0,male,parent,304892,6,collectif,10,Hospital
+518938,21009A83-,L. ERNOTTE (RUE),553623,5,0,male,parent,304893,6,collectif,10,Hospital
+518939,21009A83-,L. ERNOTTE (RUE),553626,4,0,male,parent,304896,6,collectif,10,Hospital
+518940,21009A83-,L. ERNOTTE (RUE),553628,4,0,male,parent,304898,6,collectif,10,Hospital
+518941,21009A83-,L. ERNOTTE (RUE),553630,3,0,male,parent,304900,6,collectif,10,Hospital
+518942,21009A83-,L. ERNOTTE (RUE),553631,3,0,male,parent,304901,6,collectif,10,Hospital
+518943,21009A83-,L. ERNOTTE (RUE),553632,3,0,male,parent,304902,6,collectif,10,Hospital
+518944,21009A83-,L. ERNOTTE (RUE),553633,3,0,male,parent,304903,6,collectif,10,Hospital
+526357,21009A712,CHATELAIN (PLACE DU)-OUEST,561715,3,1,female,parent,310167,6,collectif,10,Hospital
+526358,21009A712,CHATELAIN (PLACE DU)-OUEST,561716,3,1,female,parent,310168,6,collectif,10,Hospital
+526417,21009A712,CHATELAIN (PLACE DU)-OUEST,561817,5,0,male,parent,310269,6,collectif,10,Hospital
+526418,21009A712,CHATELAIN (PLACE DU)-OUEST,561818,5,0,male,parent,310270,6,collectif,10,Hospital
+526419,21009A712,CHATELAIN (PLACE DU)-OUEST,561819,5,0,male,parent,310271,6,collectif,10,Hospital
+526420,21009A712,CHATELAIN (PLACE DU)-OUEST,561820,4,0,male,parent,310272,6,collectif,10,Hospital
+545439,21009A512,WIERTZ,582668,5,0,male,parent,323636,6,collectif,10,Hospital
+545440,21009A512,WIERTZ,582670,3,0,male,parent,323638,6,collectif,10,Hospital
+549847,21009A922,CASERNE (Ixelles),587540,5,1,female,parent,326752,6,collectif,10,Hospital
+549848,21009A922,CASERNE (Ixelles),587541,5,1,female,parent,326753,6,collectif,10,Hospital
+549849,21009A922,CASERNE (Ixelles),587542,5,1,female,parent,326754,6,collectif,10,Hospital
+549850,21009A922,CASERNE (Ixelles),587543,4,1,female,parent,326755,6,collectif,10,Hospital
+549851,21009A922,CASERNE (Ixelles),587544,4,1,female,parent,326756,6,collectif,10,Hospital
+549852,21009A922,CASERNE (Ixelles),587546,3,1,female,parent,326758,6,collectif,10,Hospital
+549936,21009A922,CASERNE (Ixelles),587638,5,0,male,parent,326850,6,collectif,10,Hospital
+549937,21009A922,CASERNE (Ixelles),587639,5,0,male,parent,326851,6,collectif,10,Hospital
+549938,21009A922,CASERNE (Ixelles),587640,4,0,male,parent,326852,6,collectif,10,Hospital
+549939,21009A922,CASERNE (Ixelles),587641,3,0,male,parent,326853,6,collectif,10,Hospital
+559840,21010A04-,NOTRE-DAME DE LOURDES,598118,5,0,male,parent,332725,6,collectif,10,Hospital
+559841,21010A04-,NOTRE-DAME DE LOURDES,598119,5,0,male,parent,332726,6,collectif,10,Hospital
+559842,21010A04-,NOTRE-DAME DE LOURDES,598120,5,0,male,parent,332727,6,collectif,10,Hospital
+559843,21010A04-,NOTRE-DAME DE LOURDES,598122,5,0,male,parent,332729,6,collectif,10,Hospital
+559844,21010A04-,NOTRE-DAME DE LOURDES,598125,5,0,male,parent,332732,6,collectif,10,Hospital
+559845,21010A04-,NOTRE-DAME DE LOURDES,598126,5,0,male,parent,332733,6,collectif,10,Hospital
+559846,21010A04-,NOTRE-DAME DE LOURDES,598127,5,0,male,parent,332734,6,collectif,10,Hospital
+559847,21010A04-,NOTRE-DAME DE LOURDES,598128,4,0,male,parent,332735,6,collectif,10,Hospital
+559848,21010A04-,NOTRE-DAME DE LOURDES,598129,3,0,male,parent,332736,6,collectif,10,Hospital
+559849,21010A04-,NOTRE-DAME DE LOURDES,598130,3,0,male,parent,332737,6,collectif,10,Hospital
+559850,21010A04-,NOTRE-DAME DE LOURDES,598131,3,0,male,parent,332738,6,collectif,10,Hospital
+559851,21010A04-,NOTRE-DAME DE LOURDES,598132,3,0,male,parent,332739,6,collectif,10,Hospital
+570855,21010A312,BAECK DUPRE,609674,5,1,female,parent,338661,6,collectif,10,Hospital
+570856,21010A312,BAECK DUPRE,609675,5,1,female,parent,338662,6,collectif,10,Hospital
+570857,21010A312,BAECK DUPRE,609676,5,1,female,parent,338663,6,collectif,10,Hospital
+570989,21010A312,BAECK DUPRE,609822,5,0,male,parent,338809,6,collectif,10,Hospital
+570990,21010A312,BAECK DUPRE,609824,5,0,male,parent,338811,6,collectif,10,Hospital
+579529,21010A05-,ALBERT (QUARTIER),618752,3,1,female,parent,342982,6,collectif,10,Hospital
+579530,21010A05-,ALBERT (QUARTIER),618754,3,1,female,parent,342984,6,collectif,10,Hospital
+579531,21010A05-,ALBERT (QUARTIER),618757,3,1,female,parent,342987,6,collectif,10,Hospital
+579532,21010A05-,ALBERT (QUARTIER),618759,3,1,female,parent,342989,6,collectif,10,Hospital
+579533,21010A05-,ALBERT (QUARTIER),618760,3,1,female,parent,342990,6,collectif,10,Hospital
+579812,21010A05-,ALBERT (QUARTIER),619122,4,0,male,parent,343352,6,collectif,10,Hospital
+579813,21010A05-,ALBERT (QUARTIER),619123,4,0,male,parent,343353,6,collectif,10,Hospital
+579814,21010A05-,ALBERT (QUARTIER),619124,4,0,male,parent,343354,6,collectif,10,Hospital
+579815,21010A05-,ALBERT (QUARTIER),619125,4,0,male,parent,343355,6,collectif,10,Hospital
+579816,21010A05-,ALBERT (QUARTIER),619127,4,0,male,parent,343357,6,collectif,10,Hospital
+579817,21010A05-,ALBERT (QUARTIER),619128,3,0,male,parent,343358,6,collectif,10,Hospital
+579818,21010A05-,ALBERT (QUARTIER),619129,3,0,male,parent,343359,6,collectif,10,Hospital
+579819,21010A05-,ALBERT (QUARTIER),619131,3,0,male,parent,343361,6,collectif,10,Hospital
+579820,21010A05-,ALBERT (QUARTIER),619133,3,0,male,parent,343363,6,collectif,10,Hospital
+590559,21010A00-,CENTRE,630557,5,0,male,parent,349349,6,collectif,10,Hospital
+590560,21010A00-,CENTRE,630560,5,0,male,parent,349352,6,collectif,10,Hospital
+590561,21010A00-,CENTRE,630561,5,0,male,parent,349353,6,collectif,10,Hospital
+590562,21010A00-,CENTRE,630565,5,0,male,parent,349357,6,collectif,10,Hospital
+599695,21010A01-,ESSEGHEM,640215,5,1,female,parent,354044,6,collectif,10,Hospital
+599696,21010A01-,ESSEGHEM,640216,5,1,female,parent,354045,6,collectif,10,Hospital
+599697,21010A01-,ESSEGHEM,640217,5,1,female,parent,354046,6,collectif,10,Hospital
+599698,21010A01-,ESSEGHEM,640218,5,1,female,parent,354047,6,collectif,10,Hospital
+599699,21010A01-,ESSEGHEM,640219,5,1,female,parent,354048,6,collectif,10,Hospital
+603544,21010A21-,MADELEINE,644306,4,1,female,parent,356119,6,collectif,10,Hospital
+603672,21010A21-,MADELEINE,644483,4,0,male,parent,356296,6,collectif,10,Hospital
+603673,21010A21-,MADELEINE,644485,4,0,male,parent,356298,6,collectif,10,Hospital
+603674,21010A21-,MADELEINE,644486,4,0,male,parent,356299,6,collectif,10,Hospital
+603675,21010A21-,MADELEINE,644488,3,0,male,parent,356301,6,collectif,10,Hospital
+603676,21010A21-,MADELEINE,644489,3,0,male,parent,356302,6,collectif,10,Hospital
+603677,21010A21-,MADELEINE,644490,3,0,male,parent,356303,6,collectif,10,Hospital
+607912,21010A02-,LEOPOLD I,648892,5,1,female,parent,358355,6,collectif,10,Hospital
+616552,21011A20-,PLATEAU,657866,5,1,female,parent,362859,6,collectif,10,Hospital
+616553,21011A20-,PLATEAU,657867,5,1,female,parent,362860,6,collectif,10,Hospital
+616554,21011A20-,PLATEAU,657868,5,1,female,parent,362861,6,collectif,10,Hospital
+616555,21011A20-,PLATEAU,657869,5,1,female,parent,362862,6,collectif,10,Hospital
+616556,21011A20-,PLATEAU,657870,5,1,female,parent,362863,6,collectif,10,Hospital
+616557,21011A20-,PLATEAU,657871,5,1,female,parent,362864,6,collectif,10,Hospital
+616636,21011A20-,PLATEAU,658057,3,0,male,parent,363050,6,collectif,10,Hospital
+616637,21011A20-,PLATEAU,658058,3,0,male,parent,363051,6,collectif,10,Hospital
+616638,21011A20-,PLATEAU,658059,3,0,male,parent,363052,6,collectif,10,Hospital
+623614,21011A01-,SAINTE-ANNE,665367,5,1,female,parent,366523,6,collectif,10,Hospital
+623615,21011A01-,SAINTE-ANNE,665369,5,1,female,parent,366525,6,collectif,10,Hospital
+623616,21011A01-,SAINTE-ANNE,665371,5,1,female,parent,366527,6,collectif,10,Hospital
+623617,21011A01-,SAINTE-ANNE,665373,5,1,female,parent,366529,6,collectif,10,Hospital
+623618,21011A01-,SAINTE-ANNE,665374,5,1,female,parent,366530,6,collectif,10,Hospital
+623619,21011A01-,SAINTE-ANNE,665383,5,1,female,parent,366539,6,collectif,10,Hospital
+623679,21011A01-,SAINTE-ANNE,665544,3,0,male,parent,366700,6,collectif,10,Hospital
+625835,21011A02-,JACQUET (RUE DE),667844,5,0,male,parent,367713,6,collectif,10,Hospital
+625836,21011A02-,JACQUET (RUE DE),667845,5,0,male,parent,367714,6,collectif,10,Hospital
+625837,21011A02-,JACQUET (RUE DE),667846,5,0,male,parent,367715,6,collectif,10,Hospital
+625838,21011A02-,JACQUET (RUE DE),667847,5,0,male,parent,367716,6,collectif,10,Hospital
+625839,21011A02-,JACQUET (RUE DE),667851,4,0,male,parent,367720,6,collectif,10,Hospital
+625840,21011A02-,JACQUET (RUE DE),667852,4,0,male,parent,367721,6,collectif,10,Hospital
+625841,21011A02-,JACQUET (RUE DE),667853,4,0,male,parent,367722,6,collectif,10,Hospital
+625842,21011A02-,JACQUET (RUE DE),667854,4,0,male,parent,367723,6,collectif,10,Hospital
+625843,21011A02-,JACQUET (RUE DE),667855,4,0,male,parent,367724,6,collectif,10,Hospital
+625844,21011A02-,JACQUET (RUE DE),667857,3,0,male,parent,367726,6,collectif,10,Hospital
+625845,21011A02-,JACQUET (RUE DE),667858,3,0,male,parent,367727,6,collectif,10,Hospital
+625846,21011A02-,JACQUET (RUE DE),667861,3,0,male,parent,367730,6,collectif,10,Hospital
+630195,21011A12-,BASILIQUE,672479,5,0,male,parent,370198,6,collectif,10,Hospital
+630196,21011A12-,BASILIQUE,672480,5,0,male,parent,370199,6,collectif,10,Hospital
+630197,21011A12-,BASILIQUE,672481,5,0,male,parent,370200,6,collectif,10,Hospital
+630198,21011A12-,BASILIQUE,672484,4,0,male,parent,370203,6,collectif,10,Hospital
+630199,21011A12-,BASILIQUE,672486,4,0,male,parent,370205,6,collectif,10,Hospital
+630200,21011A12-,BASILIQUE,672489,3,0,male,parent,370208,6,collectif,10,Hospital
+630201,21011A12-,BASILIQUE,672493,3,0,male,parent,370212,6,collectif,10,Hospital
+630202,21011A12-,BASILIQUE,672497,3,0,male,parent,370216,6,collectif,10,Hospital
+630203,21011A12-,BASILIQUE,672498,3,0,male,parent,370217,6,collectif,10,Hospital
+637896,21012A24-,OSSEGHEM,680750,5,0,male,parent,374577,6,collectif,10,Hospital
+637897,21012A24-,OSSEGHEM,680751,5,0,male,parent,374578,6,collectif,10,Hospital
+637898,21012A24-,OSSEGHEM,680752,5,0,male,parent,374579,6,collectif,10,Hospital
+637899,21012A24-,OSSEGHEM,680753,5,0,male,parent,374580,6,collectif,10,Hospital
+637900,21012A24-,OSSEGHEM,680754,5,0,male,parent,374581,6,collectif,10,Hospital
+637901,21012A24-,OSSEGHEM,680755,5,0,male,parent,374582,6,collectif,10,Hospital
+637902,21012A24-,OSSEGHEM,680756,5,0,male,parent,374583,6,collectif,10,Hospital
+637903,21012A24-,OSSEGHEM,680758,5,0,male,parent,374585,6,collectif,10,Hospital
+637904,21012A24-,OSSEGHEM,680759,5,0,male,parent,374586,6,collectif,10,Hospital
+637905,21012A24-,OSSEGHEM,680760,5,0,male,parent,374587,6,collectif,10,Hospital
+637906,21012A24-,OSSEGHEM,680761,4,0,male,parent,374588,6,collectif,10,Hospital
+637907,21012A24-,OSSEGHEM,680762,4,0,male,parent,374589,6,collectif,10,Hospital
+637908,21012A24-,OSSEGHEM,680763,4,0,male,parent,374590,6,collectif,10,Hospital
+637909,21012A24-,OSSEGHEM,680764,4,0,male,parent,374591,6,collectif,10,Hospital
+637910,21012A24-,OSSEGHEM,680765,4,0,male,parent,374592,6,collectif,10,Hospital
+637911,21012A24-,OSSEGHEM,680766,4,0,male,parent,374593,6,collectif,10,Hospital
+637912,21012A24-,OSSEGHEM,680767,3,0,male,parent,374594,6,collectif,10,Hospital
+642671,21012A25-,BEEKKANT,685880,5,1,female,parent,377384,6,collectif,10,Hospital
+642672,21012A25-,BEEKKANT,685881,5,1,female,parent,377385,6,collectif,10,Hospital
+642673,21012A25-,BEEKKANT,685882,4,1,female,parent,377386,6,collectif,10,Hospital
+642674,21012A25-,BEEKKANT,685883,4,1,female,parent,377387,6,collectif,10,Hospital
+642675,21012A25-,BEEKKANT,685884,4,1,female,parent,377388,6,collectif,10,Hospital
+642805,21012A25-,BEEKKANT,686022,5,0,male,parent,377526,6,collectif,10,Hospital
+642806,21012A25-,BEEKKANT,686023,5,0,male,parent,377527,6,collectif,10,Hospital
+642807,21012A25-,BEEKKANT,686025,5,0,male,parent,377529,6,collectif,10,Hospital
+642808,21012A25-,BEEKKANT,686026,5,0,male,parent,377530,6,collectif,10,Hospital
+643859,21012A172,GARE OUEST,687077,5,1,female,parent,377991,6,collectif,10,Hospital
+643860,21012A172,GARE OUEST,687078,5,1,female,parent,377992,6,collectif,10,Hospital
+643939,21012A172,GARE OUEST,687169,5,0,male,parent,378083,6,collectif,10,Hospital
+643940,21012A172,GARE OUEST,687170,5,0,male,parent,378084,6,collectif,10,Hospital
+643941,21012A172,GARE OUEST,687171,5,0,male,parent,378085,6,collectif,10,Hospital
+643942,21012A172,GARE OUEST,687172,5,0,male,parent,378086,6,collectif,10,Hospital
+643943,21012A172,GARE OUEST,687173,5,0,male,parent,378087,6,collectif,10,Hospital
+643944,21012A172,GARE OUEST,687174,5,0,male,parent,378088,6,collectif,10,Hospital
+643945,21012A172,GARE OUEST,687175,4,0,male,parent,378089,6,collectif,10,Hospital
+643946,21012A172,GARE OUEST,687177,4,0,male,parent,378091,6,collectif,10,Hospital
+643947,21012A172,GARE OUEST,687178,4,0,male,parent,378092,6,collectif,10,Hospital
+643948,21012A172,GARE OUEST,687179,4,0,male,parent,378093,6,collectif,10,Hospital
+643949,21012A172,GARE OUEST,687181,3,0,male,parent,378095,6,collectif,10,Hospital
+643950,21012A172,GARE OUEST,687182,3,0,male,parent,378096,6,collectif,10,Hospital
+643951,21012A172,GARE OUEST,687183,3,0,male,parent,378097,6,collectif,10,Hospital
+646040,21012A041,QUATRE VENTS,689388,5,0,male,parent,379236,6,collectif,10,Hospital
+646041,21012A041,QUATRE VENTS,689389,5,0,male,parent,379237,6,collectif,10,Hospital
+646042,21012A041,QUATRE VENTS,689390,5,0,male,parent,379238,6,collectif,10,Hospital
+648343,21012A10-,DUCHESSE DE BRABANT,691750,5,1,female,parent,380259,6,collectif,10,Hospital
+648344,21012A10-,DUCHESSE DE BRABANT,691751,5,1,female,parent,380260,6,collectif,10,Hospital
+648345,21012A10-,DUCHESSE DE BRABANT,691752,5,1,female,parent,380261,6,collectif,10,Hospital
+648346,21012A10-,DUCHESSE DE BRABANT,691755,5,1,female,parent,380264,6,collectif,10,Hospital
+648347,21012A10-,DUCHESSE DE BRABANT,691757,5,1,female,parent,380266,6,collectif,10,Hospital
+648348,21012A10-,DUCHESSE DE BRABANT,691759,5,1,female,parent,380268,6,collectif,10,Hospital
+648349,21012A10-,DUCHESSE DE BRABANT,691760,5,1,female,parent,380269,6,collectif,10,Hospital
+648350,21012A10-,DUCHESSE DE BRABANT,691761,5,1,female,parent,380270,6,collectif,10,Hospital
+648351,21012A10-,DUCHESSE DE BRABANT,691762,5,1,female,parent,380271,6,collectif,10,Hospital
+648352,21012A10-,DUCHESSE DE BRABANT,691763,4,1,female,parent,380272,6,collectif,10,Hospital
+648353,21012A10-,DUCHESSE DE BRABANT,691767,4,1,female,parent,380276,6,collectif,10,Hospital
+648354,21012A10-,DUCHESSE DE BRABANT,691768,4,1,female,parent,380277,6,collectif,10,Hospital
+648530,21012A10-,DUCHESSE DE BRABANT,691994,5,0,male,parent,380503,6,collectif,10,Hospital
+648531,21012A10-,DUCHESSE DE BRABANT,691995,5,0,male,parent,380504,6,collectif,10,Hospital
+648532,21012A10-,DUCHESSE DE BRABANT,691996,5,0,male,parent,380505,6,collectif,10,Hospital
+648533,21012A10-,DUCHESSE DE BRABANT,691997,5,0,male,parent,380506,6,collectif,10,Hospital
+648534,21012A10-,DUCHESSE DE BRABANT,691998,5,0,male,parent,380507,6,collectif,10,Hospital
+648535,21012A10-,DUCHESSE DE BRABANT,692000,5,0,male,parent,380509,6,collectif,10,Hospital
+648536,21012A10-,DUCHESSE DE BRABANT,692001,5,0,male,parent,380510,6,collectif,10,Hospital
+648537,21012A10-,DUCHESSE DE BRABANT,692002,5,0,male,parent,380511,6,collectif,10,Hospital
+648538,21012A10-,DUCHESSE DE BRABANT,692003,5,0,male,parent,380512,6,collectif,10,Hospital
+648539,21012A10-,DUCHESSE DE BRABANT,692004,5,0,male,parent,380513,6,collectif,10,Hospital
+648540,21012A10-,DUCHESSE DE BRABANT,692005,5,0,male,parent,380514,6,collectif,10,Hospital
+648541,21012A10-,DUCHESSE DE BRABANT,692006,5,0,male,parent,380515,6,collectif,10,Hospital
+648542,21012A10-,DUCHESSE DE BRABANT,692007,5,0,male,parent,380516,6,collectif,10,Hospital
+648543,21012A10-,DUCHESSE DE BRABANT,692008,5,0,male,parent,380517,6,collectif,10,Hospital
+648544,21012A10-,DUCHESSE DE BRABANT,692009,5,0,male,parent,380518,6,collectif,10,Hospital
+648545,21012A10-,DUCHESSE DE BRABANT,692011,5,0,male,parent,380520,6,collectif,10,Hospital
+648546,21012A10-,DUCHESSE DE BRABANT,692012,5,0,male,parent,380521,6,collectif,10,Hospital
+648547,21012A10-,DUCHESSE DE BRABANT,692013,4,0,male,parent,380522,6,collectif,10,Hospital
+648548,21012A10-,DUCHESSE DE BRABANT,692014,4,0,male,parent,380523,6,collectif,10,Hospital
+648549,21012A10-,DUCHESSE DE BRABANT,692015,4,0,male,parent,380524,6,collectif,10,Hospital
+648550,21012A10-,DUCHESSE DE BRABANT,692016,4,0,male,parent,380525,6,collectif,10,Hospital
+648551,21012A10-,DUCHESSE DE BRABANT,692017,4,0,male,parent,380526,6,collectif,10,Hospital
+648552,21012A10-,DUCHESSE DE BRABANT,692018,4,0,male,parent,380527,6,collectif,10,Hospital
+648553,21012A10-,DUCHESSE DE BRABANT,692020,4,0,male,parent,380529,6,collectif,10,Hospital
+648554,21012A10-,DUCHESSE DE BRABANT,692021,4,0,male,parent,380530,6,collectif,10,Hospital
+650909,21012A00-,CENTRE,694437,5,1,female,parent,381656,6,collectif,10,Hospital
+650910,21012A00-,CENTRE,694439,5,1,female,parent,381658,6,collectif,10,Hospital
+650911,21012A00-,CENTRE,694440,5,1,female,parent,381659,6,collectif,10,Hospital
+652065,21012A05-,SAINT-JOSEPH,695667,5,1,female,parent,382297,6,collectif,10,Hospital
+652066,21012A05-,SAINT-JOSEPH,695668,5,1,female,parent,382298,6,collectif,10,Hospital
+652067,21012A05-,SAINT-JOSEPH,695669,5,1,female,parent,382299,6,collectif,10,Hospital
+652068,21012A05-,SAINT-JOSEPH,695670,5,1,female,parent,382300,6,collectif,10,Hospital
+652069,21012A05-,SAINT-JOSEPH,695671,5,1,female,parent,382301,6,collectif,10,Hospital
+652070,21012A05-,SAINT-JOSEPH,695672,5,1,female,parent,382302,6,collectif,10,Hospital
+653476,21012A851,CONDOR,697171,4,1,female,parent,383119,6,collectif,10,Hospital
+653477,21012A851,CONDOR,697177,3,1,female,parent,383125,6,collectif,10,Hospital
+653539,21012A851,CONDOR,697286,4,0,male,parent,383234,6,collectif,10,Hospital
+653540,21012A851,CONDOR,697289,4,0,male,parent,383237,6,collectif,10,Hospital
+653541,21012A851,CONDOR,697293,4,0,male,parent,383241,6,collectif,10,Hospital
+653542,21012A851,CONDOR,697294,3,0,male,parent,383242,6,collectif,10,Hospital
+654078,21012A882,DARING,697861,4,0,male,parent,383503,6,collectif,10,Hospital
+654079,21012A882,DARING,697862,4,0,male,parent,383504,6,collectif,10,Hospital
+654080,21012A882,DARING,697865,4,0,male,parent,383507,6,collectif,10,Hospital
+654081,21012A882,DARING,697866,4,0,male,parent,383508,6,collectif,10,Hospital
+654082,21012A882,DARING,697868,3,0,male,parent,383510,6,collectif,10,Hospital
+654083,21012A882,DARING,697869,3,0,male,parent,383511,6,collectif,10,Hospital
+654084,21012A882,DARING,697870,3,0,male,parent,383512,6,collectif,10,Hospital
+654085,21012A882,DARING,697871,3,0,male,parent,383513,6,collectif,10,Hospital
+655895,21012A13-,BIRMINGHAM-NORD,699837,5,0,male,parent,384511,6,collectif,10,Hospital
+655896,21012A13-,BIRMINGHAM-NORD,699838,4,0,male,parent,384512,6,collectif,10,Hospital
+655897,21012A13-,BIRMINGHAM-NORD,699839,4,0,male,parent,384513,6,collectif,10,Hospital
+655898,21012A13-,BIRMINGHAM-NORD,699840,4,0,male,parent,384514,6,collectif,10,Hospital
+655899,21012A13-,BIRMINGHAM-NORD,699841,4,0,male,parent,384515,6,collectif,10,Hospital
+655900,21012A13-,BIRMINGHAM-NORD,699842,3,0,male,parent,384516,6,collectif,10,Hospital
+655901,21012A13-,BIRMINGHAM-NORD,699843,3,0,male,parent,384517,6,collectif,10,Hospital
+655902,21012A13-,BIRMINGHAM-NORD,699845,3,0,male,parent,384519,6,collectif,10,Hospital
+655903,21012A13-,BIRMINGHAM-NORD,699846,3,0,male,parent,384520,6,collectif,10,Hospital
+655904,21012A13-,BIRMINGHAM-NORD,699847,3,0,male,parent,384521,6,collectif,10,Hospital
+655905,21012A13-,BIRMINGHAM-NORD,699848,3,0,male,parent,384522,6,collectif,10,Hospital
+657154,21012A12-,BIRMINGHAM-SUD,701099,4,1,female,parent,385085,6,collectif,10,Hospital
+657155,21012A12-,BIRMINGHAM-SUD,701100,4,1,female,parent,385086,6,collectif,10,Hospital
+657156,21012A12-,BIRMINGHAM-SUD,701101,3,1,female,parent,385087,6,collectif,10,Hospital
+657293,21012A12-,BIRMINGHAM-SUD,701267,5,0,male,parent,385253,6,collectif,10,Hospital
+657294,21012A12-,BIRMINGHAM-SUD,701268,5,0,male,parent,385254,6,collectif,10,Hospital
+657295,21012A12-,BIRMINGHAM-SUD,701269,5,0,male,parent,385255,6,collectif,10,Hospital
+657296,21012A12-,BIRMINGHAM-SUD,701270,5,0,male,parent,385256,6,collectif,10,Hospital
+657297,21012A12-,BIRMINGHAM-SUD,701271,5,0,male,parent,385257,6,collectif,10,Hospital
+657298,21012A12-,BIRMINGHAM-SUD,701272,5,0,male,parent,385258,6,collectif,10,Hospital
+657299,21012A12-,BIRMINGHAM-SUD,701274,4,0,male,parent,385260,6,collectif,10,Hospital
+657300,21012A12-,BIRMINGHAM-SUD,701277,3,0,male,parent,385263,6,collectif,10,Hospital
+657301,21012A12-,BIRMINGHAM-SUD,701278,3,0,male,parent,385264,6,collectif,10,Hospital
+657302,21012A12-,BIRMINGHAM-SUD,701279,3,0,male,parent,385265,6,collectif,10,Hospital
+657303,21012A12-,BIRMINGHAM-SUD,701280,3,0,male,parent,385266,6,collectif,10,Hospital
+657304,21012A12-,BIRMINGHAM-SUD,701281,3,0,male,parent,385267,6,collectif,10,Hospital
+659701,21012A672,ULENS,703749,5,1,female,parent,386308,6,collectif,10,Hospital
+659702,21012A672,ULENS,703751,5,1,female,parent,386310,6,collectif,10,Hospital
+659703,21012A672,ULENS,703752,5,1,female,parent,386311,6,collectif,10,Hospital
+659704,21012A672,ULENS,703754,5,1,female,parent,386313,6,collectif,10,Hospital
+659705,21012A672,ULENS,703756,4,1,female,parent,386315,6,collectif,10,Hospital
+659706,21012A672,ULENS,703761,4,1,female,parent,386320,6,collectif,10,Hospital
+659707,21012A672,ULENS,703764,3,1,female,parent,386323,6,collectif,10,Hospital
+659708,21012A672,ULENS,703765,3,1,female,parent,386324,6,collectif,10,Hospital
+659709,21012A672,ULENS,703766,3,1,female,parent,386325,6,collectif,10,Hospital
+659710,21012A672,ULENS,703768,3,1,female,parent,386327,6,collectif,10,Hospital
+659711,21012A672,ULENS,703769,3,1,female,parent,386328,6,collectif,10,Hospital
+659884,21012A672,ULENS,703975,5,0,male,parent,386534,6,collectif,10,Hospital
+659885,21012A672,ULENS,703976,5,0,male,parent,386535,6,collectif,10,Hospital
+659886,21012A672,ULENS,703977,5,0,male,parent,386536,6,collectif,10,Hospital
+659887,21012A672,ULENS,703978,5,0,male,parent,386537,6,collectif,10,Hospital
+659888,21012A672,ULENS,703980,5,0,male,parent,386539,6,collectif,10,Hospital
+659889,21012A672,ULENS,703981,5,0,male,parent,386540,6,collectif,10,Hospital
+659890,21012A672,ULENS,703982,5,0,male,parent,386541,6,collectif,10,Hospital
+659891,21012A672,ULENS,703984,5,0,male,parent,386543,6,collectif,10,Hospital
+659892,21012A672,ULENS,703985,5,0,male,parent,386544,6,collectif,10,Hospital
+659893,21012A672,ULENS,703986,5,0,male,parent,386545,6,collectif,10,Hospital
+659894,21012A672,ULENS,703989,5,0,male,parent,386548,6,collectif,10,Hospital
+659895,21012A672,ULENS,703991,4,0,male,parent,386550,6,collectif,10,Hospital
+659896,21012A672,ULENS,703992,3,0,male,parent,386551,6,collectif,10,Hospital
+659897,21012A672,ULENS,703993,3,0,male,parent,386552,6,collectif,10,Hospital
+659898,21012A672,ULENS,703994,3,0,male,parent,386553,6,collectif,10,Hospital
+664544,21012A60-,LAEKENVELD,708748,4,1,female,parent,388652,6,collectif,10,Hospital
+664545,21012A60-,LAEKENVELD,708749,4,1,female,parent,388653,6,collectif,10,Hospital
+664546,21012A60-,LAEKENVELD,708750,4,1,female,parent,388654,6,collectif,10,Hospital
+664547,21012A60-,LAEKENVELD,708751,4,1,female,parent,388655,6,collectif,10,Hospital
+664548,21012A60-,LAEKENVELD,708752,4,1,female,parent,388656,6,collectif,10,Hospital
+664549,21012A60-,LAEKENVELD,708753,4,1,female,parent,388657,6,collectif,10,Hospital
+664550,21012A60-,LAEKENVELD,708754,4,1,female,parent,388658,6,collectif,10,Hospital
+664551,21012A60-,LAEKENVELD,708755,4,1,female,parent,388659,6,collectif,10,Hospital
+664552,21012A60-,LAEKENVELD,708756,4,1,female,parent,388660,6,collectif,10,Hospital
+664553,21012A60-,LAEKENVELD,708758,4,1,female,parent,388662,6,collectif,10,Hospital
+664554,21012A60-,LAEKENVELD,708759,4,1,female,parent,388663,6,collectif,10,Hospital
+664555,21012A60-,LAEKENVELD,708760,4,1,female,parent,388664,6,collectif,10,Hospital
+664556,21012A60-,LAEKENVELD,708763,3,1,female,parent,388667,6,collectif,10,Hospital
+664557,21012A60-,LAEKENVELD,708765,3,1,female,parent,388669,6,collectif,10,Hospital
+664558,21012A60-,LAEKENVELD,708766,3,1,female,parent,388670,6,collectif,10,Hospital
+664559,21012A60-,LAEKENVELD,708768,3,1,female,parent,388672,6,collectif,10,Hospital
+664853,21012A60-,LAEKENVELD,709114,5,0,male,parent,389018,6,collectif,10,Hospital
+664854,21012A60-,LAEKENVELD,709115,5,0,male,parent,389019,6,collectif,10,Hospital
+664855,21012A60-,LAEKENVELD,709116,5,0,male,parent,389020,6,collectif,10,Hospital
+664856,21012A60-,LAEKENVELD,709118,5,0,male,parent,389022,6,collectif,10,Hospital
+664857,21012A60-,LAEKENVELD,709119,5,0,male,parent,389023,6,collectif,10,Hospital
+664858,21012A60-,LAEKENVELD,709120,5,0,male,parent,389024,6,collectif,10,Hospital
+664859,21012A60-,LAEKENVELD,709121,5,0,male,parent,389025,6,collectif,10,Hospital
+664860,21012A60-,LAEKENVELD,709122,4,0,male,parent,389026,6,collectif,10,Hospital
+664861,21012A60-,LAEKENVELD,709123,4,0,male,parent,389027,6,collectif,10,Hospital
+664862,21012A60-,LAEKENVELD,709124,4,0,male,parent,389028,6,collectif,10,Hospital
+664863,21012A60-,LAEKENVELD,709125,4,0,male,parent,389029,6,collectif,10,Hospital
+664864,21012A60-,LAEKENVELD,709126,4,0,male,parent,389030,6,collectif,10,Hospital
+664865,21012A60-,LAEKENVELD,709127,4,0,male,parent,389031,6,collectif,10,Hospital
+664866,21012A60-,LAEKENVELD,709132,3,0,male,parent,389036,6,collectif,10,Hospital
+664867,21012A60-,LAEKENVELD,709133,3,0,male,parent,389037,6,collectif,10,Hospital
+664868,21012A60-,LAEKENVELD,709134,3,0,male,parent,389038,6,collectif,10,Hospital
+664869,21012A60-,LAEKENVELD,709135,3,0,male,parent,389039,6,collectif,10,Hospital
+664870,21012A60-,LAEKENVELD,709136,3,0,male,parent,389040,6,collectif,10,Hospital
+664871,21012A60-,LAEKENVELD,709137,3,0,male,parent,389041,6,collectif,10,Hospital
+664872,21012A60-,LAEKENVELD,709138,3,0,male,parent,389042,6,collectif,10,Hospital
+667218,21012A63-,DUBRUCQ-NORD,711617,5,0,male,parent,390104,6,collectif,10,Hospital
+672341,21012A62-,LIBERATEURS,716820,5,1,female,parent,392698,6,collectif,10,Hospital
+672342,21012A62-,LIBERATEURS,716821,5,1,female,parent,392699,6,collectif,10,Hospital
+672343,21012A62-,LIBERATEURS,716822,5,1,female,parent,392700,6,collectif,10,Hospital
+672344,21012A62-,LIBERATEURS,716823,5,1,female,parent,392701,6,collectif,10,Hospital
+672345,21012A62-,LIBERATEURS,716824,5,1,female,parent,392702,6,collectif,10,Hospital
+672677,21012A62-,LIBERATEURS,717213,5,0,male,parent,393091,6,collectif,10,Hospital
+672678,21012A62-,LIBERATEURS,717214,5,0,male,parent,393092,6,collectif,10,Hospital
+672679,21012A62-,LIBERATEURS,717215,5,0,male,parent,393093,6,collectif,10,Hospital
+672680,21012A62-,LIBERATEURS,717216,5,0,male,parent,393094,6,collectif,10,Hospital
+672681,21012A62-,LIBERATEURS,717218,5,0,male,parent,393096,6,collectif,10,Hospital
+672682,21012A62-,LIBERATEURS,717220,4,0,male,parent,393098,6,collectif,10,Hospital
+672683,21012A62-,LIBERATEURS,717221,4,0,male,parent,393099,6,collectif,10,Hospital
+672684,21012A62-,LIBERATEURS,717222,4,0,male,parent,393100,6,collectif,10,Hospital
+672685,21012A62-,LIBERATEURS,717223,4,0,male,parent,393101,6,collectif,10,Hospital
+672686,21012A62-,LIBERATEURS,717224,4,0,male,parent,393102,6,collectif,10,Hospital
+672687,21012A62-,LIBERATEURS,717226,4,0,male,parent,393104,6,collectif,10,Hospital
+672688,21012A62-,LIBERATEURS,717227,4,0,male,parent,393105,6,collectif,10,Hospital
+672689,21012A62-,LIBERATEURS,717228,3,0,male,parent,393106,6,collectif,10,Hospital
+672690,21012A62-,LIBERATEURS,717229,3,0,male,parent,393107,6,collectif,10,Hospital
+675692,21012A511,STEYNS,720386,5,0,male,parent,394591,6,collectif,10,Hospital
+675693,21012A511,STEYNS,720389,5,0,male,parent,394594,6,collectif,10,Hospital
+675694,21012A511,STEYNS,720390,5,0,male,parent,394595,6,collectif,10,Hospital
+675695,21012A511,STEYNS,720391,5,0,male,parent,394596,6,collectif,10,Hospital
+675696,21012A511,STEYNS,720393,5,0,male,parent,394598,6,collectif,10,Hospital
+677665,21012A20-,BAECK,722436,5,1,female,parent,395512,6,collectif,10,Hospital
+677666,21012A20-,BAECK,722438,5,1,female,parent,395514,6,collectif,10,Hospital
+677667,21012A20-,BAECK,722439,5,1,female,parent,395515,6,collectif,10,Hospital
+677668,21012A20-,BAECK,722441,5,1,female,parent,395517,6,collectif,10,Hospital
+677669,21012A20-,BAECK,722443,4,1,female,parent,395519,6,collectif,10,Hospital
+677670,21012A20-,BAECK,722444,4,1,female,parent,395520,6,collectif,10,Hospital
+677725,21012A20-,BAECK,722559,5,0,male,parent,395635,6,collectif,10,Hospital
+677726,21012A20-,BAECK,722560,5,0,male,parent,395636,6,collectif,10,Hospital
+677727,21012A20-,BAECK,722561,5,0,male,parent,395637,6,collectif,10,Hospital
+677728,21012A20-,BAECK,722564,5,0,male,parent,395640,6,collectif,10,Hospital
+677729,21012A20-,BAECK,722567,5,0,male,parent,395643,6,collectif,10,Hospital
+677730,21012A20-,BAECK,722569,5,0,male,parent,395645,6,collectif,10,Hospital
+677731,21012A20-,BAECK,722570,5,0,male,parent,395646,6,collectif,10,Hospital
+677732,21012A20-,BAECK,722572,4,0,male,parent,395648,6,collectif,10,Hospital
+677733,21012A20-,BAECK,722575,4,0,male,parent,395651,6,collectif,10,Hospital
+677734,21012A20-,BAECK,722576,4,0,male,parent,395652,6,collectif,10,Hospital
+680493,21012A72-,LAVALLEE,725418,5,0,male,parent,397010,6,collectif,10,Hospital
+682039,21012A611,MEXICO,726965,5,1,female,parent,397724,6,collectif,10,Hospital
+682040,21012A611,MEXICO,726966,5,1,female,parent,397725,6,collectif,10,Hospital
+682041,21012A611,MEXICO,726967,4,1,female,parent,397726,6,collectif,10,Hospital
+682042,21012A611,MEXICO,726968,4,1,female,parent,397727,6,collectif,10,Hospital
+682043,21012A611,MEXICO,726969,4,1,female,parent,397728,6,collectif,10,Hospital
+682044,21012A611,MEXICO,726970,4,1,female,parent,397729,6,collectif,10,Hospital
+682045,21012A611,MEXICO,726971,4,1,female,parent,397730,6,collectif,10,Hospital
+682046,21012A611,MEXICO,726972,4,1,female,parent,397731,6,collectif,10,Hospital
+682047,21012A611,MEXICO,726973,3,1,female,parent,397732,6,collectif,10,Hospital
+682048,21012A611,MEXICO,726974,3,1,female,parent,397733,6,collectif,10,Hospital
+682049,21012A611,MEXICO,726975,3,1,female,parent,397734,6,collectif,10,Hospital
+682050,21012A611,MEXICO,726976,3,1,female,parent,397735,6,collectif,10,Hospital
+682210,21012A611,MEXICO,727159,4,0,male,parent,397918,6,collectif,10,Hospital
+682211,21012A611,MEXICO,727160,4,0,male,parent,397919,6,collectif,10,Hospital
+682212,21012A611,MEXICO,727162,4,0,male,parent,397921,6,collectif,10,Hospital
+682213,21012A611,MEXICO,727163,4,0,male,parent,397922,6,collectif,10,Hospital
+682214,21012A611,MEXICO,727164,4,0,male,parent,397923,6,collectif,10,Hospital
+682215,21012A611,MEXICO,727165,4,0,male,parent,397924,6,collectif,10,Hospital
+682216,21012A611,MEXICO,727166,4,0,male,parent,397925,6,collectif,10,Hospital
+682217,21012A611,MEXICO,727167,4,0,male,parent,397926,6,collectif,10,Hospital
+682218,21012A611,MEXICO,727168,4,0,male,parent,397927,6,collectif,10,Hospital
+682219,21012A611,MEXICO,727169,4,0,male,parent,397928,6,collectif,10,Hospital
+682220,21012A611,MEXICO,727170,4,0,male,parent,397929,6,collectif,10,Hospital
+682221,21012A611,MEXICO,727171,4,0,male,parent,397930,6,collectif,10,Hospital
+682475,21012A53-,SIPPELBERG,727425,5,1,female,parent,398051,6,collectif,10,Hospital
+682476,21012A53-,SIPPELBERG,727426,5,1,female,parent,398052,6,collectif,10,Hospital
+682554,21012A53-,SIPPELBERG,727507,5,0,male,parent,398133,6,collectif,10,Hospital
+682555,21012A53-,SIPPELBERG,727508,5,0,male,parent,398134,6,collectif,10,Hospital
+682556,21012A53-,SIPPELBERG,727509,5,0,male,parent,398135,6,collectif,10,Hospital
+682557,21012A53-,SIPPELBERG,727510,5,0,male,parent,398136,6,collectif,10,Hospital
+682558,21012A53-,SIPPELBERG,727511,4,0,male,parent,398137,6,collectif,10,Hospital
+685859,21012A54-,DELHAIZE,731005,4,0,male,parent,399773,6,collectif,10,Hospital
+685860,21012A54-,DELHAIZE,731006,4,0,male,parent,399774,6,collectif,10,Hospital
+689130,21012A50-,BENES,734418,4,1,female,parent,401507,6,collectif,10,Hospital
+689131,21012A50-,BENES,734420,3,1,female,parent,401509,6,collectif,10,Hospital
+689132,21012A50-,BENES,734421,3,1,female,parent,401510,6,collectif,10,Hospital
+689133,21012A50-,BENES,734422,3,1,female,parent,401511,6,collectif,10,Hospital
+689134,21012A50-,BENES,734425,3,1,female,parent,401514,6,collectif,10,Hospital
+689211,21012A50-,BENES,734581,4,0,male,parent,401670,6,collectif,10,Hospital
+689212,21012A50-,BENES,734582,4,0,male,parent,401671,6,collectif,10,Hospital
+689213,21012A50-,BENES,734583,3,0,male,parent,401672,6,collectif,10,Hospital
+689214,21012A50-,BENES,734584,3,0,male,parent,401673,6,collectif,10,Hospital
+692792,21012A71-,PIERS,738187,5,1,female,parent,403339,6,collectif,10,Hospital
+692793,21012A71-,PIERS,738188,5,1,female,parent,403340,6,collectif,10,Hospital
+692794,21012A71-,PIERS,738190,5,1,female,parent,403342,6,collectif,10,Hospital
+692795,21012A71-,PIERS,738191,5,1,female,parent,403343,6,collectif,10,Hospital
+692796,21012A71-,PIERS,738192,5,1,female,parent,403344,6,collectif,10,Hospital
+692797,21012A71-,PIERS,738193,5,1,female,parent,403345,6,collectif,10,Hospital
+692798,21012A71-,PIERS,738194,5,1,female,parent,403346,6,collectif,10,Hospital
+692799,21012A71-,PIERS,738195,5,1,female,parent,403347,6,collectif,10,Hospital
+692800,21012A71-,PIERS,738196,5,1,female,parent,403348,6,collectif,10,Hospital
+692801,21012A71-,PIERS,738197,5,1,female,parent,403349,6,collectif,10,Hospital
+692802,21012A71-,PIERS,738198,5,1,female,parent,403350,6,collectif,10,Hospital
+693181,21012A71-,PIERS,738598,4,0,male,parent,403750,6,collectif,10,Hospital
+693182,21012A71-,PIERS,738599,4,0,male,parent,403751,6,collectif,10,Hospital
+693183,21012A71-,PIERS,738600,4,0,male,parent,403752,6,collectif,10,Hospital
+695011,21012A21-,MARIE-JOSE BLOCS,740607,5,0,male,parent,404903,6,collectif,10,Hospital
+695012,21012A21-,MARIE-JOSE BLOCS,740608,5,0,male,parent,404904,6,collectif,10,Hospital
+695013,21012A21-,MARIE-JOSE BLOCS,740609,5,0,male,parent,404905,6,collectif,10,Hospital
+695014,21012A21-,MARIE-JOSE BLOCS,740610,5,0,male,parent,404906,6,collectif,10,Hospital
+695015,21012A21-,MARIE-JOSE BLOCS,740611,5,0,male,parent,404907,6,collectif,10,Hospital
+695016,21012A21-,MARIE-JOSE BLOCS,740612,5,0,male,parent,404908,6,collectif,10,Hospital
+695017,21012A21-,MARIE-JOSE BLOCS,740613,5,0,male,parent,404909,6,collectif,10,Hospital
+695018,21012A21-,MARIE-JOSE BLOCS,740614,5,0,male,parent,404910,6,collectif,10,Hospital
+695019,21012A21-,MARIE-JOSE BLOCS,740618,4,0,male,parent,404914,6,collectif,10,Hospital
+695020,21012A21-,MARIE-JOSE BLOCS,740619,4,0,male,parent,404915,6,collectif,10,Hospital
+700500,21012A152,ETANGS NOIRS,746212,5,1,female,parent,407609,6,collectif,10,Hospital
+700501,21012A152,ETANGS NOIRS,746213,5,1,female,parent,407610,6,collectif,10,Hospital
+700502,21012A152,ETANGS NOIRS,746215,5,1,female,parent,407612,6,collectif,10,Hospital
+700503,21012A152,ETANGS NOIRS,746217,5,1,female,parent,407614,6,collectif,10,Hospital
+700504,21012A152,ETANGS NOIRS,746221,4,1,female,parent,407618,6,collectif,10,Hospital
+700505,21012A152,ETANGS NOIRS,746223,4,1,female,parent,407620,6,collectif,10,Hospital
+700506,21012A152,ETANGS NOIRS,746224,4,1,female,parent,407621,6,collectif,10,Hospital
+700507,21012A152,ETANGS NOIRS,746225,4,1,female,parent,407622,6,collectif,10,Hospital
+700508,21012A152,ETANGS NOIRS,746226,4,1,female,parent,407623,6,collectif,10,Hospital
+700509,21012A152,ETANGS NOIRS,746228,4,1,female,parent,407625,6,collectif,10,Hospital
+700510,21012A152,ETANGS NOIRS,746229,4,1,female,parent,407626,6,collectif,10,Hospital
+700511,21012A152,ETANGS NOIRS,746230,4,1,female,parent,407627,6,collectif,10,Hospital
+700512,21012A152,ETANGS NOIRS,746231,4,1,female,parent,407628,6,collectif,10,Hospital
+700513,21012A152,ETANGS NOIRS,746232,4,1,female,parent,407629,6,collectif,10,Hospital
+700514,21012A152,ETANGS NOIRS,746233,4,1,female,parent,407630,6,collectif,10,Hospital
+700515,21012A152,ETANGS NOIRS,746235,4,1,female,parent,407632,6,collectif,10,Hospital
+700516,21012A152,ETANGS NOIRS,746237,4,1,female,parent,407634,6,collectif,10,Hospital
+700517,21012A152,ETANGS NOIRS,746238,4,1,female,parent,407635,6,collectif,10,Hospital
+700518,21012A152,ETANGS NOIRS,746240,3,1,female,parent,407637,6,collectif,10,Hospital
+700519,21012A152,ETANGS NOIRS,746242,3,1,female,parent,407639,6,collectif,10,Hospital
+700520,21012A152,ETANGS NOIRS,746244,3,1,female,parent,407641,6,collectif,10,Hospital
+700521,21012A152,ETANGS NOIRS,746246,3,1,female,parent,407643,6,collectif,10,Hospital
+700522,21012A152,ETANGS NOIRS,746247,3,1,female,parent,407644,6,collectif,10,Hospital
+700523,21012A152,ETANGS NOIRS,746248,3,1,female,parent,407645,6,collectif,10,Hospital
+700524,21012A152,ETANGS NOIRS,746249,3,1,female,parent,407646,6,collectif,10,Hospital
+700525,21012A152,ETANGS NOIRS,746250,3,1,female,parent,407647,6,collectif,10,Hospital
+700526,21012A152,ETANGS NOIRS,746251,3,1,female,parent,407648,6,collectif,10,Hospital
+700527,21012A152,ETANGS NOIRS,746252,3,1,female,parent,407649,6,collectif,10,Hospital
+700528,21012A152,ETANGS NOIRS,746253,3,1,female,parent,407650,6,collectif,10,Hospital
+700529,21012A152,ETANGS NOIRS,746254,3,1,female,parent,407651,6,collectif,10,Hospital
+700852,21012A152,ETANGS NOIRS,746681,5,0,male,parent,408078,6,collectif,10,Hospital
+700853,21012A152,ETANGS NOIRS,746682,5,0,male,parent,408079,6,collectif,10,Hospital
+700854,21012A152,ETANGS NOIRS,746683,5,0,male,parent,408080,6,collectif,10,Hospital
+700855,21012A152,ETANGS NOIRS,746684,5,0,male,parent,408081,6,collectif,10,Hospital
+700856,21012A152,ETANGS NOIRS,746685,5,0,male,parent,408082,6,collectif,10,Hospital
+700857,21012A152,ETANGS NOIRS,746686,5,0,male,parent,408083,6,collectif,10,Hospital
+700858,21012A152,ETANGS NOIRS,746687,5,0,male,parent,408084,6,collectif,10,Hospital
+700859,21012A152,ETANGS NOIRS,746688,5,0,male,parent,408085,6,collectif,10,Hospital
+700860,21012A152,ETANGS NOIRS,746689,5,0,male,parent,408086,6,collectif,10,Hospital
+700861,21012A152,ETANGS NOIRS,746690,4,0,male,parent,408087,6,collectif,10,Hospital
+700862,21012A152,ETANGS NOIRS,746692,4,0,male,parent,408089,6,collectif,10,Hospital
+700863,21012A152,ETANGS NOIRS,746694,4,0,male,parent,408091,6,collectif,10,Hospital
+700864,21012A152,ETANGS NOIRS,746695,4,0,male,parent,408092,6,collectif,10,Hospital
+700865,21012A152,ETANGS NOIRS,746696,4,0,male,parent,408093,6,collectif,10,Hospital
+700866,21012A152,ETANGS NOIRS,746697,4,0,male,parent,408094,6,collectif,10,Hospital
+700867,21012A152,ETANGS NOIRS,746700,3,0,male,parent,408097,6,collectif,10,Hospital
+700868,21012A152,ETANGS NOIRS,746701,3,0,male,parent,408098,6,collectif,10,Hospital
+700869,21012A152,ETANGS NOIRS,746702,3,0,male,parent,408099,6,collectif,10,Hospital
+700870,21012A152,ETANGS NOIRS,746703,3,0,male,parent,408100,6,collectif,10,Hospital
+700871,21012A152,ETANGS NOIRS,746704,3,0,male,parent,408101,6,collectif,10,Hospital
+700872,21012A152,ETANGS NOIRS,746705,3,0,male,parent,408102,6,collectif,10,Hospital
+700873,21012A152,ETANGS NOIRS,746706,3,0,male,parent,408103,6,collectif,10,Hospital
+704736,21012A52-,NEEP (QUARTIER DU),750826,5,0,male,parent,410284,6,collectif,10,Hospital
+704737,21012A52-,NEEP (QUARTIER DU),750827,5,0,male,parent,410285,6,collectif,10,Hospital
+704738,21012A52-,NEEP (QUARTIER DU),750828,5,0,male,parent,410286,6,collectif,10,Hospital
+704739,21012A52-,NEEP (QUARTIER DU),750832,5,0,male,parent,410290,6,collectif,10,Hospital
+704740,21012A52-,NEEP (QUARTIER DU),750833,5,0,male,parent,410291,6,collectif,10,Hospital
+704741,21012A52-,NEEP (QUARTIER DU),750834,5,0,male,parent,410292,6,collectif,10,Hospital
+704742,21012A52-,NEEP (QUARTIER DU),750835,4,0,male,parent,410293,6,collectif,10,Hospital
+704743,21012A52-,NEEP (QUARTIER DU),750838,4,0,male,parent,410296,6,collectif,10,Hospital
+704744,21012A52-,NEEP (QUARTIER DU),750839,4,0,male,parent,410297,6,collectif,10,Hospital
+707026,21012A30-,METTEWIE - IDYLLE,753258,4,0,male,parent,411523,6,collectif,10,Hospital
+712219,21012A41-,MOORTEBEEK,758767,5,1,female,parent,414325,6,collectif,10,Hospital
+712220,21012A41-,MOORTEBEEK,758768,5,1,female,parent,414326,6,collectif,10,Hospital
+712221,21012A41-,MOORTEBEEK,758769,5,1,female,parent,414327,6,collectif,10,Hospital
+712222,21012A41-,MOORTEBEEK,758770,5,1,female,parent,414328,6,collectif,10,Hospital
+712223,21012A41-,MOORTEBEEK,758771,3,1,female,parent,414329,6,collectif,10,Hospital
+712252,21012A41-,MOORTEBEEK,758849,5,0,male,parent,414407,6,collectif,10,Hospital
+712253,21012A41-,MOORTEBEEK,758850,3,0,male,parent,414408,6,collectif,10,Hospital
+717040,21012A822,KORENBEEK,764008,4,0,male,parent,416955,6,collectif,10,Hospital
+717041,21012A822,KORENBEEK,764009,4,0,male,parent,416956,6,collectif,10,Hospital
+717042,21012A822,KORENBEEK,764010,4,0,male,parent,416957,6,collectif,10,Hospital
+717043,21012A822,KORENBEEK,764011,3,0,male,parent,416958,6,collectif,10,Hospital
+717044,21012A822,KORENBEEK,764012,3,0,male,parent,416959,6,collectif,10,Hospital
+717045,21012A822,KORENBEEK,764013,3,0,male,parent,416960,6,collectif,10,Hospital
+717046,21012A822,KORENBEEK,764014,3,0,male,parent,416961,6,collectif,10,Hospital
+717798,21012A811,MYRTES-NORD,764768,5,1,female,parent,417323,6,collectif,10,Hospital
+717799,21012A811,MYRTES-NORD,764769,4,1,female,parent,417324,6,collectif,10,Hospital
+717800,21012A811,MYRTES-NORD,764770,3,1,female,parent,417325,6,collectif,10,Hospital
+717801,21012A811,MYRTES-NORD,764771,3,1,female,parent,417326,6,collectif,10,Hospital
+717802,21012A811,MYRTES-NORD,764772,3,1,female,parent,417327,6,collectif,10,Hospital
+717939,21012A811,MYRTES-NORD,764916,5,0,male,parent,417471,6,collectif,10,Hospital
+717940,21012A811,MYRTES-NORD,764918,4,0,male,parent,417473,6,collectif,10,Hospital
+717941,21012A811,MYRTES-NORD,764919,4,0,male,parent,417474,6,collectif,10,Hospital
+717942,21012A811,MYRTES-NORD,764920,3,0,male,parent,417475,6,collectif,10,Hospital
+717943,21012A811,MYRTES-NORD,764921,3,0,male,parent,417476,6,collectif,10,Hospital
+717944,21012A811,MYRTES-NORD,764922,3,0,male,parent,417477,6,collectif,10,Hospital
+720636,21012A141,INDEPENDANCE,767787,5,0,male,parent,418902,6,collectif,10,Hospital
+720637,21012A141,INDEPENDANCE,767792,4,0,male,parent,418907,6,collectif,10,Hospital
+720638,21012A141,INDEPENDANCE,767793,4,0,male,parent,418908,6,collectif,10,Hospital
+722578,21012A03-,RANSFORT,769763,5,0,male,parent,419938,6,collectif,10,Hospital
+723871,21012A11-,INDUSTRIE,771056,5,1,female,parent,420567,6,collectif,10,Hospital
+723872,21012A11-,INDUSTRIE,771057,5,1,female,parent,420568,6,collectif,10,Hospital
+723873,21012A11-,INDUSTRIE,771058,4,1,female,parent,420569,6,collectif,10,Hospital
+723874,21012A11-,INDUSTRIE,771059,4,1,female,parent,420570,6,collectif,10,Hospital
+723875,21012A11-,INDUSTRIE,771060,4,1,female,parent,420571,6,collectif,10,Hospital
+723876,21012A11-,INDUSTRIE,771061,4,1,female,parent,420572,6,collectif,10,Hospital
+723877,21012A11-,INDUSTRIE,771062,3,1,female,parent,420573,6,collectif,10,Hospital
+723878,21012A11-,INDUSTRIE,771063,3,1,female,parent,420574,6,collectif,10,Hospital
+723981,21012A11-,INDUSTRIE,771193,5,0,male,parent,420704,6,collectif,10,Hospital
+723982,21012A11-,INDUSTRIE,771194,5,0,male,parent,420705,6,collectif,10,Hospital
+723983,21012A11-,INDUSTRIE,771195,5,0,male,parent,420706,6,collectif,10,Hospital
+723984,21012A11-,INDUSTRIE,771197,5,0,male,parent,420708,6,collectif,10,Hospital
+723985,21012A11-,INDUSTRIE,771198,5,0,male,parent,420709,6,collectif,10,Hospital
+723986,21012A11-,INDUSTRIE,771202,4,0,male,parent,420713,6,collectif,10,Hospital
+723987,21012A11-,INDUSTRIE,771203,4,0,male,parent,420714,6,collectif,10,Hospital
+723988,21012A11-,INDUSTRIE,771204,4,0,male,parent,420715,6,collectif,10,Hospital
+723989,21012A11-,INDUSTRIE,771205,4,0,male,parent,420716,6,collectif,10,Hospital
+723990,21012A11-,INDUSTRIE,771207,4,0,male,parent,420718,6,collectif,10,Hospital
+723991,21012A11-,INDUSTRIE,771208,3,0,male,parent,420719,6,collectif,10,Hospital
+723992,21012A11-,INDUSTRIE,771209,3,0,male,parent,420720,6,collectif,10,Hospital
+723993,21012A11-,INDUSTRIE,771210,3,0,male,parent,420721,6,collectif,10,Hospital
+723994,21012A11-,INDUSTRIE,771211,3,0,male,parent,420722,6,collectif,10,Hospital
+724800,21012A02-,BRUNFAUT (QUARTIER),772046,5,1,female,parent,421168,6,collectif,10,Hospital
+724892,21012A02-,BRUNFAUT (QUARTIER),772155,5,0,male,parent,421277,6,collectif,10,Hospital
+724893,21012A02-,BRUNFAUT (QUARTIER),772156,5,0,male,parent,421278,6,collectif,10,Hospital
+724894,21012A02-,BRUNFAUT (QUARTIER),772157,5,0,male,parent,421279,6,collectif,10,Hospital
+724895,21012A02-,BRUNFAUT (QUARTIER),772158,5,0,male,parent,421280,6,collectif,10,Hospital
+724896,21012A02-,BRUNFAUT (QUARTIER),772159,5,0,male,parent,421281,6,collectif,10,Hospital
+726044,21012A011,CANAL-SUD,773316,4,1,female,parent,421816,6,collectif,10,Hospital
+727403,21012A732,CANAL-NORD,774706,4,1,female,parent,422533,6,collectif,10,Hospital
+727404,21012A732,CANAL-NORD,774707,4,1,female,parent,422534,6,collectif,10,Hospital
+727405,21012A732,CANAL-NORD,774708,4,1,female,parent,422535,6,collectif,10,Hospital
+727406,21012A732,CANAL-NORD,774710,4,1,female,parent,422537,6,collectif,10,Hospital
+727407,21012A732,CANAL-NORD,774711,4,1,female,parent,422538,6,collectif,10,Hospital
+727535,21012A732,CANAL-NORD,774857,5,0,male,parent,422684,6,collectif,10,Hospital
+727536,21012A732,CANAL-NORD,774858,5,0,male,parent,422685,6,collectif,10,Hospital
+727537,21012A732,CANAL-NORD,774859,5,0,male,parent,422686,6,collectif,10,Hospital
+727538,21012A732,CANAL-NORD,774860,5,0,male,parent,422687,6,collectif,10,Hospital
+727539,21012A732,CANAL-NORD,774861,3,0,male,parent,422688,6,collectif,10,Hospital
+727540,21012A732,CANAL-NORD,774862,3,0,male,parent,422689,6,collectif,10,Hospital
+729396,21013A242,BETHLEEM (PLACE DE),776826,5,0,male,parent,423699,6,collectif,10,Hospital
+729397,21013A242,BETHLEEM (PLACE DE),776829,3,0,male,parent,423702,6,collectif,10,Hospital
+732420,21013A101,PARVIS,780021,5,0,male,parent,425469,6,collectif,10,Hospital
+732421,21013A101,PARVIS,780024,3,0,male,parent,425472,6,collectif,10,Hospital
+747918,21013A201,ANGLETERRE (RUE D'),796461,4,1,female,parent,434511,6,collectif,10,Hospital
+751479,21013A23-,ROI (AVENUE DU),800175,5,1,female,parent,436419,6,collectif,10,Hospital
+751480,21013A23-,ROI (AVENUE DU),800176,5,1,female,parent,436420,6,collectif,10,Hospital
+751481,21013A23-,ROI (AVENUE DU),800177,5,1,female,parent,436421,6,collectif,10,Hospital
+751565,21013A23-,ROI (AVENUE DU),800292,5,0,male,parent,436536,6,collectif,10,Hospital
+751566,21013A23-,ROI (AVENUE DU),800293,5,0,male,parent,436537,6,collectif,10,Hospital
+751567,21013A23-,ROI (AVENUE DU),800294,5,0,male,parent,436538,6,collectif,10,Hospital
+751568,21013A23-,ROI (AVENUE DU),800295,5,0,male,parent,436539,6,collectif,10,Hospital
+755171,21013A612,JAMAR,804268,4,0,male,parent,439128,6,collectif,10,Hospital
+755172,21013A612,JAMAR,804269,4,0,male,parent,439129,6,collectif,10,Hospital
+758890,21013A22-,REGIES,808094,4,1,female,parent,441184,6,collectif,10,Hospital
+758891,21013A22-,REGIES,808095,4,1,female,parent,441185,6,collectif,10,Hospital
+772820,21013A031,AMAZONE (RUE DE),823175,4,1,female,parent,450329,6,collectif,10,Hospital
+772821,21013A031,AMAZONE (RUE DE),823177,3,1,female,parent,450331,6,collectif,10,Hospital
+772877,21013A031,AMAZONE (RUE DE),823274,5,0,male,parent,450428,6,collectif,10,Hospital
+772878,21013A031,AMAZONE (RUE DE),823277,4,0,male,parent,450431,6,collectif,10,Hospital
+772879,21013A031,AMAZONE (RUE DE),823278,4,0,male,parent,450432,6,collectif,10,Hospital
+772880,21013A031,AMAZONE (RUE DE),823279,4,0,male,parent,450433,6,collectif,10,Hospital
+772881,21013A031,AMAZONE (RUE DE),823280,3,0,male,parent,450434,6,collectif,10,Hospital
+781578,21014A00-,PLACE SAINT-JOSSE,832457,5,1,female,parent,455761,6,collectif,10,Hospital
+783325,21014A02-,CHARITE,834339,4,1,female,parent,456938,6,collectif,10,Hospital
+783326,21014A02-,CHARITE,834341,4,1,female,parent,456940,6,collectif,10,Hospital
+783327,21014A02-,CHARITE,834342,4,1,female,parent,456941,6,collectif,10,Hospital
+783328,21014A02-,CHARITE,834344,4,1,female,parent,456943,6,collectif,10,Hospital
+783329,21014A02-,CHARITE,834345,3,1,female,parent,456944,6,collectif,10,Hospital
+783330,21014A02-,CHARITE,834346,3,1,female,parent,456945,6,collectif,10,Hospital
+783331,21014A02-,CHARITE,834347,3,1,female,parent,456946,6,collectif,10,Hospital
+783332,21014A02-,CHARITE,834349,3,1,female,parent,456948,6,collectif,10,Hospital
+783333,21014A02-,CHARITE,834350,3,1,female,parent,456949,6,collectif,10,Hospital
+783334,21014A02-,CHARITE,834351,3,1,female,parent,456950,6,collectif,10,Hospital
+783384,21014A02-,CHARITE,834477,5,0,male,parent,457076,6,collectif,10,Hospital
+783385,21014A02-,CHARITE,834479,4,0,male,parent,457078,6,collectif,10,Hospital
+784719,21014A14-,PRAIRIE,835863,5,0,male,parent,457907,6,collectif,10,Hospital
+784720,21014A14-,PRAIRIE,835864,5,0,male,parent,457908,6,collectif,10,Hospital
+784721,21014A14-,PRAIRIE,835865,4,0,male,parent,457909,6,collectif,10,Hospital
+791400,21014A10-,SAINT-FRANCOIS,842750,5,0,male,parent,461382,6,collectif,10,Hospital
+792615,21014A03-,MADOU,844037,4,0,male,parent,462039,6,collectif,10,Hospital
+792616,21014A03-,MADOU,844038,4,0,male,parent,462040,6,collectif,10,Hospital
+792617,21014A03-,MADOU,844039,4,0,male,parent,462041,6,collectif,10,Hospital
+805578,21014A3MJ,MANHATTAN,857585,5,1,female,parent,468947,6,collectif,10,Hospital
+805579,21014A3MJ,MANHATTAN,857586,5,1,female,parent,468948,6,collectif,10,Hospital
+805580,21014A3MJ,MANHATTAN,857587,3,1,female,parent,468949,6,collectif,10,Hospital
+805581,21014A3MJ,MANHATTAN,857588,3,1,female,parent,468950,6,collectif,10,Hospital
+805582,21014A3MJ,MANHATTAN,857590,3,1,female,parent,468952,6,collectif,10,Hospital
+813074,21015A77-,R.T.B.,865659,5,0,male,parent,473757,6,collectif,10,Hospital
+814402,21015A73-,H. EVENEPOEL (RUE),867015,4,1,female,parent,474402,6,collectif,10,Hospital
+814403,21015A73-,H. EVENEPOEL (RUE),867016,4,1,female,parent,474403,6,collectif,10,Hospital
+814453,21015A73-,H. EVENEPOEL (RUE),867119,5,0,male,parent,474506,6,collectif,10,Hospital
+814454,21015A73-,H. EVENEPOEL (RUE),867121,5,0,male,parent,474508,6,collectif,10,Hospital
+814455,21015A73-,H. EVENEPOEL (RUE),867122,4,0,male,parent,474509,6,collectif,10,Hospital
+814456,21015A73-,H. EVENEPOEL (RUE),867123,4,0,male,parent,474510,6,collectif,10,Hospital
+814457,21015A73-,H. EVENEPOEL (RUE),867125,4,0,male,parent,474512,6,collectif,10,Hospital
+814458,21015A73-,H. EVENEPOEL (RUE),867126,3,0,male,parent,474513,6,collectif,10,Hospital
+814459,21015A73-,H. EVENEPOEL (RUE),867128,3,0,male,parent,474515,6,collectif,10,Hospital
+814460,21015A73-,H. EVENEPOEL (RUE),867130,3,0,male,parent,474517,6,collectif,10,Hospital
+814461,21015A73-,H. EVENEPOEL (RUE),867131,3,0,male,parent,474518,6,collectif,10,Hospital
+814747,21015A782,CIMETIERE DE SAINT-JOSSE,867435,5,0,male,parent,474694,6,collectif,10,Hospital
+819172,21015A36-,CAMBIER (AVENUE E.),872075,3,1,female,parent,477209,6,collectif,10,Hospital
+821168,21015A70-,P. HYMANS (RUE),874179,5,1,female,parent,478382,6,collectif,10,Hospital
+821169,21015A70-,P. HYMANS (RUE),874181,3,1,female,parent,478384,6,collectif,10,Hospital
+821205,21015A70-,P. HYMANS (RUE),874265,5,0,male,parent,478468,6,collectif,10,Hospital
+821206,21015A70-,P. HYMANS (RUE),874272,4,0,male,parent,478475,6,collectif,10,Hospital
+821207,21015A70-,P. HYMANS (RUE),874273,4,0,male,parent,478476,6,collectif,10,Hospital
+822140,21015A721,F. COURTENS (AVENUE),875234,5,1,female,parent,478913,6,collectif,10,Hospital
+822141,21015A721,F. COURTENS (AVENUE),875236,5,1,female,parent,478915,6,collectif,10,Hospital
+822142,21015A721,F. COURTENS (AVENUE),875237,4,1,female,parent,478916,6,collectif,10,Hospital
+822189,21015A721,F. COURTENS (AVENUE),875313,4,0,male,parent,478992,6,collectif,10,Hospital
+822190,21015A721,F. COURTENS (AVENUE),875314,4,0,male,parent,478993,6,collectif,10,Hospital
+822556,21015A822,CH. GILISQUET - SUD (AVENUE),875680,4,1,female,parent,479183,6,collectif,10,Hospital
+822557,21015A822,CH. GILISQUET - SUD (AVENUE),875681,4,1,female,parent,479184,6,collectif,10,Hospital
+822614,21015A822,CH. GILISQUET - SUD (AVENUE),875748,5,0,male,parent,479251,6,collectif,10,Hospital
+822615,21015A822,CH. GILISQUET - SUD (AVENUE),875749,5,0,male,parent,479252,6,collectif,10,Hospital
+822616,21015A822,CH. GILISQUET - SUD (AVENUE),875750,5,0,male,parent,479253,6,collectif,10,Hospital
+822617,21015A822,CH. GILISQUET - SUD (AVENUE),875751,5,0,male,parent,479254,6,collectif,10,Hospital
+822618,21015A822,CH. GILISQUET - SUD (AVENUE),875752,3,0,male,parent,479255,6,collectif,10,Hospital
+822619,21015A822,CH. GILISQUET - SUD (AVENUE),875753,3,0,male,parent,479256,6,collectif,10,Hospital
+824292,21015A34-,PAQUERETTES (RUE),877511,4,0,male,parent,480109,6,collectif,10,Hospital
+825870,21015A63-,DESCHANEL P. (AVENUE),879141,5,1,female,parent,480891,6,collectif,10,Hospital
+825871,21015A63-,DESCHANEL P. (AVENUE),879142,5,1,female,parent,480892,6,collectif,10,Hospital
+825872,21015A63-,DESCHANEL P. (AVENUE),879143,5,1,female,parent,480893,6,collectif,10,Hospital
+825873,21015A63-,DESCHANEL P. (AVENUE),879145,4,1,female,parent,480895,6,collectif,10,Hospital
+825874,21015A63-,DESCHANEL P. (AVENUE),879146,4,1,female,parent,480896,6,collectif,10,Hospital
+825875,21015A63-,DESCHANEL P. (AVENUE),879147,4,1,female,parent,480897,6,collectif,10,Hospital
+825887,21015A63-,DESCHANEL P. (AVENUE),879225,4,0,male,parent,480975,6,collectif,10,Hospital
+826460,21015A883,THEUNIS PIERRE (RUE),879891,5,0,male,parent,481452,6,collectif,10,Hospital
+827759,21015A811,TERDELT,881248,4,1,female,parent,482125,6,collectif,10,Hospital
+827807,21015A811,TERDELT,881337,5,0,male,parent,482214,6,collectif,10,Hospital
+827808,21015A811,TERDELT,881338,5,0,male,parent,482215,6,collectif,10,Hospital
+836819,21015A03-,JOSAPHAT (RUE),890730,5,1,female,parent,486619,6,collectif,10,Hospital
+836820,21015A03-,JOSAPHAT (RUE),890731,5,1,female,parent,486620,6,collectif,10,Hospital
+836821,21015A03-,JOSAPHAT (RUE),890736,5,1,female,parent,486625,6,collectif,10,Hospital
+836822,21015A03-,JOSAPHAT (RUE),890738,5,1,female,parent,486627,6,collectif,10,Hospital
+836823,21015A03-,JOSAPHAT (RUE),890739,5,1,female,parent,486628,6,collectif,10,Hospital
+836824,21015A03-,JOSAPHAT (RUE),890741,4,1,female,parent,486630,6,collectif,10,Hospital
+872757,21015A05-,ROYALE SAINTE-MARIE (RUE),928455,5,0,male,parent,506251,6,collectif,10,Hospital
+872758,21015A05-,ROYALE SAINTE-MARIE (RUE),928458,5,0,male,parent,506254,6,collectif,10,Hospital
+872759,21015A05-,ROYALE SAINTE-MARIE (RUE),928459,5,0,male,parent,506255,6,collectif,10,Hospital
+872760,21015A05-,ROYALE SAINTE-MARIE (RUE),928460,5,0,male,parent,506256,6,collectif,10,Hospital
+872761,21015A05-,ROYALE SAINTE-MARIE (RUE),928462,5,0,male,parent,506258,6,collectif,10,Hospital
+872762,21015A05-,ROYALE SAINTE-MARIE (RUE),928463,4,0,male,parent,506259,6,collectif,10,Hospital
+872763,21015A05-,ROYALE SAINTE-MARIE (RUE),928464,4,0,male,parent,506260,6,collectif,10,Hospital
+872764,21015A05-,ROYALE SAINTE-MARIE (RUE),928465,4,0,male,parent,506261,6,collectif,10,Hospital
+872765,21015A05-,ROYALE SAINTE-MARIE (RUE),928466,4,0,male,parent,506262,6,collectif,10,Hospital
+872766,21015A05-,ROYALE SAINTE-MARIE (RUE),928467,4,0,male,parent,506263,6,collectif,10,Hospital
+872767,21015A05-,ROYALE SAINTE-MARIE (RUE),928468,4,0,male,parent,506264,6,collectif,10,Hospital
+872768,21015A05-,ROYALE SAINTE-MARIE (RUE),928469,4,0,male,parent,506265,6,collectif,10,Hospital
+872769,21015A05-,ROYALE SAINTE-MARIE (RUE),928470,4,0,male,parent,506266,6,collectif,10,Hospital
+872770,21015A05-,ROYALE SAINTE-MARIE (RUE),928472,4,0,male,parent,506268,6,collectif,10,Hospital
+878693,21015A152,PR. ELISABETH-NORD,934579,5,1,female,parent,509089,6,collectif,10,Hospital
+878694,21015A152,PR. ELISABETH-NORD,934581,5,1,female,parent,509091,6,collectif,10,Hospital
+878695,21015A152,PR. ELISABETH-NORD,934585,4,1,female,parent,509095,6,collectif,10,Hospital
+878696,21015A152,PR. ELISABETH-NORD,934586,4,1,female,parent,509096,6,collectif,10,Hospital
+878834,21015A152,PR. ELISABETH-NORD,934803,4,0,male,parent,509313,6,collectif,10,Hospital
+878835,21015A152,PR. ELISABETH-NORD,934804,4,0,male,parent,509314,6,collectif,10,Hospital
+878836,21015A152,PR. ELISABETH-NORD,934807,4,0,male,parent,509317,6,collectif,10,Hospital
+878837,21015A152,PR. ELISABETH-NORD,934809,4,0,male,parent,509319,6,collectif,10,Hospital
+878838,21015A152,PR. ELISABETH-NORD,934810,4,0,male,parent,509320,6,collectif,10,Hospital
+878839,21015A152,PR. ELISABETH-NORD,934811,4,0,male,parent,509321,6,collectif,10,Hospital
+878840,21015A152,PR. ELISABETH-NORD,934812,3,0,male,parent,509322,6,collectif,10,Hospital
+878841,21015A152,PR. ELISABETH-NORD,934814,3,0,male,parent,509324,6,collectif,10,Hospital
+878842,21015A152,PR. ELISABETH-NORD,934815,3,0,male,parent,509325,6,collectif,10,Hospital
+878843,21015A152,PR. ELISABETH-NORD,934817,3,0,male,parent,509327,6,collectif,10,Hospital
+880694,21015A101,GARE,936672,5,1,female,parent,510167,6,collectif,10,Hospital
+880695,21015A101,GARE,936673,5,1,female,parent,510168,6,collectif,10,Hospital
+880696,21015A101,GARE,936674,5,1,female,parent,510169,6,collectif,10,Hospital
+880697,21015A101,GARE,936675,5,1,female,parent,510170,6,collectif,10,Hospital
+880698,21015A101,GARE,936676,5,1,female,parent,510171,6,collectif,10,Hospital
+880699,21015A101,GARE,936677,5,1,female,parent,510172,6,collectif,10,Hospital
+880700,21015A101,GARE,936678,5,1,female,parent,510173,6,collectif,10,Hospital
+880701,21015A101,GARE,936679,5,1,female,parent,510174,6,collectif,10,Hospital
+880702,21015A101,GARE,936680,5,1,female,parent,510175,6,collectif,10,Hospital
+880703,21015A101,GARE,936681,4,1,female,parent,510176,6,collectif,10,Hospital
+880704,21015A101,GARE,936682,4,1,female,parent,510177,6,collectif,10,Hospital
+880705,21015A101,GARE,936683,4,1,female,parent,510178,6,collectif,10,Hospital
+880706,21015A101,GARE,936684,4,1,female,parent,510179,6,collectif,10,Hospital
+880707,21015A101,GARE,936685,3,1,female,parent,510180,6,collectif,10,Hospital
+880708,21015A101,GARE,936686,3,1,female,parent,510181,6,collectif,10,Hospital
+880709,21015A101,GARE,936687,3,1,female,parent,510182,6,collectif,10,Hospital
+880710,21015A101,GARE,936688,3,1,female,parent,510183,6,collectif,10,Hospital
+880711,21015A101,GARE,936689,3,1,female,parent,510184,6,collectif,10,Hospital
+880712,21015A101,GARE,936690,3,1,female,parent,510185,6,collectif,10,Hospital
+880713,21015A101,GARE,936691,3,1,female,parent,510186,6,collectif,10,Hospital
+880714,21015A101,GARE,936692,3,1,female,parent,510187,6,collectif,10,Hospital
+880738,21015A101,GARE,936799,5,0,male,parent,510294,6,collectif,10,Hospital
+883601,21015A111,MAETERLINCK,939810,5,0,male,parent,511646,6,collectif,10,Hospital
+883602,21015A111,MAETERLINCK,939812,5,0,male,parent,511648,6,collectif,10,Hospital
+883603,21015A111,MAETERLINCK,939813,5,0,male,parent,511649,6,collectif,10,Hospital
+883604,21015A111,MAETERLINCK,939814,5,0,male,parent,511650,6,collectif,10,Hospital
+883605,21015A111,MAETERLINCK,939816,5,0,male,parent,511652,6,collectif,10,Hospital
+883606,21015A111,MAETERLINCK,939819,5,0,male,parent,511655,6,collectif,10,Hospital
+891111,21015A04-,L'OLIVIER (RUE),947582,5,1,female,parent,515311,6,collectif,10,Hospital
+891112,21015A04-,L'OLIVIER (RUE),947584,5,1,female,parent,515313,6,collectif,10,Hospital
+893299,21015A421,PALAIS (RUE DE),949831,5,1,female,parent,516569,6,collectif,10,Hospital
+893300,21015A421,PALAIS (RUE DE),949832,5,1,female,parent,516570,6,collectif,10,Hospital
+893301,21015A421,PALAIS (RUE DE),949834,5,1,female,parent,516572,6,collectif,10,Hospital
+893302,21015A421,PALAIS (RUE DE),949835,5,1,female,parent,516573,6,collectif,10,Hospital
+893303,21015A421,PALAIS (RUE DE),949836,5,1,female,parent,516574,6,collectif,10,Hospital
+893414,21015A421,PALAIS (RUE DE),950011,5,0,male,parent,516749,6,collectif,10,Hospital
+893415,21015A421,PALAIS (RUE DE),950013,5,0,male,parent,516751,6,collectif,10,Hospital
+893416,21015A421,PALAIS (RUE DE),950015,5,0,male,parent,516753,6,collectif,10,Hospital
+893417,21015A421,PALAIS (RUE DE),950016,5,0,male,parent,516754,6,collectif,10,Hospital
+893418,21015A421,PALAIS (RUE DE),950017,4,0,male,parent,516755,6,collectif,10,Hospital
+893419,21015A421,PALAIS (RUE DE),950021,4,0,male,parent,516759,6,collectif,10,Hospital
+893420,21015A421,PALAIS (RUE DE),950022,4,0,male,parent,516760,6,collectif,10,Hospital
+893421,21015A421,PALAIS (RUE DE),950024,3,0,male,parent,516762,6,collectif,10,Hospital
+893422,21015A421,PALAIS (RUE DE),950025,3,0,male,parent,516763,6,collectif,10,Hospital
+893423,21015A421,PALAIS (RUE DE),950026,3,0,male,parent,516764,6,collectif,10,Hospital
+893424,21015A421,PALAIS (RUE DE),950027,3,0,male,parent,516765,6,collectif,10,Hospital
+896949,21015A40-,BRABANT (RUE DE),953649,5,1,female,parent,518509,6,collectif,10,Hospital
+896950,21015A40-,BRABANT (RUE DE),953650,5,1,female,parent,518510,6,collectif,10,Hospital
+896951,21015A40-,BRABANT (RUE DE),953651,5,1,female,parent,518511,6,collectif,10,Hospital
+896952,21015A40-,BRABANT (RUE DE),953652,5,1,female,parent,518512,6,collectif,10,Hospital
+896953,21015A40-,BRABANT (RUE DE),953653,5,1,female,parent,518513,6,collectif,10,Hospital
+897172,21015A40-,BRABANT (RUE DE),953936,5,0,male,parent,518796,6,collectif,10,Hospital
+897173,21015A40-,BRABANT (RUE DE),953939,4,0,male,parent,518799,6,collectif,10,Hospital
+897174,21015A40-,BRABANT (RUE DE),953940,4,0,male,parent,518800,6,collectif,10,Hospital
+897175,21015A40-,BRABANT (RUE DE),953941,4,0,male,parent,518801,6,collectif,10,Hospital
+897176,21015A40-,BRABANT (RUE DE),953945,3,0,male,parent,518805,6,collectif,10,Hospital
+897177,21015A40-,BRABANT (RUE DE),953948,3,0,male,parent,518808,6,collectif,10,Hospital
+897178,21015A40-,BRABANT (RUE DE),953949,3,0,male,parent,518809,6,collectif,10,Hospital
+897179,21015A40-,BRABANT (RUE DE),953950,3,0,male,parent,518810,6,collectif,10,Hospital
+897180,21015A40-,BRABANT (RUE DE),953951,3,0,male,parent,518811,6,collectif,10,Hospital
+897181,21015A40-,BRABANT (RUE DE),953953,3,0,male,parent,518813,6,collectif,10,Hospital
+898843,21015A43-,GARE DU NORD,955662,4,1,female,parent,519597,6,collectif,10,Hospital
+898844,21015A43-,GARE DU NORD,955664,4,1,female,parent,519599,6,collectif,10,Hospital
+898845,21015A43-,GARE DU NORD,955665,4,1,female,parent,519600,6,collectif,10,Hospital
+898846,21015A43-,GARE DU NORD,955666,4,1,female,parent,519601,6,collectif,10,Hospital
+898847,21015A43-,GARE DU NORD,955667,4,1,female,parent,519602,6,collectif,10,Hospital
+898848,21015A43-,GARE DU NORD,955669,3,1,female,parent,519604,6,collectif,10,Hospital
+898849,21015A43-,GARE DU NORD,955673,3,1,female,parent,519608,6,collectif,10,Hospital
+898850,21015A43-,GARE DU NORD,955674,3,1,female,parent,519609,6,collectif,10,Hospital
+898851,21015A43-,GARE DU NORD,955675,3,1,female,parent,519610,6,collectif,10,Hospital
+898852,21015A43-,GARE DU NORD,955676,3,1,female,parent,519611,6,collectif,10,Hospital
+898853,21015A43-,GARE DU NORD,955678,3,1,female,parent,519613,6,collectif,10,Hospital
+898962,21015A43-,GARE DU NORD,955809,5,0,male,parent,519744,6,collectif,10,Hospital
+898963,21015A43-,GARE DU NORD,955810,5,0,male,parent,519745,6,collectif,10,Hospital
+898964,21015A43-,GARE DU NORD,955811,5,0,male,parent,519746,6,collectif,10,Hospital
+898965,21015A43-,GARE DU NORD,955812,5,0,male,parent,519747,6,collectif,10,Hospital
+898966,21015A43-,GARE DU NORD,955813,5,0,male,parent,519748,6,collectif,10,Hospital
+898967,21015A43-,GARE DU NORD,955814,5,0,male,parent,519749,6,collectif,10,Hospital
+898968,21015A43-,GARE DU NORD,955815,4,0,male,parent,519750,6,collectif,10,Hospital
+898969,21015A43-,GARE DU NORD,955816,4,0,male,parent,519751,6,collectif,10,Hospital
+898970,21015A43-,GARE DU NORD,955817,3,0,male,parent,519752,6,collectif,10,Hospital
+898971,21015A43-,GARE DU NORD,955818,3,0,male,parent,519753,6,collectif,10,Hospital
+898972,21015A43-,GARE DU NORD,955819,3,0,male,parent,519754,6,collectif,10,Hospital
+898973,21015A43-,GARE DU NORD,955820,3,0,male,parent,519755,6,collectif,10,Hospital
+898974,21015A43-,GARE DU NORD,955821,3,0,male,parent,519756,6,collectif,10,Hospital
+898975,21015A43-,GARE DU NORD,955822,3,0,male,parent,519757,6,collectif,10,Hospital
+898976,21015A43-,GARE DU NORD,955823,3,0,male,parent,519758,6,collectif,10,Hospital
+898977,21015A43-,GARE DU NORD,955824,3,0,male,parent,519759,6,collectif,10,Hospital
+905906,21015A41-,VANDERLINDEN (RUE),962946,5,0,male,parent,523017,6,collectif,10,Hospital
+909969,21015A612,BRICHAUT (RUE DE),967092,5,1,female,parent,524873,6,collectif,10,Hospital
+909970,21015A612,BRICHAUT (RUE DE),967093,5,1,female,parent,524874,6,collectif,10,Hospital
+909971,21015A612,BRICHAUT (RUE DE),967094,5,1,female,parent,524875,6,collectif,10,Hospital
+909972,21015A612,BRICHAUT (RUE DE),967095,5,1,female,parent,524876,6,collectif,10,Hospital
+909973,21015A612,BRICHAUT (RUE DE),967096,5,1,female,parent,524877,6,collectif,10,Hospital
+909974,21015A612,BRICHAUT (RUE DE),967097,5,1,female,parent,524878,6,collectif,10,Hospital
+909975,21015A612,BRICHAUT (RUE DE),967099,5,1,female,parent,524880,6,collectif,10,Hospital
+910217,21015A612,BRICHAUT (RUE DE),967397,5,0,male,parent,525178,6,collectif,10,Hospital
+910218,21015A612,BRICHAUT (RUE DE),967398,5,0,male,parent,525179,6,collectif,10,Hospital
+910219,21015A612,BRICHAUT (RUE DE),967399,5,0,male,parent,525180,6,collectif,10,Hospital
+910220,21015A612,BRICHAUT (RUE DE),967400,5,0,male,parent,525181,6,collectif,10,Hospital
+910221,21015A612,BRICHAUT (RUE DE),967403,3,0,male,parent,525184,6,collectif,10,Hospital
+910222,21015A612,BRICHAUT (RUE DE),967404,3,0,male,parent,525185,6,collectif,10,Hospital
+910223,21015A612,BRICHAUT (RUE DE),967405,3,0,male,parent,525186,6,collectif,10,Hospital
+910224,21015A612,BRICHAUT (RUE DE),967406,3,0,male,parent,525187,6,collectif,10,Hospital
+910225,21015A612,BRICHAUT (RUE DE),967407,3,0,male,parent,525188,6,collectif,10,Hospital
+910226,21015A612,BRICHAUT (RUE DE),967408,3,0,male,parent,525189,6,collectif,10,Hospital
+910227,21015A612,BRICHAUT (RUE DE),967409,3,0,male,parent,525190,6,collectif,10,Hospital
+910228,21015A612,BRICHAUT (RUE DE),967410,3,0,male,parent,525191,6,collectif,10,Hospital
+911785,21015A45-,STEPHENSON (PLACE),968971,5,1,female,parent,525820,6,collectif,10,Hospital
+911894,21015A45-,STEPHENSON (PLACE),969094,5,0,male,parent,525943,6,collectif,10,Hospital
+911895,21015A45-,STEPHENSON (PLACE),969095,5,0,male,parent,525944,6,collectif,10,Hospital
+911896,21015A45-,STEPHENSON (PLACE),969096,5,0,male,parent,525945,6,collectif,10,Hospital
+911897,21015A45-,STEPHENSON (PLACE),969097,5,0,male,parent,525946,6,collectif,10,Hospital
+919051,21015A00-,COLIGNON (PLACE),976464,5,1,female,parent,529113,6,collectif,10,Hospital
+919052,21015A00-,COLIGNON (PLACE),976465,5,1,female,parent,529114,6,collectif,10,Hospital
+919053,21015A00-,COLIGNON (PLACE),976468,5,1,female,parent,529117,6,collectif,10,Hospital
+919054,21015A00-,COLIGNON (PLACE),976469,5,1,female,parent,529118,6,collectif,10,Hospital
+919055,21015A00-,COLIGNON (PLACE),976471,5,1,female,parent,529120,6,collectif,10,Hospital
+919056,21015A00-,COLIGNON (PLACE),976473,5,1,female,parent,529122,6,collectif,10,Hospital
+919057,21015A00-,COLIGNON (PLACE),976476,5,1,female,parent,529125,6,collectif,10,Hospital
+919058,21015A00-,COLIGNON (PLACE),976480,5,1,female,parent,529129,6,collectif,10,Hospital
+919059,21015A00-,COLIGNON (PLACE),976481,5,1,female,parent,529130,6,collectif,10,Hospital
+919060,21015A00-,COLIGNON (PLACE),976483,5,1,female,parent,529132,6,collectif,10,Hospital
+919061,21015A00-,COLIGNON (PLACE),976484,4,1,female,parent,529133,6,collectif,10,Hospital
+919062,21015A00-,COLIGNON (PLACE),976486,4,1,female,parent,529135,6,collectif,10,Hospital
+919063,21015A00-,COLIGNON (PLACE),976487,4,1,female,parent,529136,6,collectif,10,Hospital
+919433,21015A00-,COLIGNON (PLACE),976925,3,0,male,parent,529574,6,collectif,10,Hospital
+919434,21015A00-,COLIGNON (PLACE),976926,3,0,male,parent,529575,6,collectif,10,Hospital
+919435,21015A00-,COLIGNON (PLACE),976927,3,0,male,parent,529576,6,collectif,10,Hospital
+919436,21015A00-,COLIGNON (PLACE),976928,3,0,male,parent,529577,6,collectif,10,Hospital
+919437,21015A00-,COLIGNON (PLACE),976929,3,0,male,parent,529578,6,collectif,10,Hospital
+919438,21015A00-,COLIGNON (PLACE),976930,3,0,male,parent,529579,6,collectif,10,Hospital
+919439,21015A00-,COLIGNON (PLACE),976931,3,0,male,parent,529580,6,collectif,10,Hospital
+920508,21015A01-,VAN YSENDYCK (RUE),978065,3,0,male,parent,530117,6,collectif,10,Hospital
+923135,21015A24-,WAELHEM (RUE),980760,5,1,female,parent,531382,6,collectif,10,Hospital
+923136,21015A24-,WAELHEM (RUE),980764,4,1,female,parent,531386,6,collectif,10,Hospital
+923137,21015A24-,WAELHEM (RUE),980767,4,1,female,parent,531389,6,collectif,10,Hospital
+923138,21015A24-,WAELHEM (RUE),980769,4,1,female,parent,531391,6,collectif,10,Hospital
+923139,21015A24-,WAELHEM (RUE),980770,4,1,female,parent,531392,6,collectif,10,Hospital
+923140,21015A24-,WAELHEM (RUE),980771,4,1,female,parent,531393,6,collectif,10,Hospital
+923141,21015A24-,WAELHEM (RUE),980772,4,1,female,parent,531394,6,collectif,10,Hospital
+923142,21015A24-,WAELHEM (RUE),980774,4,1,female,parent,531396,6,collectif,10,Hospital
+923143,21015A24-,WAELHEM (RUE),980776,3,1,female,parent,531398,6,collectif,10,Hospital
+923144,21015A24-,WAELHEM (RUE),980777,3,1,female,parent,531399,6,collectif,10,Hospital
+923145,21015A24-,WAELHEM (RUE),980779,3,1,female,parent,531401,6,collectif,10,Hospital
+923300,21015A24-,WAELHEM (RUE),980987,5,0,male,parent,531609,6,collectif,10,Hospital
+923301,21015A24-,WAELHEM (RUE),980988,5,0,male,parent,531610,6,collectif,10,Hospital
+923302,21015A24-,WAELHEM (RUE),980989,5,0,male,parent,531611,6,collectif,10,Hospital
+923303,21015A24-,WAELHEM (RUE),980990,5,0,male,parent,531612,6,collectif,10,Hospital
+923304,21015A24-,WAELHEM (RUE),980991,5,0,male,parent,531613,6,collectif,10,Hospital
+923305,21015A24-,WAELHEM (RUE),980992,5,0,male,parent,531614,6,collectif,10,Hospital
+923306,21015A24-,WAELHEM (RUE),980993,5,0,male,parent,531615,6,collectif,10,Hospital
+923307,21015A24-,WAELHEM (RUE),980994,5,0,male,parent,531616,6,collectif,10,Hospital
+923308,21015A24-,WAELHEM (RUE),980996,5,0,male,parent,531618,6,collectif,10,Hospital
+923309,21015A24-,WAELHEM (RUE),980997,4,0,male,parent,531619,6,collectif,10,Hospital
+923310,21015A24-,WAELHEM (RUE),980999,4,0,male,parent,531621,6,collectif,10,Hospital
+923311,21015A24-,WAELHEM (RUE),981000,4,0,male,parent,531622,6,collectif,10,Hospital
+923312,21015A24-,WAELHEM (RUE),981001,3,0,male,parent,531623,6,collectif,10,Hospital
+923313,21015A24-,WAELHEM (RUE),981002,3,0,male,parent,531624,6,collectif,10,Hospital
+923314,21015A24-,WAELHEM (RUE),981003,3,0,male,parent,531625,6,collectif,10,Hospital
+923315,21015A24-,WAELHEM (RUE),981004,3,0,male,parent,531626,6,collectif,10,Hospital
+923316,21015A24-,WAELHEM (RUE),981005,3,0,male,parent,531627,6,collectif,10,Hospital
+923317,21015A24-,WAELHEM (RUE),981006,3,0,male,parent,531628,6,collectif,10,Hospital
+923318,21015A24-,WAELHEM (RUE),981008,3,0,male,parent,531630,6,collectif,10,Hospital
+925465,21015A13-,PORTAELS (RUE),983202,5,1,female,parent,532550,6,collectif,10,Hospital
+925573,21015A13-,PORTAELS (RUE),983347,4,0,male,parent,532695,6,collectif,10,Hospital
+925574,21015A13-,PORTAELS (RUE),983348,4,0,male,parent,532696,6,collectif,10,Hospital
+925575,21015A13-,PORTAELS (RUE),983350,4,0,male,parent,532698,6,collectif,10,Hospital
+925576,21015A13-,PORTAELS (RUE),983351,4,0,male,parent,532699,6,collectif,10,Hospital
+925577,21015A13-,PORTAELS (RUE),983352,4,0,male,parent,532700,6,collectif,10,Hospital
+925578,21015A13-,PORTAELS (RUE),983353,4,0,male,parent,532701,6,collectif,10,Hospital
+925579,21015A13-,PORTAELS (RUE),983354,3,0,male,parent,532702,6,collectif,10,Hospital
+931080,21015A231,J. BLOCKX (RUE),989103,5,1,female,parent,535549,6,collectif,10,Hospital
+931081,21015A231,J. BLOCKX (RUE),989104,5,1,female,parent,535550,6,collectif,10,Hospital
+931082,21015A231,J. BLOCKX (RUE),989109,4,1,female,parent,535555,6,collectif,10,Hospital
+931083,21015A231,J. BLOCKX (RUE),989110,4,1,female,parent,535556,6,collectif,10,Hospital
+931084,21015A231,J. BLOCKX (RUE),989112,4,1,female,parent,535558,6,collectif,10,Hospital
+931085,21015A231,J. BLOCKX (RUE),989113,3,1,female,parent,535559,6,collectif,10,Hospital
+931086,21015A231,J. BLOCKX (RUE),989114,3,1,female,parent,535560,6,collectif,10,Hospital
+931139,21015A231,J. BLOCKX (RUE),989220,5,0,male,parent,535666,6,collectif,10,Hospital
+931140,21015A231,J. BLOCKX (RUE),989221,4,0,male,parent,535667,6,collectif,10,Hospital
+931141,21015A231,J. BLOCKX (RUE),989222,4,0,male,parent,535668,6,collectif,10,Hospital
+931142,21015A231,J. BLOCKX (RUE),989223,4,0,male,parent,535669,6,collectif,10,Hospital
+931143,21015A231,J. BLOCKX (RUE),989224,4,0,male,parent,535670,6,collectif,10,Hospital
+931144,21015A231,J. BLOCKX (RUE),989225,4,0,male,parent,535671,6,collectif,10,Hospital
+938966,21015A21-,GUIDO GEZELLE (RUE),997461,5,0,male,parent,539397,6,collectif,10,Hospital
+938967,21015A21-,GUIDO GEZELLE (RUE),997462,5,0,male,parent,539398,6,collectif,10,Hospital
+938968,21015A21-,GUIDO GEZELLE (RUE),997464,5,0,male,parent,539400,6,collectif,10,Hospital
+971052,21016A731,ROETAERT,1031502,4,1,female,parent,558836,6,collectif,10,Hospital
+971053,21016A731,ROETAERT,1031503,4,1,female,parent,558837,6,collectif,10,Hospital
+971054,21016A731,ROETAERT,1031504,3,1,female,parent,558838,6,collectif,10,Hospital
+971055,21016A731,ROETAERT,1031505,3,1,female,parent,558839,6,collectif,10,Hospital
+971056,21016A731,ROETAERT,1031506,3,1,female,parent,558840,6,collectif,10,Hospital
+971097,21016A731,ROETAERT,1031561,4,0,male,parent,558895,6,collectif,10,Hospital
+971098,21016A731,ROETAERT,1031562,4,0,male,parent,558896,6,collectif,10,Hospital
+975167,21016A72-,MELKRIEK,1035814,5,1,female,parent,561172,6,collectif,10,Hospital
+975300,21016A72-,MELKRIEK,1035955,5,0,male,parent,561313,6,collectif,10,Hospital
+975301,21016A72-,MELKRIEK,1035956,5,0,male,parent,561314,6,collectif,10,Hospital
+975302,21016A72-,MELKRIEK,1035957,5,0,male,parent,561315,6,collectif,10,Hospital
+975303,21016A72-,MELKRIEK,1035958,5,0,male,parent,561316,6,collectif,10,Hospital
+977761,21016A331,CHAUSSEE DE WATERLOO-OUEST,1038609,5,1,female,parent,562849,6,collectif,10,Hospital
+977762,21016A331,CHAUSSEE DE WATERLOO-OUEST,1038610,4,1,female,parent,562850,6,collectif,10,Hospital
+977763,21016A331,CHAUSSEE DE WATERLOO-OUEST,1038611,3,1,female,parent,562851,6,collectif,10,Hospital
+977851,21016A331,CHAUSSEE DE WATERLOO-OUEST,1038699,5,0,male,parent,562939,6,collectif,10,Hospital
+977852,21016A331,CHAUSSEE DE WATERLOO-OUEST,1038700,5,0,male,parent,562940,6,collectif,10,Hospital
+977853,21016A331,CHAUSSEE DE WATERLOO-OUEST,1038701,4,0,male,parent,562941,6,collectif,10,Hospital
+977854,21016A331,CHAUSSEE DE WATERLOO-OUEST,1038702,3,0,male,parent,562942,6,collectif,10,Hospital
+988198,21016A533,MOENSBERG,1049683,5,1,female,parent,568935,6,collectif,10,Hospital
+988199,21016A533,MOENSBERG,1049684,5,1,female,parent,568936,6,collectif,10,Hospital
+988200,21016A533,MOENSBERG,1049685,5,1,female,parent,568937,6,collectif,10,Hospital
+988284,21016A533,MOENSBERG,1049779,5,0,male,parent,569031,6,collectif,10,Hospital
+988285,21016A533,MOENSBERG,1049780,5,0,male,parent,569032,6,collectif,10,Hospital
+988286,21016A533,MOENSBERG,1049781,5,0,male,parent,569033,6,collectif,10,Hospital
+988287,21016A533,MOENSBERG,1049782,4,0,male,parent,569034,6,collectif,10,Hospital
+988288,21016A533,MOENSBERG,1049783,4,0,male,parent,569035,6,collectif,10,Hospital
+988289,21016A533,MOENSBERG,1049785,3,0,male,parent,569037,6,collectif,10,Hospital
+988290,21016A533,MOENSBERG,1049786,3,0,male,parent,569038,6,collectif,10,Hospital
+1008789,21016A214,ASTRONOMES,1071720,4,1,female,parent,580707,6,collectif,10,Hospital
+1008865,21016A214,ASTRONOMES,1071809,5,0,male,parent,580796,6,collectif,10,Hospital
+1015118,21016A410,ALPHONSE XIII,1078595,5,0,male,parent,584499,6,collectif,10,Hospital
+1018535,21016A610,ENGELAND,1082328,5,1,female,parent,586533,6,collectif,10,Hospital
+1018536,21016A610,ENGELAND,1082329,4,1,female,parent,586534,6,collectif,10,Hospital
+1018537,21016A610,ENGELAND,1082330,3,1,female,parent,586535,6,collectif,10,Hospital
+1018561,21016A610,ENGELAND,1082375,5,0,male,parent,586580,6,collectif,10,Hospital
+1018562,21016A610,ENGELAND,1082376,5,0,male,parent,586581,6,collectif,10,Hospital
+1018563,21016A610,ENGELAND,1082377,5,0,male,parent,586582,6,collectif,10,Hospital
+1018564,21016A610,ENGELAND,1082379,4,0,male,parent,586584,6,collectif,10,Hospital
+1026221,21017A635,PRINCES BRABANCONS,1090691,4,1,female,parent,591023,6,collectif,10,Hospital
+1026222,21017A635,PRINCES BRABANCONS,1090692,4,1,female,parent,591024,6,collectif,10,Hospital
+1026331,21017A635,PRINCES BRABANCONS,1090801,5,0,male,parent,591133,6,collectif,10,Hospital
+1031438,21017A443,VILLE-ET-FORET - ELAN,1096438,5,1,female,parent,594323,6,collectif,10,Hospital
+1038066,21017A432,DRIES,1103532,5,1,female,parent,598513,6,collectif,10,Hospital
+1048436,21017A041,DREVE DU DUC,1114846,5,1,female,parent,605001,6,collectif,10,Hospital
+1048546,21017A041,DREVE DU DUC,1114968,5,0,male,parent,605123,6,collectif,10,Hospital
+1060113,21018A32-,CLOS DES PEUPLIERS,1127265,5,1,female,parent,612021,6,collectif,10,Hospital
+1060114,21018A32-,CLOS DES PEUPLIERS,1127266,5,1,female,parent,612022,6,collectif,10,Hospital
+1060115,21018A32-,CLOS DES PEUPLIERS,1127267,5,1,female,parent,612023,6,collectif,10,Hospital
+1060116,21018A32-,CLOS DES PEUPLIERS,1127268,4,1,female,parent,612024,6,collectif,10,Hospital
+1060170,21018A32-,CLOS DES PEUPLIERS,1127325,4,0,male,parent,612081,6,collectif,10,Hospital
+1075563,21018A63-,CONSTELLATIONS,1143699,5,0,male,parent,621322,6,collectif,10,Hospital
+1075564,21018A63-,CONSTELLATIONS,1143700,5,0,male,parent,621323,6,collectif,10,Hospital
+1075565,21018A63-,CONSTELLATIONS,1143701,5,0,male,parent,621324,6,collectif,10,Hospital
+1075566,21018A63-,CONSTELLATIONS,1143704,5,0,male,parent,621327,6,collectif,10,Hospital
+1088913,21018A60-,ROODEBEEK PARC,1158025,4,1,female,parent,629273,6,collectif,10,Hospital
+1088914,21018A60-,ROODEBEEK PARC,1158026,4,1,female,parent,629274,6,collectif,10,Hospital
+1088965,21018A60-,ROODEBEEK PARC,1158097,5,0,male,parent,629345,6,collectif,10,Hospital
+1089538,21018A81-,KAPELLEVELD-SUD,1158711,5,1,female,parent,629708,6,collectif,10,Hospital
+1089539,21018A81-,KAPELLEVELD-SUD,1158712,5,1,female,parent,629709,6,collectif,10,Hospital
+1089540,21018A81-,KAPELLEVELD-SUD,1158713,5,1,female,parent,629710,6,collectif,10,Hospital
+1089541,21018A81-,KAPELLEVELD-SUD,1158714,4,1,female,parent,629711,6,collectif,10,Hospital
+1089542,21018A81-,KAPELLEVELD-SUD,1158715,4,1,female,parent,629712,6,collectif,10,Hospital
+1089618,21018A81-,KAPELLEVELD-SUD,1158816,5,0,male,parent,629813,6,collectif,10,Hospital
+1089619,21018A81-,KAPELLEVELD-SUD,1158817,4,0,male,parent,629814,6,collectif,10,Hospital
+1089620,21018A81-,KAPELLEVELD-SUD,1158818,4,0,male,parent,629815,6,collectif,10,Hospital
+1090395,21018A84-,KAPELLEVELD-NORD-EST,1159653,5,1,female,parent,630277,6,collectif,10,Hospital
+1090490,21018A84-,KAPELLEVELD-NORD-EST,1159769,5,0,male,parent,630393,6,collectif,10,Hospital
+1094797,21018A41-,EUROPE,1164447,5,0,male,parent,633101,6,collectif,10,Hospital
+1094798,21018A41-,EUROPE,1164448,5,0,male,parent,633102,6,collectif,10,Hospital
+1094799,21018A41-,EUROPE,1164449,5,0,male,parent,633103,6,collectif,10,Hospital
+1094800,21018A41-,EUROPE,1164451,3,0,male,parent,633105,6,collectif,10,Hospital
+1096111,21018A42-,VERVLOESEM,1165885,5,0,male,parent,633977,6,collectif,10,Hospital
+1098990,21018A13-,GROOTVELD,1169002,5,1,female,parent,635738,6,collectif,10,Hospital
+1098991,21018A13-,GROOTVELD,1169003,5,1,female,parent,635739,6,collectif,10,Hospital
+1098992,21018A13-,GROOTVELD,1169004,5,1,female,parent,635740,6,collectif,10,Hospital
+1098993,21018A13-,GROOTVELD,1169005,5,1,female,parent,635741,6,collectif,10,Hospital
+1098994,21018A13-,GROOTVELD,1169006,5,1,female,parent,635742,6,collectif,10,Hospital
+1098995,21018A13-,GROOTVELD,1169007,3,1,female,parent,635743,6,collectif,10,Hospital
+1098996,21018A13-,GROOTVELD,1169008,3,1,female,parent,635744,6,collectif,10,Hospital
+1099120,21018A13-,GROOTVELD,1169143,5,0,male,parent,635879,6,collectif,10,Hospital
+1099121,21018A13-,GROOTVELD,1169144,5,0,male,parent,635880,6,collectif,10,Hospital
+1099122,21018A13-,GROOTVELD,1169145,5,0,male,parent,635881,6,collectif,10,Hospital
+1099123,21018A13-,GROOTVELD,1169146,5,0,male,parent,635882,6,collectif,10,Hospital
+1099124,21018A13-,GROOTVELD,1169147,4,0,male,parent,635883,6,collectif,10,Hospital
+1099125,21018A13-,GROOTVELD,1169148,4,0,male,parent,635884,6,collectif,10,Hospital
+1099126,21018A13-,GROOTVELD,1169149,4,0,male,parent,635885,6,collectif,10,Hospital
+1099127,21018A13-,GROOTVELD,1169150,3,0,male,parent,635886,6,collectif,10,Hospital
+1099128,21018A13-,GROOTVELD,1169151,3,0,male,parent,635887,6,collectif,10,Hospital
+1100429,21018A12-,STOCKEL (CHAUSSEE DE),1170479,4,1,female,parent,636591,6,collectif,10,Hospital
+1100430,21018A12-,STOCKEL (CHAUSSEE DE),1170480,4,1,female,parent,636592,6,collectif,10,Hospital
+1100490,21018A12-,STOCKEL (CHAUSSEE DE),1170579,5,0,male,parent,636691,6,collectif,10,Hospital
+1100491,21018A12-,STOCKEL (CHAUSSEE DE),1170580,5,0,male,parent,636692,6,collectif,10,Hospital
+1100492,21018A12-,STOCKEL (CHAUSSEE DE),1170581,5,0,male,parent,636693,6,collectif,10,Hospital
+1102010,21018A83-,KLAKKEDELLE,1172253,4,0,male,parent,637670,6,collectif,10,Hospital
+1110286,21019A252,MONTGOLFIER,1181156,5,1,female,parent,642807,6,collectif,10,Hospital
+1110287,21019A252,MONTGOLFIER,1181161,5,1,female,parent,642812,6,collectif,10,Hospital
+1110396,21019A252,MONTGOLFIER,1181292,5,0,male,parent,642943,6,collectif,10,Hospital
+1110397,21019A252,MONTGOLFIER,1181293,5,0,male,parent,642944,6,collectif,10,Hospital
+1120432,21019A052,DON BOSCO,1192144,5,1,female,parent,648850,6,collectif,10,Hospital
+1120433,21019A052,DON BOSCO,1192145,5,1,female,parent,648851,6,collectif,10,Hospital
+1120434,21019A052,DON BOSCO,1192146,4,1,female,parent,648852,6,collectif,10,Hospital
+1120435,21019A052,DON BOSCO,1192147,4,1,female,parent,648853,6,collectif,10,Hospital
+1123230,21019A34-,EUROPE (QUARTIER DE L'),1195171,5,1,female,parent,650462,6,collectif,10,Hospital
+1123269,21019A34-,EUROPE (QUARTIER DE L'),1195241,5,0,male,parent,650532,6,collectif,10,Hospital
+1123270,21019A34-,EUROPE (QUARTIER DE L'),1195242,5,0,male,parent,650533,6,collectif,10,Hospital
+1123271,21019A34-,EUROPE (QUARTIER DE L'),1195245,4,0,male,parent,650536,6,collectif,10,Hospital
+1124181,21019A30-,EGLANTINES (AVENUE),1196182,5,1,female,parent,650958,6,collectif,10,Hospital
+1126045,21019A33-,MIMOSAS (AVENUE),1198225,5,0,male,parent,652143,6,collectif,10,Hospital
+1129157,21019A31-,BEMEL,1201567,5,0,male,parent,653983,6,collectif,10,Hospital
+1129158,21019A31-,BEMEL,1201568,5,0,male,parent,653984,6,collectif,10,Hospital
+1129159,21019A31-,BEMEL,1201569,5,0,male,parent,653985,6,collectif,10,Hospital
+1129160,21019A31-,BEMEL,1201571,5,0,male,parent,653987,6,collectif,10,Hospital
+1149840,21001C6PB,ZONE RURALE,1223869,5,1,female,parent,666074,6,collectif,10,Hospital
