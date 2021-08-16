@@ -1,0 +1,1032 @@
+,SectorStatID,SectorStatName,PersID,Age,GenderID,GenderName,ChildOrParent,HouseholdID,HouseholdTypeID,HouseholdTypeName,Commune,WorkerID,WorkerType,Quartier,WorkSectorStatID,WorkSectorStatName,WorkCommuneName
+0,21001A041,VEEWEYDE-SUD,1597,4,0,male,child,672,4,single_with_child,Anderlecht,1,Maternelles,Veeweyde - Aurore,21002A190,FORET DE SOIGNES,Auderghem
+1,21001A32-,AURORE,16151,3,0,male,child,8602,1,couple_with_child,Anderlecht,1,Maternelles,Veeweyde - Aurore,21004G3MJ,DOBBELENBERG (RUE DE),Bruxelles
+2,21001A43-,VAN BEETHOVEN,11110,3,1,female,child,6051,4,single_with_child,Anderlecht,1,Maternelles,Veeweyde - Aurore,21002A190,FORET DE SOIGNES,Auderghem
+3,21001A142,VEEWEYDE-NORD,64877,4,1,female,child,35217,1,couple_with_child,Anderlecht,1,Maternelles,Veeweyde - Aurore,21002A190,FORET DE SOIGNES,Auderghem
+4,21001A31-,CHAUSSEE DE MONS - SAINT-LUC,50853,3,1,female,child,28018,4,single_with_child,Anderlecht,1,Maternelles,Veeweyde - Aurore,21002A190,FORET DE SOIGNES,Auderghem
+5,21001A32-,AURORE,16921,6,1,female,child,9192,4,single_with_child,Anderlecht,1,Maternelles,Veeweyde - Aurore,21004G3MJ,DOBBELENBERG (RUE DE),Bruxelles
+6,21001A142,VEEWEYDE-NORD,65155,5,1,female,child,35330,1,couple_with_child,Anderlecht,1,Maternelles,Veeweyde - Aurore,21002A190,FORET DE SOIGNES,Auderghem
+7,21001A031,RAUTER-SUD,52836,4,0,male,child,28883,1,couple_with_child,Anderlecht,1,Maternelles,Veeweyde - Aurore,21002A190,FORET DE SOIGNES,Auderghem
+8,21001A32-,AURORE,15813,5,0,male,child,8495,1,couple_with_child,Anderlecht,1,Maternelles,Veeweyde - Aurore,21004G3MJ,DOBBELENBERG (RUE DE),Bruxelles
+9,21001A112,BIESTEBROEK,124267,4,1,female,child,65481,1,couple_with_child,Anderlecht,1,Maternelles,Veeweyde - Aurore,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+10,21001A32-,AURORE,16073,3,0,male,child,8579,1,couple_with_child,Anderlecht,1,Maternelles,Veeweyde - Aurore,21004G3MJ,DOBBELENBERG (RUE DE),Bruxelles
+11,21001A43-,VAN BEETHOVEN,11438,4,1,female,child,6173,1,couple_with_child,Anderlecht,1,Maternelles,Veeweyde - Aurore,21002A190,FORET DE SOIGNES,Auderghem
+12,21001A132,RAUTER-NORD,72834,4,1,female,child,39389,1,couple_with_child,Anderlecht,1,Maternelles,Veeweyde - Aurore,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+13,21001A041,VEEWEYDE-SUD,1903,3,0,male,child,772,1,couple_with_child,Anderlecht,1,Maternelles,Veeweyde - Aurore,21002A190,FORET DE SOIGNES,Auderghem
+14,21001A041,VEEWEYDE-SUD,1658,3,0,male,child,693,1,couple_with_child,Anderlecht,1,Maternelles,Veeweyde - Aurore,21002A190,FORET DE SOIGNES,Auderghem
+15,21001A43-,VAN BEETHOVEN,11240,5,1,female,child,6101,1,couple_with_child,Anderlecht,1,Maternelles,Veeweyde - Aurore,21002A190,FORET DE SOIGNES,Auderghem
+16,21001A041,VEEWEYDE-SUD,1228,4,0,male,child,531,1,couple_with_child,Anderlecht,1,Maternelles,Veeweyde - Aurore,21002A190,FORET DE SOIGNES,Auderghem
+17,21001A30-,BIZET,44252,3,1,female,child,23982,1,couple_with_child,Anderlecht,1,Maternelles,Bizet - Roue- Ceria,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+18,21001A350,CERIA - ZONE D'HABITAT,31412,3,0,male,child,17016,1,couple_with_child,Anderlecht,1,Maternelles,Bizet - Roue- Ceria,21004F970,MARLY-NORD,Bruxelles
+19,21001A350,CERIA - ZONE D'HABITAT,31527,5,1,female,child,17051,1,couple_with_child,Anderlecht,1,Maternelles,Bizet - Roue- Ceria,21004F970,MARLY-NORD,Bruxelles
+20,21001A441,DOCTEUR ROUX,33443,4,1,female,child,18075,4,single_with_child,Anderlecht,1,Maternelles,Bizet - Roue- Ceria,21004G3MJ,DOBBELENBERG (RUE DE),Bruxelles
+21,21001A552,TREFLE,26286,4,0,male,child,14288,1,couple_with_child,Anderlecht,1,Maternelles,Bizet - Roue- Ceria,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+22,21001A451,VENIZELOS,41575,4,1,female,child,22837,1,couple_with_child,Anderlecht,1,Maternelles,Bizet - Roue- Ceria,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+23,21001A552,TREFLE,26241,4,1,female,child,14271,1,couple_with_child,Anderlecht,1,Maternelles,Bizet - Roue- Ceria,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+24,21001A30-,BIZET,44171,5,1,female,child,23956,1,couple_with_child,Anderlecht,1,Maternelles,Bizet - Roue- Ceria,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+25,21001A34-,ROUE - CITE JARDIN,29900,5,0,male,child,16134,1,couple_with_child,Anderlecht,1,Maternelles,Bizet - Roue- Ceria,21004F970,MARLY-NORD,Bruxelles
+26,21001A34-,ROUE - CITE JARDIN,29338,3,0,male,child,15949,1,couple_with_child,Anderlecht,1,Maternelles,Bizet - Roue- Ceria,21004F970,MARLY-NORD,Bruxelles
+27,21001A441,DOCTEUR ROUX,33750,4,0,male,child,18180,1,couple_with_child,Anderlecht,1,Maternelles,Bizet - Roue- Ceria,21004G3MJ,DOBBELENBERG (RUE DE),Bruxelles
+28,21001A30-,BIZET,44130,5,0,male,child,23943,1,couple_with_child,Anderlecht,1,Maternelles,Bizet - Roue- Ceria,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+29,21001A30-,BIZET,44251,3,1,female,child,23982,1,couple_with_child,Anderlecht,1,Maternelles,Bizet - Roue- Ceria,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+30,21001A552,TREFLE,26298,5,1,female,child,14295,4,single_with_child,Anderlecht,1,Maternelles,Bizet - Roue- Ceria,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+31,21001A82-,MOORTEBEEK,38621,3,1,female,child,21121,4,single_with_child,Anderlecht,1,Maternelles,Moortebeek - Peterbos,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+32,21001A83-,PETERBOS,6256,3,0,male,child,3126,1,couple_with_child,Anderlecht,1,Maternelles,Moortebeek - Peterbos,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+33,21001A81-,BROECK,49702,5,0,male,child,27308,4,single_with_child,Anderlecht,1,Maternelles,Moortebeek - Peterbos,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+34,21012A41-,MOORTEBEEK,758130,3,1,female,child,413885,1,couple_with_child,Molenbeek Saint-Jean,1,Maternelles,Moortebeek - Peterbos,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+35,21001A82-,MOORTEBEEK,39126,5,0,male,child,21306,4,single_with_child,Anderlecht,1,Maternelles,Moortebeek - Peterbos,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+36,21001A83-,PETERBOS,5848,4,1,female,child,2996,1,couple_with_child,Anderlecht,1,Maternelles,Moortebeek - Peterbos,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+37,21001A83-,PETERBOS,4704,5,1,female,child,2504,4,single_with_child,Anderlecht,1,Maternelles,Moortebeek - Peterbos,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+38,21001A81-,BROECK,49685,3,1,female,child,27298,1,couple_with_child,Anderlecht,1,Maternelles,Moortebeek - Peterbos,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+39,21001A82-,MOORTEBEEK,38980,3,1,female,child,21267,1,couple_with_child,Anderlecht,1,Maternelles,Moortebeek - Peterbos,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+40,21001A83-,PETERBOS,5313,6,0,male,child,2769,4,single_with_child,Anderlecht,1,Maternelles,Moortebeek - Peterbos,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+41,21012A41-,MOORTEBEEK,758214,5,0,male,child,413909,1,couple_with_child,Molenbeek Saint-Jean,1,Maternelles,Moortebeek - Peterbos,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+42,21001A82-,MOORTEBEEK,38804,5,0,male,child,21194,1,couple_with_child,Anderlecht,1,Maternelles,Moortebeek - Peterbos,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+43,21012A41-,MOORTEBEEK,758046,5,0,male,child,413861,1,couple_with_child,Molenbeek Saint-Jean,1,Maternelles,Moortebeek - Peterbos,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+44,21012A41-,MOORTEBEEK,758023,4,1,female,child,413854,4,single_with_child,Molenbeek Saint-Jean,1,Maternelles,Moortebeek - Peterbos,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+45,21012A41-,MOORTEBEEK,758073,4,1,female,child,413869,1,couple_with_child,Molenbeek Saint-Jean,1,Maternelles,Moortebeek - Peterbos,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+46,21012A41-,MOORTEBEEK,757872,4,0,male,child,413812,4,single_with_child,Molenbeek Saint-Jean,1,Maternelles,Moortebeek - Peterbos,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+47,21001A83-,PETERBOS,5366,5,0,male,child,2791,4,single_with_child,Anderlecht,1,Maternelles,Moortebeek - Peterbos,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+48,21001A82-,MOORTEBEEK,38576,3,0,male,child,21102,1,couple_with_child,Anderlecht,1,Maternelles,Moortebeek - Peterbos,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+49,21001A81-,BROECK,49419,4,1,female,child,27179,1,couple_with_child,Anderlecht,1,Maternelles,Moortebeek - Peterbos,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+50,21001A84-,POESIE,28020,3,1,female,child,15290,1,couple_with_child,Anderlecht,1,Maternelles,Moortebeek - Peterbos,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+51,21001A41-,ROMAIN ROLLAND,19492,5,1,female,child,10524,1,couple_with_child,Anderlecht,1,Maternelles,Scherdemael,21002A190,FORET DE SOIGNES,Auderghem
+52,21001A503,VIVES,8035,5,0,male,child,4388,1,couple_with_child,Anderlecht,1,Maternelles,Scherdemael,21019A10-,STOCKEL,Woluwe Saint-Pierre
+53,21001A401,ARBORETUM,12489,3,0,male,child,6821,1,couple_with_child,Anderlecht,1,Maternelles,Scherdemael,21002A190,FORET DE SOIGNES,Auderghem
+54,21001A41-,ROMAIN ROLLAND,19565,5,0,male,child,10544,1,couple_with_child,Anderlecht,1,Maternelles,Scherdemael,21002A190,FORET DE SOIGNES,Auderghem
+55,21001A503,VIVES,8247,4,1,female,child,4496,1,couple_with_child,Anderlecht,1,Maternelles,Scherdemael,21019A10-,STOCKEL,Woluwe Saint-Pierre
+56,21001A401,ARBORETUM,12382,5,0,male,child,6784,1,couple_with_child,Anderlecht,1,Maternelles,Scherdemael,21002A190,FORET DE SOIGNES,Auderghem
+57,21001A80-,SILLON,46620,6,1,female,child,25583,1,couple_with_child,Anderlecht,1,Maternelles,Scherdemael,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+58,21001A41-,ROMAIN ROLLAND,19620,3,1,female,child,10560,1,couple_with_child,Anderlecht,1,Maternelles,Scherdemael,21002A190,FORET DE SOIGNES,Auderghem
+59,21001A41-,ROMAIN ROLLAND,19457,3,0,male,child,10514,1,couple_with_child,Anderlecht,1,Maternelles,Scherdemael,21002A190,FORET DE SOIGNES,Auderghem
+60,21001A503,VIVES,7943,3,0,male,child,4341,1,couple_with_child,Anderlecht,1,Maternelles,Scherdemael,21019A10-,STOCKEL,Woluwe Saint-Pierre
+61,21001A51-,SCHERDEMAEL,22291,5,0,male,child,12198,1,couple_with_child,Anderlecht,1,Maternelles,Scherdemael,21002A190,FORET DE SOIGNES,Auderghem
+62,21001A51-,SCHERDEMAEL,22313,3,1,female,child,12205,1,couple_with_child,Anderlecht,1,Maternelles,Scherdemael,21002A190,FORET DE SOIGNES,Auderghem
+63,21001A80-,SILLON,47076,4,1,female,child,25785,4,single_with_child,Anderlecht,1,Maternelles,Scherdemael,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+64,21001A503,VIVES,8536,3,0,male,child,4611,1,couple_with_child,Anderlecht,1,Maternelles,Scherdemael,21019A10-,STOCKEL,Woluwe Saint-Pierre
+65,21001A41-,ROMAIN ROLLAND,19432,5,0,male,child,10507,1,couple_with_child,Anderlecht,1,Maternelles,Scherdemael,21002A190,FORET DE SOIGNES,Auderghem
+66,21001A80-,SILLON,47478,5,1,female,child,25928,1,couple_with_child,Anderlecht,1,Maternelles,Scherdemael,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+67,21001A80-,SILLON,47594,4,1,female,child,25963,1,couple_with_child,Anderlecht,1,Maternelles,Scherdemael,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+68,21001A503,VIVES,8227,4,1,female,child,4485,1,couple_with_child,Anderlecht,1,Maternelles,Scherdemael,21019A10-,STOCKEL,Woluwe Saint-Pierre
+69,21001A52-,SCHERDEMAEL-NORD,23836,4,0,male,child,13164,1,couple_with_child,Anderlecht,1,Maternelles,Scherdemael,21002A190,FORET DE SOIGNES,Auderghem
+70,21001A80-,SILLON,46450,5,1,female,child,25508,1,couple_with_child,Anderlecht,1,Maternelles,Scherdemael,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+71,21001A42-,KAT,23101,3,0,male,child,12744,1,couple_with_child,Anderlecht,1,Maternelles,Scherdemael,21002A190,FORET DE SOIGNES,Auderghem
+72,21001A52-,SCHERDEMAEL-NORD,23842,5,0,male,child,13166,1,couple_with_child,Anderlecht,1,Maternelles,Scherdemael,21002A190,FORET DE SOIGNES,Auderghem
+73,21001A53-,NELLIE MELBA,17564,4,1,female,child,9551,1,couple_with_child,Anderlecht,1,Maternelles,Scherdemael,21002A190,FORET DE SOIGNES,Auderghem
+74,21001A53-,NELLIE MELBA,17611,3,0,male,child,9562,1,couple_with_child,Anderlecht,1,Maternelles,Scherdemael,21002A190,FORET DE SOIGNES,Auderghem
+75,21001A53-,NELLIE MELBA,17556,4,1,female,child,9549,1,couple_with_child,Anderlecht,1,Maternelles,Scherdemael,21002A190,FORET DE SOIGNES,Auderghem
+76,21001A503,VIVES,9064,3,0,male,parent,4462,1,couple_with_child,Anderlecht,1,Maternelles,Scherdemael,21019A10-,STOCKEL,Woluwe Saint-Pierre
+77,21001A85-,AUBADE,21043,4,0,male,parent,11186,1,couple_with_child,Anderlecht,1,Maternelles,Scheut,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+78,21001A85-,AUBADE,20721,6,0,male,child,11272,1,couple_with_child,Anderlecht,1,Maternelles,Scheut,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+79,21001A92-,JAKOB SMITS,101799,4,1,female,child,53958,1,couple_with_child,Anderlecht,1,Maternelles,Scheut,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+80,21001A92-,JAKOB SMITS,102124,3,1,female,child,54061,1,couple_with_child,Anderlecht,1,Maternelles,Scheut,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+81,21001A92-,JAKOB SMITS,100626,4,1,female,child,53564,1,couple_with_child,Anderlecht,1,Maternelles,Scheut,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+82,21001A74-,SCHEUT-OUEST,97857,5,0,male,child,52106,1,couple_with_child,Anderlecht,1,Maternelles,Scheut,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+83,21001A92-,JAKOB SMITS,102167,3,1,female,child,54075,1,couple_with_child,Anderlecht,1,Maternelles,Scheut,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+84,21001A85-,AUBADE,20585,4,1,female,child,11231,1,couple_with_child,Anderlecht,1,Maternelles,Scheut,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+85,21001A92-,JAKOB SMITS,100912,4,1,female,child,53659,1,couple_with_child,Anderlecht,1,Maternelles,Scheut,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+86,21001A92-,JAKOB SMITS,100563,4,1,female,child,53541,4,single_with_child,Anderlecht,1,Maternelles,Scheut,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+87,21001A931,AGRAFE-NORBERT GILLE,95479,3,1,female,child,50991,1,couple_with_child,Anderlecht,1,Maternelles,Scheut,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+88,21001A931,AGRAFE-NORBERT GILLE,95725,4,1,female,child,51068,1,couple_with_child,Anderlecht,1,Maternelles,Scheut,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+89,21001A74-,SCHEUT-OUEST,97582,5,0,male,child,52029,1,couple_with_child,Anderlecht,1,Maternelles,Scheut,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+90,21001A90-,SCHEUTKAPEL,71547,5,0,male,child,38551,1,couple_with_child,Anderlecht,1,Maternelles,Scheut,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+91,21001A85-,AUBADE,20530,3,0,male,child,11213,1,couple_with_child,Anderlecht,1,Maternelles,Scheut,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+92,21001A712,SCHEUT - DE SMET,87706,3,1,female,child,47135,1,couple_with_child,Anderlecht,1,Maternelles,Scheut,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+93,21001A85-,AUBADE,20942,5,1,female,parent,11224,1,couple_with_child,Anderlecht,1,Maternelles,Scheut,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+94,21001A74-,SCHEUT-OUEST,98106,5,0,male,child,52179,1,couple_with_child,Anderlecht,1,Maternelles,Scheut,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+95,21001A74-,SCHEUT-OUEST,97713,4,1,female,child,52065,1,couple_with_child,Anderlecht,1,Maternelles,Scheut,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+96,21001A712,SCHEUT - DE SMET,87747,3,1,female,child,47147,1,couple_with_child,Anderlecht,1,Maternelles,Scheut,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+97,21001A911,SCHEUT-EST,93130,5,1,female,child,49951,1,couple_with_child,Anderlecht,1,Maternelles,Scheut,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+98,21001A92-,JAKOB SMITS,101463,5,1,female,child,53853,1,couple_with_child,Anderlecht,1,Maternelles,Scheut,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+99,21001A712,SCHEUT - DE SMET,87797,3,0,male,child,47162,1,couple_with_child,Anderlecht,1,Maternelles,Scheut,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+100,21001A712,SCHEUT - DE SMET,87470,3,1,female,child,47062,1,couple_with_child,Anderlecht,1,Maternelles,Scheut,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+101,21001A74-,SCHEUT-OUEST,97753,5,0,male,child,52076,1,couple_with_child,Anderlecht,1,Maternelles,Scheut,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+102,21001A911,SCHEUT-EST,93734,3,0,male,child,50150,1,couple_with_child,Anderlecht,1,Maternelles,Scheut,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+103,21001A74-,SCHEUT-OUEST,98034,4,0,male,child,52159,4,single_with_child,Anderlecht,1,Maternelles,Scheut,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+104,21001A90-,SCHEUTKAPEL,70774,6,0,male,child,38258,1,couple_with_child,Anderlecht,1,Maternelles,Scheut,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+105,21001A74-,SCHEUT-OUEST,98153,3,1,female,child,52192,1,couple_with_child,Anderlecht,1,Maternelles,Scheut,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+106,21001C71-,BON AIR - CITE JARDIN,37255,3,1,female,child,20285,1,couple_with_child,Anderlecht,1,Maternelles,Bon Air,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+107,21001C71-,BON AIR - CITE JARDIN,37414,5,0,male,child,20414,4,single_with_child,Anderlecht,1,Maternelles,Bon Air,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+108,21001C71-,BON AIR - CITE JARDIN,37090,3,1,female,child,20237,4,single_with_child,Anderlecht,1,Maternelles,Bon Air,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+109,21001C71-,BON AIR - CITE JARDIN,37231,3,0,male,child,20278,1,couple_with_child,Anderlecht,1,Maternelles,Bon Air,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+110,21001C71-,BON AIR - CITE JARDIN,36860,5,1,female,child,20142,1,couple_with_child,Anderlecht,1,Maternelles,Bon Air,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+111,21001C512,CHANTS D'OISEAUX,35564,3,1,female,child,19391,1,couple_with_child,Anderlecht,1,Maternelles,Vogelenzang - Erasme,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+112,21001C512,CHANTS D'OISEAUX,35538,5,0,male,child,19380,1,couple_with_child,Anderlecht,1,Maternelles,Vogelenzang - Erasme,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+113,21001C512,CHANTS D'OISEAUX,35358,4,0,male,child,19290,1,couple_with_child,Anderlecht,1,Maternelles,Vogelenzang - Erasme,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+114,21001C6PB,ZONE RURALE,1223670,4,0,male,child,665937,1,couple_with_child,Anderlecht,1,Maternelles,Neerpede,21019A10-,STOCKEL,Woluwe Saint-Pierre
+115,21001C6PB,ZONE RURALE,1223705,3,0,male,child,665948,1,couple_with_child,Anderlecht,1,Maternelles,Neerpede,21019A10-,STOCKEL,Woluwe Saint-Pierre
+116,21001C611,SOETKIN,40309,3,1,female,parent,21941,1,couple_with_child,Anderlecht,1,Maternelles,Neerpede,21002A190,FORET DE SOIGNES,Auderghem
+117,21001C6PB,ZONE RURALE,1223700,5,0,male,child,665947,1,couple_with_child,Anderlecht,1,Maternelles,Neerpede,21019A10-,STOCKEL,Woluwe Saint-Pierre
+118,21001C6PB,ZONE RURALE,1223622,3,0,male,child,665919,1,couple_with_child,Anderlecht,1,Maternelles,Neerpede,21019A10-,STOCKEL,Woluwe Saint-Pierre
+119,21001B20-,CONSEIL-NORD,62200,5,1,female,parent,32115,1,couple_with_child,Anderlecht,1,Maternelles,Cureghem Bara,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+120,21001B20-,CONSEIL-NORD,60445,3,0,male,child,32436,1,couple_with_child,Anderlecht,1,Maternelles,Cureghem Bara,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+121,21001B20-,CONSEIL-NORD,58831,3,1,female,child,31911,1,couple_with_child,Anderlecht,1,Maternelles,Cureghem Bara,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+122,21001B21-,BROGNIEZ-NORD,90136,4,1,female,child,48268,1,couple_with_child,Anderlecht,1,Maternelles,Cureghem Bara,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+123,21001B21-,BROGNIEZ-NORD,90792,3,1,female,child,48485,1,couple_with_child,Anderlecht,1,Maternelles,Cureghem Bara,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+124,21001B22-,BROGNIEZ-SUD,54708,5,1,female,parent,29657,4,single_with_child,Anderlecht,1,Maternelles,Cureghem Bara,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+125,21001B20-,CONSEIL-NORD,60835,3,1,female,child,32558,4,single_with_child,Anderlecht,1,Maternelles,Cureghem Bara,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+126,21001B20-,CONSEIL-NORD,59684,3,0,male,child,32196,1,couple_with_child,Anderlecht,1,Maternelles,Cureghem Bara,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+127,21001B21-,BROGNIEZ-NORD,90738,3,0,male,child,48468,1,couple_with_child,Anderlecht,1,Maternelles,Cureghem Bara,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+128,21001B21-,BROGNIEZ-NORD,89790,6,0,male,child,48146,1,couple_with_child,Anderlecht,1,Maternelles,Cureghem Bara,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+129,21001B20-,CONSEIL-NORD,60598,5,0,male,child,32486,1,couple_with_child,Anderlecht,1,Maternelles,Cureghem Bara,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+130,21001B21-,BROGNIEZ-NORD,90753,5,1,female,child,48475,4,single_with_child,Anderlecht,1,Maternelles,Cureghem Bara,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+131,21001B20-,CONSEIL-NORD,60642,6,1,female,child,32496,1,couple_with_child,Anderlecht,1,Maternelles,Cureghem Bara,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+132,21001B22-,BROGNIEZ-SUD,54566,3,0,male,child,29935,4,single_with_child,Anderlecht,1,Maternelles,Cureghem Bara,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+133,21001B21-,BROGNIEZ-NORD,90547,5,0,male,child,48407,4,single_with_child,Anderlecht,1,Maternelles,Cureghem Bara,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+134,21001B20-,CONSEIL-NORD,60023,6,0,male,child,32310,4,single_with_child,Anderlecht,1,Maternelles,Cureghem Bara,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+135,21001B20-,CONSEIL-NORD,59725,5,0,male,child,32205,1,couple_with_child,Anderlecht,1,Maternelles,Cureghem Bara,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+136,21001B20-,CONSEIL-NORD,60551,5,0,male,child,32469,1,couple_with_child,Anderlecht,1,Maternelles,Cureghem Bara,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+137,21001B25-,REVISION-NORD,75963,4,1,female,child,40903,1,couple_with_child,Anderlecht,1,Maternelles,Cureghem Vétérinaire,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+138,21001B332,GOUJONS,113312,4,1,female,parent,59688,1,couple_with_child,Anderlecht,1,Maternelles,Cureghem Vétérinaire,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+139,21001B31-,ALBERT I- IMMEUBLES,74318,5,0,male,parent,40009,1,couple_with_child,Anderlecht,1,Maternelles,Cureghem Vétérinaire,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+140,21001B241,REVISION-SUD,114202,4,1,female,child,60340,1,couple_with_child,Anderlecht,1,Maternelles,Cureghem Vétérinaire,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+141,21001B332,GOUJONS,112905,4,0,male,child,59686,4,single_with_child,Anderlecht,1,Maternelles,Cureghem Vétérinaire,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+142,21001A120,MINIMES,118695,4,1,female,child,62553,1,couple_with_child,Anderlecht,1,Maternelles,Anderlecht - Centre - Wayez,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+143,21001A120,MINIMES,118955,3,1,female,child,62645,1,couple_with_child,Anderlecht,1,Maternelles,Anderlecht - Centre - Wayez,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+144,21001A011,KLEINMOLEN,86095,4,0,male,parent,45424,1,couple_with_child,Anderlecht,1,Maternelles,Anderlecht - Centre - Wayez,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+145,21001A152,LINDE-OUEST,121247,3,1,female,child,63952,4,single_with_child,Anderlecht,1,Maternelles,Anderlecht - Centre - Wayez,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+146,21001A011,KLEINMOLEN,83937,4,0,male,child,45086,1,couple_with_child,Anderlecht,1,Maternelles,Anderlecht - Centre - Wayez,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+147,21001A120,MINIMES,118792,4,1,female,child,62593,1,couple_with_child,Anderlecht,1,Maternelles,Anderlecht - Centre - Wayez,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+148,21001A051,LINDE-EST,67016,4,1,female,parent,35959,1,couple_with_child,Anderlecht,1,Maternelles,Anderlecht - Centre - Wayez,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+149,21001A10-,PORSELEIN,116406,4,0,male,child,61503,1,couple_with_child,Anderlecht,1,Maternelles,Anderlecht - Centre - Wayez,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+150,21001A02-,WAYEZ,122103,5,0,male,child,64438,1,couple_with_child,Anderlecht,1,Maternelles,Anderlecht - Centre - Wayez,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+151,21001A011,KLEINMOLEN,84342,5,1,female,child,45225,1,couple_with_child,Anderlecht,1,Maternelles,Anderlecht - Centre - Wayez,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+152,21001A00-,RESISTANCE,104620,5,0,male,child,55427,1,couple_with_child,Anderlecht,1,Maternelles,Anderlecht - Centre - Wayez,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+153,21001A051,LINDE-EST,66167,4,0,male,child,35867,1,couple_with_child,Anderlecht,1,Maternelles,Anderlecht - Centre - Wayez,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+154,21001A120,MINIMES,119050,4,1,female,child,62676,4,single_with_child,Anderlecht,1,Maternelles,Anderlecht - Centre - Wayez,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+155,21001A120,MINIMES,118830,5,0,male,child,62607,4,single_with_child,Anderlecht,1,Maternelles,Anderlecht - Centre - Wayez,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+156,21001A011,KLEINMOLEN,83777,5,0,male,child,45032,1,couple_with_child,Anderlecht,1,Maternelles,Anderlecht - Centre - Wayez,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+157,21001A120,MINIMES,118455,4,0,male,child,62464,1,couple_with_child,Anderlecht,1,Maternelles,Anderlecht - Centre - Wayez,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+158,21001A011,KLEINMOLEN,84815,3,0,male,child,45390,4,single_with_child,Anderlecht,1,Maternelles,Anderlecht - Centre - Wayez,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+159,21001A120,MINIMES,119263,5,1,female,child,62744,4,single_with_child,Anderlecht,1,Maternelles,Anderlecht - Centre - Wayez,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+160,21001A051,LINDE-EST,66113,4,0,male,child,35847,1,couple_with_child,Anderlecht,1,Maternelles,Anderlecht - Centre - Wayez,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+161,21001A00-,RESISTANCE,104313,4,0,male,child,55319,1,couple_with_child,Anderlecht,1,Maternelles,Anderlecht - Centre - Wayez,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+162,21001A00-,RESISTANCE,104851,5,0,male,child,55508,1,couple_with_child,Anderlecht,1,Maternelles,Anderlecht - Centre - Wayez,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+163,21001A02-,WAYEZ,122174,3,1,female,child,64459,1,couple_with_child,Anderlecht,1,Maternelles,Anderlecht - Centre - Wayez,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+164,21001A95-,BUFFON,107028,4,0,male,child,56800,1,couple_with_child,Anderlecht,1,Maternelles,Buffon,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+165,21001A95-,BUFFON,107290,4,0,male,child,56892,1,couple_with_child,Anderlecht,1,Maternelles,Buffon,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+166,21001A95-,BUFFON,108346,5,0,male,child,57241,1,couple_with_child,Anderlecht,1,Maternelles,Buffon,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+167,21001A95-,BUFFON,107567,3,0,male,child,56985,1,couple_with_child,Anderlecht,1,Maternelles,Buffon,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+168,21001A941,CROCUS,69068,3,1,female,child,37224,1,couple_with_child,Anderlecht,1,Maternelles,Buffon,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+169,21001A95-,BUFFON,107233,3,0,male,child,56872,1,couple_with_child,Anderlecht,1,Maternelles,Buffon,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+170,21001A95-,BUFFON,108541,4,1,female,child,57299,1,couple_with_child,Anderlecht,1,Maternelles,Buffon,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+171,21001A941,CROCUS,68679,4,1,female,child,37097,1,couple_with_child,Anderlecht,1,Maternelles,Buffon,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+172,21001A95-,BUFFON,107357,6,0,male,child,56913,1,couple_with_child,Anderlecht,1,Maternelles,Buffon,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+173,21001A941,CROCUS,68519,3,1,female,child,37043,1,couple_with_child,Anderlecht,1,Maternelles,Buffon,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+174,21001B10-,ROSEE-EST,110761,5,0,male,child,58393,4,single_with_child,Anderlecht,1,Maternelles,Cureghem Rosée,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+175,21001B17-,ABATTOIR,87063,5,1,female,parent,46585,1,couple_with_child,Anderlecht,1,Maternelles,Cureghem Rosée,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+176,21001B10-,ROSEE-EST,111056,3,0,male,child,58492,4,single_with_child,Anderlecht,1,Maternelles,Cureghem Rosée,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+177,21012A84-,METTEWIE-BUILDINGS,676238,3,0,male,child,372088,1,couple_with_child,Molenbeek Saint-Jean,1,Maternelles,Machtens,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+178,21012A24-,OSSEGHEM,679661,5,1,female,child,373747,1,couple_with_child,Molenbeek Saint-Jean,1,Maternelles,Machtens,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+179,21012A24-,OSSEGHEM,679788,3,1,female,child,373787,1,couple_with_child,Molenbeek Saint-Jean,1,Maternelles,Machtens,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+180,21012A24-,OSSEGHEM,680240,5,0,male,child,374164,4,single_with_child,Molenbeek Saint-Jean,1,Maternelles,Machtens,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+181,21012A26-,MACHTENS-NORD,685025,5,1,female,parent,375790,4,single_with_child,Molenbeek Saint-Jean,1,Maternelles,Machtens,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+182,21012A20-,BAECK,721899,3,0,male,child,395178,4,single_with_child,Molenbeek Saint-Jean,1,Maternelles,Machtens,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+183,21012A84-,METTEWIE-BUILDINGS,676132,5,0,male,child,372058,4,single_with_child,Molenbeek Saint-Jean,1,Maternelles,Machtens,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+184,21001A72-,OSSEGEM,81617,3,0,male,child,43787,1,couple_with_child,Anderlecht,1,Maternelles,Machtens,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+185,21012A26-,MACHTENS-NORD,683878,4,1,female,child,376115,4,single_with_child,Molenbeek Saint-Jean,1,Maternelles,Machtens,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+186,21012A851,CONDOR,697178,3,1,female,parent,382881,4,single_with_child,Molenbeek Saint-Jean,1,Maternelles,Machtens,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+187,21012A24-,OSSEGHEM,678376,4,0,male,child,373274,1,couple_with_child,Molenbeek Saint-Jean,1,Maternelles,Machtens,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+188,21012A20-,BAECK,722570,5,0,male,parent,395064,1,couple_with_child,Molenbeek Saint-Jean,1,Maternelles,Machtens,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+189,21012A24-,OSSEGHEM,678738,5,1,female,child,373417,1,couple_with_child,Molenbeek Saint-Jean,1,Maternelles,Machtens,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+190,21012A26-,MACHTENS-NORD,684020,4,0,male,child,376157,1,couple_with_child,Molenbeek Saint-Jean,1,Maternelles,Machtens,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+191,21012A20-,BAECK,721770,4,1,female,child,395141,1,couple_with_child,Molenbeek Saint-Jean,1,Maternelles,Machtens,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+192,21012A20-,BAECK,721974,3,1,female,child,395199,1,couple_with_child,Molenbeek Saint-Jean,1,Maternelles,Machtens,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+193,21012A23-,MACHTENS-SUD,756099,5,1,female,child,412771,1,couple_with_child,Molenbeek Saint-Jean,1,Maternelles,Machtens,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+194,21012A84-,METTEWIE-BUILDINGS,676185,4,0,male,child,372072,1,couple_with_child,Molenbeek Saint-Jean,1,Maternelles,Machtens,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+195,21012A24-,OSSEGHEM,679174,5,1,female,child,373586,1,couple_with_child,Molenbeek Saint-Jean,1,Maternelles,Machtens,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+196,21001A72-,OSSEGEM,81809,3,0,male,child,43847,4,single_with_child,Anderlecht,1,Maternelles,Machtens,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+197,21012A20-,BAECK,722565,5,0,male,parent,395133,1,couple_with_child,Molenbeek Saint-Jean,1,Maternelles,Machtens,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+198,21001A72-,OSSEGEM,80198,3,0,male,child,43281,1,couple_with_child,Anderlecht,1,Maternelles,Machtens,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+199,21012A23-,MACHTENS-SUD,756979,6,1,female,parent,412195,1,couple_with_child,Molenbeek Saint-Jean,1,Maternelles,Machtens,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+200,21012A23-,MACHTENS-SUD,754861,5,1,female,child,412316,1,couple_with_child,Molenbeek Saint-Jean,1,Maternelles,Machtens,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+201,21012A22-,BRASILIA,698004,5,1,female,child,383570,1,couple_with_child,Molenbeek Saint-Jean,1,Maternelles,Machtens,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+202,21001A72-,OSSEGEM,82755,5,0,male,parent,43769,4,single_with_child,Anderlecht,1,Maternelles,Machtens,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+203,21012A23-,MACHTENS-SUD,755174,5,0,male,child,412440,1,couple_with_child,Molenbeek Saint-Jean,1,Maternelles,Machtens,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+204,21001A72-,OSSEGEM,81327,3,0,male,child,43703,1,couple_with_child,Anderlecht,1,Maternelles,Machtens,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+205,21001A72-,OSSEGEM,80411,5,1,female,child,43360,4,single_with_child,Anderlecht,1,Maternelles,Machtens,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+206,21012A882,DARING,697490,4,0,male,child,383314,1,couple_with_child,Molenbeek Saint-Jean,1,Maternelles,Machtens,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+207,21012A23-,MACHTENS-SUD,755586,3,0,male,child,412602,1,couple_with_child,Molenbeek Saint-Jean,1,Maternelles,Machtens,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+208,21001A72-,OSSEGEM,81768,4,1,female,child,43832,1,couple_with_child,Anderlecht,1,Maternelles,Machtens,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+209,21012A851,CONDOR,696869,5,0,male,child,382908,1,couple_with_child,Molenbeek Saint-Jean,1,Maternelles,Machtens,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+210,21012A30-,METTEWIE - IDYLLE,752091,3,0,male,child,410896,1,couple_with_child,Molenbeek Saint-Jean,1,Maternelles,Machtens,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+211,21012A23-,MACHTENS-SUD,754427,3,1,female,child,412147,1,couple_with_child,Molenbeek Saint-Jean,1,Maternelles,Machtens,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+212,21012A30-,METTEWIE - IDYLLE,752392,4,1,female,child,411016,1,couple_with_child,Molenbeek Saint-Jean,1,Maternelles,Machtens,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+213,21012A84-,METTEWIE-BUILDINGS,676047,3,1,female,child,372032,4,single_with_child,Molenbeek Saint-Jean,1,Maternelles,Machtens,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+214,21012A20-,BAECK,721986,4,1,female,child,395203,4,single_with_child,Molenbeek Saint-Jean,1,Maternelles,Machtens,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+215,21012A24-,OSSEGHEM,680247,5,0,male,child,374166,4,single_with_child,Molenbeek Saint-Jean,1,Maternelles,Machtens,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+216,21012A24-,OSSEGHEM,678641,4,1,female,child,373383,4,single_with_child,Molenbeek Saint-Jean,1,Maternelles,Machtens,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+217,21012A882,DARING,697862,4,0,male,parent,383265,1,couple_with_child,Molenbeek Saint-Jean,1,Maternelles,Machtens,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+218,21012A851,CONDOR,696790,4,1,female,child,382881,4,single_with_child,Molenbeek Saint-Jean,1,Maternelles,Machtens,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+219,21002A20-,SAINT-JULIEN,126746,3,0,male,child,66803,1,couple_with_child,Auderghem,1,Maternelles,Chaussée de Wavre - Saint-Julien,21004E800,DIVIN JESUS,Bruxelles
+220,21002A53-,PECHERIES,128264,4,1,female,child,67699,1,couple_with_child,Auderghem,1,Maternelles,Watermael Centre,21010A4MJ,VUB,Jette
+221,21017A13-,BOULEAUX,1108688,5,0,male,child,601377,1,couple_with_child,Watermael-Boitsfort,1,Maternelles,Watermael Centre,21004E82-,CITE MODELE,Bruxelles
+222,21017A13-,BOULEAUX,1108632,3,1,female,child,601357,1,couple_with_child,Watermael-Boitsfort,1,Maternelles,Watermael Centre,21004E82-,CITE MODELE,Bruxelles
+223,21017A212,AVENUE DE LA TENDERIE,1110287,3,1,female,child,602305,1,couple_with_child,Watermael-Boitsfort,1,Maternelles,Watermael Centre,21004E82-,CITE MODELE,Bruxelles
+224,21017A212,AVENUE DE LA TENDERIE,1110542,4,0,male,child,602414,1,couple_with_child,Watermael-Boitsfort,1,Maternelles,Watermael Centre,21004E82-,CITE MODELE,Bruxelles
+225,21017A13-,BOULEAUX,1108575,3,0,male,child,601334,1,couple_with_child,Watermael-Boitsfort,1,Maternelles,Watermael Centre,21004E82-,CITE MODELE,Bruxelles
+226,21019A32-,CHANT D'OISEAU,1202536,5,1,female,child,654503,1,couple_with_child,Woluwe Saint-Pierre,1,Maternelles,Chant d'Oiseau,21001C6PB,ZONE RURALE,Anderlecht
+227,21019A33-,MIMOSAS (AVENUE),1198228,5,0,male,parent,651583,1,couple_with_child,Woluwe Saint-Pierre,1,Maternelles,Chant d'Oiseau,21001C6PB,ZONE RURALE,Anderlecht
+228,21002A130,PARC DES PRINCES,139728,5,0,male,child,73741,1,couple_with_child,Auderghem,1,Maternelles,Transvaal,21004E800,DIVIN JESUS,Bruxelles
+229,21002A11-,SACRE-COEUR,153371,3,0,male,child,81265,4,single_with_child,Auderghem,1,Maternelles,Transvaal,21010A4MJ,VUB,Jette
+230,21002A12-,AVENUE SCHALLER,158144,5,0,male,child,83747,1,couple_with_child,Auderghem,1,Maternelles,Transvaal,21010A4MJ,VUB,Jette
+231,21002A130,PARC DES PRINCES,140064,5,1,female,child,73851,1,couple_with_child,Auderghem,1,Maternelles,Transvaal,21004E800,DIVIN JESUS,Bruxelles
+232,21002A11-,SACRE-COEUR,153723,3,0,male,parent,81112,1,couple_with_child,Auderghem,1,Maternelles,Transvaal,21010A4MJ,VUB,Jette
+233,21002A411,PUTDAAL,147774,3,1,female,child,78256,1,couple_with_child,Auderghem,1,Maternelles,Putdael,21001C6PB,ZONE RURALE,Anderlecht
+234,21019A22-,PUTDAAL,1220984,5,1,female,child,664396,1,couple_with_child,Woluwe Saint-Pierre,1,Maternelles,Putdael,21001C6PB,ZONE RURALE,Anderlecht
+235,21002A041,VIGNETTE,160795,4,0,male,child,85240,1,couple_with_child,Auderghem,1,Maternelles,Auderghem centre,21010A4MJ,VUB,Jette
+236,21002A00-,CENTRE - NORD,148590,3,1,female,child,78720,1,couple_with_child,Auderghem,1,Maternelles,Auderghem centre,21010A4MJ,VUB,Jette
+237,21002A43-,SOUVERAIN (BOULEVARD DU) NORD,159953,5,0,male,child,84687,1,couple_with_child,Auderghem,1,Maternelles,Auderghem centre,21001C6PB,ZONE RURALE,Anderlecht
+238,21002A43-,SOUVERAIN (BOULEVARD DU) NORD,159918,5,0,male,child,84676,1,couple_with_child,Auderghem,1,Maternelles,Auderghem centre,21001C6PB,ZONE RURALE,Anderlecht
+239,21002A030,LAMMERENDRIES,152109,3,0,male,child,80500,1,couple_with_child,Auderghem,1,Maternelles,Trois Tilleuls,21010A4MJ,VUB,Jette
+240,21002A030,LAMMERENDRIES,151736,5,1,female,child,80368,4,single_with_child,Auderghem,1,Maternelles,Trois Tilleuls,21010A4MJ,VUB,Jette
+241,21003A312,POTAARDE  VLAK,163998,3,0,male,child,86697,1,couple_with_child,Berchem Sainte-Agathe,1,Maternelles,Potaarde,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+242,21003A04-,L. DE SMET,168786,4,1,female,parent,89223,1,couple_with_child,Berchem Sainte-Agathe,1,Maternelles,Potaarde,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+243,21003A312,POTAARDE  VLAK,163259,4,1,female,child,86492,1,couple_with_child,Berchem Sainte-Agathe,1,Maternelles,Potaarde,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+244,21003A312,POTAARDE  VLAK,164017,3,0,male,child,86703,1,couple_with_child,Berchem Sainte-Agathe,1,Maternelles,Potaarde,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+245,21003A312,POTAARDE  VLAK,164028,4,0,male,child,86706,1,couple_with_child,Berchem Sainte-Agathe,1,Maternelles,Potaarde,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+246,21003A312,POTAARDE  VLAK,163483,4,0,male,child,86554,1,couple_with_child,Berchem Sainte-Agathe,1,Maternelles,Potaarde,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+247,21003A331,ALLEE VERTE,167273,5,1,female,child,88649,1,couple_with_child,Berchem Sainte-Agathe,1,Maternelles,Berchem Sainte-Agathe Centre,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+248,21003A02-,LAURE - BASILIQUE,172051,3,0,male,child,91118,4,single_with_child,Berchem Sainte-Agathe,1,Maternelles,Berchem Sainte-Agathe Centre,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+249,21003A00-,CENTRE,179904,3,0,male,child,94968,1,couple_with_child,Berchem Sainte-Agathe,1,Maternelles,Berchem Sainte-Agathe Centre,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+250,21003A02-,LAURE - BASILIQUE,172392,4,1,female,child,91229,1,couple_with_child,Berchem Sainte-Agathe,1,Maternelles,Berchem Sainte-Agathe Centre,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+251,21003A00-,CENTRE,180217,5,0,male,child,95065,1,couple_with_child,Berchem Sainte-Agathe,1,Maternelles,Berchem Sainte-Agathe Centre,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+252,21003A00-,CENTRE,180264,3,1,female,child,95080,1,couple_with_child,Berchem Sainte-Agathe,1,Maternelles,Berchem Sainte-Agathe Centre,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+253,21003A00-,CENTRE,179366,4,0,male,child,94781,1,couple_with_child,Berchem Sainte-Agathe,1,Maternelles,Berchem Sainte-Agathe Centre,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+254,21003A00-,CENTRE,178984,4,0,male,child,94643,4,single_with_child,Berchem Sainte-Agathe,1,Maternelles,Berchem Sainte-Agathe Centre,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+255,21003A0AJ,HUNDERENVELD,169402,4,1,female,child,89809,4,single_with_child,Berchem Sainte-Agathe,1,Maternelles,Berchem Sainte-Agathe Centre,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+256,21003A00-,CENTRE,179740,5,1,female,child,94912,1,couple_with_child,Berchem Sainte-Agathe,1,Maternelles,Berchem Sainte-Agathe Centre,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+257,21003A2MJ,GARE,185285,5,1,female,child,97828,1,couple_with_child,Berchem Sainte-Agathe,1,Maternelles,Berchem Sainte-Agathe Centre,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+258,21003A05-,DE SELLIERS DE MORANVILLE,183421,5,0,male,child,96725,4,single_with_child,Berchem Sainte-Agathe,1,Maternelles,Berchem Sainte-Agathe Centre,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+259,21003A41-,MONNET,184855,4,0,male,child,97611,1,couple_with_child,Berchem Sainte-Agathe,1,Maternelles,Berchem Sainte-Agathe Centre,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+260,21003A323,SEPT ETOILES,165384,5,0,male,child,87565,1,couple_with_child,Berchem Sainte-Agathe,1,Maternelles,Berchem Sainte-Agathe Centre,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+261,21003A212,CLOS DU ZAVELENBERG,177515,3,1,female,child,93949,1,couple_with_child,Berchem Sainte-Agathe,1,Maternelles,Berchem Sainte-Agathe Centre,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+262,21003A0AJ,HUNDERENVELD,169621,3,1,female,child,89893,4,single_with_child,Berchem Sainte-Agathe,1,Maternelles,Berchem Sainte-Agathe Centre,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+263,21003A02-,LAURE - BASILIQUE,172962,5,1,female,child,91593,4,single_with_child,Berchem Sainte-Agathe,1,Maternelles,Berchem Sainte-Agathe Centre,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+264,21003A02-,LAURE - BASILIQUE,172624,3,0,male,child,91298,4,single_with_child,Berchem Sainte-Agathe,1,Maternelles,Berchem Sainte-Agathe Centre,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+265,21003A02-,LAURE - BASILIQUE,171755,3,1,female,child,91004,1,couple_with_child,Berchem Sainte-Agathe,1,Maternelles,Berchem Sainte-Agathe Centre,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+266,21003A11-,CITE MODERNE,181961,5,1,female,child,96036,1,couple_with_child,Berchem Sainte-Agathe,1,Maternelles,Berchem Sainte-Agathe Centre,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+267,21003A283,ZAVELENBERG,181209,5,1,female,child,95718,1,couple_with_child,Berchem Sainte-Agathe,1,Maternelles,Berchem Sainte-Agathe Centre,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+268,21003A41-,MONNET,184939,4,0,male,child,97639,4,single_with_child,Berchem Sainte-Agathe,1,Maternelles,Berchem Sainte-Agathe Centre,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+269,21003A212,CLOS DU ZAVELENBERG,177583,3,0,male,child,93969,4,single_with_child,Berchem Sainte-Agathe,1,Maternelles,Berchem Sainte-Agathe Centre,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+270,21003A00-,CENTRE,179433,3,0,male,child,94803,1,couple_with_child,Berchem Sainte-Agathe,1,Maternelles,Berchem Sainte-Agathe Centre,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+271,21003A342,HOGENBOS,166352,6,1,female,child,88119,1,couple_with_child,Berchem Sainte-Agathe,1,Maternelles,Korenbeek,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+272,21012A822,KORENBEEK,760442,3,0,male,child,415150,1,couple_with_child,Molenbeek Saint-Jean,1,Maternelles,Korenbeek,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+273,21012A822,KORENBEEK,759985,5,0,male,child,414976,1,couple_with_child,Molenbeek Saint-Jean,1,Maternelles,Korenbeek,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+274,21003A03-,HAUT-CHAMP,173964,4,0,male,child,92150,1,couple_with_child,Berchem Sainte-Agathe,1,Maternelles,Korenbeek,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+275,21003A03-,HAUT-CHAMP,174660,3,0,male,child,92348,1,couple_with_child,Berchem Sainte-Agathe,1,Maternelles,Korenbeek,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+276,21012A822,KORENBEEK,760181,4,1,female,child,415055,4,single_with_child,Molenbeek Saint-Jean,1,Maternelles,Korenbeek,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+277,21003A342,HOGENBOS,166313,5,1,female,child,88107,1,couple_with_child,Berchem Sainte-Agathe,1,Maternelles,Korenbeek,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+278,21012A822,KORENBEEK,761463,3,0,male,child,415522,1,couple_with_child,Molenbeek Saint-Jean,1,Maternelles,Korenbeek,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+279,21012A822,KORENBEEK,762100,3,1,female,child,415750,1,couple_with_child,Molenbeek Saint-Jean,1,Maternelles,Korenbeek,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+280,21003A03-,HAUT-CHAMP,174655,6,0,male,child,92347,1,couple_with_child,Berchem Sainte-Agathe,1,Maternelles,Korenbeek,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+281,21012A822,KORENBEEK,764009,4,0,male,parent,415239,4,single_with_child,Molenbeek Saint-Jean,1,Maternelles,Korenbeek,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+282,21003A10-,HOPITAL FRANCAIS,186602,5,0,male,child,98604,1,couple_with_child,Berchem Sainte-Agathe,1,Maternelles,Hôpital Français,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+283,21011A10-,PAIX (AVENUE DE LA),659392,3,1,female,child,363678,1,couple_with_child,Koekelberg,1,Maternelles,Hôpital Français,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+284,21012A50-,BENES,733230,3,0,male,child,400761,1,couple_with_child,Molenbeek Saint-Jean,1,Maternelles,Hôpital Français,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+285,21012A50-,BENES,734428,3,1,female,parent,400302,1,couple_with_child,Molenbeek Saint-Jean,1,Maternelles,Hôpital Français,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+286,21011A11-,LEPREUX,650286,5,1,female,child,359116,4,single_with_child,Koekelberg,1,Maternelles,Hôpital Français,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+287,21011A12-,BASILIQUE,672395,5,1,female,parent,369248,1,couple_with_child,Koekelberg,1,Maternelles,Hôpital Français,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+288,21003A10-,HOPITAL FRANCAIS,186878,5,0,male,child,98715,1,couple_with_child,Berchem Sainte-Agathe,1,Maternelles,Hôpital Français,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+289,21011A10-,PAIX (AVENUE DE LA),659162,4,0,male,child,363589,1,couple_with_child,Koekelberg,1,Maternelles,Hôpital Français,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+290,21003A10-,HOPITAL FRANCAIS,187142,4,1,female,child,98823,1,couple_with_child,Berchem Sainte-Agathe,1,Maternelles,Hôpital Français,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+291,21012A50-,BENES,732969,4,1,female,child,400664,1,couple_with_child,Molenbeek Saint-Jean,1,Maternelles,Hôpital Français,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+292,21012A50-,BENES,733468,6,1,female,child,400835,1,couple_with_child,Molenbeek Saint-Jean,1,Maternelles,Hôpital Français,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+293,21012A50-,BENES,733450,3,1,female,child,400831,1,couple_with_child,Molenbeek Saint-Jean,1,Maternelles,Hôpital Français,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+294,21011A10-,PAIX (AVENUE DE LA),659691,4,0,male,child,363801,1,couple_with_child,Koekelberg,1,Maternelles,Hôpital Français,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+295,21011A11-,LEPREUX,650718,4,1,female,child,359263,1,couple_with_child,Koekelberg,1,Maternelles,Hôpital Français,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+296,21004B421,MARIE-LOUISE (SQUARE),191489,3,1,female,child,101062,1,couple_with_child,Bruxelles,1,Maternelles,Squares,21001C522,HOPITAL U.L.B.,Anderlecht
+297,21004B421,MARIE-LOUISE (SQUARE),191680,4,1,female,child,101140,1,couple_with_child,Bruxelles,1,Maternelles,Squares,21001C522,HOPITAL U.L.B.,Anderlecht
+298,21004B44-,AMBIORIX-SUD (SQUARE),217057,4,0,male,parent,114850,1,couple_with_child,Bruxelles,1,Maternelles,Squares,21001C522,HOPITAL U.L.B.,Anderlecht
+299,21004B44-,AMBIORIX-SUD (SQUARE),214925,4,0,male,child,114342,1,couple_with_child,Bruxelles,1,Maternelles,Squares,21001C522,HOPITAL U.L.B.,Anderlecht
+300,21004B44-,AMBIORIX-SUD (SQUARE),215880,4,1,female,child,114806,4,single_with_child,Bruxelles,1,Maternelles,Squares,21001C522,HOPITAL U.L.B.,Anderlecht
+301,21004B421,MARIE-LOUISE (SQUARE),190964,4,0,male,child,100831,1,couple_with_child,Bruxelles,1,Maternelles,Squares,21001C522,HOPITAL U.L.B.,Anderlecht
+302,21004B43-,AMBIORIX-NORD (SQUARE),219545,3,1,female,child,116922,1,couple_with_child,Bruxelles,1,Maternelles,Squares,21001C522,HOPITAL U.L.B.,Anderlecht
+303,21004B421,MARIE-LOUISE (SQUARE),191556,5,0,male,child,101089,1,couple_with_child,Bruxelles,1,Maternelles,Squares,21001C522,HOPITAL U.L.B.,Anderlecht
+304,21004B43-,AMBIORIX-NORD (SQUARE),220522,4,0,male,child,117336,1,couple_with_child,Bruxelles,1,Maternelles,Squares,21001C522,HOPITAL U.L.B.,Anderlecht
+305,21004B43-,AMBIORIX-NORD (SQUARE),220836,5,0,male,child,117482,1,couple_with_child,Bruxelles,1,Maternelles,Squares,21001C522,HOPITAL U.L.B.,Anderlecht
+306,21004B43-,AMBIORIX-NORD (SQUARE),220597,4,0,male,child,117371,1,couple_with_child,Bruxelles,1,Maternelles,Squares,21001C522,HOPITAL U.L.B.,Anderlecht
+307,21004B44-,AMBIORIX-SUD (SQUARE),216012,3,0,male,child,114869,4,single_with_child,Bruxelles,1,Maternelles,Squares,21001C522,HOPITAL U.L.B.,Anderlecht
+308,21004B421,MARIE-LOUISE (SQUARE),191062,6,1,female,child,100878,4,single_with_child,Bruxelles,1,Maternelles,Squares,21001C522,HOPITAL U.L.B.,Anderlecht
+309,21004B44-,AMBIORIX-SUD (SQUARE),215568,4,0,male,child,114659,4,single_with_child,Bruxelles,1,Maternelles,Squares,21001C522,HOPITAL U.L.B.,Anderlecht
+310,21004E201,AVENUE JEAN DE BOLOGNE,317633,4,1,female,child,174610,1,couple_with_child,Bruxelles,1,Maternelles,Mutsaard,21016A533,MOENSBERG,Uccle
+311,21004F522,AVENUE DE VERSAILLES,368848,4,0,male,child,200552,1,couple_with_child,Bruxelles,1,Maternelles,Mutsaard,21016A533,MOENSBERG,Uccle
+312,21004E201,AVENUE JEAN DE BOLOGNE,318255,3,0,male,child,174841,1,couple_with_child,Bruxelles,1,Maternelles,Mutsaard,21016A533,MOENSBERG,Uccle
+313,21004F511,AVENUE DES PAGODES,196194,3,0,male,child,104037,1,couple_with_child,Bruxelles,1,Maternelles,Mutsaard,21016A521,VERREWINKEL,Uccle
+314,21004E201,AVENUE JEAN DE BOLOGNE,317636,5,0,male,child,174611,1,couple_with_child,Bruxelles,1,Maternelles,Mutsaard,21016A533,MOENSBERG,Uccle
+315,21004E222,MUTSAARD (AVENUE),375364,4,0,male,child,204220,1,couple_with_child,Bruxelles,1,Maternelles,Mutsaard,21016A533,MOENSBERG,Uccle
+316,21004E201,AVENUE JEAN DE BOLOGNE,317772,5,0,male,child,174656,1,couple_with_child,Bruxelles,1,Maternelles,Mutsaard,21016A533,MOENSBERG,Uccle
+317,21004E222,MUTSAARD (AVENUE),375814,4,1,female,child,204413,1,couple_with_child,Bruxelles,1,Maternelles,Mutsaard,21016A533,MOENSBERG,Uccle
+318,21004E201,AVENUE JEAN DE BOLOGNE,318956,3,0,male,child,175076,1,couple_with_child,Bruxelles,1,Maternelles,Mutsaard,21016A533,MOENSBERG,Uccle
+319,21004E233,DE MEYSSE (AVENUE),357063,3,0,male,child,194242,1,couple_with_child,Bruxelles,1,Maternelles,Mutsaard,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+320,21004F511,AVENUE DES PAGODES,196515,4,1,female,child,104139,1,couple_with_child,Bruxelles,1,Maternelles,Mutsaard,21016A521,VERREWINKEL,Uccle
+321,21004F522,AVENUE DE VERSAILLES,368836,3,1,female,child,200548,1,couple_with_child,Bruxelles,1,Maternelles,Mutsaard,21016A533,MOENSBERG,Uccle
+322,21004E201,AVENUE JEAN DE BOLOGNE,317219,3,1,female,child,174455,4,single_with_child,Bruxelles,1,Maternelles,Mutsaard,21016A533,MOENSBERG,Uccle
+323,21004E211,RUE DE WAND,346897,5,0,male,child,188899,1,couple_with_child,Bruxelles,1,Maternelles,Mutsaard,21016A533,MOENSBERG,Uccle
+324,21004F522,AVENUE DE VERSAILLES,368433,3,0,male,child,200403,1,couple_with_child,Bruxelles,1,Maternelles,Mutsaard,21016A533,MOENSBERG,Uccle
+325,21004E222,MUTSAARD (AVENUE),375840,4,1,female,child,204422,1,couple_with_child,Bruxelles,1,Maternelles,Mutsaard,21016A533,MOENSBERG,Uccle
+326,21004E201,AVENUE JEAN DE BOLOGNE,318481,4,1,female,child,174928,4,single_with_child,Bruxelles,1,Maternelles,Mutsaard,21016A533,MOENSBERG,Uccle
+327,21004E201,AVENUE JEAN DE BOLOGNE,316321,3,1,female,child,174100,1,couple_with_child,Bruxelles,1,Maternelles,Mutsaard,21016A533,MOENSBERG,Uccle
+328,21004E201,AVENUE JEAN DE BOLOGNE,318490,3,0,male,child,174930,1,couple_with_child,Bruxelles,1,Maternelles,Mutsaard,21016A533,MOENSBERG,Uccle
+329,21004E222,MUTSAARD (AVENUE),376606,4,1,female,parent,203656,1,couple_with_child,Bruxelles,1,Maternelles,Mutsaard,21016A533,MOENSBERG,Uccle
+330,21004F522,AVENUE DE VERSAILLES,368523,5,0,male,child,200438,1,couple_with_child,Bruxelles,1,Maternelles,Mutsaard,21016A533,MOENSBERG,Uccle
+331,21004E233,DE MEYSSE (AVENUE),356780,5,0,male,child,194138,1,couple_with_child,Bruxelles,1,Maternelles,Mutsaard,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+332,21004E211,RUE DE WAND,347221,4,0,male,child,189024,1,couple_with_child,Bruxelles,1,Maternelles,Mutsaard,21016A533,MOENSBERG,Uccle
+333,21004F511,AVENUE DES PAGODES,196553,3,0,male,child,104149,1,couple_with_child,Bruxelles,1,Maternelles,Mutsaard,21016A521,VERREWINKEL,Uccle
+334,21004F511,AVENUE DES PAGODES,196501,4,1,female,child,104136,1,couple_with_child,Bruxelles,1,Maternelles,Mutsaard,21016A521,VERREWINKEL,Uccle
+335,21004E201,AVENUE JEAN DE BOLOGNE,318705,5,1,female,child,174994,1,couple_with_child,Bruxelles,1,Maternelles,Mutsaard,21016A533,MOENSBERG,Uccle
+336,21004E201,AVENUE JEAN DE BOLOGNE,317991,3,1,female,child,174750,4,single_with_child,Bruxelles,1,Maternelles,Mutsaard,21016A533,MOENSBERG,Uccle
+337,21004E222,MUTSAARD (AVENUE),374658,5,0,male,child,203865,1,couple_with_child,Bruxelles,1,Maternelles,Mutsaard,21016A533,MOENSBERG,Uccle
+338,21004E222,MUTSAARD (AVENUE),375915,3,1,female,child,204447,1,couple_with_child,Bruxelles,1,Maternelles,Mutsaard,21016A533,MOENSBERG,Uccle
+339,21004E201,AVENUE JEAN DE BOLOGNE,318686,4,0,male,child,174990,1,couple_with_child,Bruxelles,1,Maternelles,Mutsaard,21016A533,MOENSBERG,Uccle
+340,21004E211,RUE DE WAND,347100,4,0,male,child,188983,1,couple_with_child,Bruxelles,1,Maternelles,Mutsaard,21016A533,MOENSBERG,Uccle
+341,21004E211,RUE DE WAND,347470,5,1,female,parent,188904,1,couple_with_child,Bruxelles,1,Maternelles,Mutsaard,21016A533,MOENSBERG,Uccle
+342,21004F511,AVENUE DES PAGODES,196391,4,1,female,child,104106,4,single_with_child,Bruxelles,1,Maternelles,Mutsaard,21016A521,VERREWINKEL,Uccle
+343,21004E201,AVENUE JEAN DE BOLOGNE,318088,4,0,male,child,174787,4,single_with_child,Bruxelles,1,Maternelles,Mutsaard,21016A533,MOENSBERG,Uccle
+344,21004E222,MUTSAARD (AVENUE),375713,3,0,male,child,204379,1,couple_with_child,Bruxelles,1,Maternelles,Mutsaard,21016A533,MOENSBERG,Uccle
+345,21004F522,AVENUE DE VERSAILLES,368268,5,1,female,child,200338,1,couple_with_child,Bruxelles,1,Maternelles,Mutsaard,21016A533,MOENSBERG,Uccle
+346,21004E201,AVENUE JEAN DE BOLOGNE,318510,6,0,male,child,174935,1,couple_with_child,Bruxelles,1,Maternelles,Mutsaard,21016A533,MOENSBERG,Uccle
+347,21004E222,MUTSAARD (AVENUE),375823,5,0,male,child,204415,1,couple_with_child,Bruxelles,1,Maternelles,Mutsaard,21016A533,MOENSBERG,Uccle
+348,21004E211,RUE DE WAND,347142,4,1,female,child,188999,4,single_with_child,Bruxelles,1,Maternelles,Mutsaard,21016A533,MOENSBERG,Uccle
+349,21004E222,MUTSAARD (AVENUE),375447,4,0,male,child,204262,1,couple_with_child,Bruxelles,1,Maternelles,Mutsaard,21016A533,MOENSBERG,Uccle
+350,21004E222,MUTSAARD (AVENUE),374908,5,1,female,child,203989,1,couple_with_child,Bruxelles,1,Maternelles,Mutsaard,21016A533,MOENSBERG,Uccle
+351,21004F522,AVENUE DE VERSAILLES,368505,6,1,female,child,200433,4,single_with_child,Bruxelles,1,Maternelles,Mutsaard,21016A533,MOENSBERG,Uccle
+352,21004F511,AVENUE DES PAGODES,195952,5,1,female,child,103947,1,couple_with_child,Bruxelles,1,Maternelles,Mutsaard,21016A521,VERREWINKEL,Uccle
+353,21004F511,AVENUE DES PAGODES,196074,3,1,female,child,103992,1,couple_with_child,Bruxelles,1,Maternelles,Mutsaard,21016A521,VERREWINKEL,Uccle
+354,21004E201,AVENUE JEAN DE BOLOGNE,318432,3,1,female,child,174910,1,couple_with_child,Bruxelles,1,Maternelles,Mutsaard,21016A533,MOENSBERG,Uccle
+355,21004E211,RUE DE WAND,347183,5,0,male,child,189012,1,couple_with_child,Bruxelles,1,Maternelles,Mutsaard,21016A533,MOENSBERG,Uccle
+356,21004F511,AVENUE DES PAGODES,196363,3,1,female,child,104097,1,couple_with_child,Bruxelles,1,Maternelles,Mutsaard,21016A521,VERREWINKEL,Uccle
+357,21004F522,AVENUE DE VERSAILLES,368847,5,0,male,child,200552,1,couple_with_child,Bruxelles,1,Maternelles,Mutsaard,21016A533,MOENSBERG,Uccle
+358,21004E201,AVENUE JEAN DE BOLOGNE,318858,4,1,female,child,175045,1,couple_with_child,Bruxelles,1,Maternelles,Mutsaard,21016A533,MOENSBERG,Uccle
+359,21004F511,AVENUE DES PAGODES,196477,3,1,female,child,104129,1,couple_with_child,Bruxelles,1,Maternelles,Mutsaard,21016A521,VERREWINKEL,Uccle
+360,21004E201,AVENUE JEAN DE BOLOGNE,319144,4,0,male,child,175137,1,couple_with_child,Bruxelles,1,Maternelles,Mutsaard,21016A533,MOENSBERG,Uccle
+361,21004F522,AVENUE DE VERSAILLES,368314,3,0,male,child,200355,1,couple_with_child,Bruxelles,1,Maternelles,Mutsaard,21016A533,MOENSBERG,Uccle
+362,21009A802,BOONDAEL-SUD,566326,4,1,female,child,313075,1,couple_with_child,Ixelles,1,Maternelles,Boondael,21004E800,DIVIN JESUS,Bruxelles
+363,21017A41-,AVENUE DE VISE,1097209,6,0,male,child,594746,4,single_with_child,Watermael-Boitsfort,1,Maternelles,Boondael,21004E82-,CITE MODELE,Bruxelles
+364,21004G3MJ,DOBBELENBERG (RUE DE),233450,4,1,female,parent,125099,1,couple_with_child,Bruxelles,1,Maternelles,Haren,21001C5PA,MEERVELD,Anderlecht
+365,21004G3MJ,DOBBELENBERG (RUE DE),233253,3,1,female,child,125169,1,couple_with_child,Bruxelles,1,Maternelles,Haren,21001C5PA,MEERVELD,Anderlecht
+366,21004G310,HAREN-SUD-OUEST,198714,3,1,female,child,105356,4,single_with_child,Bruxelles,1,Maternelles,Haren,21001C5PA,MEERVELD,Anderlecht
+367,21004G3MJ,DOBBELENBERG (RUE DE),233275,4,0,male,child,125174,1,couple_with_child,Bruxelles,1,Maternelles,Haren,21001C5PA,MEERVELD,Anderlecht
+368,21004G321,HAREN-EST,208710,3,0,male,child,110393,4,single_with_child,Bruxelles,1,Maternelles,Haren,21016A533,MOENSBERG,Uccle
+369,21004G310,HAREN-SUD-OUEST,198874,3,0,male,child,105401,4,single_with_child,Bruxelles,1,Maternelles,Haren,21001C5PA,MEERVELD,Anderlecht
+370,21004G3MJ,DOBBELENBERG (RUE DE),233263,4,1,female,child,125171,1,couple_with_child,Bruxelles,1,Maternelles,Haren,21001C5PA,MEERVELD,Anderlecht
+371,21004G30-,SAINTE-ELISABETH,204363,4,0,male,child,108007,1,couple_with_child,Bruxelles,1,Maternelles,Haren,21001C5PA,MEERVELD,Anderlecht
+372,21004G310,HAREN-SUD-OUEST,198462,4,1,female,child,105279,1,couple_with_child,Bruxelles,1,Maternelles,Haren,21001C5PA,MEERVELD,Anderlecht
+373,21004G30-,SAINTE-ELISABETH,204023,5,1,female,child,107904,1,couple_with_child,Bruxelles,1,Maternelles,Haren,21001C5PA,MEERVELD,Anderlecht
+374,21004G321,HAREN-EST,208658,3,1,female,child,110379,1,couple_with_child,Bruxelles,1,Maternelles,Haren,21016A533,MOENSBERG,Uccle
+375,21004G30-,SAINTE-ELISABETH,204138,3,1,female,child,107937,1,couple_with_child,Bruxelles,1,Maternelles,Haren,21001C5PA,MEERVELD,Anderlecht
+376,21004G30-,SAINTE-ELISABETH,204659,5,0,male,child,108089,1,couple_with_child,Bruxelles,1,Maternelles,Haren,21001C5PA,MEERVELD,Anderlecht
+377,21004G30-,SAINTE-ELISABETH,204433,3,1,female,child,108025,1,couple_with_child,Bruxelles,1,Maternelles,Haren,21001C5PA,MEERVELD,Anderlecht
+378,21004G30-,SAINTE-ELISABETH,203597,5,0,male,child,107775,1,couple_with_child,Bruxelles,1,Maternelles,Haren,21001C5PA,MEERVELD,Anderlecht
+379,21004G30-,SAINTE-ELISABETH,204547,5,1,female,child,108057,1,couple_with_child,Bruxelles,1,Maternelles,Haren,21001C5PA,MEERVELD,Anderlecht
+380,21004G321,HAREN-EST,208289,4,0,male,child,110263,1,couple_with_child,Bruxelles,1,Maternelles,Haren,21016A533,MOENSBERG,Uccle
+381,21004F901,PLACE PETER BENOIT,201581,4,0,male,child,106842,1,couple_with_child,Bruxelles,1,Maternelles,Heembeek,21016A521,VERREWINKEL,Uccle
+382,21004F531,RUE DES FAINES,232081,5,1,female,child,124505,4,single_with_child,Bruxelles,1,Maternelles,Heembeek,21016A521,VERREWINKEL,Uccle
+383,21004F91-,CROIX DE GUERRE (AVENUE DES),235699,5,0,male,child,126313,4,single_with_child,Bruxelles,1,Maternelles,Heembeek,21016A521,VERREWINKEL,Uccle
+384,21004F930,COIN DES CERISES,207714,5,1,female,parent,109310,4,single_with_child,Bruxelles,1,Maternelles,Heembeek,21016A521,VERREWINKEL,Uccle
+385,21004F953,RUE DU WIMPELBERG,247155,3,1,female,child,132813,4,single_with_child,Bruxelles,1,Maternelles,Heembeek,21016A521,VERREWINKEL,Uccle
+386,21004F94-,VAL MARIA,199423,4,1,female,child,105780,1,couple_with_child,Bruxelles,1,Maternelles,Heembeek,21016A521,VERREWINKEL,Uccle
+387,21004F930,COIN DES CERISES,207106,4,0,male,child,109506,1,couple_with_child,Bruxelles,1,Maternelles,Heembeek,21016A521,VERREWINKEL,Uccle
+388,21004F953,RUE DU WIMPELBERG,246924,5,1,female,child,132659,1,couple_with_child,Bruxelles,1,Maternelles,Heembeek,21016A521,VERREWINKEL,Uccle
+389,21004F94-,VAL MARIA,199653,4,0,male,child,105856,1,couple_with_child,Bruxelles,1,Maternelles,Heembeek,21016A521,VERREWINKEL,Uccle
+390,21004F922,RUE CHATEAU BEYAERD,237985,4,0,male,child,127485,1,couple_with_child,Bruxelles,1,Maternelles,Heembeek,21016A521,VERREWINKEL,Uccle
+391,21004F922,RUE CHATEAU BEYAERD,238700,5,0,male,child,127737,4,single_with_child,Bruxelles,1,Maternelles,Heembeek,21016A521,VERREWINKEL,Uccle
+392,21004F922,RUE CHATEAU BEYAERD,237386,3,0,male,child,127276,1,couple_with_child,Bruxelles,1,Maternelles,Heembeek,21016A521,VERREWINKEL,Uccle
+393,21004F922,RUE CHATEAU BEYAERD,238655,3,1,female,child,127723,1,couple_with_child,Bruxelles,1,Maternelles,Heembeek,21016A521,VERREWINKEL,Uccle
+394,21004F531,RUE DES FAINES,231738,5,0,male,child,124390,1,couple_with_child,Bruxelles,1,Maternelles,Heembeek,21016A521,VERREWINKEL,Uccle
+395,21004F953,RUE DU WIMPELBERG,246734,3,0,male,child,132593,1,couple_with_child,Bruxelles,1,Maternelles,Heembeek,21016A521,VERREWINKEL,Uccle
+396,21004F953,RUE DU WIMPELBERG,247501,5,0,male,parent,132675,1,couple_with_child,Bruxelles,1,Maternelles,Heembeek,21016A521,VERREWINKEL,Uccle
+397,21004F531,RUE DES FAINES,231574,4,0,male,child,124333,1,couple_with_child,Bruxelles,1,Maternelles,Heembeek,21016A521,VERREWINKEL,Uccle
+398,21004F901,PLACE PETER BENOIT,201686,3,1,female,child,106871,1,couple_with_child,Bruxelles,1,Maternelles,Heembeek,21016A521,VERREWINKEL,Uccle
+399,21004F922,RUE CHATEAU BEYAERD,238306,3,1,female,child,127598,1,couple_with_child,Bruxelles,1,Maternelles,Heembeek,21016A521,VERREWINKEL,Uccle
+400,21004F91-,CROIX DE GUERRE (AVENUE DES),235656,3,1,female,child,126300,4,single_with_child,Bruxelles,1,Maternelles,Heembeek,21016A521,VERREWINKEL,Uccle
+401,21004F531,RUE DES FAINES,232300,4,0,male,child,124569,1,couple_with_child,Bruxelles,1,Maternelles,Heembeek,21016A521,VERREWINKEL,Uccle
+402,21004F901,PLACE PETER BENOIT,202141,5,1,female,parent,106459,1,couple_with_child,Bruxelles,1,Maternelles,Heembeek,21016A521,VERREWINKEL,Uccle
+403,21004B2WJ,RUE DE PASCAL - ST.-SACREMENT,209331,4,0,male,child,110752,1,couple_with_child,Bruxelles,1,Maternelles,Quartier Européen,21001C522,HOPITAL U.L.B.,Anderlecht
+404,21004B13-,TREVES (RUE DE),245862,5,1,female,child,132123,1,couple_with_child,Bruxelles,1,Maternelles,Quartier Européen,21001C522,HOPITAL U.L.B.,Anderlecht
+405,21004B2MJ,SCHUMAN (ROND-POINT),213456,4,0,male,child,113438,1,couple_with_child,Bruxelles,1,Maternelles,Quartier Européen,21001C522,HOPITAL U.L.B.,Anderlecht
+406,21015A52-,LINTHOUT (RUE),921020,4,0,male,child,502201,1,couple_with_child,Schaerbeek,1,Maternelles,Porte Tervueren,21001C522,HOPITAL U.L.B.,Anderlecht
+407,21004B45-,ECOLE MILITAIRE,211135,4,0,male,parent,111085,1,couple_with_child,Bruxelles,1,Maternelles,Porte Tervueren,21001C522,HOPITAL U.L.B.,Anderlecht
+408,21018A72-,ROGATIONS,1119285,4,0,male,child,607456,1,couple_with_child,Woluwe Saint-Lambert,1,Maternelles,Porte Tervueren,21001C522,HOPITAL U.L.B.,Anderlecht
+409,21018A72-,ROGATIONS,1120100,4,0,male,child,607818,1,couple_with_child,Woluwe Saint-Lambert,1,Maternelles,Porte Tervueren,21001C522,HOPITAL U.L.B.,Anderlecht
+410,21004A25-,BEGUINAGE (PLACE DU),212267,4,0,male,child,112550,1,couple_with_child,Bruxelles,1,Maternelles,Béguinage - Dixmude,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+411,21004A25-,BEGUINAGE (PLACE DU),211990,3,1,female,child,112420,1,couple_with_child,Bruxelles,1,Maternelles,Béguinage - Dixmude,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+412,21004A24-,MARCHE AU PORCS,226149,4,0,male,child,121060,4,single_with_child,Bruxelles,1,Maternelles,Dansaert,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+413,21004A20-,BOURSE-NORD-OUEST,277720,4,1,female,child,152048,1,couple_with_child,Bruxelles,1,Maternelles,Dansaert,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+414,21004A23-,NOUVEAU MARCHE AU GRAIN,258990,3,0,male,child,139823,1,couple_with_child,Bruxelles,1,Maternelles,Dansaert,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+415,21004A23-,NOUVEAU MARCHE AU GRAIN,259623,3,1,female,child,140103,1,couple_with_child,Bruxelles,1,Maternelles,Dansaert,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+416,21004A32-,CONGRES - GARE,283415,3,1,female,child,156171,4,single_with_child,Bruxelles,1,Maternelles,Martyrs,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+417,21004A32-,CONGRES - GARE,282864,4,1,female,child,155703,1,couple_with_child,Bruxelles,1,Maternelles,Martyrs,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+418,21004C552,LOUISE (AVENUE)-SUD,286094,3,1,female,child,157785,1,couple_with_child,Bruxelles,1,Maternelles,Etangs d'Ixelles,21004F970,MARLY-NORD,Bruxelles
+419,21004C54-,LOUISE (AVENUE)-SUD-EST,242956,4,1,female,child,130211,4,single_with_child,Bruxelles,1,Maternelles,Etangs d'Ixelles,21004F970,MARLY-NORD,Bruxelles
+420,21017A443,VILLE-ET-FORET - ELAN,1096061,3,0,male,child,594047,4,single_with_child,Watermael-Boitsfort,1,Maternelles,Dries,21004E82-,CITE MODELE,Bruxelles
+421,21004A03-,BON SECOURS - PALAIS DU MIDI,256859,3,1,female,child,138346,1,couple_with_child,Bruxelles,1,Maternelles,Stalingrad,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+422,21004A02-,SAINT-FRANCOIS XAVIER,250256,5,0,male,child,134551,4,single_with_child,Bruxelles,1,Maternelles,Stalingrad,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+423,21004A71-,BLAES (RUE)-CENTRE,269624,4,0,male,child,146566,4,single_with_child,Bruxelles,1,Maternelles,Marolles,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+424,21004A72-,SAINT-THOMAS (INSTITUT),267580,3,0,male,child,145125,4,single_with_child,Bruxelles,1,Maternelles,Marolles,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+425,21004A72-,SAINT-THOMAS (INSTITUT),267199,3,0,male,child,144976,1,couple_with_child,Bruxelles,1,Maternelles,Marolles,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+426,21004A70-,BLAES (RUE)-SUD,252609,4,1,female,child,135848,1,couple_with_child,Bruxelles,1,Maternelles,Marolles,21004G3MJ,DOBBELENBERG (RUE DE),Bruxelles
+427,21004A16-,PALAIS JUSTICE-HOP. ST.-PIERRE,274784,5,0,male,child,149989,1,couple_with_child,Bruxelles,1,Maternelles,Marolles,21004G3MJ,DOBBELENBERG (RUE DE),Bruxelles
+428,21004A72-,SAINT-THOMAS (INSTITUT),267572,5,0,male,child,145122,1,couple_with_child,Bruxelles,1,Maternelles,Marolles,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+429,21004A70-,BLAES (RUE)-SUD,253412,4,1,female,child,136163,1,couple_with_child,Bruxelles,1,Maternelles,Marolles,21004G3MJ,DOBBELENBERG (RUE DE),Bruxelles
+430,21004A72-,SAINT-THOMAS (INSTITUT),268376,4,0,male,parent,144873,1,couple_with_child,Bruxelles,1,Maternelles,Marolles,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+431,21004A15-,JACOBS (PLACE),272372,3,1,female,parent,148407,1,couple_with_child,Bruxelles,1,Maternelles,Marolles,21004F970,MARLY-NORD,Bruxelles
+432,21004A70-,BLAES (RUE)-SUD,253806,5,1,female,child,136303,1,couple_with_child,Bruxelles,1,Maternelles,Marolles,21004G3MJ,DOBBELENBERG (RUE DE),Bruxelles
+433,21004A01-,VIEILLE HALLE AUX BLES,261817,3,1,female,child,141638,1,couple_with_child,Bruxelles,1,Maternelles,Grand Place,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+434,21004A002,BOURSE,270335,5,1,female,child,147087,1,couple_with_child,Bruxelles,1,Maternelles,Grand Place,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+435,21004A21-,ANNEESSENS (PLACE),295677,3,1,female,child,163343,1,couple_with_child,Bruxelles,1,Maternelles,Anneessens,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+436,21004A21-,ANNEESSENS (PLACE),296187,5,1,female,child,163535,1,couple_with_child,Bruxelles,1,Maternelles,Anneessens,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+437,21004A21-,ANNEESSENS (PLACE),297813,4,1,female,child,164781,4,single_with_child,Bruxelles,1,Maternelles,Anneessens,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+438,21004A21-,ANNEESSENS (PLACE),295457,3,0,male,child,163266,1,couple_with_child,Bruxelles,1,Maternelles,Anneessens,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+439,21004A13-,PETIT SABLON,299986,4,0,male,parent,165978,1,couple_with_child,Bruxelles,1,Maternelles,Sablon,21004G3MJ,DOBBELENBERG (RUE DE),Bruxelles
+440,21004A13-,PETIT SABLON,299424,5,1,female,child,165972,1,couple_with_child,Bruxelles,1,Maternelles,Sablon,21004G3MJ,DOBBELENBERG (RUE DE),Bruxelles
+441,21009A72-,DEFACQZ,562314,3,0,male,child,310532,1,couple_with_child,Ixelles,1,Maternelles,Châtelain,21004F9MJ,NEDER-HEEMBEEK-NORD,Bruxelles
+442,21013A031,AMAZONE (RUE DE),823274,5,0,male,parent,449543,4,single_with_child,Saint-Gilles,1,Maternelles,Châtelain,21004F9MJ,NEDER-HEEMBEEK-NORD,Bruxelles
+443,21009A451,CHATELAIN (PLACE DU)-EST,591185,3,0,male,child,328822,1,couple_with_child,Ixelles,1,Maternelles,Châtelain,21004F970,MARLY-NORD,Bruxelles
+444,21009A451,CHATELAIN (PLACE DU)-EST,591686,3,1,female,child,329071,1,couple_with_child,Ixelles,1,Maternelles,Châtelain,21004F970,MARLY-NORD,Bruxelles
+445,21009A451,CHATELAIN (PLACE DU)-EST,591208,6,0,male,child,328838,4,single_with_child,Ixelles,1,Maternelles,Châtelain,21004F970,MARLY-NORD,Bruxelles
+446,21004C52-,LOUISE (AVENUE)-NORD-OUEST,284213,4,0,male,child,156624,1,couple_with_child,Bruxelles,1,Maternelles,Châtelain,21004F970,MARLY-NORD,Bruxelles
+447,21004C52-,LOUISE (AVENUE)-NORD-OUEST,284165,4,0,male,child,156600,1,couple_with_child,Bruxelles,1,Maternelles,Châtelain,21004F970,MARLY-NORD,Bruxelles
+448,21009A42-,RENIER CHALON,534046,3,0,male,child,292807,1,couple_with_child,Ixelles,1,Maternelles,Brugmann - Lepoutre,21004F970,MARLY-NORD,Bruxelles
+449,21009A42-,RENIER CHALON,533356,5,0,male,child,292500,1,couple_with_child,Ixelles,1,Maternelles,Brugmann - Lepoutre,21004F970,MARLY-NORD,Bruxelles
+450,21009A40-,MELEZES,536129,3,1,female,child,294075,4,single_with_child,Ixelles,1,Maternelles,Brugmann - Lepoutre,21004F970,MARLY-NORD,Bruxelles
+451,21009A40-,MELEZES,536084,3,1,female,child,294051,1,couple_with_child,Ixelles,1,Maternelles,Brugmann - Lepoutre,21004F970,MARLY-NORD,Bruxelles
+452,21004E72-,MAISON ROUGE (PLACE)-SUD,338728,5,0,male,child,184482,4,single_with_child,Bruxelles,1,Maternelles,Vieux Laeken Est,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+453,21004E73-,EM. BOCKSTAEL (BOULEVARD)-SUD,331887,5,1,female,child,181581,1,couple_with_child,Bruxelles,1,Maternelles,Vieux Laeken Est,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+454,21004E70-,MARIE-CHRISTINE (RUE),302528,4,0,male,child,167320,1,couple_with_child,Bruxelles,1,Maternelles,Vieux Laeken Est,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+455,21004E73-,EM. BOCKSTAEL (BOULEVARD)-SUD,331614,6,0,male,child,181491,1,couple_with_child,Bruxelles,1,Maternelles,Vieux Laeken Est,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+456,21004E73-,EM. BOCKSTAEL (BOULEVARD)-SUD,332354,4,0,male,child,181736,1,couple_with_child,Bruxelles,1,Maternelles,Vieux Laeken Est,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+457,21004E72-,MAISON ROUGE (PLACE)-SUD,338546,3,1,female,child,184425,1,couple_with_child,Bruxelles,1,Maternelles,Vieux Laeken Est,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+458,21004E73-,EM. BOCKSTAEL (BOULEVARD)-SUD,333578,3,1,female,child,182140,1,couple_with_child,Bruxelles,1,Maternelles,Vieux Laeken Est,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+459,21004E101,PARVIS NOTRE DAME,358700,5,1,female,child,195025,1,couple_with_child,Bruxelles,1,Maternelles,Vieux Laeken Est,21002A190,FORET DE SOIGNES,Auderghem
+460,21004E70-,MARIE-CHRISTINE (RUE),301896,5,0,male,child,167118,1,couple_with_child,Bruxelles,1,Maternelles,Vieux Laeken Est,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+461,21004E73-,EM. BOCKSTAEL (BOULEVARD)-SUD,333294,3,0,male,child,182052,1,couple_with_child,Bruxelles,1,Maternelles,Vieux Laeken Est,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+462,21004E73-,EM. BOCKSTAEL (BOULEVARD)-SUD,332536,4,0,male,child,181799,1,couple_with_child,Bruxelles,1,Maternelles,Vieux Laeken Est,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+463,21004E70-,MARIE-CHRISTINE (RUE),303295,6,0,male,child,167580,4,single_with_child,Bruxelles,1,Maternelles,Vieux Laeken Est,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+464,21004E70-,MARIE-CHRISTINE (RUE),305827,5,0,male,parent,167465,1,couple_with_child,Bruxelles,1,Maternelles,Vieux Laeken Est,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+465,21004E72-,MAISON ROUGE (PLACE)-SUD,340965,5,1,female,parent,183867,1,couple_with_child,Bruxelles,1,Maternelles,Vieux Laeken Est,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+466,21004E72-,MAISON ROUGE (PLACE)-SUD,338831,5,1,female,child,184516,1,couple_with_child,Bruxelles,1,Maternelles,Vieux Laeken Est,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+467,21004E70-,MARIE-CHRISTINE (RUE),303124,4,0,male,child,167524,1,couple_with_child,Bruxelles,1,Maternelles,Vieux Laeken Est,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+468,21004E72-,MAISON ROUGE (PLACE)-SUD,339458,3,0,male,child,184708,1,couple_with_child,Bruxelles,1,Maternelles,Vieux Laeken Est,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+469,21004E72-,MAISON ROUGE (PLACE)-SUD,339357,3,1,female,child,184677,1,couple_with_child,Bruxelles,1,Maternelles,Vieux Laeken Est,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+470,21004E72-,MAISON ROUGE (PLACE)-SUD,339442,3,1,female,child,184704,1,couple_with_child,Bruxelles,1,Maternelles,Vieux Laeken Est,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+471,21004E101,PARVIS NOTRE DAME,359649,4,0,male,parent,194672,1,couple_with_child,Bruxelles,1,Maternelles,Vieux Laeken Est,21002A190,FORET DE SOIGNES,Auderghem
+472,21004E70-,MARIE-CHRISTINE (RUE),302696,4,1,female,child,167378,1,couple_with_child,Bruxelles,1,Maternelles,Vieux Laeken Est,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+473,21004E112,RUE DES CHRYSANTHEMES,342574,3,0,male,child,186715,1,couple_with_child,Bruxelles,1,Maternelles,Vieux Laeken Est,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+474,21004E70-,MARIE-CHRISTINE (RUE),304019,5,0,male,child,167796,4,single_with_child,Bruxelles,1,Maternelles,Vieux Laeken Est,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+475,21004E72-,MAISON ROUGE (PLACE)-SUD,340974,4,1,female,parent,184077,1,couple_with_child,Bruxelles,1,Maternelles,Vieux Laeken Est,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+476,21004E101,PARVIS NOTRE DAME,358736,5,0,male,child,195036,1,couple_with_child,Bruxelles,1,Maternelles,Vieux Laeken Est,21002A190,FORET DE SOIGNES,Auderghem
+477,21004E72-,MAISON ROUGE (PLACE)-SUD,337887,3,0,male,child,184205,1,couple_with_child,Bruxelles,1,Maternelles,Vieux Laeken Est,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+478,21004E112,RUE DES CHRYSANTHEMES,342454,3,1,female,child,186668,1,couple_with_child,Bruxelles,1,Maternelles,Vieux Laeken Est,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+479,21004E72-,MAISON ROUGE (PLACE)-SUD,338931,4,1,female,child,184545,4,single_with_child,Bruxelles,1,Maternelles,Vieux Laeken Est,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+480,21004E70-,MARIE-CHRISTINE (RUE),302960,3,0,male,child,167467,1,couple_with_child,Bruxelles,1,Maternelles,Vieux Laeken Est,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+481,21004E74-,EM. DELVA (RUE),310252,5,1,female,child,170828,4,single_with_child,Bruxelles,1,Maternelles,Vieux Laeken Ouest,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+482,21004E74-,EM. DELVA (RUE),311306,5,1,female,child,171181,1,couple_with_child,Bruxelles,1,Maternelles,Vieux Laeken Ouest,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+483,21004E74-,EM. DELVA (RUE),311081,3,0,male,child,171103,1,couple_with_child,Bruxelles,1,Maternelles,Vieux Laeken Ouest,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+484,21004E74-,EM. DELVA (RUE),311176,5,1,female,child,171138,1,couple_with_child,Bruxelles,1,Maternelles,Vieux Laeken Ouest,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+485,21004E74-,EM. DELVA (RUE),311506,3,0,male,child,171239,1,couple_with_child,Bruxelles,1,Maternelles,Vieux Laeken Ouest,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+486,21004E74-,EM. DELVA (RUE),308356,4,0,male,child,170166,1,couple_with_child,Bruxelles,1,Maternelles,Vieux Laeken Ouest,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+487,21004E74-,EM. DELVA (RUE),307955,3,0,male,child,170025,1,couple_with_child,Bruxelles,1,Maternelles,Vieux Laeken Ouest,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+488,21004E74-,EM. DELVA (RUE),309777,5,1,female,child,170655,1,couple_with_child,Bruxelles,1,Maternelles,Vieux Laeken Ouest,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+489,21004E81-,DISQUE (RUE DU),377740,3,0,male,child,205536,4,single_with_child,Bruxelles,1,Maternelles,Heysel,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+490,21004E81-,DISQUE (RUE DU),378186,5,0,male,parent,205244,1,couple_with_child,Bruxelles,1,Maternelles,Heysel,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+491,21010A13-,CITE-JARDIN,622231,4,0,male,child,344816,1,couple_with_child,Jette,1,Maternelles,Heysel,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+492,21010A13-,CITE-JARDIN,621525,3,0,male,child,344525,1,couple_with_child,Jette,1,Maternelles,Heysel,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+493,21004E82-,CITE MODELE,372255,4,1,female,child,202264,4,single_with_child,Bruxelles,1,Maternelles,Heysel,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+494,21010A13-,CITE-JARDIN,620522,3,1,female,child,344124,4,single_with_child,Jette,1,Maternelles,Heysel,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+495,21004E82-,CITE MODELE,371926,5,0,male,child,202158,4,single_with_child,Bruxelles,1,Maternelles,Heysel,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+496,21004E83-,STIENON (AVENUE),324746,4,1,female,child,178154,4,single_with_child,Bruxelles,1,Maternelles,Heysel,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+497,21004E83-,STIENON (AVENUE),323514,3,0,male,child,177412,1,couple_with_child,Bruxelles,1,Maternelles,Heysel,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+498,21010A13-,CITE-JARDIN,620591,5,1,female,child,344152,4,single_with_child,Jette,1,Maternelles,Heysel,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+499,21010A13-,CITE-JARDIN,622200,4,1,female,child,344796,1,couple_with_child,Jette,1,Maternelles,Heysel,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+500,21010A13-,CITE-JARDIN,622606,3,1,female,child,344929,1,couple_with_child,Jette,1,Maternelles,Heysel,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+501,21004E81-,DISQUE (RUE DU),377657,3,0,male,child,205507,1,couple_with_child,Bruxelles,1,Maternelles,Heysel,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+502,21004E82-,CITE MODELE,371268,5,0,male,child,201896,4,single_with_child,Bruxelles,1,Maternelles,Heysel,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+503,21004E83-,STIENON (AVENUE),325234,5,0,male,parent,176842,1,couple_with_child,Bruxelles,1,Maternelles,Heysel,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+504,21010A13-,CITE-JARDIN,621014,3,1,female,child,344315,1,couple_with_child,Jette,1,Maternelles,Heysel,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+505,21004E82-,CITE MODELE,371853,3,1,female,child,202122,1,couple_with_child,Bruxelles,1,Maternelles,Heysel,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+506,21004E81-,DISQUE (RUE DU),377466,3,1,female,child,205435,1,couple_with_child,Bruxelles,1,Maternelles,Heysel,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+507,21004E83-,STIENON (AVENUE),323787,5,1,female,child,177504,4,single_with_child,Bruxelles,1,Maternelles,Heysel,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+508,21004E81-,DISQUE (RUE DU),378122,4,1,female,parent,205526,1,couple_with_child,Bruxelles,1,Maternelles,Heysel,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+509,21004E81-,DISQUE (RUE DU),377550,4,0,male,child,205468,1,couple_with_child,Bruxelles,1,Maternelles,Heysel,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+510,21004E82-,CITE MODELE,372340,4,0,male,child,202289,1,couple_with_child,Bruxelles,1,Maternelles,Heysel,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+511,21004E82-,CITE MODELE,372509,4,1,female,child,202344,4,single_with_child,Bruxelles,1,Maternelles,Heysel,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+512,21004E83-,STIENON (AVENUE),323218,4,1,female,child,177291,1,couple_with_child,Bruxelles,1,Maternelles,Heysel,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+513,21004E82-,CITE MODELE,373368,5,1,female,parent,201925,1,couple_with_child,Bruxelles,1,Maternelles,Heysel,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+514,21010A13-,CITE-JARDIN,621001,5,1,female,child,344312,1,couple_with_child,Jette,1,Maternelles,Heysel,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+515,21004E83-,STIENON (AVENUE),323667,4,1,female,child,177464,4,single_with_child,Bruxelles,1,Maternelles,Heysel,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+516,21004E800,DIVIN JESUS,355922,5,1,female,child,193644,4,single_with_child,Bruxelles,1,Maternelles,Heysel,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+517,21004E800,DIVIN JESUS,355895,6,0,male,child,193631,1,couple_with_child,Bruxelles,1,Maternelles,Heysel,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+518,21004E82-,CITE MODELE,372257,3,0,male,child,202265,4,single_with_child,Bruxelles,1,Maternelles,Heysel,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+519,21004E81-,DISQUE (RUE DU),377347,4,1,female,child,205386,4,single_with_child,Bruxelles,1,Maternelles,Heysel,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+520,21010A13-,CITE-JARDIN,621949,4,0,male,child,344701,1,couple_with_child,Jette,1,Maternelles,Heysel,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+521,21004E130,SACRE-COEUR,328961,3,1,female,child,179672,1,couple_with_child,Bruxelles,1,Maternelles,Houba,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+522,21004E12-,PRINCE LEOPOLD (SQUARE),352354,4,0,male,child,191316,4,single_with_child,Bruxelles,1,Maternelles,Houba,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+523,21010A141,BRUGMANN,633251,4,0,male,child,350589,1,couple_with_child,Jette,1,Maternelles,Houba,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+524,21004E12-,PRINCE LEOPOLD (SQUARE),351016,5,0,male,child,190882,1,couple_with_child,Bruxelles,1,Maternelles,Houba,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+525,21010A141,BRUGMANN,632495,4,1,female,child,350297,1,couple_with_child,Jette,1,Maternelles,Houba,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+526,21010A141,BRUGMANN,634151,5,0,male,child,350904,4,single_with_child,Jette,1,Maternelles,Houba,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+527,21004E130,SACRE-COEUR,328890,5,0,male,child,179647,1,couple_with_child,Bruxelles,1,Maternelles,Houba,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+528,21004E12-,PRINCE LEOPOLD (SQUARE),353753,4,1,female,parent,191070,4,single_with_child,Bruxelles,1,Maternelles,Houba,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+529,21004E12-,PRINCE LEOPOLD (SQUARE),352305,4,1,female,child,191300,1,couple_with_child,Bruxelles,1,Maternelles,Houba,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+530,21004E12-,PRINCE LEOPOLD (SQUARE),352201,5,1,female,child,191270,1,couple_with_child,Bruxelles,1,Maternelles,Houba,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+531,21004E12-,PRINCE LEOPOLD (SQUARE),351800,4,0,male,child,191145,1,couple_with_child,Bruxelles,1,Maternelles,Houba,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+532,21004E130,SACRE-COEUR,327175,4,0,male,child,179131,1,couple_with_child,Bruxelles,1,Maternelles,Houba,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+533,21004E12-,PRINCE LEOPOLD (SQUARE),352327,6,1,female,child,191305,1,couple_with_child,Bruxelles,1,Maternelles,Houba,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+534,21004E12-,PRINCE LEOPOLD (SQUARE),351716,5,1,female,child,191119,1,couple_with_child,Bruxelles,1,Maternelles,Houba,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+535,21004E12-,PRINCE LEOPOLD (SQUARE),354015,3,0,male,parent,190246,1,couple_with_child,Bruxelles,1,Maternelles,Houba,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+536,21004E12-,PRINCE LEOPOLD (SQUARE),351888,5,0,male,child,191173,1,couple_with_child,Bruxelles,1,Maternelles,Houba,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+537,21004E12-,PRINCE LEOPOLD (SQUARE),353992,5,0,male,parent,191405,4,single_with_child,Bruxelles,1,Maternelles,Houba,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+538,21004E14-,ECOLE DES CADETS,365163,3,1,female,child,198629,1,couple_with_child,Bruxelles,1,Maternelles,Houba,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+539,21004E14-,ECOLE DES CADETS,365172,4,0,male,child,198631,1,couple_with_child,Bruxelles,1,Maternelles,Houba,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+540,21004E12-,PRINCE LEOPOLD (SQUARE),351627,5,1,female,child,191087,1,couple_with_child,Bruxelles,1,Maternelles,Houba,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+541,21010A141,BRUGMANN,633595,5,1,female,child,350728,1,couple_with_child,Jette,1,Maternelles,Houba,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+542,21010A141,BRUGMANN,634081,3,1,female,child,350884,4,single_with_child,Jette,1,Maternelles,Houba,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+543,21004E130,SACRE-COEUR,327644,4,0,male,child,179270,1,couple_with_child,Bruxelles,1,Maternelles,Houba,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+544,21004E12-,PRINCE LEOPOLD (SQUARE),351316,4,0,male,child,190984,1,couple_with_child,Bruxelles,1,Maternelles,Houba,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+545,21004E130,SACRE-COEUR,328750,5,0,male,child,179606,4,single_with_child,Bruxelles,1,Maternelles,Houba,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+546,21004E130,SACRE-COEUR,328609,3,1,female,child,179558,1,couple_with_child,Bruxelles,1,Maternelles,Houba,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+547,21004E12-,PRINCE LEOPOLD (SQUARE),351736,4,1,female,child,191129,4,single_with_child,Bruxelles,1,Maternelles,Houba,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+548,21004E12-,PRINCE LEOPOLD (SQUARE),352468,4,0,male,child,191351,1,couple_with_child,Bruxelles,1,Maternelles,Houba,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+549,21004E14-,ECOLE DES CADETS,365682,3,0,male,child,198786,1,couple_with_child,Bruxelles,1,Maternelles,Houba,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+550,21004D62-,ANVERS (CHAUSSEE D')-NORD,345052,5,1,female,child,187763,1,couple_with_child,Bruxelles,1,Maternelles,Quartier Nord,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+551,21014A3MJ,MANHATTAN,857589,3,1,female,parent,468785,1,couple_with_child,Saint-Josse-ten-Noode,1,Maternelles,Quartier Nord,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+552,21004D62-,ANVERS (CHAUSSEE D')-NORD,345118,5,0,male,child,187783,1,couple_with_child,Bruxelles,1,Maternelles,Quartier Nord,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+553,21004D610,ANVERS (CHAUSSEE D')-SUD,382607,5,0,male,parent,207116,1,couple_with_child,Bruxelles,1,Maternelles,Quartier Nord,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+554,21004D672,QUAI DE WILLEBROECK,363280,3,0,male,child,197759,1,couple_with_child,Bruxelles,1,Maternelles,Quartier Nord,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+555,21004D610,ANVERS (CHAUSSEE D')-SUD,382613,5,0,male,parent,207520,1,couple_with_child,Bruxelles,1,Maternelles,Quartier Nord,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+556,21015A44-,REINE (AVENUE),958193,3,0,male,child,520569,1,couple_with_child,Schaerbeek,1,Maternelles,Quartier Nord,21016A521,VERREWINKEL,Uccle
+557,21004D610,ANVERS (CHAUSSEE D')-SUD,381465,5,1,female,child,207495,1,couple_with_child,Bruxelles,1,Maternelles,Quartier Nord,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+558,21015A43-,GARE DU NORD,955155,5,0,male,child,519240,1,couple_with_child,Schaerbeek,1,Maternelles,Quartier Nord,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+559,21004D672,QUAI DE WILLEBROECK,363277,3,0,male,child,197758,4,single_with_child,Bruxelles,1,Maternelles,Quartier Nord,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+560,21015A44-,REINE (AVENUE),958430,5,1,female,child,520639,1,couple_with_child,Schaerbeek,1,Maternelles,Quartier Nord,21016A521,VERREWINKEL,Uccle
+561,21004D610,ANVERS (CHAUSSEE D')-SUD,381021,3,1,female,child,207344,1,couple_with_child,Bruxelles,1,Maternelles,Quartier Nord,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+562,21004D62-,ANVERS (CHAUSSEE D')-NORD,344781,5,1,female,child,187669,1,couple_with_child,Bruxelles,1,Maternelles,Quartier Nord,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+563,21012A62-,LIBERATEURS,714913,4,0,male,child,391337,1,couple_with_child,Molenbeek Saint-Jean,1,Maternelles,Quartier Maritime,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+564,21012A60-,LAEKENVELD,705901,5,1,female,child,387258,4,single_with_child,Molenbeek Saint-Jean,1,Maternelles,Quartier Maritime,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+565,21012A62-,LIBERATEURS,712932,4,1,female,child,390643,1,couple_with_child,Molenbeek Saint-Jean,1,Maternelles,Quartier Maritime,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+566,21012A63-,DUBRUCQ-NORD,710388,4,1,female,child,389496,1,couple_with_child,Molenbeek Saint-Jean,1,Maternelles,Quartier Maritime,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+567,21012A611,MEXICO,727168,4,0,male,parent,397110,1,couple_with_child,Molenbeek Saint-Jean,1,Maternelles,Quartier Maritime,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+568,21012A62-,LIBERATEURS,716823,5,1,female,parent,390430,4,single_with_child,Molenbeek Saint-Jean,1,Maternelles,Quartier Maritime,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+569,21004D6NJ,TOUR ET TAXIS,354258,3,1,female,child,192622,1,couple_with_child,Bruxelles,1,Maternelles,Quartier Maritime,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+570,21012A62-,LIBERATEURS,714905,4,1,female,child,391335,1,couple_with_child,Molenbeek Saint-Jean,1,Maternelles,Quartier Maritime,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+571,21012A60-,LAEKENVELD,705605,5,1,female,child,387160,1,couple_with_child,Molenbeek Saint-Jean,1,Maternelles,Quartier Maritime,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+572,21012A62-,LIBERATEURS,712978,4,1,female,child,390662,4,single_with_child,Molenbeek Saint-Jean,1,Maternelles,Quartier Maritime,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+573,21012A672,ULENS,702428,3,0,male,child,385644,1,couple_with_child,Molenbeek Saint-Jean,1,Maternelles,Quartier Maritime,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+574,21012A611,MEXICO,726784,4,0,male,child,397593,4,single_with_child,Molenbeek Saint-Jean,1,Maternelles,Quartier Maritime,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+575,21012A60-,LAEKENVELD,707329,4,1,female,child,387710,1,couple_with_child,Molenbeek Saint-Jean,1,Maternelles,Quartier Maritime,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+576,21012A62-,LIBERATEURS,714254,4,1,female,child,391112,1,couple_with_child,Molenbeek Saint-Jean,1,Maternelles,Quartier Maritime,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+577,21012A60-,LAEKENVELD,706868,5,0,male,child,387570,4,single_with_child,Molenbeek Saint-Jean,1,Maternelles,Quartier Maritime,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+578,21012A62-,LIBERATEURS,715103,5,0,male,child,391407,1,couple_with_child,Molenbeek Saint-Jean,1,Maternelles,Quartier Maritime,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+579,21012A60-,LAEKENVELD,704818,5,1,female,child,386902,1,couple_with_child,Molenbeek Saint-Jean,1,Maternelles,Quartier Maritime,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+580,21012A62-,LIBERATEURS,713403,5,1,female,child,390812,1,couple_with_child,Molenbeek Saint-Jean,1,Maternelles,Quartier Maritime,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+581,21012A62-,LIBERATEURS,712933,3,1,female,child,390643,1,couple_with_child,Molenbeek Saint-Jean,1,Maternelles,Quartier Maritime,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+582,21012A672,ULENS,703021,4,0,male,child,385835,4,single_with_child,Molenbeek Saint-Jean,1,Maternelles,Quartier Maritime,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+583,21005A311,CASERNE (Etterbeek),407356,5,0,male,child,222479,1,couple_with_child,Etterbeek,1,Maternelles,Chasse,21004E800,DIVIN JESUS,Bruxelles
+584,21005A12-,SAINT-ANTOINE,430944,3,1,female,child,235837,1,couple_with_child,Etterbeek,1,Maternelles,Chasse,21004E800,DIVIN JESUS,Bruxelles
+585,21005A10-,GENERAL HENRI (RUE),384511,3,1,female,child,209265,1,couple_with_child,Etterbeek,1,Maternelles,Chasse,21001C6PB,ZONE RURALE,Anderlecht
+586,21005A12-,SAINT-ANTOINE,430400,3,0,male,child,235582,1,couple_with_child,Etterbeek,1,Maternelles,Chasse,21004E800,DIVIN JESUS,Bruxelles
+587,21005A042,PH. BAUCQ (RUE),389480,3,1,female,child,211798,1,couple_with_child,Etterbeek,1,Maternelles,Chasse,21004E800,DIVIN JESUS,Bruxelles
+588,21005A11-,NOTRE-DAME DU SACRE-COEUR,420059,5,0,male,child,229847,1,couple_with_child,Etterbeek,1,Maternelles,Saint-Pierre,21001C6PB,ZONE RURALE,Anderlecht
+589,21005A11-,NOTRE-DAME DU SACRE-COEUR,421129,4,0,male,child,230342,1,couple_with_child,Etterbeek,1,Maternelles,Saint-Pierre,21001C6PB,ZONE RURALE,Anderlecht
+590,21005A11-,NOTRE-DAME DU SACRE-COEUR,419923,3,0,male,child,229789,4,single_with_child,Etterbeek,1,Maternelles,Saint-Pierre,21001C6PB,ZONE RURALE,Anderlecht
+591,21005A11-,NOTRE-DAME DU SACRE-COEUR,420826,5,1,female,child,230202,1,couple_with_child,Etterbeek,1,Maternelles,Saint-Pierre,21001C6PB,ZONE RURALE,Anderlecht
+592,21005A11-,NOTRE-DAME DU SACRE-COEUR,420793,3,1,female,child,230195,4,single_with_child,Etterbeek,1,Maternelles,Saint-Pierre,21001C6PB,ZONE RURALE,Anderlecht
+593,21005A11-,NOTRE-DAME DU SACRE-COEUR,420791,5,1,female,child,230194,4,single_with_child,Etterbeek,1,Maternelles,Saint-Pierre,21001C6PB,ZONE RURALE,Anderlecht
+594,21005A01-,SAINTE-GERTRUDE,404152,4,1,female,child,220449,1,couple_with_child,Etterbeek,1,Maternelles,Saint-Pierre,21001C522,HOPITAL U.L.B.,Anderlecht
+595,21005A051,RINSDELLE,417133,3,0,male,child,227952,1,couple_with_child,Etterbeek,1,Maternelles,Saint-Pierre,21001C522,HOPITAL U.L.B.,Anderlecht
+596,21009A52-,GRAY (RUE),554863,3,1,female,child,305472,4,single_with_child,Ixelles,1,Maternelles,Jourdan,21004F9MJ,NEDER-HEEMBEEK-NORD,Bruxelles
+597,21005A00-,HOTEL COMMUNAL,424844,3,1,female,child,232402,1,couple_with_child,Etterbeek,1,Maternelles,Jourdan,21001C522,HOPITAL U.L.B.,Anderlecht
+598,21005A00-,HOTEL COMMUNAL,425035,4,0,male,child,232487,1,couple_with_child,Etterbeek,1,Maternelles,Jourdan,21001C522,HOPITAL U.L.B.,Anderlecht
+599,21009A52-,GRAY (RUE),556261,3,0,male,child,306055,1,couple_with_child,Ixelles,1,Maternelles,Jourdan,21004F9MJ,NEDER-HEEMBEEK-NORD,Bruxelles
+600,21009A52-,GRAY (RUE),556131,5,1,female,child,306001,4,single_with_child,Ixelles,1,Maternelles,Jourdan,21004F9MJ,NEDER-HEEMBEEK-NORD,Bruxelles
+601,21006A414,P. DUPONT (RUE),465105,5,1,female,child,254987,1,couple_with_child,Evere,1,Maternelles,Avenue Léopold III,21001C522,HOPITAL U.L.B.,Anderlecht
+602,21006A22-,SAINT-EXUPERY,471158,4,0,male,child,258352,4,single_with_child,Evere,1,Maternelles,Avenue Léopold III,21001C522,HOPITAL U.L.B.,Anderlecht
+603,21006A323,GERMINAL II,480933,3,0,male,child,263185,1,couple_with_child,Evere,1,Maternelles,Avenue Léopold III,21016A533,MOENSBERG,Uccle
+604,21006A414,P. DUPONT (RUE),465929,5,1,female,child,255314,1,couple_with_child,Evere,1,Maternelles,Avenue Léopold III,21001C522,HOPITAL U.L.B.,Anderlecht
+605,21006A414,P. DUPONT (RUE),465812,5,1,female,child,255269,1,couple_with_child,Evere,1,Maternelles,Avenue Léopold III,21001C522,HOPITAL U.L.B.,Anderlecht
+606,21006A312,J. BORDET (AVENUE DE),455592,5,1,female,child,250102,1,couple_with_child,Evere,1,Maternelles,Avenue Léopold III,21016A533,MOENSBERG,Uccle
+607,21006A414,P. DUPONT (RUE),466188,4,1,female,child,255418,4,single_with_child,Evere,1,Maternelles,Avenue Léopold III,21001C522,HOPITAL U.L.B.,Anderlecht
+608,21006A323,GERMINAL II,480564,4,1,female,child,263034,4,single_with_child,Evere,1,Maternelles,Avenue Léopold III,21016A533,MOENSBERG,Uccle
+609,21006A101,CONSCIENCE,459478,3,0,male,child,251828,1,couple_with_child,Evere,1,Maternelles,Conscience,21016A533,MOENSBERG,Uccle
+610,21006A101,CONSCIENCE,458314,4,1,female,child,251416,1,couple_with_child,Evere,1,Maternelles,Conscience,21016A533,MOENSBERG,Uccle
+611,21006A13-,MAISON COMMUNALE,440241,3,1,female,child,241677,1,couple_with_child,Evere,1,Maternelles,Conscience,21016A533,MOENSBERG,Uccle
+612,21006A101,CONSCIENCE,459375,3,1,female,child,251796,1,couple_with_child,Evere,1,Maternelles,Conscience,21016A533,MOENSBERG,Uccle
+613,21006A142,ED. DEKNOOP (RUE),475756,5,1,female,child,260598,1,couple_with_child,Evere,1,Maternelles,Conscience,21016A533,MOENSBERG,Uccle
+614,21006A153,KEET,438802,4,0,male,child,240897,1,couple_with_child,Evere,1,Maternelles,Conscience,21016A533,MOENSBERG,Uccle
+615,21006A13-,MAISON COMMUNALE,440181,3,0,male,child,241658,4,single_with_child,Evere,1,Maternelles,Conscience,21016A533,MOENSBERG,Uccle
+616,21006A101,CONSCIENCE,458647,3,0,male,child,251541,1,couple_with_child,Evere,1,Maternelles,Conscience,21016A533,MOENSBERG,Uccle
+617,21006A13-,MAISON COMMUNALE,440862,5,0,male,parent,241435,1,couple_with_child,Evere,1,Maternelles,Conscience,21016A533,MOENSBERG,Uccle
+618,21006A101,CONSCIENCE,458417,4,1,female,child,251452,1,couple_with_child,Evere,1,Maternelles,Conscience,21016A533,MOENSBERG,Uccle
+619,21006A101,CONSCIENCE,459529,3,0,male,child,251844,1,couple_with_child,Evere,1,Maternelles,Conscience,21016A533,MOENSBERG,Uccle
+620,21006A515,CARLI,443816,3,0,male,child,243704,1,couple_with_child,Evere,1,Maternelles,Paix,21016A521,VERREWINKEL,Uccle
+621,21006A515,CARLI,443689,4,1,female,child,243666,1,couple_with_child,Evere,1,Maternelles,Paix,21016A521,VERREWINKEL,Uccle
+622,21006A052,CHAMP DE REPOS,479184,3,1,female,child,262198,1,couple_with_child,Evere,1,Maternelles,Paix,21016A533,MOENSBERG,Uccle
+623,21006A011,CENTRE,472715,3,1,female,child,259234,4,single_with_child,Evere,1,Maternelles,Paix,21001C5PA,MEERVELD,Anderlecht
+624,21006A011,CENTRE,473064,5,1,female,child,259359,4,single_with_child,Evere,1,Maternelles,Paix,21001C5PA,MEERVELD,Anderlecht
+625,21006A001,VIEIL EVERE,462082,5,0,male,child,253368,1,couple_with_child,Evere,1,Maternelles,Paix,21001C5PA,MEERVELD,Anderlecht
+626,21006A001,VIEIL EVERE,464005,5,0,male,parent,253631,1,couple_with_child,Evere,1,Maternelles,Paix,21001C5PA,MEERVELD,Anderlecht
+627,21006A052,CHAMP DE REPOS,478823,4,1,female,child,262065,1,couple_with_child,Evere,1,Maternelles,Paix,21016A533,MOENSBERG,Uccle
+628,21006A515,CARLI,443637,3,0,male,child,243651,1,couple_with_child,Evere,1,Maternelles,Paix,21016A521,VERREWINKEL,Uccle
+629,21006A515,CARLI,443581,4,0,male,child,243634,1,couple_with_child,Evere,1,Maternelles,Paix,21016A521,VERREWINKEL,Uccle
+630,21006A052,CHAMP DE REPOS,479610,4,0,male,child,262341,1,couple_with_child,Evere,1,Maternelles,Paix,21016A533,MOENSBERG,Uccle
+631,21006A052,CHAMP DE REPOS,479609,4,0,male,child,262341,1,couple_with_child,Evere,1,Maternelles,Paix,21016A533,MOENSBERG,Uccle
+632,21006A042,KERKHOEK,477284,5,0,male,child,261313,1,couple_with_child,Evere,1,Maternelles,Paix,21001C5PA,MEERVELD,Anderlecht
+633,21006A052,CHAMP DE REPOS,479613,4,1,female,child,262342,1,couple_with_child,Evere,1,Maternelles,Paix,21016A533,MOENSBERG,Uccle
+634,21006A052,CHAMP DE REPOS,479688,4,0,male,child,262366,1,couple_with_child,Evere,1,Maternelles,Paix,21016A533,MOENSBERG,Uccle
+635,21006A052,CHAMP DE REPOS,479386,3,1,female,child,262271,1,couple_with_child,Evere,1,Maternelles,Paix,21016A533,MOENSBERG,Uccle
+636,21006A403,QUARTIER CICERO,446284,5,0,male,child,244972,1,couple_with_child,Evere,1,Maternelles,Paduwa,21001C522,HOPITAL U.L.B.,Anderlecht
+637,21006A25-,GIBET,469055,5,1,female,child,257180,4,single_with_child,Evere,1,Maternelles,Paduwa,21001C522,HOPITAL U.L.B.,Anderlecht
+638,21006A25-,GIBET,468745,3,1,female,child,257047,4,single_with_child,Evere,1,Maternelles,Paduwa,21001C522,HOPITAL U.L.B.,Anderlecht
+639,21006A23-,DU BONHEUR,453822,4,1,female,child,249000,1,couple_with_child,Evere,1,Maternelles,Paduwa,21001C522,HOPITAL U.L.B.,Anderlecht
+640,21006A474,COMMUNAUTES,447623,3,1,female,child,245707,1,couple_with_child,Evere,1,Maternelles,Paduwa,21001C522,HOPITAL U.L.B.,Anderlecht
+641,21006A201,HAUT-EVERE,449950,4,0,male,child,246848,1,couple_with_child,Evere,1,Maternelles,Paduwa,21001C522,HOPITAL U.L.B.,Anderlecht
+642,21006A403,QUARTIER CICERO,446278,5,1,female,child,244971,1,couple_with_child,Evere,1,Maternelles,Paduwa,21001C522,HOPITAL U.L.B.,Anderlecht
+643,21006A403,QUARTIER CICERO,445680,5,1,female,child,244743,1,couple_with_child,Evere,1,Maternelles,Paduwa,21001C522,HOPITAL U.L.B.,Anderlecht
+644,21006A23-,DU BONHEUR,453275,5,0,male,child,248782,1,couple_with_child,Evere,1,Maternelles,Paduwa,21001C522,HOPITAL U.L.B.,Anderlecht
+645,21006A403,QUARTIER CICERO,445508,4,1,female,child,244672,1,couple_with_child,Evere,1,Maternelles,Paduwa,21001C522,HOPITAL U.L.B.,Anderlecht
+646,21006A25-,GIBET,468648,4,1,female,child,257000,1,couple_with_child,Evere,1,Maternelles,Paduwa,21001C522,HOPITAL U.L.B.,Anderlecht
+647,21006A23-,DU BONHEUR,454114,3,0,male,child,249114,1,couple_with_child,Evere,1,Maternelles,Paduwa,21001C522,HOPITAL U.L.B.,Anderlecht
+648,21007A00-,CENTRE SAINT-DENIS,508105,4,1,female,child,277577,1,couple_with_child,Forest,1,Maternelles,Saint-Denis - Neerstalle,21004F970,MARLY-NORD,Bruxelles
+649,21007A00-,CENTRE SAINT-DENIS,507710,5,1,female,child,277452,4,single_with_child,Forest,1,Maternelles,Saint-Denis - Neerstalle,21004F970,MARLY-NORD,Bruxelles
+650,21007A03-,FOYER FORESTOIS - FAMILLE,482138,3,0,male,child,263827,1,couple_with_child,Forest,1,Maternelles,Saint-Denis - Neerstalle,21004F970,MARLY-NORD,Bruxelles
+651,21007A00-,CENTRE SAINT-DENIS,507718,5,1,female,child,277455,1,couple_with_child,Forest,1,Maternelles,Saint-Denis - Neerstalle,21004F970,MARLY-NORD,Bruxelles
+652,21007A00-,CENTRE SAINT-DENIS,507361,4,0,male,child,277315,1,couple_with_child,Forest,1,Maternelles,Saint-Denis - Neerstalle,21004F970,MARLY-NORD,Bruxelles
+653,21007A00-,CENTRE SAINT-DENIS,506846,5,1,female,child,277123,1,couple_with_child,Forest,1,Maternelles,Saint-Denis - Neerstalle,21004F970,MARLY-NORD,Bruxelles
+654,21007A201,ROOSENDAEL (RUE),484873,4,1,female,child,265284,1,couple_with_child,Forest,1,Maternelles,Vossegat - Roosendaal,21004F970,MARLY-NORD,Bruxelles
+655,21007A239,NEPTUNE (AVENUE) I,520500,4,0,male,child,284294,1,couple_with_child,Forest,1,Maternelles,Altitude 100,21004F970,MARLY-NORD,Bruxelles
+656,21007A75-,TOURNOI (RUE DU),487699,4,1,female,child,267061,4,single_with_child,Forest,1,Maternelles,Altitude 100,21004F970,MARLY-NORD,Bruxelles
+657,21007A75-,TOURNOI (RUE DU),487708,3,0,male,child,267063,1,couple_with_child,Forest,1,Maternelles,Altitude 100,21004F970,MARLY-NORD,Bruxelles
+658,21013A23-,ROI (AVENUE DU),799397,3,1,female,child,435964,1,couple_with_child,Saint-Gilles,1,Maternelles,Bas Forest,21004F970,MARLY-NORD,Bruxelles
+659,21013A23-,ROI (AVENUE DU),799634,4,1,female,child,436038,1,couple_with_child,Saint-Gilles,1,Maternelles,Bas Forest,21004F970,MARLY-NORD,Bruxelles
+660,21007A61-,MONTENEGRO (RUE),502321,5,1,female,child,274456,1,couple_with_child,Forest,1,Maternelles,Bas Forest,21004F970,MARLY-NORD,Bruxelles
+661,21007A61-,MONTENEGRO (RUE),502682,4,1,female,child,274573,1,couple_with_child,Forest,1,Maternelles,Bas Forest,21004F970,MARLY-NORD,Bruxelles
+662,21013A23-,ROI (AVENUE DU),799662,3,0,male,child,436047,4,single_with_child,Saint-Gilles,1,Maternelles,Bas Forest,21004F970,MARLY-NORD,Bruxelles
+663,21007A53-,WIELEMANS CEUPPENS,492530,3,1,female,child,269548,1,couple_with_child,Forest,1,Maternelles,Van Volxem - Van Haelen,21004F970,MARLY-NORD,Bruxelles
+664,21007A101,BOURGOGNE,511222,4,0,male,child,279324,4,single_with_child,Forest,1,Maternelles,Van Volxem - Van Haelen,21004F970,MARLY-NORD,Bruxelles
+665,21007A50-,BERANGER,494718,3,0,male,child,270792,4,single_with_child,Forest,1,Maternelles,Van Volxem - Van Haelen,21004F970,MARLY-NORD,Bruxelles
+666,21007A50-,BERANGER,495542,4,0,male,child,271096,4,single_with_child,Forest,1,Maternelles,Van Volxem - Van Haelen,21004F970,MARLY-NORD,Bruxelles
+667,21007A51-,CHATAIGNE,497657,5,1,female,child,272223,4,single_with_child,Forest,1,Maternelles,Van Volxem - Van Haelen,21004F970,MARLY-NORD,Bruxelles
+668,21007A53-,WIELEMANS CEUPPENS,492772,4,0,male,child,269629,1,couple_with_child,Forest,1,Maternelles,Van Volxem - Van Haelen,21004F970,MARLY-NORD,Bruxelles
+669,21009A101,FLAGEY (PLACE),522080,5,1,female,child,285267,1,couple_with_child,Ixelles,1,Maternelles,Flagey - Malibran,21004F970,MARLY-NORD,Bruxelles
+670,21009A63-,MACAU,530115,3,0,male,child,290320,1,couple_with_child,Ixelles,1,Maternelles,Hôpital Etterbeek-Ixelles,21004F970,MARLY-NORD,Bruxelles
+671,21009A151,A. DELPORTE-NORD,586707,4,0,male,child,326073,1,couple_with_child,Ixelles,1,Maternelles,Hôpital Etterbeek-Ixelles,21004E800,DIVIN JESUS,Bruxelles
+672,21009A151,A. DELPORTE-NORD,586581,3,1,female,child,326017,1,couple_with_child,Ixelles,1,Maternelles,Hôpital Etterbeek-Ixelles,21004E800,DIVIN JESUS,Bruxelles
+673,21009A22-,UNIVERSITE,575826,4,0,male,child,318960,4,single_with_child,Ixelles,1,Maternelles,Université,21004E800,DIVIN JESUS,Bruxelles
+674,21009A53-,LONDRES (PLACE DE),580634,4,1,female,child,321880,1,couple_with_child,Ixelles,1,Maternelles,Matonge,21004F9MJ,NEDER-HEEMBEEK-NORD,Bruxelles
+675,21009A53-,LONDRES (PLACE DE),579438,4,1,female,child,321284,1,couple_with_child,Ixelles,1,Maternelles,Matonge,21004F9MJ,NEDER-HEEMBEEK-NORD,Bruxelles
+676,21009A53-,LONDRES (PLACE DE),580646,5,1,female,child,321883,1,couple_with_child,Ixelles,1,Maternelles,Matonge,21004F9MJ,NEDER-HEEMBEEK-NORD,Bruxelles
+677,21010A05-,ALBERT (QUARTIER),615876,3,1,female,child,341493,1,couple_with_child,Jette,1,Maternelles,Woeste,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+678,21010A02-,LEOPOLD I,647064,4,0,male,child,357364,1,couple_with_child,Jette,1,Maternelles,Woeste,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+679,21010A05-,ALBERT (QUARTIER),615576,4,0,male,child,341383,1,couple_with_child,Jette,1,Maternelles,Woeste,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+680,21010A04-,NOTRE-DAME DE LOURDES,598132,3,0,male,parent,331495,1,couple_with_child,Jette,1,Maternelles,Woeste,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+681,21010A02-,LEOPOLD I,647664,3,0,male,child,357571,4,single_with_child,Jette,1,Maternelles,Woeste,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+682,21010A02-,LEOPOLD I,647826,5,0,male,child,357619,1,couple_with_child,Jette,1,Maternelles,Woeste,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+683,21010A05-,ALBERT (QUARTIER),615769,4,0,male,child,341455,1,couple_with_child,Jette,1,Maternelles,Woeste,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+684,21010A01-,ESSEGHEM,638356,3,1,female,child,353036,1,couple_with_child,Jette,1,Maternelles,Woeste,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+685,21010A05-,ALBERT (QUARTIER),616902,5,0,male,child,341853,1,couple_with_child,Jette,1,Maternelles,Woeste,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+686,21010A03-,MIROIR,599811,4,1,female,child,333304,1,couple_with_child,Jette,1,Maternelles,Jette Centre,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+687,21010A00-,CENTRE,626548,4,1,female,child,347160,1,couple_with_child,Jette,1,Maternelles,Jette Centre,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+688,21010A03-,MIROIR,600243,5,1,female,child,333431,1,couple_with_child,Jette,1,Maternelles,Jette Centre,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+689,21010A00-,CENTRE,625760,4,0,male,child,346853,1,couple_with_child,Jette,1,Maternelles,Jette Centre,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+690,21010A00-,CENTRE,628633,3,0,male,child,347942,4,single_with_child,Jette,1,Maternelles,Jette Centre,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+691,21010A03-,MIROIR,600028,3,1,female,child,333363,1,couple_with_child,Jette,1,Maternelles,Jette Centre,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+692,21010A03-,MIROIR,599947,5,0,male,child,333340,1,couple_with_child,Jette,1,Maternelles,Jette Centre,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+693,21010A00-,CENTRE,628888,3,1,female,child,348020,4,single_with_child,Jette,1,Maternelles,Jette Centre,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+694,21010A00-,CENTRE,628004,5,1,female,child,347740,4,single_with_child,Jette,1,Maternelles,Jette Centre,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+695,21010A03-,MIROIR,599423,5,0,male,child,333196,1,couple_with_child,Jette,1,Maternelles,Jette Centre,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+696,21010A10-,ANCIENNE BARRIERE,602715,3,0,male,child,334976,4,single_with_child,Jette,1,Maternelles,Heymbosch - AZ-Jette,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+697,21010A1AJ,ARBRE BALLON,612238,3,1,female,child,339754,1,couple_with_child,Jette,1,Maternelles,Heymbosch - AZ-Jette,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+698,21010A111,HEYMBOSCH,607963,5,0,male,child,337583,1,couple_with_child,Jette,1,Maternelles,Heymbosch - AZ-Jette,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+699,21010A10-,ANCIENNE BARRIERE,603387,3,1,female,child,335229,1,couple_with_child,Jette,1,Maternelles,Heymbosch - AZ-Jette,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+700,21010A10-,ANCIENNE BARRIERE,603452,3,1,female,child,335249,1,couple_with_child,Jette,1,Maternelles,Heymbosch - AZ-Jette,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+701,21010A10-,ANCIENNE BARRIERE,603436,3,0,male,child,335245,4,single_with_child,Jette,1,Maternelles,Heymbosch - AZ-Jette,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+702,21010A1AJ,ARBRE BALLON,611618,5,0,male,child,339549,4,single_with_child,Jette,1,Maternelles,Heymbosch - AZ-Jette,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+703,21010A1AJ,ARBRE BALLON,611564,4,1,female,child,339530,1,couple_with_child,Jette,1,Maternelles,Heymbosch - AZ-Jette,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+704,21010A111,HEYMBOSCH,607956,4,1,female,child,337581,1,couple_with_child,Jette,1,Maternelles,Heymbosch - AZ-Jette,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+705,21010A111,HEYMBOSCH,607754,5,1,female,child,337516,1,couple_with_child,Jette,1,Maternelles,Heymbosch - AZ-Jette,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+706,21010A10-,ANCIENNE BARRIERE,603133,5,1,female,child,335141,4,single_with_child,Jette,1,Maternelles,Heymbosch - AZ-Jette,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+707,21010A10-,ANCIENNE BARRIERE,603378,5,1,female,child,335227,1,couple_with_child,Jette,1,Maternelles,Heymbosch - AZ-Jette,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+708,21011A20-,PLATEAU,656749,4,1,female,child,361968,1,couple_with_child,Koekelberg,1,Maternelles,Basilique,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+709,21011A20-,PLATEAU,655880,3,1,female,child,361702,1,couple_with_child,Koekelberg,1,Maternelles,Basilique,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+710,21010A21-,MADELEINE,641575,3,1,female,child,354806,1,couple_with_child,Jette,1,Maternelles,Basilique,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+711,21010A21-,MADELEINE,643410,4,1,female,child,355473,1,couple_with_child,Jette,1,Maternelles,Basilique,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+712,21010A21-,MADELEINE,643406,4,1,female,child,355472,1,couple_with_child,Jette,1,Maternelles,Basilique,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+713,21010A21-,MADELEINE,641745,5,1,female,child,354872,1,couple_with_child,Jette,1,Maternelles,Basilique,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+714,21011A20-,PLATEAU,656391,4,0,male,child,361855,1,couple_with_child,Koekelberg,1,Maternelles,Basilique,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+715,21011A30-,ARCHERS - FOUREZ,653254,3,0,male,child,360449,4,single_with_child,Koekelberg,1,Maternelles,Basilique,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+716,21010A21-,MADELEINE,641376,3,0,male,child,354734,1,couple_with_child,Jette,1,Maternelles,Basilique,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+717,21011A30-,ARCHERS - FOUREZ,652676,4,0,male,child,360254,1,couple_with_child,Koekelberg,1,Maternelles,Basilique,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+718,21011A20-,PLATEAU,656158,4,1,female,child,361781,1,couple_with_child,Koekelberg,1,Maternelles,Basilique,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+719,21011A20-,PLATEAU,655695,5,1,female,child,361650,1,couple_with_child,Koekelberg,1,Maternelles,Basilique,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+720,21011A30-,ARCHERS - FOUREZ,653302,4,1,female,child,360463,1,couple_with_child,Koekelberg,1,Maternelles,Basilique,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+721,21011A01-,SAINTE-ANNE,665384,5,1,female,parent,365170,1,couple_with_child,Koekelberg,1,Maternelles,Koekelberg,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+722,21011A00-,VANHUFFEL,669016,4,0,male,child,368170,1,couple_with_child,Koekelberg,1,Maternelles,Koekelberg,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+723,21011A00-,VANHUFFEL,669159,3,1,female,child,368215,1,couple_with_child,Koekelberg,1,Maternelles,Koekelberg,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+724,21011A01-,SAINTE-ANNE,663050,4,1,female,child,365330,4,single_with_child,Koekelberg,1,Maternelles,Koekelberg,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+725,21011A01-,SAINTE-ANNE,663532,4,0,male,child,365502,1,couple_with_child,Koekelberg,1,Maternelles,Koekelberg,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+726,21011A01-,SAINTE-ANNE,663241,4,0,male,child,365395,1,couple_with_child,Koekelberg,1,Maternelles,Koekelberg,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+727,21011A00-,VANHUFFEL,669318,4,0,male,child,368265,1,couple_with_child,Koekelberg,1,Maternelles,Koekelberg,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+728,21011A01-,SAINTE-ANNE,664234,5,1,female,child,365719,1,couple_with_child,Koekelberg,1,Maternelles,Koekelberg,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+729,21011A02-,JACQUET (RUE DE),667009,5,0,male,child,367234,4,single_with_child,Koekelberg,1,Maternelles,Koekelberg,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+730,21011A02-,JACQUET (RUE DE),667851,4,0,male,parent,367163,1,couple_with_child,Koekelberg,1,Maternelles,Koekelberg,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+731,21011A00-,VANHUFFEL,669400,5,1,female,child,368292,4,single_with_child,Koekelberg,1,Maternelles,Koekelberg,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+732,21011A00-,VANHUFFEL,669122,5,1,female,child,368203,1,couple_with_child,Koekelberg,1,Maternelles,Koekelberg,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+733,21011A01-,SAINTE-ANNE,663192,6,1,female,child,365383,4,single_with_child,Koekelberg,1,Maternelles,Koekelberg,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+734,21012A21-,MARIE-JOSE BLOCS,739564,3,1,female,child,404235,1,couple_with_child,Molenbeek Saint-Jean,1,Maternelles,Karreveld,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+735,21012A511,STEYNS,720387,5,0,male,parent,393610,1,couple_with_child,Molenbeek Saint-Jean,1,Maternelles,Karreveld,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+736,21012A511,STEYNS,719025,5,1,female,child,393688,1,couple_with_child,Molenbeek Saint-Jean,1,Maternelles,Karreveld,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+737,21012A25-,BEEKKANT,685623,5,1,female,child,377211,1,couple_with_child,Molenbeek Saint-Jean,1,Maternelles,Karreveld,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+738,21012A53-,SIPPELBERG,727280,4,1,female,child,397956,1,couple_with_child,Molenbeek Saint-Jean,1,Maternelles,Karreveld,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+739,21012A52-,NEEP (QUARTIER DU),750161,3,0,male,child,409726,4,single_with_child,Molenbeek Saint-Jean,1,Maternelles,Karreveld,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+740,21012A52-,NEEP (QUARTIER DU),749275,5,0,male,child,409212,4,single_with_child,Molenbeek Saint-Jean,1,Maternelles,Karreveld,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+741,21012A52-,NEEP (QUARTIER DU),748633,4,1,female,child,408970,1,couple_with_child,Molenbeek Saint-Jean,1,Maternelles,Karreveld,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+742,21012A52-,NEEP (QUARTIER DU),747975,4,1,female,child,408723,4,single_with_child,Molenbeek Saint-Jean,1,Maternelles,Karreveld,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+743,21012A511,STEYNS,717865,4,1,female,child,393369,4,single_with_child,Molenbeek Saint-Jean,1,Maternelles,Karreveld,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+744,21012A52-,NEEP (QUARTIER DU),749546,3,1,female,child,409292,1,couple_with_child,Molenbeek Saint-Jean,1,Maternelles,Karreveld,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+745,21012A52-,NEEP (QUARTIER DU),750833,5,0,male,parent,409039,1,couple_with_child,Molenbeek Saint-Jean,1,Maternelles,Karreveld,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+746,21012A52-,NEEP (QUARTIER DU),749607,5,1,female,child,409314,4,single_with_child,Molenbeek Saint-Jean,1,Maternelles,Karreveld,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+747,21012A552,PFEIFFER,673901,3,1,female,child,370895,4,single_with_child,Molenbeek Saint-Jean,1,Maternelles,Karreveld,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+748,21012A21-,MARIE-JOSE BLOCS,739614,3,0,male,child,404257,1,couple_with_child,Molenbeek Saint-Jean,1,Maternelles,Karreveld,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+749,21012A54-,DELHAIZE,729588,4,0,male,child,398918,1,couple_with_child,Molenbeek Saint-Jean,1,Maternelles,Karreveld,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+750,21012A511,STEYNS,719219,3,0,male,child,393745,4,single_with_child,Molenbeek Saint-Jean,1,Maternelles,Karreveld,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+751,21012A52-,NEEP (QUARTIER DU),748755,4,1,female,child,409017,1,couple_with_child,Molenbeek Saint-Jean,1,Maternelles,Karreveld,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+752,21012A53-,SIPPELBERG,727275,4,0,male,child,397955,1,couple_with_child,Molenbeek Saint-Jean,1,Maternelles,Karreveld,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+753,21012A152,ETANGS NOIRS,744340,5,1,female,child,406219,1,couple_with_child,Molenbeek Saint-Jean,1,Maternelles,Gare de l'ouest,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+754,21012A152,ETANGS NOIRS,746241,3,1,female,parent,405042,4,single_with_child,Molenbeek Saint-Jean,1,Maternelles,Gare de l'ouest,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+755,21012A152,ETANGS NOIRS,743690,5,0,male,child,406016,4,single_with_child,Molenbeek Saint-Jean,1,Maternelles,Gare de l'ouest,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+756,21012A152,ETANGS NOIRS,744337,4,1,female,child,406218,1,couple_with_child,Molenbeek Saint-Jean,1,Maternelles,Gare de l'ouest,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+757,21012A141,INDEPENDANCE,766478,3,1,female,child,418082,1,couple_with_child,Molenbeek Saint-Jean,1,Maternelles,Gare de l'ouest,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+758,21012A141,INDEPENDANCE,766374,5,1,female,child,418050,1,couple_with_child,Molenbeek Saint-Jean,1,Maternelles,Gare de l'ouest,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+759,21012A141,INDEPENDANCE,766991,3,0,male,child,418235,1,couple_with_child,Molenbeek Saint-Jean,1,Maternelles,Gare de l'ouest,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+760,21012A152,ETANGS NOIRS,744356,5,0,male,child,406223,1,couple_with_child,Molenbeek Saint-Jean,1,Maternelles,Gare de l'ouest,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+761,21012A141,INDEPENDANCE,766664,4,1,female,child,418143,4,single_with_child,Molenbeek Saint-Jean,1,Maternelles,Gare de l'ouest,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+762,21012A141,INDEPENDANCE,766649,4,1,female,child,418138,1,couple_with_child,Molenbeek Saint-Jean,1,Maternelles,Gare de l'ouest,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+763,21012A72-,LAVALLEE,723290,5,0,male,child,395932,4,single_with_child,Molenbeek Saint-Jean,1,Maternelles,Molenbeek Historique,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+764,21012A72-,LAVALLEE,723340,6,1,female,child,395948,1,couple_with_child,Molenbeek Saint-Jean,1,Maternelles,Molenbeek Historique,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+765,21012A041,QUATRE VENTS,688540,5,0,male,child,378556,1,couple_with_child,Molenbeek Saint-Jean,1,Maternelles,Molenbeek Historique,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+766,21012A71-,PIERS,736378,5,1,female,child,402303,1,couple_with_child,Molenbeek Saint-Jean,1,Maternelles,Molenbeek Historique,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+767,21012A72-,LAVALLEE,724052,3,0,male,child,396177,1,couple_with_child,Molenbeek Saint-Jean,1,Maternelles,Molenbeek Historique,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+768,21012A041,QUATRE VENTS,687710,5,1,female,child,378323,1,couple_with_child,Molenbeek Saint-Jean,1,Maternelles,Molenbeek Historique,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+769,21012A03-,RANSFORT,769011,4,0,male,child,419318,1,couple_with_child,Molenbeek Saint-Jean,1,Maternelles,Molenbeek Historique,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+770,21012A041,QUATRE VENTS,688229,5,1,female,child,378466,1,couple_with_child,Molenbeek Saint-Jean,1,Maternelles,Molenbeek Historique,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+771,21012A72-,LAVALLEE,724138,5,0,male,child,396205,1,couple_with_child,Molenbeek Saint-Jean,1,Maternelles,Molenbeek Historique,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+772,21012A03-,RANSFORT,768830,3,0,male,child,419265,1,couple_with_child,Molenbeek Saint-Jean,1,Maternelles,Molenbeek Historique,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+773,21012A10-,DUCHESSE DE BRABANT,691753,5,1,female,parent,379847,4,single_with_child,Molenbeek Saint-Jean,1,Maternelles,Duchesse,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+774,21012A10-,DUCHESSE DE BRABANT,690999,4,0,male,child,379781,1,couple_with_child,Molenbeek Saint-Jean,1,Maternelles,Duchesse,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+775,21012A13-,BIRMINGHAM-NORD,699844,3,0,male,parent,383773,1,couple_with_child,Molenbeek Saint-Jean,1,Maternelles,Duchesse,21019A43-,CORNICHE VERTE,Woluwe Saint-Pierre
+776,21013A242,BETHLEEM (PLACE DE),775800,5,0,male,child,423071,1,couple_with_child,Saint-Gilles,1,Maternelles,Porte de Hal,21004F970,MARLY-NORD,Bruxelles
+777,21013A101,PARVIS,779054,3,0,male,child,424768,1,couple_with_child,Saint-Gilles,1,Maternelles,Porte de Hal,21004F970,MARLY-NORD,Bruxelles
+778,21013A242,BETHLEEM (PLACE DE),775849,4,0,male,child,423090,1,couple_with_child,Saint-Gilles,1,Maternelles,Porte de Hal,21004F970,MARLY-NORD,Bruxelles
+779,21013A101,PARVIS,778250,4,0,male,child,424425,1,couple_with_child,Saint-Gilles,1,Maternelles,Porte de Hal,21004F970,MARLY-NORD,Bruxelles
+780,21013A252,DANEMARK (RUE DE),797891,4,0,male,child,435140,1,couple_with_child,Saint-Gilles,1,Maternelles,Porte de Hal,21002A190,FORET DE SOIGNES,Auderghem
+781,21013A22-,REGIES,806099,5,0,male,child,439978,1,couple_with_child,Saint-Gilles,1,Maternelles,Bosnie,21004F970,MARLY-NORD,Bruxelles
+782,21013A22-,REGIES,806673,4,1,female,child,440199,1,couple_with_child,Saint-Gilles,1,Maternelles,Bosnie,21004F970,MARLY-NORD,Bruxelles
+783,21013A22-,REGIES,806204,3,0,male,child,440023,1,couple_with_child,Saint-Gilles,1,Maternelles,Bosnie,21004F970,MARLY-NORD,Bruxelles
+784,21013A00-,HOTEL DE VILLE,824101,4,1,female,child,450896,1,couple_with_child,Saint-Gilles,1,Maternelles,Haut Saint-Gilles,21004G3MJ,DOBBELENBERG (RUE DE),Bruxelles
+785,21013A41-,VILLAS (AVENUE DES),820264,5,1,female,child,448512,4,single_with_child,Saint-Gilles,1,Maternelles,Haut Saint-Gilles,21004F970,MARLY-NORD,Bruxelles
+786,21013A01-,ESPAGNE (RUE D'),789412,6,0,male,child,430571,4,single_with_child,Saint-Gilles,1,Maternelles,Haut Saint-Gilles,21004G3MJ,DOBBELENBERG (RUE DE),Bruxelles
+787,21013A41-,VILLAS (AVENUE DES),820098,6,0,male,child,448439,1,couple_with_child,Saint-Gilles,1,Maternelles,Haut Saint-Gilles,21004F970,MARLY-NORD,Bruxelles
+788,21013A01-,ESPAGNE (RUE D'),789789,4,1,female,child,430749,1,couple_with_child,Saint-Gilles,1,Maternelles,Haut Saint-Gilles,21004G3MJ,DOBBELENBERG (RUE DE),Bruxelles
+789,21013A41-,VILLAS (AVENUE DES),820223,5,1,female,child,448494,1,couple_with_child,Saint-Gilles,1,Maternelles,Haut Saint-Gilles,21004F970,MARLY-NORD,Bruxelles
+790,21013A41-,VILLAS (AVENUE DES),821300,3,1,female,child,449187,4,single_with_child,Saint-Gilles,1,Maternelles,Haut Saint-Gilles,21004F970,MARLY-NORD,Bruxelles
+791,21013A151,METAL (RUE DU),812875,3,0,male,child,444033,1,couple_with_child,Saint-Gilles,1,Maternelles,Berckmans - Hôtel des Monnaies,21004F970,MARLY-NORD,Bruxelles
+792,21014A00-,PLACE SAINT-JOSSE,832031,5,1,female,child,455553,4,single_with_child,Saint-Josse-ten-Noode,1,Maternelles,Saint-Josse Centre,21016A533,MOENSBERG,Uccle
+793,21014A00-,PLACE SAINT-JOSSE,831267,4,0,male,child,454927,1,couple_with_child,Saint-Josse-ten-Noode,1,Maternelles,Saint-Josse Centre,21016A533,MOENSBERG,Uccle
+794,21014A41-,BOSSUET,837871,4,0,male,child,458673,1,couple_with_child,Saint-Josse-ten-Noode,1,Maternelles,Saint-Josse Centre,21016A533,MOENSBERG,Uccle
+795,21014A05-,HOUWAERT,853785,3,1,female,child,466577,1,couple_with_child,Saint-Josse-ten-Noode,1,Maternelles,Saint-Josse Centre,21016A533,MOENSBERG,Uccle
+796,21014A41-,BOSSUET,838551,3,0,male,child,458901,1,couple_with_child,Saint-Josse-ten-Noode,1,Maternelles,Saint-Josse Centre,21016A533,MOENSBERG,Uccle
+797,21014A41-,BOSSUET,837956,4,1,female,child,458700,1,couple_with_child,Saint-Josse-ten-Noode,1,Maternelles,Saint-Josse Centre,21016A533,MOENSBERG,Uccle
+798,21014A41-,BOSSUET,838317,5,0,male,child,458823,1,couple_with_child,Saint-Josse-ten-Noode,1,Maternelles,Saint-Josse Centre,21016A533,MOENSBERG,Uccle
+799,21015A612,BRICHAUT (RUE DE),963983,4,1,female,child,523435,1,couple_with_child,Schaerbeek,1,Maternelles,Quartier Brabant,21016A521,VERREWINKEL,Uccle
+800,21015A612,BRICHAUT (RUE DE),966015,3,1,female,child,524098,1,couple_with_child,Schaerbeek,1,Maternelles,Quartier Brabant,21016A521,VERREWINKEL,Uccle
+801,21015A612,BRICHAUT (RUE DE),963756,5,1,female,child,523363,1,couple_with_child,Schaerbeek,1,Maternelles,Quartier Brabant,21016A521,VERREWINKEL,Uccle
+802,21015A612,BRICHAUT (RUE DE),964821,4,1,female,child,523717,1,couple_with_child,Schaerbeek,1,Maternelles,Quartier Brabant,21016A521,VERREWINKEL,Uccle
+803,21015A612,BRICHAUT (RUE DE),965568,5,1,female,child,523957,1,couple_with_child,Schaerbeek,1,Maternelles,Quartier Brabant,21016A521,VERREWINKEL,Uccle
+804,21015A45-,STEPHENSON (PLACE),968538,5,1,female,child,525538,1,couple_with_child,Schaerbeek,1,Maternelles,Quartier Brabant,21016A521,VERREWINKEL,Uccle
+805,21014A14-,PRAIRIE,835020,4,0,male,child,457338,1,couple_with_child,Saint-Josse-ten-Noode,1,Maternelles,Quartier Brabant,21017A09-,FORET DE SOIGNES,Watermael-Boitsfort
+806,21015A40-,BRABANT (RUE DE),952181,4,1,female,child,517619,1,couple_with_child,Schaerbeek,1,Maternelles,Quartier Brabant,21016A533,MOENSBERG,Uccle
+807,21015A45-,STEPHENSON (PLACE),967913,5,1,female,child,525344,1,couple_with_child,Schaerbeek,1,Maternelles,Quartier Brabant,21016A521,VERREWINKEL,Uccle
+808,21015A41-,VANDERLINDEN (RUE),961871,5,0,male,child,522231,1,couple_with_child,Schaerbeek,1,Maternelles,Quartier Brabant,21016A521,VERREWINKEL,Uccle
+809,21015A45-,STEPHENSON (PLACE),968508,3,0,male,child,525529,1,couple_with_child,Schaerbeek,1,Maternelles,Quartier Brabant,21016A521,VERREWINKEL,Uccle
+810,21015A41-,VANDERLINDEN (RUE),962430,3,0,male,child,522632,4,single_with_child,Schaerbeek,1,Maternelles,Quartier Brabant,21016A521,VERREWINKEL,Uccle
+811,21014A10-,SAINT-FRANCOIS,841585,3,1,female,child,460419,1,couple_with_child,Saint-Josse-ten-Noode,1,Maternelles,Quartier Brabant,21016A533,MOENSBERG,Uccle
+812,21015A41-,VANDERLINDEN (RUE),960338,5,1,female,child,521744,1,couple_with_child,Schaerbeek,1,Maternelles,Quartier Brabant,21016A521,VERREWINKEL,Uccle
+813,21015A421,PALAIS (RUE DE),949189,3,1,female,child,516124,1,couple_with_child,Schaerbeek,1,Maternelles,Quartier Brabant,21002A190,FORET DE SOIGNES,Auderghem
+814,21015A40-,BRABANT (RUE DE),952331,4,1,female,child,517668,1,couple_with_child,Schaerbeek,1,Maternelles,Quartier Brabant,21016A533,MOENSBERG,Uccle
+815,21014A10-,SAINT-FRANCOIS,841527,4,1,female,child,460399,1,couple_with_child,Saint-Josse-ten-Noode,1,Maternelles,Quartier Brabant,21016A533,MOENSBERG,Uccle
+816,21014A10-,SAINT-FRANCOIS,841546,5,0,male,child,460407,1,couple_with_child,Saint-Josse-ten-Noode,1,Maternelles,Quartier Brabant,21016A533,MOENSBERG,Uccle
+817,21015A612,BRICHAUT (RUE DE),965929,5,0,male,child,524073,1,couple_with_child,Schaerbeek,1,Maternelles,Quartier Brabant,21016A521,VERREWINKEL,Uccle
+818,21015A612,BRICHAUT (RUE DE),965177,5,1,female,child,523833,1,couple_with_child,Schaerbeek,1,Maternelles,Quartier Brabant,21016A521,VERREWINKEL,Uccle
+819,21015A45-,STEPHENSON (PLACE),968596,4,0,male,child,525555,1,couple_with_child,Schaerbeek,1,Maternelles,Quartier Brabant,21016A521,VERREWINKEL,Uccle
+820,21015A421,PALAIS (RUE DE),948304,5,1,female,child,515823,1,couple_with_child,Schaerbeek,1,Maternelles,Quartier Brabant,21002A190,FORET DE SOIGNES,Auderghem
+821,21015A40-,BRABANT (RUE DE),951869,5,0,male,child,517506,4,single_with_child,Schaerbeek,1,Maternelles,Quartier Brabant,21016A533,MOENSBERG,Uccle
+822,21015A40-,BRABANT (RUE DE),951437,4,0,male,child,517341,1,couple_with_child,Schaerbeek,1,Maternelles,Quartier Brabant,21016A533,MOENSBERG,Uccle
+823,21015A612,BRICHAUT (RUE DE),967093,5,1,female,parent,524096,1,couple_with_child,Schaerbeek,1,Maternelles,Quartier Brabant,21016A521,VERREWINKEL,Uccle
+824,21014A10-,SAINT-FRANCOIS,840720,4,1,female,child,460157,1,couple_with_child,Saint-Josse-ten-Noode,1,Maternelles,Quartier Brabant,21016A533,MOENSBERG,Uccle
+825,21015A41-,VANDERLINDEN (RUE),961399,5,1,female,child,522086,1,couple_with_child,Schaerbeek,1,Maternelles,Quartier Brabant,21016A521,VERREWINKEL,Uccle
+826,21015A612,BRICHAUT (RUE DE),965546,5,0,male,child,523952,1,couple_with_child,Schaerbeek,1,Maternelles,Quartier Brabant,21016A521,VERREWINKEL,Uccle
+827,21015A40-,BRABANT (RUE DE),952556,3,1,female,child,517744,1,couple_with_child,Schaerbeek,1,Maternelles,Quartier Brabant,21016A533,MOENSBERG,Uccle
+828,21015A612,BRICHAUT (RUE DE),965917,3,0,male,child,524069,4,single_with_child,Schaerbeek,1,Maternelles,Quartier Brabant,21016A521,VERREWINKEL,Uccle
+829,21015A612,BRICHAUT (RUE DE),965440,3,0,male,child,523919,1,couple_with_child,Schaerbeek,1,Maternelles,Quartier Brabant,21016A521,VERREWINKEL,Uccle
+830,21014A10-,SAINT-FRANCOIS,841186,6,1,female,child,460294,1,couple_with_child,Saint-Josse-ten-Noode,1,Maternelles,Quartier Brabant,21016A533,MOENSBERG,Uccle
+831,21015A40-,BRABANT (RUE DE),953946,3,0,male,parent,517801,4,single_with_child,Schaerbeek,1,Maternelles,Quartier Brabant,21016A533,MOENSBERG,Uccle
+832,21015A05-,ROYALE SAINTE-MARIE (RUE),925505,5,1,female,child,504535,1,couple_with_child,Schaerbeek,1,Maternelles,Chaussée de Haecht,21016A521,VERREWINKEL,Uccle
+833,21015A04-,L'OLIVIER (RUE),946086,4,0,male,child,514388,4,single_with_child,Schaerbeek,1,Maternelles,Chaussée de Haecht,21001C5PA,MEERVELD,Anderlecht
+834,21015A03-,JOSAPHAT (RUE),888892,5,1,female,child,485613,1,couple_with_child,Schaerbeek,1,Maternelles,Chaussée de Haecht,21016A521,VERREWINKEL,Uccle
+835,21015A03-,JOSAPHAT (RUE),886629,5,1,female,child,484868,4,single_with_child,Schaerbeek,1,Maternelles,Chaussée de Haecht,21016A521,VERREWINKEL,Uccle
+836,21015A04-,L'OLIVIER (RUE),946468,3,0,male,child,514506,4,single_with_child,Schaerbeek,1,Maternelles,Chaussée de Haecht,21001C5PA,MEERVELD,Anderlecht
+837,21014A04-,HAECHT (CHAUSSEE DE),847476,4,1,female,child,463551,1,couple_with_child,Saint-Josse-ten-Noode,1,Maternelles,Chaussée de Haecht,21002A190,FORET DE SOIGNES,Auderghem
+838,21014A04-,HAECHT (CHAUSSEE DE),847505,3,1,female,child,463566,1,couple_with_child,Saint-Josse-ten-Noode,1,Maternelles,Chaussée de Haecht,21002A190,FORET DE SOIGNES,Auderghem
+839,21015A05-,ROYALE SAINTE-MARIE (RUE),925873,5,1,female,child,504657,1,couple_with_child,Schaerbeek,1,Maternelles,Chaussée de Haecht,21016A521,VERREWINKEL,Uccle
+840,21015A05-,ROYALE SAINTE-MARIE (RUE),926117,5,1,female,child,504736,1,couple_with_child,Schaerbeek,1,Maternelles,Chaussée de Haecht,21016A521,VERREWINKEL,Uccle
+841,21015A03-,JOSAPHAT (RUE),887783,3,0,male,child,485247,1,couple_with_child,Schaerbeek,1,Maternelles,Chaussée de Haecht,21016A521,VERREWINKEL,Uccle
+842,21014A04-,HAECHT (CHAUSSEE DE),847792,5,1,female,child,463674,1,couple_with_child,Saint-Josse-ten-Noode,1,Maternelles,Chaussée de Haecht,21002A190,FORET DE SOIGNES,Auderghem
+843,21015A03-,JOSAPHAT (RUE),890191,5,0,male,child,486293,4,single_with_child,Schaerbeek,1,Maternelles,Chaussée de Haecht,21016A521,VERREWINKEL,Uccle
+844,21015A05-,ROYALE SAINTE-MARIE (RUE),925185,4,1,female,child,504423,1,couple_with_child,Schaerbeek,1,Maternelles,Chaussée de Haecht,21016A521,VERREWINKEL,Uccle
+845,21015A04-,L'OLIVIER (RUE),945463,3,1,female,child,514191,4,single_with_child,Schaerbeek,1,Maternelles,Chaussée de Haecht,21001C5PA,MEERVELD,Anderlecht
+846,21015A03-,JOSAPHAT (RUE),889356,5,0,male,child,485757,1,couple_with_child,Schaerbeek,1,Maternelles,Chaussée de Haecht,21016A521,VERREWINKEL,Uccle
+847,21015A04-,L'OLIVIER (RUE),946272,5,1,female,child,514445,1,couple_with_child,Schaerbeek,1,Maternelles,Chaussée de Haecht,21001C5PA,MEERVELD,Anderlecht
+848,21015A03-,JOSAPHAT (RUE),890729,5,1,female,parent,484568,1,couple_with_child,Schaerbeek,1,Maternelles,Chaussée de Haecht,21016A521,VERREWINKEL,Uccle
+849,21015A03-,JOSAPHAT (RUE),888319,3,1,female,child,485429,1,couple_with_child,Schaerbeek,1,Maternelles,Chaussée de Haecht,21016A521,VERREWINKEL,Uccle
+850,21015A04-,L'OLIVIER (RUE),944350,4,0,male,child,513821,1,couple_with_child,Schaerbeek,1,Maternelles,Chaussée de Haecht,21001C5PA,MEERVELD,Anderlecht
+851,21015A03-,JOSAPHAT (RUE),888559,4,0,male,child,485505,1,couple_with_child,Schaerbeek,1,Maternelles,Chaussée de Haecht,21016A521,VERREWINKEL,Uccle
+852,21015A03-,JOSAPHAT (RUE),887437,4,1,female,child,485131,1,couple_with_child,Schaerbeek,1,Maternelles,Chaussée de Haecht,21016A521,VERREWINKEL,Uccle
+853,21015A03-,JOSAPHAT (RUE),888634,4,1,female,child,485530,1,couple_with_child,Schaerbeek,1,Maternelles,Chaussée de Haecht,21016A521,VERREWINKEL,Uccle
+854,21015A05-,ROYALE SAINTE-MARIE (RUE),924502,4,0,male,child,504198,1,couple_with_child,Schaerbeek,1,Maternelles,Chaussée de Haecht,21016A521,VERREWINKEL,Uccle
+855,21015A50-,OPALE,859938,3,0,male,child,470161,4,single_with_child,Schaerbeek,1,Maternelles,Plasky,21001C522,HOPITAL U.L.B.,Anderlecht
+856,21015A54-,EMERAUDE (AVENUE),915877,5,1,female,child,499495,1,couple_with_child,Schaerbeek,1,Maternelles,Plasky,21001C522,HOPITAL U.L.B.,Anderlecht
+857,21015A54-,EMERAUDE (AVENUE),917580,3,0,male,child,500170,1,couple_with_child,Schaerbeek,1,Maternelles,Plasky,21001C522,HOPITAL U.L.B.,Anderlecht
+858,21015A54-,EMERAUDE (AVENUE),917167,3,1,female,child,500028,1,couple_with_child,Schaerbeek,1,Maternelles,Plasky,21001C522,HOPITAL U.L.B.,Anderlecht
+859,21015A54-,EMERAUDE (AVENUE),915777,3,1,female,child,499453,1,couple_with_child,Schaerbeek,1,Maternelles,Plasky,21001C522,HOPITAL U.L.B.,Anderlecht
+860,21015A54-,EMERAUDE (AVENUE),917002,5,0,male,child,499973,1,couple_with_child,Schaerbeek,1,Maternelles,Plasky,21001C522,HOPITAL U.L.B.,Anderlecht
+861,21015A54-,EMERAUDE (AVENUE),915507,4,0,male,child,499339,1,couple_with_child,Schaerbeek,1,Maternelles,Plasky,21001C522,HOPITAL U.L.B.,Anderlecht
+862,21015A77-,R.T.B.,863862,4,0,male,child,472514,4,single_with_child,Schaerbeek,1,Maternelles,Reyers,21001C522,HOPITAL U.L.B.,Anderlecht
+863,21015A77-,R.T.B.,864094,6,1,female,child,472616,1,couple_with_child,Schaerbeek,1,Maternelles,Reyers,21001C522,HOPITAL U.L.B.,Anderlecht
+864,21015A73-,H. EVENEPOEL (RUE),866362,5,1,female,child,474000,1,couple_with_child,Schaerbeek,1,Maternelles,Reyers,21001C522,HOPITAL U.L.B.,Anderlecht
+865,21015A721,F. COURTENS (AVENUE),875234,5,1,female,parent,478677,1,couple_with_child,Schaerbeek,1,Maternelles,Gare Josaphat,21001C522,HOPITAL U.L.B.,Anderlecht
+866,21015A70-,P. HYMANS (RUE),874274,4,0,male,parent,477829,1,couple_with_child,Schaerbeek,1,Maternelles,Gare Josaphat,21001C522,HOPITAL U.L.B.,Anderlecht
+867,21015A70-,P. HYMANS (RUE),873424,5,1,female,child,477911,1,couple_with_child,Schaerbeek,1,Maternelles,Gare Josaphat,21001C522,HOPITAL U.L.B.,Anderlecht
+868,21015A70-,P. HYMANS (RUE),874267,5,0,male,parent,477850,4,single_with_child,Schaerbeek,1,Maternelles,Gare Josaphat,21001C522,HOPITAL U.L.B.,Anderlecht
+869,21015A70-,P. HYMANS (RUE),873602,4,1,female,child,477977,1,couple_with_child,Schaerbeek,1,Maternelles,Gare Josaphat,21001C522,HOPITAL U.L.B.,Anderlecht
+870,21015A64-,DUPLOYE SQUARE,902689,5,0,male,child,492615,1,couple_with_child,Schaerbeek,1,Maternelles,Dailly,21016A533,MOENSBERG,Uccle
+871,21015A31-,PATRIE,869208,4,0,male,child,475490,1,couple_with_child,Schaerbeek,1,Maternelles,Dailly,21001C522,HOPITAL U.L.B.,Anderlecht
+872,21015A32-,CONSOLATION (RUE DE LA),899973,4,1,female,child,491257,1,couple_with_child,Schaerbeek,1,Maternelles,Dailly,21016A533,MOENSBERG,Uccle
+873,21015A30-,GRANDE RUE AU BOIS,897482,4,1,female,child,489793,1,couple_with_child,Schaerbeek,1,Maternelles,Dailly,21016A533,MOENSBERG,Uccle
+874,21015A30-,GRANDE RUE AU BOIS,896638,4,0,male,child,489474,4,single_with_child,Schaerbeek,1,Maternelles,Dailly,21016A533,MOENSBERG,Uccle
+875,21015A64-,DUPLOYE SQUARE,903802,4,0,male,child,492941,4,single_with_child,Schaerbeek,1,Maternelles,Dailly,21016A533,MOENSBERG,Uccle
+876,21015A33-,BIENFAITEURS (PLACE DE),906647,3,0,male,child,494510,1,couple_with_child,Schaerbeek,1,Maternelles,Dailly,21016A533,MOENSBERG,Uccle
+877,21015A64-,DUPLOYE SQUARE,903773,4,0,male,child,492931,1,couple_with_child,Schaerbeek,1,Maternelles,Dailly,21016A533,MOENSBERG,Uccle
+878,21015A32-,CONSOLATION (RUE DE LA),900644,4,1,female,child,491513,1,couple_with_child,Schaerbeek,1,Maternelles,Dailly,21016A533,MOENSBERG,Uccle
+879,21015A32-,CONSOLATION (RUE DE LA),900838,4,0,male,child,491578,1,couple_with_child,Schaerbeek,1,Maternelles,Dailly,21016A533,MOENSBERG,Uccle
+880,21015A36-,CAMBIER (AVENUE E.),871580,4,1,female,child,476833,4,single_with_child,Schaerbeek,1,Maternelles,Josaphat,21001C522,HOPITAL U.L.B.,Anderlecht
+881,21015A63-,DESCHANEL P. (AVENUE),878504,3,1,female,child,480535,1,couple_with_child,Schaerbeek,1,Maternelles,Josaphat,21016A533,MOENSBERG,Uccle
+882,21015A831,LATINIS (AVENUE G.),884395,4,1,female,child,483591,1,couple_with_child,Schaerbeek,1,Maternelles,Terdelt,21016A533,MOENSBERG,Uccle
+883,21015A22-,MARBOTIN A. (RUE),985930,5,1,female,child,533706,1,couple_with_child,Schaerbeek,1,Maternelles,Terdelt,21001C5PA,MEERVELD,Anderlecht
+884,21015A22-,MARBOTIN A. (RUE),986097,4,0,male,child,533758,4,single_with_child,Schaerbeek,1,Maternelles,Terdelt,21001C5PA,MEERVELD,Anderlecht
+885,21015A22-,MARBOTIN A. (RUE),985197,6,1,female,child,533469,4,single_with_child,Schaerbeek,1,Maternelles,Terdelt,21001C5PA,MEERVELD,Anderlecht
+886,21015A822,CH. GILISQUET - SUD (AVENUE),875681,4,1,female,parent,479024,1,couple_with_child,Schaerbeek,1,Maternelles,Terdelt,21016A533,MOENSBERG,Uccle
+887,21015A021,HOUFFALIZE (PLACE),893291,4,0,male,child,487702,1,couple_with_child,Schaerbeek,1,Maternelles,Colignon,21016A521,VERREWINKEL,Uccle
+888,21015A24-,WAELHEM (RUE),979913,3,1,female,child,530838,1,couple_with_child,Schaerbeek,1,Maternelles,Colignon,21016A521,VERREWINKEL,Uccle
+889,21015A021,HOUFFALIZE (PLACE),892701,3,0,male,child,487515,1,couple_with_child,Schaerbeek,1,Maternelles,Colignon,21016A521,VERREWINKEL,Uccle
+890,21015A00-,COLIGNON (PLACE),974302,4,1,female,child,527763,1,couple_with_child,Schaerbeek,1,Maternelles,Colignon,21016A521,VERREWINKEL,Uccle
+891,21015A13-,PORTAELS (RUE),982572,5,1,female,child,532171,1,couple_with_child,Schaerbeek,1,Maternelles,Colignon,21016A521,VERREWINKEL,Uccle
+892,21015A00-,COLIGNON (PLACE),973157,4,1,female,child,527395,1,couple_with_child,Schaerbeek,1,Maternelles,Colignon,21016A521,VERREWINKEL,Uccle
+893,21015A622,BRUSILIA,940849,4,0,male,child,512138,4,single_with_child,Schaerbeek,1,Maternelles,Colignon,21016A521,VERREWINKEL,Uccle
+894,21015A021,HOUFFALIZE (PLACE),893602,3,1,female,child,487798,1,couple_with_child,Schaerbeek,1,Maternelles,Colignon,21016A521,VERREWINKEL,Uccle
+895,21015A13-,PORTAELS (RUE),982649,3,0,male,child,532194,1,couple_with_child,Schaerbeek,1,Maternelles,Colignon,21016A521,VERREWINKEL,Uccle
+896,21015A24-,WAELHEM (RUE),980759,6,1,female,parent,530639,1,couple_with_child,Schaerbeek,1,Maternelles,Colignon,21016A521,VERREWINKEL,Uccle
+897,21015A24-,WAELHEM (RUE),979846,5,1,female,child,530816,1,couple_with_child,Schaerbeek,1,Maternelles,Colignon,21016A521,VERREWINKEL,Uccle
+898,21015A24-,WAELHEM (RUE),980056,4,1,female,child,530882,1,couple_with_child,Schaerbeek,1,Maternelles,Colignon,21016A521,VERREWINKEL,Uccle
+899,21015A00-,COLIGNON (PLACE),976468,5,1,female,parent,526886,1,couple_with_child,Schaerbeek,1,Maternelles,Colignon,21016A521,VERREWINKEL,Uccle
+900,21015A00-,COLIGNON (PLACE),972515,5,0,male,child,527181,4,single_with_child,Schaerbeek,1,Maternelles,Colignon,21016A521,VERREWINKEL,Uccle
+901,21015A00-,COLIGNON (PLACE),973153,3,1,female,child,527394,1,couple_with_child,Schaerbeek,1,Maternelles,Colignon,21016A521,VERREWINKEL,Uccle
+902,21015A00-,COLIGNON (PLACE),973956,3,1,female,child,527655,1,couple_with_child,Schaerbeek,1,Maternelles,Colignon,21016A521,VERREWINKEL,Uccle
+903,21015A00-,COLIGNON (PLACE),976931,3,0,male,parent,527485,1,couple_with_child,Schaerbeek,1,Maternelles,Colignon,21016A521,VERREWINKEL,Uccle
+904,21015A00-,COLIGNON (PLACE),976480,5,1,female,parent,527396,1,couple_with_child,Schaerbeek,1,Maternelles,Colignon,21016A521,VERREWINKEL,Uccle
+905,21015A021,HOUFFALIZE (PLACE),893040,4,0,male,child,487627,1,couple_with_child,Schaerbeek,1,Maternelles,Colignon,21016A521,VERREWINKEL,Uccle
+906,21015A021,HOUFFALIZE (PLACE),893507,3,1,female,child,487769,1,couple_with_child,Schaerbeek,1,Maternelles,Colignon,21016A521,VERREWINKEL,Uccle
+907,21015A021,HOUFFALIZE (PLACE),893308,5,0,male,child,487709,4,single_with_child,Schaerbeek,1,Maternelles,Colignon,21016A521,VERREWINKEL,Uccle
+908,21015A51-,CERISIERS (AVENUE DES),923189,4,0,male,child,503478,1,couple_with_child,Schaerbeek,1,Maternelles,Georges Henri,21001C522,HOPITAL U.L.B.,Anderlecht
+909,21015A51-,CERISIERS (AVENUE DES),923168,4,1,female,child,503471,1,couple_with_child,Schaerbeek,1,Maternelles,Georges Henri,21001C522,HOPITAL U.L.B.,Anderlecht
+910,21018A21-,DE BROQUEVILLE (AVENUE)-NORD,1122907,3,1,female,child,609642,1,couple_with_child,Woluwe Saint-Lambert,1,Maternelles,Georges Henri,21001C522,HOPITAL U.L.B.,Anderlecht
+911,21018A20-,GEORGES HENRI (AVENUE),1116613,3,1,female,child,605894,1,couple_with_child,Woluwe Saint-Lambert,1,Maternelles,Georges Henri,21001C522,HOPITAL U.L.B.,Anderlecht
+912,21018A62-,HEYDENBERG-OUEST,1149987,4,1,female,child,624424,1,couple_with_child,Woluwe Saint-Lambert,1,Maternelles,Georges Henri,21001C522,HOPITAL U.L.B.,Anderlecht
+913,21018A62-,HEYDENBERG-OUEST,1149503,4,0,male,child,624236,1,couple_with_child,Woluwe Saint-Lambert,1,Maternelles,Georges Henri,21001C522,HOPITAL U.L.B.,Anderlecht
+914,21018A20-,GEORGES HENRI (AVENUE),1116822,3,0,male,child,605984,4,single_with_child,Woluwe Saint-Lambert,1,Maternelles,Georges Henri,21001C522,HOPITAL U.L.B.,Anderlecht
+915,21015A12-,HUART HAMOIR (AVENUE),929895,4,1,female,child,506747,1,couple_with_child,Schaerbeek,1,Maternelles,Gare de Schaerbeek,21016A521,VERREWINKEL,Uccle
+916,21015A101,GARE,935421,3,0,male,child,509554,1,couple_with_child,Schaerbeek,1,Maternelles,Gare de Schaerbeek,21016A521,VERREWINKEL,Uccle
+917,21015A152,PR. ELISABETH-NORD,933262,4,0,male,child,508338,1,couple_with_child,Schaerbeek,1,Maternelles,Gare de Schaerbeek,21016A521,VERREWINKEL,Uccle
+918,21015A152,PR. ELISABETH-NORD,934224,5,1,female,child,508875,4,single_with_child,Schaerbeek,1,Maternelles,Gare de Schaerbeek,21016A521,VERREWINKEL,Uccle
+919,21015A152,PR. ELISABETH-NORD,933462,3,1,female,child,508402,1,couple_with_child,Schaerbeek,1,Maternelles,Gare de Schaerbeek,21016A521,VERREWINKEL,Uccle
+920,21015A12-,HUART HAMOIR (AVENUE),929627,5,1,female,child,506665,1,couple_with_child,Schaerbeek,1,Maternelles,Gare de Schaerbeek,21016A521,VERREWINKEL,Uccle
+921,21015A101,GARE,936690,3,1,female,parent,509753,1,couple_with_child,Schaerbeek,1,Maternelles,Gare de Schaerbeek,21016A521,VERREWINKEL,Uccle
+922,21015A152,PR. ELISABETH-NORD,934583,5,1,female,parent,507666,1,couple_with_child,Schaerbeek,1,Maternelles,Gare de Schaerbeek,21016A521,VERREWINKEL,Uccle
+923,21015A12-,HUART HAMOIR (AVENUE),929711,4,0,male,child,506689,1,couple_with_child,Schaerbeek,1,Maternelles,Gare de Schaerbeek,21016A521,VERREWINKEL,Uccle
+924,21015A152,PR. ELISABETH-NORD,932752,3,0,male,child,508168,1,couple_with_child,Schaerbeek,1,Maternelles,Gare de Schaerbeek,21016A521,VERREWINKEL,Uccle
+925,21015A152,PR. ELISABETH-NORD,933734,3,0,male,child,508490,1,couple_with_child,Schaerbeek,1,Maternelles,Gare de Schaerbeek,21016A521,VERREWINKEL,Uccle
+926,21015A12-,HUART HAMOIR (AVENUE),929744,5,0,male,child,506699,1,couple_with_child,Schaerbeek,1,Maternelles,Gare de Schaerbeek,21016A521,VERREWINKEL,Uccle
+927,21015A12-,HUART HAMOIR (AVENUE),929594,5,1,female,child,506654,1,couple_with_child,Schaerbeek,1,Maternelles,Gare de Schaerbeek,21016A521,VERREWINKEL,Uccle
+928,21015A12-,HUART HAMOIR (AVENUE),930174,4,1,female,child,506845,1,couple_with_child,Schaerbeek,1,Maternelles,Gare de Schaerbeek,21016A521,VERREWINKEL,Uccle
+929,21015A101,GARE,935942,4,1,female,child,509714,1,couple_with_child,Schaerbeek,1,Maternelles,Gare de Schaerbeek,21016A521,VERREWINKEL,Uccle
+930,21015A152,PR. ELISABETH-NORD,933611,4,0,male,child,508450,4,single_with_child,Schaerbeek,1,Maternelles,Gare de Schaerbeek,21016A521,VERREWINKEL,Uccle
+931,21015A152,PR. ELISABETH-NORD,933542,3,0,male,child,508429,4,single_with_child,Schaerbeek,1,Maternelles,Gare de Schaerbeek,21016A521,VERREWINKEL,Uccle
+932,21015A21-,GUIDO GEZELLE (RUE),996430,4,1,female,child,538780,1,couple_with_child,Schaerbeek,1,Maternelles,Helmet,21001C5PA,MEERVELD,Anderlecht
+933,21015A21-,GUIDO GEZELLE (RUE),997460,5,0,male,parent,538699,1,couple_with_child,Schaerbeek,1,Maternelles,Helmet,21001C5PA,MEERVELD,Anderlecht
+934,21015A111,MAETERLINCK,938685,4,0,male,child,511010,1,couple_with_child,Schaerbeek,1,Maternelles,Helmet,21016A521,VERREWINKEL,Uccle
+935,21015A111,MAETERLINCK,939073,4,0,male,child,511129,4,single_with_child,Schaerbeek,1,Maternelles,Helmet,21016A521,VERREWINKEL,Uccle
+936,21015A20-,HELMET,991763,5,0,male,child,536523,1,couple_with_child,Schaerbeek,1,Maternelles,Helmet,21001C5PA,MEERVELD,Anderlecht
+937,21015A20-,HELMET,991343,3,0,male,child,536401,1,couple_with_child,Schaerbeek,1,Maternelles,Helmet,21001C5PA,MEERVELD,Anderlecht
+938,21015A20-,HELMET,992328,5,1,female,child,536682,4,single_with_child,Schaerbeek,1,Maternelles,Helmet,21001C5PA,MEERVELD,Anderlecht
+939,21015A20-,HELMET,993145,3,1,female,child,536927,1,couple_with_child,Schaerbeek,1,Maternelles,Helmet,21001C5PA,MEERVELD,Anderlecht
+940,21015A20-,HELMET,992946,5,0,male,child,536864,1,couple_with_child,Schaerbeek,1,Maternelles,Helmet,21001C5PA,MEERVELD,Anderlecht
+941,21015A20-,HELMET,992077,3,0,male,child,536611,1,couple_with_child,Schaerbeek,1,Maternelles,Helmet,21001C5PA,MEERVELD,Anderlecht
+942,21015A231,J. BLOCKX (RUE),987886,4,1,female,child,534966,1,couple_with_child,Schaerbeek,1,Maternelles,Helmet,21016A521,VERREWINKEL,Uccle
+943,21015A20-,HELMET,993377,3,0,male,child,536995,1,couple_with_child,Schaerbeek,1,Maternelles,Helmet,21001C5PA,MEERVELD,Anderlecht
+944,21015A20-,HELMET,992425,3,1,female,child,536710,4,single_with_child,Schaerbeek,1,Maternelles,Helmet,21001C5PA,MEERVELD,Anderlecht
+945,21015A111,MAETERLINCK,938934,5,1,female,child,511087,1,couple_with_child,Schaerbeek,1,Maternelles,Helmet,21016A521,VERREWINKEL,Uccle
+946,21015A20-,HELMET,992361,4,0,male,child,536691,1,couple_with_child,Schaerbeek,1,Maternelles,Helmet,21001C5PA,MEERVELD,Anderlecht
+947,21015A20-,HELMET,992836,3,1,female,child,536829,1,couple_with_child,Schaerbeek,1,Maternelles,Helmet,21001C5PA,MEERVELD,Anderlecht
+948,21016A02-,ALSEMBERG-NORD,1021933,5,0,male,child,553542,1,couple_with_child,Uccle,1,Maternelles,Globe,21004F9MJ,NEDER-HEEMBEEK-NORD,Bruxelles
+949,21016A922,WOLVENBERG,1025989,4,0,male,child,555813,1,couple_with_child,Uccle,1,Maternelles,Globe,21004F9MJ,NEDER-HEEMBEEK-NORD,Bruxelles
+950,21016A03-,COGHEN,1020192,5,0,male,child,552485,1,couple_with_child,Uccle,1,Maternelles,Globe,21004F9MJ,NEDER-HEEMBEEK-NORD,Bruxelles
+951,21016A00-,GLOBE-EST,1062203,3,0,male,child,575258,1,couple_with_child,Uccle,1,Maternelles,Globe,21004F9MJ,NEDER-HEEMBEEK-NORD,Bruxelles
+952,21016A00-,GLOBE-EST,1061972,4,1,female,child,575183,1,couple_with_child,Uccle,1,Maternelles,Globe,21004F9MJ,NEDER-HEEMBEEK-NORD,Bruxelles
+953,21016A82-,CHURCHILL,1006796,3,0,male,child,544639,4,single_with_child,Uccle,1,Maternelles,Churchill,21004F970,MARLY-NORD,Bruxelles
+954,21016A82-,CHURCHILL,1006424,3,1,female,child,544455,1,couple_with_child,Uccle,1,Maternelles,Churchill,21004F970,MARLY-NORD,Bruxelles
+955,21016A81-,BASCULE,1001995,4,1,female,child,541783,1,couple_with_child,Uccle,1,Maternelles,Churchill,21004F970,MARLY-NORD,Bruxelles
+956,21016A82-,CHURCHILL,1006080,5,1,female,child,544297,4,single_with_child,Uccle,1,Maternelles,Churchill,21004F970,MARLY-NORD,Bruxelles
+957,21016A831,LONGCHAMP,1012363,3,1,female,child,547848,1,couple_with_child,Uccle,1,Maternelles,Montjoie - Langeveld,21004F970,MARLY-NORD,Bruxelles
+958,21016A701,MERLO,1033198,3,1,female,child,559696,1,couple_with_child,Uccle,1,Maternelles,Kalevoet - Moensberg,21004G3MJ,DOBBELENBERG (RUE DE),Bruxelles
+959,21016A701,MERLO,1033687,5,1,female,child,559879,4,single_with_child,Uccle,1,Maternelles,Kalevoet - Moensberg,21004G3MJ,DOBBELENBERG (RUE DE),Bruxelles
+960,21016A64-,MOLENSTEEN,1043368,4,0,male,child,565480,4,single_with_child,Uccle,1,Maternelles,Kalevoet - Moensberg,21004F9MJ,NEDER-HEEMBEEK-NORD,Bruxelles
+961,21016A65-,ALSEMBERG-SUD,1051467,3,0,male,child,569877,4,single_with_child,Uccle,1,Maternelles,Kalevoet - Moensberg,21004F9MJ,NEDER-HEEMBEEK-NORD,Bruxelles
+962,21016A731,ROETAERT,1031562,4,0,male,parent,558663,1,couple_with_child,Uccle,1,Maternelles,Kalevoet - Moensberg,21004G3MJ,DOBBELENBERG (RUE DE),Bruxelles
+963,21016A701,MERLO,1032583,3,0,male,child,559428,1,couple_with_child,Uccle,1,Maternelles,Kalevoet - Moensberg,21004G3MJ,DOBBELENBERG (RUE DE),Bruxelles
+964,21016A71-,KEIENBEMPT,1037074,5,1,female,child,561830,1,couple_with_child,Uccle,1,Maternelles,Kalevoet - Moensberg,21004G3MJ,DOBBELENBERG (RUE DE),Bruxelles
+965,21016A65-,ALSEMBERG-SUD,1051647,4,0,male,child,569936,4,single_with_child,Uccle,1,Maternelles,Kalevoet - Moensberg,21004F9MJ,NEDER-HEEMBEEK-NORD,Bruxelles
+966,21016A71-,KEIENBEMPT,1036891,4,0,male,child,561756,1,couple_with_child,Uccle,1,Maternelles,Kalevoet - Moensberg,21004G3MJ,DOBBELENBERG (RUE DE),Bruxelles
+967,21016A64-,MOLENSTEEN,1042983,5,1,female,child,565331,1,couple_with_child,Uccle,1,Maternelles,Kalevoet - Moensberg,21004F9MJ,NEDER-HEEMBEEK-NORD,Bruxelles
+968,21016A71-,KEIENBEMPT,1037448,5,1,female,child,561963,4,single_with_child,Uccle,1,Maternelles,Kalevoet - Moensberg,21004G3MJ,DOBBELENBERG (RUE DE),Bruxelles
+969,21016A701,MERLO,1033200,5,1,female,child,559696,1,couple_with_child,Uccle,1,Maternelles,Kalevoet - Moensberg,21004G3MJ,DOBBELENBERG (RUE DE),Bruxelles
+970,21016A64-,MOLENSTEEN,1043998,3,0,male,child,565709,1,couple_with_child,Uccle,1,Maternelles,Kalevoet - Moensberg,21004F9MJ,NEDER-HEEMBEEK-NORD,Bruxelles
+971,21016A65-,ALSEMBERG-SUD,1051546,4,0,male,child,569902,1,couple_with_child,Uccle,1,Maternelles,Kalevoet - Moensberg,21004F9MJ,NEDER-HEEMBEEK-NORD,Bruxelles
+972,21016A72-,MELKRIEK,1035956,5,0,male,parent,560948,1,couple_with_child,Uccle,1,Maternelles,Kalevoet - Moensberg,21004G3MJ,DOBBELENBERG (RUE DE),Bruxelles
+973,21016A701,MERLO,1033184,3,1,female,child,559692,4,single_with_child,Uccle,1,Maternelles,Kalevoet - Moensberg,21004G3MJ,DOBBELENBERG (RUE DE),Bruxelles
+974,21016A610,ENGELAND,1082138,3,0,male,child,586397,1,couple_with_child,Uccle,1,Maternelles,Kriekenput - Homborch - Verrewinkel,21004F970,MARLY-NORD,Bruxelles
+975,21016A639,HOMBORCH,1080356,4,1,female,child,585401,4,single_with_child,Uccle,1,Maternelles,Kriekenput - Homborch - Verrewinkel,21004F970,MARLY-NORD,Bruxelles
+976,21016A639,HOMBORCH,1081057,5,0,male,child,585658,4,single_with_child,Uccle,1,Maternelles,Kriekenput - Homborch - Verrewinkel,21004F970,MARLY-NORD,Bruxelles
+977,21016A639,HOMBORCH,1080688,4,1,female,child,585532,1,couple_with_child,Uccle,1,Maternelles,Kriekenput - Homborch - Verrewinkel,21004F970,MARLY-NORD,Bruxelles
+978,21016A620,KRIEKENPUT,1053914,5,0,male,child,571145,4,single_with_child,Uccle,1,Maternelles,Kriekenput - Homborch - Verrewinkel,21004F9MJ,NEDER-HEEMBEEK-NORD,Bruxelles
+979,21016A639,HOMBORCH,1079912,4,1,female,child,585215,1,couple_with_child,Uccle,1,Maternelles,Kriekenput - Homborch - Verrewinkel,21004F970,MARLY-NORD,Bruxelles
+980,21016A639,HOMBORCH,1079982,3,0,male,child,585245,1,couple_with_child,Uccle,1,Maternelles,Kriekenput - Homborch - Verrewinkel,21004F970,MARLY-NORD,Bruxelles
+981,21016A610,ENGELAND,1082377,5,0,male,parent,586357,1,couple_with_child,Uccle,1,Maternelles,Kriekenput - Homborch - Verrewinkel,21004F970,MARLY-NORD,Bruxelles
+982,21016A610,ENGELAND,1082116,3,1,female,child,586389,1,couple_with_child,Uccle,1,Maternelles,Kriekenput - Homborch - Verrewinkel,21004F970,MARLY-NORD,Bruxelles
+983,21016A620,KRIEKENPUT,1053595,4,1,female,child,571033,1,couple_with_child,Uccle,1,Maternelles,Kriekenput - Homborch - Verrewinkel,21004F9MJ,NEDER-HEEMBEEK-NORD,Bruxelles
+984,21016A639,HOMBORCH,1080796,3,0,male,child,585578,1,couple_with_child,Uccle,1,Maternelles,Kriekenput - Homborch - Verrewinkel,21004F970,MARLY-NORD,Bruxelles
+985,21016A01-,DIEWEG,1057004,5,1,female,child,572547,1,couple_with_child,Uccle,1,Maternelles,Dieweg,21004F9MJ,NEDER-HEEMBEEK-NORD,Bruxelles
+986,21016A01-,DIEWEG,1057387,3,0,male,child,572667,1,couple_with_child,Uccle,1,Maternelles,Dieweg,21004F9MJ,NEDER-HEEMBEEK-NORD,Bruxelles
+987,21016A01-,DIEWEG,1056277,4,0,male,child,572287,1,couple_with_child,Uccle,1,Maternelles,Dieweg,21004F9MJ,NEDER-HEEMBEEK-NORD,Bruxelles
+988,21016A01-,DIEWEG,1056349,4,0,male,child,572312,1,couple_with_child,Uccle,1,Maternelles,Dieweg,21004F9MJ,NEDER-HEEMBEEK-NORD,Bruxelles
+989,21016A01-,DIEWEG,1056031,5,0,male,child,572204,4,single_with_child,Uccle,1,Maternelles,Dieweg,21004F9MJ,NEDER-HEEMBEEK-NORD,Bruxelles
+990,21016A410,ALPHONSE XIII,1078170,4,0,male,child,584195,1,couple_with_child,Uccle,1,Maternelles,Saint-Job Kauwberg,21004F970,MARLY-NORD,Bruxelles
+991,21016A400,SAINT-JOB,1074656,3,0,male,child,582210,1,couple_with_child,Uccle,1,Maternelles,Saint-Job Kauwberg,21004F970,MARLY-NORD,Bruxelles
+992,21016A490,KAUWBERG,1078858,5,1,female,child,584617,1,couple_with_child,Uccle,1,Maternelles,Saint-Job Kauwberg,21004F970,MARLY-NORD,Bruxelles
+993,21016A410,ALPHONSE XIII,1078223,4,0,male,child,584214,1,couple_with_child,Uccle,1,Maternelles,Saint-Job Kauwberg,21004F970,MARLY-NORD,Bruxelles
+994,21016A400,SAINT-JOB,1074773,3,1,female,child,582248,1,couple_with_child,Uccle,1,Maternelles,Saint-Job Kauwberg,21004F970,MARLY-NORD,Bruxelles
+995,21016A342,FOND,1084966,5,0,male,child,587622,1,couple_with_child,Uccle,1,Maternelles,Vivier d'Oie,21004F970,MARLY-NORD,Bruxelles
+996,21016A342,FOND,1085096,5,0,male,child,587656,1,couple_with_child,Uccle,1,Maternelles,Vivier d'Oie,21004F970,MARLY-NORD,Bruxelles
+997,21017A230,BEGUINETTES,1094439,4,0,male,child,592997,1,couple_with_child,Watermael-Boitsfort,1,Maternelles,Boitsfort Centre,21004E82-,CITE MODELE,Bruxelles
+998,21017A01-,COIN DU BALAI,1104775,3,0,male,child,599160,1,couple_with_child,Watermael-Boitsfort,1,Maternelles,Boitsfort Centre,21004E82-,CITE MODELE,Bruxelles
+999,21017A240,SOUVERAIN-OUEST,1093014,4,0,male,child,592264,4,single_with_child,Watermael-Boitsfort,1,Maternelles,Boitsfort Centre,21010A4MJ,VUB,Jette
+1000,21018A311,PARC SCHUMAN,1129086,4,1,female,child,613080,4,single_with_child,Woluwe Saint-Lambert,1,Maternelles,Val d'Or,21001C522,HOPITAL U.L.B.,Anderlecht
+1001,21018A33-,NEERVELD,1130615,5,0,male,child,614067,4,single_with_child,Woluwe Saint-Lambert,1,Maternelles,Val d'Or,21001C522,HOPITAL U.L.B.,Anderlecht
+1002,21019A04-,EGGERICX (RUE),1189001,3,0,male,child,647092,1,couple_with_child,Woluwe Saint-Pierre,1,Maternelles,Gribaumont,21001C522,HOPITAL U.L.B.,Anderlecht
+1003,21018A02-,SLEGERS (AVENUE),1140998,5,0,male,child,619717,1,couple_with_child,Woluwe Saint-Lambert,1,Maternelles,Gribaumont,21001C522,HOPITAL U.L.B.,Anderlecht
+1004,21018A22-,DE BROQUEVILLE (AVENUE)-SUD,1133020,5,0,male,child,615448,4,single_with_child,Woluwe Saint-Lambert,1,Maternelles,Gribaumont,21001C522,HOPITAL U.L.B.,Anderlecht
+1005,21018A22-,DE BROQUEVILLE (AVENUE)-SUD,1133232,5,1,female,child,615546,4,single_with_child,Woluwe Saint-Lambert,1,Maternelles,Gribaumont,21001C522,HOPITAL U.L.B.,Anderlecht
+1006,21018A512,QUARTIER DES PEINTRES,1135391,3,1,female,child,616676,1,couple_with_child,Woluwe Saint-Lambert,1,Maternelles,Gribaumont,21001C522,HOPITAL U.L.B.,Anderlecht
+1007,21019A052,DON BOSCO,1191832,3,1,female,child,648618,1,couple_with_child,Woluwe Saint-Pierre,1,Maternelles,Gribaumont,21001C522,HOPITAL U.L.B.,Anderlecht
+1008,21018A512,QUARTIER DES PEINTRES,1135737,4,0,male,child,616823,1,couple_with_child,Woluwe Saint-Lambert,1,Maternelles,Gribaumont,21001C522,HOPITAL U.L.B.,Anderlecht
+1009,21018A22-,DE BROQUEVILLE (AVENUE)-SUD,1133355,5,0,male,child,615604,1,couple_with_child,Woluwe Saint-Lambert,1,Maternelles,Gribaumont,21001C522,HOPITAL U.L.B.,Anderlecht
+1010,21018A84-,KAPELLEVELD-NORD-EST,1159432,3,1,female,child,630119,4,single_with_child,Woluwe Saint-Lambert,1,Maternelles,Kapelleveld,21001C522,HOPITAL U.L.B.,Anderlecht
+1011,21018A83-,KLAKKEDELLE,1171942,3,0,male,child,637406,1,couple_with_child,Woluwe Saint-Lambert,1,Maternelles,Kapelleveld,21001C522,HOPITAL U.L.B.,Anderlecht
+1012,21018A83-,KLAKKEDELLE,1171813,5,1,female,child,637350,1,couple_with_child,Woluwe Saint-Lambert,1,Maternelles,Kapelleveld,21001C522,HOPITAL U.L.B.,Anderlecht
+1013,21019A15-,KAPELLEVELD,1218820,4,0,male,child,663071,4,single_with_child,Woluwe Saint-Pierre,1,Maternelles,Kapelleveld,21001C522,HOPITAL U.L.B.,Anderlecht
+1014,21018A01-,SAINT-LAMBERT,1166418,3,1,female,child,634237,1,couple_with_child,Woluwe Saint-Lambert,1,Maternelles,Boulevard de la Woluwe,21001C522,HOPITAL U.L.B.,Anderlecht
+1015,21018A01-,SAINT-LAMBERT,1166451,4,1,female,child,634251,1,couple_with_child,Woluwe Saint-Lambert,1,Maternelles,Boulevard de la Woluwe,21001C522,HOPITAL U.L.B.,Anderlecht
+1016,21019A14-,VAL DE SEIGNEURS,1209101,3,0,male,child,657816,1,couple_with_child,Woluwe Saint-Pierre,1,Maternelles,Stockel,21001C522,HOPITAL U.L.B.,Anderlecht
+1017,21018A12-,STOCKEL (CHAUSSEE DE),1169992,4,1,female,child,636279,1,couple_with_child,Woluwe Saint-Lambert,1,Maternelles,Stockel,21001C522,HOPITAL U.L.B.,Anderlecht
+1018,21019A10-,STOCKEL,1211210,3,0,male,child,659091,1,couple_with_child,Woluwe Saint-Pierre,1,Maternelles,Stockel,21001C6PB,ZONE RURALE,Anderlecht
+1019,21019A131,KONKEL,1182538,3,0,male,child,643479,1,couple_with_child,Woluwe Saint-Pierre,1,Maternelles,Stockel,21001C6PB,ZONE RURALE,Anderlecht
+1020,21018A12-,STOCKEL (CHAUSSEE DE),1169787,4,0,male,child,636190,1,couple_with_child,Woluwe Saint-Lambert,1,Maternelles,Stockel,21001C522,HOPITAL U.L.B.,Anderlecht
+1021,21019A10-,STOCKEL,1211331,5,1,female,child,659150,1,couple_with_child,Woluwe Saint-Pierre,1,Maternelles,Stockel,21001C6PB,ZONE RURALE,Anderlecht
+1022,21019A131,KONKEL,1182155,5,1,female,child,643334,1,couple_with_child,Woluwe Saint-Pierre,1,Maternelles,Stockel,21001C6PB,ZONE RURALE,Anderlecht
+1023,21018A12-,STOCKEL (CHAUSSEE DE),1170001,4,0,male,child,636281,1,couple_with_child,Woluwe Saint-Lambert,1,Maternelles,Stockel,21001C522,HOPITAL U.L.B.,Anderlecht
+1024,21019A242,VENELLES,1179555,5,1,female,child,641861,1,couple_with_child,Woluwe Saint-Pierre,1,Maternelles,Saint-Paul,21001C6PB,ZONE RURALE,Anderlecht
+1025,21019A42-,SALOME AVENUE,1220264,4,1,female,child,663937,1,couple_with_child,Woluwe Saint-Pierre,1,Maternelles,Saint-Paul,21001C6PB,ZONE RURALE,Anderlecht
+1026,21019A21-,MANOIR,1213639,5,0,male,child,660374,1,couple_with_child,Woluwe Saint-Pierre,1,Maternelles,Saint-Paul,21001C6PB,ZONE RURALE,Anderlecht
+1027,21019A20-,SAINT-PAUL,1207047,3,0,male,child,656771,1,couple_with_child,Woluwe Saint-Pierre,1,Maternelles,Saint-Paul,21001C6PB,ZONE RURALE,Anderlecht
+1028,21019A242,VENELLES,1179481,4,0,male,child,641827,4,single_with_child,Woluwe Saint-Pierre,1,Maternelles,Saint-Paul,21001C6PB,ZONE RURALE,Anderlecht
+1029,21019A40-,SAINTE-ALIX,1216450,3,0,male,child,661674,1,couple_with_child,Woluwe Saint-Pierre,1,Maternelles,Sainte-Alix - Joli Bois,21001C6PB,ZONE RURALE,Anderlecht
+1030,21019A40-,SAINTE-ALIX,1216370,3,0,male,child,661649,1,couple_with_child,Woluwe Saint-Pierre,1,Maternelles,Sainte-Alix - Joli Bois,21001C6PB,ZONE RURALE,Anderlecht
