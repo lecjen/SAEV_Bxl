@@ -1,0 +1,6 @@
+,status,nb_pers,pos,destination_book,destination_working,destination_time,book_time,departure_time,max_departure_time,km_battery,charging_station,tot_waiting_time,tot_empty_km,tot_pers_km,pers_per_trip,nb_trips,km,tot_charging_time,book_charge_desination_time,d_tmp
+0,free,0,21001A472,,,870.0,847,847,1219,130.5000000000004,,0,98.0,155.0,30,30,155.0,468,,0
+1,free,0,21012A24-,,,844.0,816,816,1218,130.08333333333374,,0,92.0,143.0,23,23,143.0,434,,0
+2,booked,1,21004E82-,21004E82-,21007A61-,719.0,699,699,1301,7.833333333333331,41,0,79.0,119.0,21,21,119.0,140,,0
+3,free,0,21010A092,,,829.0,806,806,1292,130.1250000000004,,0,88.0,141.0,22,22,141.0,423,,0
+4,free,0,21019A492,,,893.0,860,860,1187,130.416666666667,,0,6.0,38.0,3,3,38.0,82,,0
