@@ -1,0 +1,145 @@
+﻿Code;Territoire;Part des enfants du territoire (quartier ou commune) inscrits dans une école maternelle située en dehors de la Région (%)
+1;Grand Place;1,54
+2;Dansaert;0,94
+3;Béguinage - Dixmude;0,79
+4;Martyrs;1,37
+5;Notre-Dame-aux-Neiges;0,00
+6;Quartier Royal;0,00
+7;Sablon;1,56
+8;Marolles;2,02
+9;Stalingrad;1,42
+10;Anneessens;0,75
+11;Cureghem Bara;2,54
+12;Cureghem Vétérinaire;0,86
+13;Cureghem Rosée;0,61
+14;Duchesse;0,84
+15;Gare de l'ouest;1,64
+16;Molenbeek Historique;1,03
+17;Koekelberg;2,50
+18;Quartier Maritime;1,87
+19;Vieux Laeken Ouest;1,57
+20;Vieux Laeken Est;2,69
+21;Quartier Nord;1,58
+22;Quartier Brabant;3,21
+23;Colignon;2,03
+24;Chaussée de Haecht;2,52
+25;Saint-Josse Centre;0,78
+26;Dailly;1,11
+27;Josaphat;0,31
+28;Plasky;1,61
+29;Squares;2,52
+30;Porte Tervueren;1,06
+31;Saint-Michel;0,00
+32;Saint-Pierre;1,47
+33;Chasse;0,73
+34;Jourdan;1,47
+35;Quartier Européen;4,17
+36;Matonge;2,28
+37;Flagey - Malibran;0,23
+38;Hôpital Etterbeek-Ixelles;1,82
+39;Etangs d'Ixelles;0,97
+40;Louise - Longue Haie;0,00
+41;Berckmans - Hôtel des Monnaies;0,41
+42;Châtelain;2,39
+43;Brugmann - Lepoutre;0,73
+44;Churchill;0,87
+45;Molière - Longchamp;0,00
+46;Altitude 100;0,70
+47;Haut Saint-Gilles;1,21
+48;Porte de Hal;0,82
+49;Bosnie;0,87
+50;Bas Forest;1,09
+51;Van Volxem - Van Haelen;1,02
+52;Veeweyde - Aurore;2,24
+53;Bizet - Roue- Ceria;2,11
+54;Vogelenzang - Erasme;6,10
+55;Neerpede;13,64
+56;Bon Air;7,59
+57;Scherdemael;6,41
+58;Anderlecht - Centre - Wayez;2,77
+59;Scheut;3,90
+60;Buffon;3,31
+61;Moortebeek - Peterbos;4,38
+62;Machtens;3,48
+63;Karreveld;2,32
+64;Hôpital Français;2,15
+65;Korenbeek;2,55
+66;Potaarde;3,89
+67;Berchem Sainte-Agathe Centre;3,23
+68;Villas de Ganshoren;2,82
+69;Ganshoren Centre;2,64
+70;Basilique;2,65
+71;Woeste;0,88
+72;Jette Centre;2,20
+73;Heymbosch - AZ-Jette;2,90
+74;Heysel;4,51
+75;Houba;3,21
+76;Mutsaard;8,50
+77;Heembeek;3,18
+78;Haren;5,49
+79;Paix;2,70
+80;Helmet;2,22
+81;Gare de Schaerbeek;3,73
+82;Terdelt;1,15
+83;Conscience;2,51
+84;Avenue Léopold III;2,02
+85;Gare Josaphat;2,19
+86;Paduwa;2,36
+87;Reyers;1,79
+88;Georges Henri;1,11
+89;Gribaumont;1,75
+90;Roodebeek - Constellations;0,00
+91;Val d'Or;0,48
+92;Kapelleveld;1,96
+93;Boulevard de la Woluwe;0,69
+94;Stockel;2,41
+95;Sainte-Alix - Joli Bois;1,17
+96;Saint-Paul;1,81
+97;Putdael;3,13
+98;Auderghem centre;1,91
+99;Chant d'Oiseau;0,48
+100;Chaussée de Wavre - Saint-Julien;0,15
+101;Trois Tilleuls;0,78
+102;Transvaal;2,14
+103;Boitsfort Centre;1,35
+104;Watermael Centre;1,71
+105;Dries;0,46
+106;Boondael;0,51
+107;Université;0,33
+108;Montjoie - Langeveld;0,59
+109;Observatoire;0,00
+110;Fort Jaco;0,00
+111;Vivier d'Oie;1,28
+112;Kriekenput - Homborch - Verrewinkel;7,64
+113;Saint-Job Kauwberg;2,60
+114;Dieweg;1,75
+115;Kalevoet - Moensberg;3,54
+116;Globe;0,75
+117;Vossegat - Roosendaal;0,29
+118;Saint-Denis - Neerstalle;2,04
+701;Cimetière d'Ixelles;0,00
+702;Cimetière de Saint-Gilles;0,00
+800;Industrie Nord;0,00
+801;Industrie OTAN;0,00
+802;Delta;0,00
+803;Industrie Sud;0,00
+804;Gare du Midi;0,00
+805;Industrie Birmingham;0,00
+900;Domaine Royal Laeken;0,00
+901;Parc Josaphat;0,00
+902;Botanique;0,00
+903;Cinquantenaire;0,00
+904;Parc Léopold;0,00
+905;Parc de la Woluwe;0,00
+906;Forêt de Soignes;0,00
+907;Bois de la Cambre;0,00
+908;Parc Wolvendael;0,00
+909;Parc Duden - Parc de Forest;0,00
+910;Parc des Etangs;0,00
+911;Parc Astrid;0,00
+912;Parc Forestier;0,00
+913;Parc Marie-José;0,00
+914;Scheutbos;0,00
+915;Parc Elisabeth;0,00
+916;Bois du Laarbeek - Poelbos;0,00
+917;Parc Baudouin - Dielegembos;0,00

@@ -1,0 +1,22 @@
+,Unnamed: 0.1.1,SectorStatID,SectorStatName,PersID,Age,GenderID,GenderName,ChildOrParent,HouseholdID,HouseholdTypeID,HouseholdTypeName,WorkerID,WorkerType,Code,Commune,WorkerID.1,WorkerType.1,WorkSectorStatID,WorkSectorStatName
+0,385750,21004D600,PARVIS SAINT-ROCH,385750,17,1,female,child,214070,4,single_with_child,5,Unif off campus,21004D600,Bruxelles,5,Unif off campus,21004C642,AVENUE FRANKLIN ROOSEVELT
+1,1073805,21015A22-,MARBOTIN A. (RUE),1073805,17,1,female,child,596078,1,couple_with_child,5,Unif off campus,21015A22-,Schaerbeek,5,Unif off campus,21004C642,AVENUE FRANKLIN ROOSEVELT
+2,134705,21002A23-,TH. BALIS (PLACE),134705,17,1,female,child,72675,1,couple_with_child,5,Unif off campus,21002A23-,Auderghem,5,Unif off campus,21004C642,AVENUE FRANKLIN ROOSEVELT
+3,257055,21004A70-,BLAES (RUE)-SUD,257055,17,0,male,child,140611,1,couple_with_child,5,Unif off campus,21004A70-,Bruxelles,5,Unif off campus,21004C642,AVENUE FRANKLIN ROOSEVELT
+4,726394,21010A21-,MADELEINE,726394,17,1,female,child,410457,4,single_with_child,5,Unif off campus,21010A21-,Jette,5,Unif off campus,21005A01-,SAINTE-GERTRUDE
+5,1298256,21019A32-,CHANT D'OISEAU,1298256,17,1,female,child,722461,1,couple_with_child,5,Unif off campus,21019A32-,Woluwe Saint-Pierre,5,Unif off campus,21009A501,LUXEMBOURG (PLACE DE)
+6,1151785,21016A00-,GLOBE-EST,1151785,17,1,female,child,639827,1,couple_with_child,5,Unif off campus,21016A00-,Uccle,5,Unif off campus,21001B25-,REVISION-NORD
+7,1127042,21016A71-,KEIENBEMPT,1127042,17,0,male,child,626182,1,couple_with_child,5,Unif off campus,21016A71-,Uccle,5,Unif off campus,21001B25-,REVISION-NORD
+8,672581,21009A73-,BERCKENDAEL,672581,17,1,female,child,381430,1,couple_with_child,5,Unif off campus,21009A73-,Ixelles,5,Unif off campus,21019A52-,DUC (RUE)
+9,1215761,21018A21-,DE BROQUEVILLE (AVENUE)-NORD,1215761,17,0,male,child,676061,1,couple_with_child,5,Unif off campus,21018A21-,Woluwe Saint-Lambert,5,Unif off campus,21019A52-,DUC (RUE)
+10,114902,21001B332,GOUJONS,114902,17,0,male,child,61920,1,couple_with_child,5,Unif off campus,21001B332,Anderlecht,5,Unif off campus,21007A70-,ALTITUDE  CENT
+11,217907,21004B2MJ,SCHUMAN (ROND-POINT),217907,17,1,female,child,117882,1,couple_with_child,5,Unif off campus,21004B2MJ,Bruxelles,5,Unif off campus,21018A37-,COMMUNAUTES
+12,1060090,21015A00-,COLIGNON (PLACE),1060090,17,1,female,child,589260,1,couple_with_child,5,Unif off campus,21015A00-,Schaerbeek,5,Unif off campus,21018A37-,COMMUNAUTES
+13,764002,21012A24-,OSSEGHEM,764002,17,0,male,child,430190,1,couple_with_child,5,Unif off campus,21012A24-,Molenbeek Saint-Jean,5,Unif off campus,21018A37-,COMMUNAUTES
+14,659056,21009A22-,UNIVERSITE,659056,17,0,male,child,372692,4,single_with_child,5,Unif off campus,21009A22-,Ixelles,5,Unif off campus,21015A73-,H. EVENEPOEL (RUE)
+15,1042362,21015A40-,BRABANT (RUE DE),1042362,17,0,male,parent,580485,5,colloc,5,Unif off campus,21015A40-,Schaerbeek,4,Unif on campus,21018A311,PARC SCHUMAN
+16,1195350,21017A432,DRIES,1195350,17,0,male,child,664400,1,couple_with_child,5,Unif off campus,21017A432,Watermael-Boitsfort,5,Unif off campus,21005A12-,SAINT-ANTOINE
+17,1306748,21019A10-,STOCKEL,1306748,17,0,male,child,727183,1,couple_with_child,5,Unif off campus,21019A10-,Woluwe Saint-Pierre,5,Unif off campus,21004G30-,SAINTE-ELISABETH
+18,123111,21001A152,LINDE-OUEST,123111,17,1,female,child,66309,1,couple_with_child,5,Unif off campus,21001A152,Anderlecht,5,Unif off campus,21017A534,RUE DES BEGONIAS
+19,791799,21012A60-,LAEKENVELD,791799,17,1,female,child,444853,1,couple_with_child,5,Unif off campus,21012A60-,Molenbeek Saint-Jean,5,Unif off campus,21017A192,STADE DES TROIS TILLEULS
+20,1224394,21018A33-,NEERVELD,1224394,17,1,female,child,681017,1,couple_with_child,5,Unif off campus,21018A33-,Woluwe Saint-Lambert,5,Unif off campus,21004E74-,EM. DELVA (RUE)

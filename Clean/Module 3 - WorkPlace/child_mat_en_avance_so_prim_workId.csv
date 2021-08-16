@@ -1,0 +1,17 @@
+,Unnamed: 0.1,SectorStatID,SectorStatName,PersID,Age,GenderID,GenderName,ChildOrParent,HouseholdID,HouseholdTypeID,HouseholdTypeName,WorkerID,WorkerType,Code,Commune,WorkerID,WorkerType
+0,91685,21001B21-,BROGNIEZ-NORD,91685,5,0,male,child,49883,1,couple_with_child,,,21001B21-,Anderlecht,2,Primaires
+1,365348,21004E101,PARVIS NOTRE DAME,365348,5,0,male,child,202401,1,couple_with_child,,,21004E101,Bruxelles,2,Primaires
+2,273930,21004A72-,SAINT-THOMAS (INSTITUT),273930,5,0,male,parent,150755,4,single_with_child,,,21004A72-,Bruxelles,2,Primaires
+3,787592,21012A12-,BIRMINGHAM-SUD,787592,5,0,male,parent,442383,1,couple_with_child,,,21012A12-,Molenbeek Saint-Jean,2,Primaires
+4,1069048,21015A24-,WAELHEM (RUE),1069048,5,0,male,child,593656,4,single_with_child,,,21015A24-,Schaerbeek,2,Primaires
+5,1117478,21016A912,GLOBE-OUEST,1117478,5,0,male,child,620732,1,couple_with_child,,,21016A912,Uccle,2,Primaires
+6,1238485,21018A05-,DRIES,1238485,5,0,male,child,688868,1,couple_with_child,,,21018A05-,Woluwe Saint-Lambert,2,Primaires
+7,1276038,21019A252,MONTGOLFIER,1276038,5,0,male,child,710302,1,couple_with_child,,,21019A252,Woluwe Saint-Pierre,2,Primaires
+8,48592,21001A80-,SILLON,48592,5,1,female,child,26976,1,couple_with_child,,,21001A80-,Anderlecht,2,Primaires
+9,311031,21004E70-,MARIE-CHRISTINE (RUE),311031,5,1,female,child,174266,4,single_with_child,,,21004E70-,Bruxelles,2,Primaires
+10,723327,21010A01-,ESSEGHEM,723327,5,1,female,child,408587,4,single_with_child,,,21010A01-,Jette,2,Primaires
+11,796879,21012A63-,DUBRUCQ-NORD,796879,5,1,female,child,447377,1,couple_with_child,,,21012A63-,Molenbeek Saint-Jean,2,Primaires
+12,965060,21015A34-,PAQUERETTES (RUE),965060,5,1,female,child,540282,1,couple_with_child,,,21015A34-,Schaerbeek,2,Primaires
+13,1134146,21016A64-,MOLENSTEEN,1134146,5,1,female,child,630226,1,couple_with_child,,,21016A64-,Uccle,2,Primaires
+14,1221889,21018A311,PARC SCHUMAN,1221889,5,1,female,child,679503,1,couple_with_child,,,21018A311,Woluwe Saint-Lambert,2,Primaires
+15,1304967,21019A14-,VAL DE SEIGNEURS,1304967,5,1,female,child,726014,1,couple_with_child,,,21019A14-,Woluwe Saint-Pierre,2,Primaires
