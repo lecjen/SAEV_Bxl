@@ -1,0 +1,725 @@
+﻿Code;Territoire;Commune;Quartier
+21001A00-;RESISTANCE;Anderlecht;Anderlecht - Centre - Wayez
+21001A011;KLEINMOLEN;Anderlecht;Anderlecht - Centre - Wayez
+21001A02-;WAYEZ;Anderlecht;Anderlecht - Centre - Wayez
+21001A031;RAUTER-SUD;Anderlecht;Veeweyde - Aurore
+21001A041;VEEWEYDE-SUD;Anderlecht;Veeweyde - Aurore
+21001A051;LINDE-EST;Anderlecht;Anderlecht - Centre - Wayez
+21001A07-;BIRMINGHAM;Anderlecht;Industrie Birmingham
+21001A08-;ASTRID (PARC);Anderlecht;Parc Astrid
+21001A10-;PORSELEIN;Anderlecht;Anderlecht - Centre - Wayez
+21001A112;BIESTEBROEK;Anderlecht;Veeweyde - Aurore
+21001A120;MINIMES;Anderlecht;Anderlecht - Centre - Wayez
+21001A132;RAUTER-NORD;Anderlecht;Veeweyde - Aurore
+21001A142;VEEWEYDE-NORD;Anderlecht;Veeweyde - Aurore
+21001A152;LINDE-OUEST;Anderlecht;Anderlecht - Centre - Wayez
+21001A30-;BIZET;Anderlecht;Bizet - Roue- Ceria
+21001A31-;CHAUSSEE DE MONS - SAINT-LUC;Anderlecht;Veeweyde - Aurore
+21001A32-;AURORE;Anderlecht;Veeweyde - Aurore
+21001A331;WALCOURT;Anderlecht;Bizet - Roue- Ceria
+21001A332;ROUE;Anderlecht;Bizet - Roue- Ceria
+21001A34-;ROUE - CITE JARDIN;Anderlecht;Bizet - Roue- Ceria
+21001A350;CERIA - ZONE D'HABITAT;Anderlecht;Bizet - Roue- Ceria
+21001A37-;ZUEN - INDUSTRIE;Anderlecht;Vogelenzang - Erasme
+21001A3MJ;CERIA I;Anderlecht;Bizet - Roue- Ceria
+21001A401;ARBORETUM;Anderlecht;Scherdemael
+21001A41-;ROMAIN ROLLAND;Anderlecht;Scherdemael
+21001A42-;KAT;Anderlecht;Scherdemael
+21001A43-;VAN BEETHOVEN;Anderlecht;Veeweyde - Aurore
+21001A441;DOCTEUR ROUX;Anderlecht;Bizet - Roue- Ceria
+21001A451;VENIZELOS;Anderlecht;Bizet - Roue- Ceria
+21001A472;STADE COMMUNAL - INDUSTRIE;Anderlecht;Bizet - Roue- Ceria
+21001A492;ETANGS - PARC;Anderlecht;Parc des Etangs
+21001A503;VIVES;Anderlecht;Scherdemael
+21001A51-;SCHERDEMAEL;Anderlecht;Scherdemael
+21001A52-;SCHERDEMAEL-NORD;Anderlecht;Scherdemael
+21001A53-;NELLIE MELBA;Anderlecht;Scherdemael
+21001A552;TREFLE;Anderlecht;Bizet - Roue- Ceria
+21001A712;SCHEUT - DE SMET;Anderlecht;Scheut
+21001A72-;OSSEGEM;Anderlecht;Machtens
+21001A732;SCHEUTVELD;Anderlecht;Buffon
+21001A74-;SCHEUT-OUEST;Anderlecht;Scheut
+21001A783;SCHEUT-INTERNAT;Anderlecht;Scheut
+21001A80-;SILLON;Anderlecht;Scherdemael
+21001A81-;BROECK;Anderlecht;Moortebeek - Peterbos
+21001A82-;MOORTEBEEK;Anderlecht;Moortebeek - Peterbos
+21001A83-;PETERBOS;Anderlecht;Moortebeek - Peterbos
+21001A84-;POESIE;Anderlecht;Moortebeek - Peterbos
+21001A85-;AUBADE;Anderlecht;Scheut
+21001A90-;SCHEUTKAPEL;Anderlecht;Scheut
+21001A911;SCHEUT-EST;Anderlecht;Scheut
+21001A92-;JAKOB SMITS;Anderlecht;Scheut
+21001A931;AGRAFE-NORBERT GILLE;Anderlecht;Scheut
+21001A941;CROCUS;Anderlecht;Buffon
+21001A95-;BUFFON;Anderlecht;Buffon
+21001A982;PARC FORESTIER;Anderlecht;Parc Forestier
+21001B10-;ROSEE-EST;Anderlecht;Cureghem Rosée
+21001B11-;ROSEE-OUEST;Anderlecht;Cureghem Rosée
+21001B17-;ABATTOIR;Anderlecht;Cureghem Rosée
+21001B20-;CONSEIL-NORD;Anderlecht;Cureghem Bara
+21001B21-;BROGNIEZ-NORD;Anderlecht;Cureghem Bara
+21001B22-;BROGNIEZ-SUD;Anderlecht;Cureghem Bara
+21001B23-;CONSEIL-SUD;Anderlecht;Cureghem Bara
+21001B241;REVISION-SUD;Anderlecht;Cureghem Vétérinaire
+21001B25-;REVISION-NORD;Anderlecht;Cureghem Vétérinaire
+21001B31-;ALBERT I- IMMEUBLES;Anderlecht;Cureghem Vétérinaire
+21001B321;ALBERT I- QUARTIER;Anderlecht;Cureghem Vétérinaire
+21001B332;GOUJONS;Anderlecht;Cureghem Vétérinaire
+21001B372;DEUX GARES;Anderlecht;Cureghem Vétérinaire
+21001B3MJ;PETITE ILE - RIVE DROITE;Anderlecht;Industrie Sud
+21001C512;CHANTS D'OISEAUX;Anderlecht;Vogelenzang - Erasme
+21001C522;HOPITAL U.L.B.;Anderlecht;Vogelenzang - Erasme
+21001C581;CIMETIERE;Anderlecht;Vogelenzang - Erasme
+21001C5MA;MEYLEMEERSCH;Anderlecht;Vogelenzang - Erasme
+21001C5PA;MEERVELD;Anderlecht;Neerpede
+21001C611;SOETKIN;Anderlecht;Neerpede
+21001C6MB;MEYLEMEERSCH-EST;Anderlecht;Vogelenzang - Erasme
+21002A00-;CENTRE - NORD;Auderghem;Auderghem centre
+21002A01-;SAINTE-ANNE;Auderghem;Auderghem centre
+21002A02-;CENTRE-SUD;Auderghem;Auderghem centre
+21002A030;LAMMERENDRIES;Auderghem;Trois Tilleuls
+21002A041;VIGNETTE;Auderghem;Auderghem centre
+21002A072;CENTRE COMMERCIAL;Auderghem;Auderghem centre
+21002A091;TROIS COULEURS;Auderghem;Forêt de Soignes
+21002A10-;TRANSVAAL;Auderghem;Transvaal
+21002A11-;SACRE-COEUR;Auderghem;Transvaal
+21002A12-;AVENUE SCHALLER;Auderghem;Transvaal
+21002A130;PARC DES PRINCES;Auderghem;Transvaal
+21002A14-;TEN REUKEN;Auderghem;Transvaal
+21002A15-;SOUVERAIN (BLV DU)- BUILDINGS;Auderghem;Transvaal
+21002A18-;ROUGE CLOITRE;Auderghem;Forêt de Soignes
+21002A190;FORET DE SOIGNES;Auderghem;Forêt de Soignes
+21002A20-;SAINT-JULIEN;Auderghem;Chaussée de Wavre - Saint-Julien
+21002A21-;LEBON;Auderghem;Chaussée de Wavre - Saint-Julien
+21002A22-;CANARIS (AVENUE DES);Auderghem;Chaussée de Wavre - Saint-Julien
+21002A23-;TH. BALIS (PLACE);Auderghem;Chaussée de Wavre - Saint-Julien
+21002A24-;AVENUE DE BROUCKERE;Auderghem;Chaussée de Wavre - Saint-Julien
+21002A25-;WATERMAEL (CHAUSSEE DE);Auderghem;Chaussée de Wavre - Saint-Julien
+21002A30-;TRIOMPHE (BOULEVARD DU);Auderghem;Chaussée de Wavre - Saint-Julien
+21002A311;AMITIE (PLACE DE L');Auderghem;Chaussée de Wavre - Saint-Julien
+21002A372;QUARTIER INDUSTRIE;Auderghem;Chaussée de Wavre - Saint-Julien
+21002A39-;CHEMIN DE FER;Auderghem;Delta
+21002A411;PUTDAAL;Auderghem;Putdael
+21002A422;AVENUE IS.GERARD;Auderghem;Putdael
+21002A43-;SOUVERAIN (BOULEVARD DU) NORD;Auderghem;Auderghem centre
+21002A441;CHANT D'OISEAUX;Auderghem;Chant d'Oiseau
+21002A45-;VAL DUC;Auderghem;Chaussée de Wavre - Saint-Julien
+21002A482;VAL DUCHESSE;Auderghem;Parc de la Woluwe
+21002A492;WOLUWE PARC;Auderghem;Parc de la Woluwe
+21002A511;INVALIDES (BOULEVARD DES);Auderghem;Chaussée de Wavre - Saint-Julien
+21002A52-;BEAULIEU;Auderghem;Watermael Centre
+21002A53-;PECHERIES;Auderghem;Watermael Centre
+21002A572;DEPOT METRO;Auderghem;Delta
+21003A00-;CENTRE;Berchem Sainte-Agathe;Berchem Sainte-Agathe Centre
+21003A011;MOLENBERG;Berchem Sainte-Agathe;Berchem Sainte-Agathe Centre
+21003A02-;LAURE - BASILIQUE;Berchem Sainte-Agathe;Berchem Sainte-Agathe Centre
+21003A03-;HAUT-CHAMP;Berchem Sainte-Agathe;Korenbeek
+21003A04-;L. DE SMET;Berchem Sainte-Agathe;Potaarde
+21003A05-;DE SELLIERS DE MORANVILLE;Berchem Sainte-Agathe;Berchem Sainte-Agathe Centre
+21003A0AJ;HUNDERENVELD;Berchem Sainte-Agathe;Berchem Sainte-Agathe Centre
+21003A10-;HOPITAL FRANCAIS;Berchem Sainte-Agathe;Hôpital Français
+21003A11-;CITE MODERNE;Berchem Sainte-Agathe;Berchem Sainte-Agathe Centre
+21003A212;CLOS DU ZAVELENBERG;Berchem Sainte-Agathe;Berchem Sainte-Agathe Centre
+21003A283;ZAVELENBERG;Berchem Sainte-Agathe;Berchem Sainte-Agathe Centre
+21003A2MJ;GARE;Berchem Sainte-Agathe;Berchem Sainte-Agathe Centre
+21003A312;POTAARDE  VLAK;Berchem Sainte-Agathe;Potaarde
+21003A323;SEPT ETOILES;Berchem Sainte-Agathe;Berchem Sainte-Agathe Centre
+21003A331;ALLEE VERTE;Berchem Sainte-Agathe;Berchem Sainte-Agathe Centre
+21003A342;HOGENBOS;Berchem Sainte-Agathe;Korenbeek
+21003A38-;KONINCKXBOS;Berchem Sainte-Agathe;Potaarde
+21003A41-;MONNET;Berchem Sainte-Agathe;Berchem Sainte-Agathe Centre
+21004A001;GRAND-PLACE;Bruxelles;Grand Place
+21004A002;BOURSE;Bruxelles;Grand Place
+21004A01-;VIEILLE HALLE AUX BLES;Bruxelles;Grand Place
+21004A02-;SAINT-FRANCOIS XAVIER;Bruxelles;Stalingrad
+21004A03-;BON SECOURS - PALAIS DU MIDI;Bruxelles;Stalingrad
+21004A04-;NOTRE-DAME DE LA CHAPELLE;Bruxelles;Marolles
+21004A10-;GARE CENTRALE;Bruxelles;Quartier Royal
+21004A12-;REGENT (BOULEVARD DU);Bruxelles;Quartier Royal
+21004A13-;PETIT SABLON;Bruxelles;Sablon
+21004A14-;GRAND SABLON;Bruxelles;Sablon
+21004A15-;JACOBS (PLACE);Bruxelles;Marolles
+21004A16-;PALAIS JUSTICE-HOP. ST.-PIERRE;Bruxelles;Marolles
+21004A19-;PALAIS ROYAL;Bruxelles;Quartier Royal
+21004A1MJ;COLONIES (RUE DES);Bruxelles;Quartier Royal
+21004A20-;BOURSE-NORD-OUEST;Bruxelles;Dansaert
+21004A21-;ANNEESSENS (PLACE);Bruxelles;Anneessens
+21004A22-;SENNE (RUE DE LA);Bruxelles;Anneessens
+21004A23-;NOUVEAU MARCHE AU GRAIN;Bruxelles;Dansaert
+21004A24-;MARCHE AU PORCS;Bruxelles;Dansaert
+21004A25-;BEGUINAGE (PLACE DU);Bruxelles;Béguinage - Dixmude
+21004A30-;SAINT-MICHEL ET GUDULE;Bruxelles;Quartier Royal
+21004A32-;CONGRES - GARE;Bruxelles;Martyrs
+21004A33-;LIBERTE (PLACE DE LA);Bruxelles;Notre-Dame-aux-Neiges
+21004A34-;MONNAIE;Bruxelles;Grand Place
+21004A35-;AD. MAX (BOULEVARD);Bruxelles;Martyrs
+21004A3MJ;CITE ADMINISTRATIVE ET CONGRES;Bruxelles;Notre-Dame-aux-Neiges
+21004A70-;BLAES (RUE)-SUD;Bruxelles;Marolles
+21004A71-;BLAES (RUE)-CENTRE;Bruxelles;Marolles
+21004A72-;SAINT-THOMAS (INSTITUT);Bruxelles;Marolles
+21004A811;QUAI DU COMMERCE;Bruxelles;Béguinage - Dixmude
+21004A822;RUE DES COMMERCANTS;Bruxelles;Béguinage - Dixmude
+21004A83-;E. JACQMAIN (BOULEVARD)-OUEST;Bruxelles;Béguinage - Dixmude
+21004B10-;ORBAN (SQUARE);Bruxelles;Quartier Européen
+21004B112;RUE DU COMMERCE;Bruxelles;Quartier Européen
+21004B13-;TREVES (RUE DE);Bruxelles;Quartier Européen
+21004B1MJ;RUE JOSEPH II;Bruxelles;Quartier Européen
+21004B293;LEOPOLD (PARC);Bruxelles;Parc Léopold
+21004B2MJ;SCHUMAN (ROND-POINT);Bruxelles;Quartier Européen
+21004B2NJ;CITE DE LA CHAUSSEE;Bruxelles;Quartier Européen
+21004B2WJ;RUE DE PASCAL - ST.-SACREMENT;Bruxelles;Quartier Européen
+21004B411;DEUX EGLISES (RUE DES);Bruxelles;Squares
+21004B421;MARIE-LOUISE (SQUARE);Bruxelles;Squares
+21004B43-;AMBIORIX-NORD (SQUARE);Bruxelles;Squares
+21004B44-;AMBIORIX-SUD (SQUARE);Bruxelles;Squares
+21004B45-;ECOLE MILITAIRE;Bruxelles;Porte Tervueren
+21004B49-;CINQUANTENAIRE (PARC DU);Bruxelles;Cinquantenaire
+21004C501;LOUISE (AVENUE)-NORD;Bruxelles;Châtelain
+21004C51-;LOUISE (AVENUE)-NORD-EST;Bruxelles;Louise - Longue Haie
+21004C52-;LOUISE (AVENUE)-NORD-OUEST;Bruxelles;Châtelain
+21004C53-;LOUISE (AVENUE)-SUD-OUEST;Bruxelles;Brugmann - Lepoutre
+21004C54-;LOUISE (AVENUE)-SUD-EST;Bruxelles;Etangs d'Ixelles
+21004C552;LOUISE (AVENUE)-SUD;Bruxelles;Etangs d'Ixelles
+21004C591;CAMBRE (BOIS DE LA);Bruxelles;Bois de la Cambre
+21004C61-;U.L.B.;Bruxelles;Boondael
+21004C62-;BOENDAAL-OUEST;Bruxelles;Boondael
+21004C63-;NATIONS (SQUARE DES);Bruxelles;Dries
+21004C642;AVENUE FRANKLIN ROOSEVELT;Bruxelles;Boondael
+21004C65-;VIVIER D'OIE;Bruxelles;Fort Jaco
+21004D600;PARVIS SAINT-ROCH;Bruxelles;Quartier Nord
+21004D610;ANVERS (CHAUSSEE D')-SUD;Bruxelles;Quartier Nord
+21004D62-;ANVERS (CHAUSSEE D')-NORD;Bruxelles;Quartier Nord
+21004D631;ALLEE VERTE - BASSIN VERGOTE;Bruxelles;Quartier Maritime
+21004D64-;MASUI (PLACE)-NORD;Bruxelles;Quartier Nord
+21004D672;QUAI DE WILLEBROECK;Bruxelles;Quartier Nord
+21004D6MJ;QUAI DES USINES - MONNOYER;Bruxelles;Industrie Nord
+21004D6NJ;TOUR ET TAXIS;Bruxelles;Quartier Maritime
+21004E101;PARVIS NOTRE DAME;Bruxelles;Vieux Laeken Est
+21004E112;RUE DES CHRYSANTHEMES;Bruxelles;Vieux Laeken Est
+21004E12-;PRINCE LEOPOLD (SQUARE);Bruxelles;Houba
+21004E130;SACRE-COEUR;Bruxelles;Houba
+21004E14-;ECOLE DES CADETS;Bruxelles;Houba
+21004E180;DOMAINE ROYALE;Bruxelles;Domaine Royal Laeken
+21004E193;N.D. DE LAEKEN;Bruxelles;Vieux Laeken Est
+21004E201;AVENUE JEAN DE BOLOGNE;Bruxelles;Mutsaard
+21004E211;RUE DE WAND;Bruxelles;Mutsaard
+21004E222;MUTSAARD (AVENUE);Bruxelles;Mutsaard
+21004E233;DE MEYSSE (AVENUE);Bruxelles;Mutsaard
+21004E292;AVENUE DES CROIX DU FEU;Bruxelles;Domaine Royal Laeken
+21004E70-;MARIE-CHRISTINE (RUE);Bruxelles;Vieux Laeken Est
+21004E72-;MAISON ROUGE (PLACE)-SUD;Bruxelles;Vieux Laeken Est
+21004E73-;EM. BOCKSTAEL (BOULEVARD)-SUD;Bruxelles;Vieux Laeken Est
+21004E74-;EM. DELVA (RUE);Bruxelles;Vieux Laeken Ouest
+21004E800;DIVIN JESUS;Bruxelles;Heysel
+21004E81-;DISQUE (RUE DU);Bruxelles;Heysel
+21004E82-;CITE MODELE;Bruxelles;Heysel
+21004E83-;STIENON (AVENUE);Bruxelles;Heysel
+21004E8MJ;HEYSEL;Bruxelles;Heysel
+21004E8NJ;HOPITAL BRUGMANN;Bruxelles;Heysel
+21004F511;AVENUE DES PAGODES;Bruxelles;Mutsaard
+21004F522;AVENUE DE VERSAILLES;Bruxelles;Mutsaard
+21004F531;RUE DES FAINES;Bruxelles;Heembeek
+21004F572;MARLY-SUD;Bruxelles;Industrie Nord
+21004F901;PLACE PETER BENOIT;Bruxelles;Heembeek
+21004F91-;CROIX DE GUERRE (AVENUE DES);Bruxelles;Heembeek
+21004F922;RUE CHATEAU BEYAERD;Bruxelles;Heembeek
+21004F930;COIN DES CERISES;Bruxelles;Heembeek
+21004F94-;VAL MARIA;Bruxelles;Heembeek
+21004F953;RUE DU WIMPELBERG;Bruxelles;Heembeek
+21004F970;MARLY-NORD;Bruxelles;Industrie Nord
+21004F994;TRASSERSWEG - NEDER-HEEMBEEK;Bruxelles;Heembeek
+21004F9MJ;NEDER-HEEMBEEK-NORD;Bruxelles;Industrie Nord
+21004G30-;SAINTE-ELISABETH;Bruxelles;Haren
+21004G310;HAREN-SUD-OUEST;Bruxelles;Haren
+21004G321;HAREN-EST;Bruxelles;Haren
+21004G371;GARE DE FORMATION;Bruxelles;Industrie Nord
+21004G3MJ;DOBBELENBERG (RUE DE);Bruxelles;Haren
+21004G3NJ;HAREN-SUD;Bruxelles;Industrie OTAN
+21005A00-;HOTEL COMMUNAL;Etterbeek;Jourdan
+21005A01-;SAINTE-GERTRUDE;Etterbeek;Saint-Pierre
+21005A02-;CHAMP DU ROI (RUE);Etterbeek;Saint-Pierre
+21005A031;MAELBEEK;Etterbeek;Jourdan
+21005A042;PH. BAUCQ (RUE);Etterbeek;Chasse
+21005A051;RINSDELLE;Etterbeek;Saint-Pierre
+21005A082;COURS ST-MICHEL;Etterbeek;Saint-Pierre
+21005A10-;GENERAL HENRI (RUE);Etterbeek;Chasse
+21005A11-;NOTRE-DAME DU SACRE-COEUR;Etterbeek;Saint-Pierre
+21005A12-;SAINT-ANTOINE;Etterbeek;Chasse
+21005A13-;LA CHASSE;Etterbeek;Chasse
+21005A14-;ARMEE (AVENUE DE L');Etterbeek;Saint-Michel
+21005A15-;SAINT-MICHEL COLLEGE;Etterbeek;Saint-Michel
+21005A20-;PORTE DE TERVUEREN - TONGRES;Etterbeek;Porte Tervueren
+21005A21-;PORTE DE TERVUEREN - BRAFFORT;Etterbeek;Porte Tervueren
+21005A22-;PORTE DE TERVUEREN - L. DE LAN;Etterbeek;Porte Tervueren
+21005A29-;CINQUANTENAIRE (PARC);Etterbeek;Cinquantenaire
+21005A311;CASERNE (Etterbeek);Etterbeek;Chasse
+21005A322;NOUVELLE AVENUE-SUD;Etterbeek;Chasse
+21005A33-;CARDINAL LAVIGERIE (RUE);Etterbeek;Chaussée de Wavre - Saint-Julien
+21006A001;VIEIL EVERE;Evere;Paix
+21006A011;CENTRE;Evere;Paix
+21006A02-;IEDER ZIJN HUIS - STROOBANTS;Evere;Paix
+21006A03-;BLOCS SAINT-VINCENT;Evere;Paix
+21006A042;KERKHOEK;Evere;Paix
+21006A052;CHAMP DE REPOS;Evere;Paix
+21006A073;GARE DE FORMATION;Evere;Industrie Nord
+21006A094;BON PASTEUR;Evere;Paix
+21006A101;CONSCIENCE;Evere;Conscience
+21006A11-;OASIS - PROVENCE - LANGUEDOC;Evere;Avenue Léopold III
+21006A12-;GERMINAL I;Evere;Avenue Léopold III
+21006A13-;MAISON COMMUNALE;Evere;Conscience
+21006A142;ED. DEKNOOP (RUE);Evere;Conscience
+21006A153;KEET;Evere;Conscience
+21006A171;ANCIEN COMBATTANTS (AVENUE);Evere;Avenue Léopold III
+21006A201;HAUT-EVERE;Evere;Paduwa
+21006A21-;HOME FAMILIAL BRABANT;Evere;Paduwa
+21006A22-;SAINT-EXUPERY;Evere;Avenue Léopold III
+21006A23-;DU BONHEUR;Evere;Paduwa
+21006A24-;IEDER ZIJN HUIS - ZAVENTEM;Evere;Paduwa
+21006A25-;GIBET;Evere;Paduwa
+21006A272;QUARTIER GROSJEAN;Evere;Paduwa
+21006A312;J. BORDET (AVENUE DE);Evere;Avenue Léopold III
+21006A323;GERMINAL II;Evere;Avenue Léopold III
+21006A37-;ZONE INDUSTRIELLE;Evere;Industrie OTAN
+21006A403;QUARTIER CICERO;Evere;Paduwa
+21006A414;P. DUPONT (RUE);Evere;Avenue Léopold III
+21006A474;COMMUNAUTES;Evere;Paduwa
+21006A48-;CIMETIERE BRUXELLES;Evere;Cimetière de Bruxelles
+21006A515;CARLI;Evere;Paix
+21007A00-;CENTRE SAINT-DENIS;Forest;Saint-Denis - Neerstalle
+21007A01-;CURE D'ARS;Forest;Saint-Denis - Neerstalle
+21007A02-;STUART MERRIL;Forest;Saint-Denis - Neerstalle
+21007A03-;FOYER FORESTOIS - FAMILLE;Forest;Saint-Denis - Neerstalle
+21007A04-;FOYER FORESTOIS - MADELON;Forest;Saint-Denis - Neerstalle
+21007A05-;NEERSTALLE;Forest;Saint-Denis - Neerstalle
+21007A06-;KATANGA;Forest;Saint-Denis - Neerstalle
+21007A071;BOLLINCKX;Forest;Industrie Sud
+21007A082;BEMPT;Forest;Industrie Sud
+21007A101;BOURGOGNE;Forest;Van Volxem - Van Haelen
+21007A111;MESSIDOR I;Forest;Vossegat - Roosendaal
+21007A12-;HAVESKERCKE;Forest;Vossegat - Roosendaal
+21007A132;DENAYER (RUE);Forest;Vossegat - Roosendaal
+21007A142;MONTE CARLO;Forest;Van Volxem - Van Haelen
+21007A201;ROOSENDAEL (RUE);Forest;Vossegat - Roosendaal
+21007A21-;MAGNANERIE;Forest;Vossegat - Roosendaal
+21007A239;NEPTUNE (AVENUE) I;Forest;Altitude 100
+21007A242;GLOBE;Forest;Vossegat - Roosendaal
+21007A252;MESSIDOR II;Forest;Vossegat - Roosendaal
+21007A291;FOREST NATIONAL - STADE;Forest;Vossegat - Roosendaal
+21007A373;CHARROI (RUE DE);Forest;Bas Forest
+21007A40-;PONT DE LUTTRE;Forest;Bas Forest
+21007A41-;PONT DE LUTTRE-OUEST;Forest;Bas Forest
+21007A50-;BERANGER;Forest;Van Volxem - Van Haelen
+21007A51-;CHATAIGNE;Forest;Van Volxem - Van Haelen
+21007A52-;VAN VOLXEM - PETITE INDUSTRIE;Forest;Van Volxem - Van Haelen
+21007A53-;WIELEMANS CEUPPENS;Forest;Van Volxem - Van Haelen
+21007A541;LYCEE;Forest;Van Volxem - Van Haelen
+21007A552;REINE MARIE-HENRIETTE;Forest;Van Volxem - Van Haelen
+21007A60-;SAINT-ANTOINE;Forest;Bas Forest
+21007A61-;MONTENEGRO (RUE);Forest;Bas Forest
+21007A70-;ALTITUDE  CENT;Forest;Altitude 100
+21007A71-;CHAUSSEE D'ALSEMBERG;Forest;Molière - Longchamp
+21007A72-;MOLIERE;Forest;Molière - Longchamp
+21007A73-;BERCKENDAEL (RUE);Forest;Brugmann - Lepoutre
+21007A75-;TOURNOI (RUE DU);Forest;Altitude 100
+21007A783;PARC DE FOREST;Forest;Parc Duden - Parc de Forest
+21007A79-;PARC DUDEN;Forest;Parc Duden - Parc de Forest
+21007A814;VILLAS - MONT KEMMEL;Forest;Haut Saint-Gilles
+21008A00-;CENTRE;Ganshoren;Ganshoren Centre
+21008A01-;VAN PAGE-SUD;Ganshoren;Ganshoren Centre
+21008A02-;SIPPELBERG;Ganshoren;Ganshoren Centre
+21008A10-;PLATEAU;Ganshoren;Basilique
+21008A19-;BASILIQUE;Ganshoren;Parc Elisabeth
+21008A20-;CHARLES-QUINT;Ganshoren;Ganshoren Centre
+21008A21-;MAIL;Ganshoren;Villas de Ganshoren
+21008A220;VILLAS DE GANSHOREN (OUEST);Ganshoren;Villas de Ganshoren
+21008A23-;DE MESMAEKER;Ganshoren;Villas de Ganshoren
+21008A240;REFORME;Ganshoren;Villas de Ganshoren
+21008A27-;NESTOR MARTIN;Ganshoren;Villas de Ganshoren
+21008A29-;RIVIERE MOLENBEEK;Ganshoren;Bois du Laarbeek - Poelbos
+21008A30-;LE HOME;Ganshoren;Ganshoren Centre
+21008A31-;TOUSSAINT;Ganshoren;Jette Centre
+21008A32-;HEIDEKEN;Ganshoren;Jette Centre
+21008A33-;VAN PAGE-NORD;Ganshoren;Ganshoren Centre
+21008A34-;PARC ALBERT;Ganshoren;Ganshoren Centre
+21008A35-;CHARTE;Ganshoren;Jette Centre
+21008A38-;PARC DE RIVIEREN;Ganshoren;Villas de Ganshoren
+21009A00-;CENTRE;Ixelles;Matonge
+21009A01-;BLYCKAERTS;Ixelles;Flagey - Malibran
+21009A02-;MUSEE;Ixelles;Flagey - Malibran
+21009A03-;ERMITAGE;Ixelles;Louise - Longue Haie
+21009A041;ARBRE BENIT;Ixelles;Louise - Longue Haie
+21009A051;SAINT-BONIFACE;Ixelles;Matonge
+21009A101;FLAGEY (PLACE);Ixelles;Flagey - Malibran
+21009A111;WERY (RUE);Ixelles;Flagey - Malibran
+21009A121;GENERAL DE GAULLE;Ixelles;Etangs d'Ixelles
+21009A13-;GACHARD;Ixelles;Etangs d'Ixelles
+21009A151;A. DELPORTE-NORD;Ixelles;Hôpital Etterbeek-Ixelles
+21009A192;ETANGS;Ixelles;Etangs d'Ixelles
+21009A20-;PETITE SUISSE (PLACE DE LA);Ixelles;Université
+21009A21-;ETE;Ixelles;Université
+21009A22-;UNIVERSITE;Ixelles;Université
+21009A23-;ETOILE (ROND POINT DE L');Ixelles;Etangs d'Ixelles
+21009A29-;CIMETIERE;Ixelles;Cimetière d'Ixelles
+21009A2MJ;CAMPUS UNIVERSITAIRE;Ixelles;Université
+21009A301;BOONDAEL-NORD;Ixelles;Boondael
+21009A311;TREILLE (RUE DE LA);Ixelles;Boondael
+21009A33-;SAINT-ADRIEN;Ixelles;Boondael
+21009A34-;STADE COMMUNAL;Ixelles;Boondael
+21009A40-;MELEZES;Ixelles;Brugmann - Lepoutre
+21009A41-;SAINT-GEORGES;Ixelles;Brugmann - Lepoutre
+21009A42-;RENIER CHALON;Ixelles;Brugmann - Lepoutre
+21009A43-;FERNAND NEURAY;Ixelles;Brugmann - Lepoutre
+21009A44-;PREVOT;Ixelles;Brugmann - Lepoutre
+21009A451;CHATELAIN (PLACE DU)-EST;Ixelles;Châtelain
+21009A501;LUXEMBOURG (PLACE DE);Ixelles;Quartier Européen
+21009A512;WIERTZ;Ixelles;Quartier Européen
+21009A52-;GRAY (RUE);Ixelles;Jourdan
+21009A53-;LONDRES (PLACE DE);Ixelles;Matonge
+21009A542;EGLISE ANGLICANE;Ixelles;Louise - Longue Haie
+21009A552;PORTE DE NAMUR;Ixelles;Matonge
+21009A593;QUARTIER LEOPOLD;Ixelles;Quartier Européen
+21009A602;BELVEDERE;Ixelles;Flagey - Malibran
+21009A612;LIEGEOIS (RUE);Ixelles;Flagey - Malibran
+21009A623;KLAUWAERTS;Ixelles;Etangs d'Ixelles
+21009A63-;MACAU;Ixelles;Hôpital Etterbeek-Ixelles
+21009A652;HOPITAUX;Ixelles;Hôpital Etterbeek-Ixelles
+21009A712;CHATELAIN (PLACE DU)-OUEST;Ixelles;Châtelain
+21009A72-;DEFACQZ;Ixelles;Châtelain
+21009A73-;BERCKENDAEL;Ixelles;Brugmann - Lepoutre
+21009A802;BOONDAEL-SUD;Ixelles;Boondael
+21009A812;SCHOOLGAT;Ixelles;Boondael
+21009A82-;FORET;Ixelles;Boondael
+21009A83-;L. ERNOTTE (RUE);Ixelles;Dries
+21009A90-;SAINT-PHILIPPE DE NERI;Ixelles;Hôpital Etterbeek-Ixelles
+21009A911;A. DELPORTE-SUD;Ixelles;Hôpital Etterbeek-Ixelles
+21009A922;CASERNE (Ixelles);Ixelles;Hôpital Etterbeek-Ixelles
+21010A00-;CENTRE;Jette;Jette Centre
+21010A01-;ESSEGHEM;Jette;Woeste
+21010A02-;LEOPOLD I;Jette;Woeste
+21010A03-;MIROIR;Jette;Jette Centre
+21010A04-;NOTRE-DAME DE LOURDES;Jette;Woeste
+21010A05-;ALBERT (QUARTIER);Jette;Woeste
+21010A092;PARC DE LA JEUNESSE;Jette;Parc Baudouin - Dielegembos
+21010A10-;ANCIENNE BARRIERE;Jette;Heymbosch - AZ-Jette
+21010A111;HEYMBOSCH;Jette;Heymbosch - AZ-Jette
+21010A121;F. MOHRFELD (RUE DE);Jette;Heymbosch - AZ-Jette
+21010A13-;CITE-JARDIN;Jette;Heysel
+21010A141;BRUGMANN;Jette;Houba
+21010A182;DIELEGEM (BOIS DE);Jette;Parc Baudouin - Dielegembos
+21010A1AJ;ARBRE BALLON;Jette;Heymbosch - AZ-Jette
+21010A21-;MADELEINE;Jette;Basilique
+21010A312;BAECK DUPRE;Jette;Jette Centre
+21010A393;SACRE-COEUR;Jette;Parc Baudouin - Dielegembos
+21010A493;LAERBEEK (BOIS DE);Jette;Bois du Laarbeek - Poelbos
+21010A4MJ;VUB;Jette;Heymbosch - AZ-Jette
+21011A00-;VANHUFFEL;Koekelberg;Koekelberg
+21011A01-;SAINTE-ANNE;Koekelberg;Koekelberg
+21011A02-;JACQUET (RUE DE);Koekelberg;Koekelberg
+21011A10-;PAIX (AVENUE DE LA);Koekelberg;Hôpital Français
+21011A11-;LEPREUX;Koekelberg;Hôpital Français
+21011A12-;BASILIQUE;Koekelberg;Hôpital Français
+21011A20-;PLATEAU;Koekelberg;Basilique
+21011A29-;PARC ELISABETH;Koekelberg;Parc Elisabeth
+21011A30-;ARCHERS - FOUREZ;Koekelberg;Basilique
+21012A00-;CENTRE;Molenbeek Saint-Jean;Molenbeek Historique
+21012A011;CANAL-SUD;Molenbeek Saint-Jean;Molenbeek Historique
+21012A02-;BRUNFAUT (QUARTIER);Molenbeek Saint-Jean;Molenbeek Historique
+21012A03-;RANSFORT;Molenbeek Saint-Jean;Molenbeek Historique
+21012A041;QUATRE VENTS;Molenbeek Saint-Jean;Molenbeek Historique
+21012A05-;SAINT-JOSEPH;Molenbeek Saint-Jean;Molenbeek Historique
+21012A10-;DUCHESSE DE BRABANT;Molenbeek Saint-Jean;Duchesse
+21012A11-;INDUSTRIE;Molenbeek Saint-Jean;Cureghem Rosée
+21012A12-;BIRMINGHAM-SUD;Molenbeek Saint-Jean;Duchesse
+21012A13-;BIRMINGHAM-NORD;Molenbeek Saint-Jean;Duchesse
+21012A141;INDEPENDANCE;Molenbeek Saint-Jean;Gare de l'ouest
+21012A152;ETANGS NOIRS;Molenbeek Saint-Jean;Gare de l'ouest
+21012A172;GARE OUEST;Molenbeek Saint-Jean;Gare de l'ouest
+21012A20-;BAECK;Molenbeek Saint-Jean;Machtens
+21012A21-;MARIE-JOSE BLOCS;Molenbeek Saint-Jean;Karreveld
+21012A22-;BRASILIA;Molenbeek Saint-Jean;Machtens
+21012A23-;MACHTENS-SUD;Molenbeek Saint-Jean;Machtens
+21012A24-;OSSEGHEM;Molenbeek Saint-Jean;Machtens
+21012A25-;BEEKKANT;Molenbeek Saint-Jean;Karreveld
+21012A26-;MACHTENS-NORD;Molenbeek Saint-Jean;Machtens
+21012A29-;MARIE-JOSE (PARC);Molenbeek Saint-Jean;Parc Marie-José
+21012A2MJ;CHEMIN DE FER;Molenbeek Saint-Jean;Gare de l'ouest
+21012A30-;METTEWIE - IDYLLE;Molenbeek Saint-Jean;Machtens
+21012A39-;DE RAEDT;Molenbeek Saint-Jean;Scheutbos
+21012A41-;MOORTEBEEK;Molenbeek Saint-Jean;Moortebeek - Peterbos
+21012A50-;BENES;Molenbeek Saint-Jean;Hôpital Français
+21012A511;STEYNS;Molenbeek Saint-Jean;Karreveld
+21012A52-;NEEP (QUARTIER DU);Molenbeek Saint-Jean;Karreveld
+21012A53-;SIPPELBERG;Molenbeek Saint-Jean;Karreveld
+21012A54-;DELHAIZE;Molenbeek Saint-Jean;Karreveld
+21012A552;PFEIFFER;Molenbeek Saint-Jean;Karreveld
+21012A59-;KARREVELD;Molenbeek Saint-Jean;Hôpital Français
+21012A60-;LAEKENVELD;Molenbeek Saint-Jean;Quartier Maritime
+21012A611;MEXICO;Molenbeek Saint-Jean;Quartier Maritime
+21012A62-;LIBERATEURS;Molenbeek Saint-Jean;Quartier Maritime
+21012A63-;DUBRUCQ-NORD;Molenbeek Saint-Jean;Quartier Maritime
+21012A672;ULENS;Molenbeek Saint-Jean;Quartier Maritime
+21012A71-;PIERS;Molenbeek Saint-Jean;Molenbeek Historique
+21012A72-;LAVALLEE;Molenbeek Saint-Jean;Molenbeek Historique
+21012A732;CANAL-NORD;Molenbeek Saint-Jean;Molenbeek Historique
+21012A811;MYRTES-NORD;Molenbeek Saint-Jean;Korenbeek
+21012A822;KORENBEEK;Molenbeek Saint-Jean;Korenbeek
+21012A833;ELBERS;Molenbeek Saint-Jean;Korenbeek
+21012A84-;METTEWIE-BUILDINGS;Molenbeek Saint-Jean;Machtens
+21012A851;CONDOR;Molenbeek Saint-Jean;Machtens
+21012A882;DARING;Molenbeek Saint-Jean;Machtens
+21013A00-;HOTEL DE VILLE;Saint-Gilles;Haut Saint-Gilles
+21013A01-;ESPAGNE (RUE D');Saint-Gilles;Haut Saint-Gilles
+21013A02-;CAPOUILLET (RUE);Saint-Gilles;Berckmans - Hôtel des Monnaies
+21013A031;AMAZONE (RUE DE);Saint-Gilles;Châtelain
+21013A04-;PRISON;Saint-Gilles;Haut Saint-Gilles
+21013A052;FAIDER (RUE);Saint-Gilles;Châtelain
+21013A101;PARVIS;Saint-Gilles;Porte de Hal
+21013A102;PARVIS;Saint-Gilles;Porte de Hal
+21013A11-;PARME (RUE DE);Saint-Gilles;Haut Saint-Gilles
+21013A121;GUILLAUME TELL-SUD;Saint-Gilles;Bosnie
+21013A13-;DETHY (RUE);Saint-Gilles;Porte de Hal
+21013A151;METAL (RUE DU);Saint-Gilles;Berckmans - Hôtel des Monnaies
+21013A201;ANGLETERRE (RUE D');Saint-Gilles;Porte de Hal
+21013A211;FONTAINAS;Saint-Gilles;Porte de Hal
+21013A22-;REGIES;Saint-Gilles;Bosnie
+21013A23-;ROI (AVENUE DU);Saint-Gilles;Bas Forest
+21013A242;BETHLEEM (PLACE DE);Saint-Gilles;Porte de Hal
+21013A252;DANEMARK (RUE DE);Saint-Gilles;Porte de Hal
+21013A2MJ;GARE DU MIDI;Saint-Gilles;Gare du Midi
+21013A40-;BARRIERE;Saint-Gilles;Haut Saint-Gilles
+21013A41-;VILLAS (AVENUE DES);Saint-Gilles;Haut Saint-Gilles
+21013A422;CRICKX (RUE);Saint-Gilles;Bosnie
+21013A51-;TOISON D'OR (AVENUE);Saint-Gilles;Berckmans - Hôtel des Monnaies
+21013A522;RUE D'ECOSSE;Saint-Gilles;Berckmans - Hôtel des Monnaies
+21013A612;JAMAR;Saint-Gilles;Cureghem Bara
+21013A623;FRANCE (RUE DE);Saint-Gilles;Cureghem Bara
+21014A00-;PLACE SAINT-JOSSE;Saint-Josse-ten-Noode;Saint-Josse Centre
+21014A01-;STEURS;Saint-Josse-ten-Noode;Saint-Josse Centre
+21014A02-;CHARITE;Saint-Josse-ten-Noode;Saint-Josse Centre
+21014A03-;MADOU;Saint-Josse-ten-Noode;Saint-Josse Centre
+21014A04-;HAECHT (CHAUSSEE DE);Saint-Josse-ten-Noode;Chaussée de Haecht
+21014A05-;HOUWAERT;Saint-Josse-ten-Noode;Saint-Josse Centre
+21014A10-;SAINT-FRANCOIS;Saint-Josse-ten-Noode;Quartier Brabant
+21014A12-;SAINT-LAZARE;Saint-Josse-ten-Noode;Quartier Brabant
+21014A13-;ROGIER;Saint-Josse-ten-Noode;Quartier Nord
+21014A14-;PRAIRIE;Saint-Josse-ten-Noode;Quartier Brabant
+21014A18-;JARDIN BOTANIQUE;Saint-Josse-ten-Noode;Botanique
+21014A2MJ;NORD;Saint-Josse-ten-Noode;Quartier Nord
+21014A3MJ;MANHATTAN;Saint-Josse-ten-Noode;Quartier Nord
+21014A41-;BOSSUET;Saint-Josse-ten-Noode;Saint-Josse Centre
+21015A00-;COLIGNON (PLACE);Schaerbeek;Colignon
+21015A01-;VAN YSENDYCK (RUE);Schaerbeek;Colignon
+21015A021;HOUFFALIZE (PLACE);Schaerbeek;Colignon
+21015A03-;JOSAPHAT (RUE);Schaerbeek;Chaussée de Haecht
+21015A04-;L'OLIVIER (RUE);Schaerbeek;Chaussée de Haecht
+21015A05-;ROYALE SAINTE-MARIE (RUE);Schaerbeek;Chaussée de Haecht
+21015A101;GARE;Schaerbeek;Gare de Schaerbeek
+21015A111;MAETERLINCK;Schaerbeek;Helmet
+21015A12-;HUART HAMOIR (AVENUE);Schaerbeek;Gare de Schaerbeek
+21015A13-;PORTAELS (RUE);Schaerbeek;Colignon
+21015A142;SAINTE-FAMILLE;Schaerbeek;Helmet
+21015A152;PR. ELISABETH-NORD;Schaerbeek;Gare de Schaerbeek
+21015A20-;HELMET;Schaerbeek;Helmet
+21015A21-;GUIDO GEZELLE (RUE);Schaerbeek;Helmet
+21015A22-;MARBOTIN A. (RUE);Schaerbeek;Terdelt
+21015A231;J. BLOCKX (RUE);Schaerbeek;Helmet
+21015A24-;WAELHEM (RUE);Schaerbeek;Colignon
+21015A272;HOPITAL P. BRIEN;Schaerbeek;Helmet
+21015A30-;GRANDE RUE AU BOIS;Schaerbeek;Dailly
+21015A31-;PATRIE;Schaerbeek;Dailly
+21015A32-;CONSOLATION (RUE DE LA);Schaerbeek;Dailly
+21015A33-;BIENFAITEURS (PLACE DE);Schaerbeek;Dailly
+21015A34-;PAQUERETTES (RUE);Schaerbeek;Josaphat
+21015A35-;JEAN STOBBAERTS (AVENUE);Schaerbeek;Josaphat
+21015A36-;CAMBIER (AVENUE E.);Schaerbeek;Josaphat
+21015A39-;JOSAPHAT (PARC);Schaerbeek;Parc Josaphat
+21015A40-;BRABANT (RUE DE);Schaerbeek;Quartier Brabant
+21015A41-;VANDERLINDEN (RUE);Schaerbeek;Quartier Brabant
+21015A421;PALAIS (RUE DE);Schaerbeek;Quartier Brabant
+21015A43-;GARE DU NORD;Schaerbeek;Quartier Nord
+21015A44-;REINE (AVENUE);Schaerbeek;Quartier Nord
+21015A45-;STEPHENSON (PLACE);Schaerbeek;Quartier Brabant
+21015A50-;OPALE;Schaerbeek;Plasky
+21015A51-;CERISIERS (AVENUE DES);Schaerbeek;Georges Henri
+21015A52-;LINTHOUT (RUE);Schaerbeek;Porte Tervueren
+21015A53-;DAILLY (PLACE);Schaerbeek;Dailly
+21015A54-;EMERAUDE (AVENUE);Schaerbeek;Plasky
+21015A612;BRICHAUT (RUE DE);Schaerbeek;Quartier Brabant
+21015A622;BRUSILIA;Schaerbeek;Colignon
+21015A63-;DESCHANEL P. (AVENUE);Schaerbeek;Josaphat
+21015A64-;DUPLOYE SQUARE;Schaerbeek;Dailly
+21015A70-;P. HYMANS (RUE);Schaerbeek;Gare Josaphat
+21015A71-;JARDINS;Schaerbeek;Gare Josaphat
+21015A721;F. COURTENS (AVENUE);Schaerbeek;Gare Josaphat
+21015A73-;H. EVENEPOEL (RUE);Schaerbeek;Reyers
+21015A77-;R.T.B.;Schaerbeek;Reyers
+21015A782;CIMETIERE DE SAINT-JOSSE;Schaerbeek;Gare Josaphat
+21015A7MJ;JOSAPHAT GARE;Schaerbeek;Gare Josaphat
+21015A811;TERDELT;Schaerbeek;Terdelt
+21015A822;CH. GILISQUET - SUD (AVENUE);Schaerbeek;Terdelt
+21015A831;LATINIS (AVENUE G.);Schaerbeek;Terdelt
+21015A883;THEUNIS PIERRE (RUE);Schaerbeek;Terdelt
+21016A00-;GLOBE-EST;Uccle;Globe
+21016A01-;DIEWEG;Uccle;Dieweg
+21016A02-;ALSEMBERG-NORD;Uccle;Globe
+21016A03-;COGHEN;Uccle;Globe
+21016A042;ECHEVINAGE;Uccle;Montjoie - Langeveld
+21016A05-;LE CHAT;Uccle;Molière - Longchamp
+21016A102;GROESELENBERG;Uccle;Observatoire
+21016A111;VERT CHASSEUR;Uccle;Observatoire
+21016A12-;HAMOIR;Uccle;Observatoire
+21016A13-;OBSERVATOIRE;Uccle;Observatoire
+21016A193;WOLVENDAEL;Uccle;Parc Wolvendael
+21016A214;ASTRONOMES;Uccle;Observatoire
+21016A225;PTOLEMEE;Uccle;Observatoire
+21016A232;BEAU SEJOUR;Uccle;Montjoie - Langeveld
+21016A311;FORT JACO;Uccle;Fort Jaco
+21016A322;CHAUSSEE DE WATERLOO-EST;Uccle;Fort Jaco
+21016A331;CHAUSSEE DE WATERLOO-OUEST;Uccle;Fort Jaco
+21016A342;FOND;Uccle;Vivier d'Oie
+21016A383;FORET DE SOIGNES LORRAINE-W.;Uccle;Forêt de Soignes
+21016A39-;FORET DE SOIGNES LORRAINE-EST;Uccle;Forêt de Soignes
+21016A400;SAINT-JOB;Uccle;Saint-Job Kauwberg
+21016A410;ALPHONSE XIII;Uccle;Saint-Job Kauwberg
+21016A429;CARLOO;Uccle;Saint-Job Kauwberg
+21016A44-;PECHERIE;Uccle;Dieweg
+21016A490;KAUWBERG;Uccle;Saint-Job Kauwberg
+21016A521;VERREWINKEL;Uccle;Kriekenput - Homborch - Verrewinkel
+21016A533;MOENSBERG;Uccle;Kalevoet - Moensberg
+21016A601;BOURDON;Uccle;Kalevoet - Moensberg
+21016A610;ENGELAND;Uccle;Kriekenput - Homborch - Verrewinkel
+21016A620;KRIEKENPUT;Uccle;Kriekenput - Homborch - Verrewinkel
+21016A639;HOMBORCH;Uccle;Kriekenput - Homborch - Verrewinkel
+21016A64-;MOLENSTEEN;Uccle;Kalevoet - Moensberg
+21016A65-;ALSEMBERG-SUD;Uccle;Kalevoet - Moensberg
+21016A692;CIMETIERE - ST.-GILLES;Uccle;Cimetière de Saint-Gilles
+21016A701;MERLO;Uccle;Kalevoet - Moensberg
+21016A71-;KEIENBEMPT;Uccle;Kalevoet - Moensberg
+21016A72-;MELKRIEK;Uccle;Kalevoet - Moensberg
+21016A731;ROETAERT;Uccle;Kalevoet - Moensberg
+21016A772;ZWARTEBEEK;Uccle;Kalevoet - Moensberg
+21016A80-;VANDERKINDERE;Uccle;Churchill
+21016A81-;BASCULE;Uccle;Churchill
+21016A82-;CHURCHILL;Uccle;Churchill
+21016A831;LONGCHAMP;Uccle;Montjoie - Langeveld
+21016A841;ZEECRABBE;Uccle;Montjoie - Langeveld
+21016A85-;BRUGMANN;Uccle;Churchill
+21016A901;CENTRE-OUEST;Uccle;Globe
+21016A912;GLOBE-OUEST;Uccle;Globe
+21016A922;WOLVENBERG;Uccle;Globe
+21016A933;VOSSEGAT-OUEST;Uccle;Vossegat - Roosendaal
+21016A943;SEPT-BONNIERS;Uccle;Altitude 100
+21016A954;VOSSEGAT-EST;Uccle;Globe
+21017A000;CENTRE DE BOITSFORT;Watermael-Boitsfort;Boitsfort Centre
+21017A01-;COIN DU BALAI;Watermael-Boitsfort;Boitsfort Centre
+21017A021;DREVE DES EQUIPAGES;Watermael-Boitsfort;Boitsfort Centre
+21017A031;AVENUE DELLEUR;Watermael-Boitsfort;Boitsfort Centre
+21017A041;DREVE DU DUC;Watermael-Boitsfort;Boitsfort Centre
+21017A08-;SOUVERAIN-EST;Watermael-Boitsfort;Boitsfort Centre
+21017A09-;FORET DE SOIGNES;Watermael-Boitsfort;Forêt de Soignes
+21017A11-;FLOREAL;Watermael-Boitsfort;Trois Tilleuls
+21017A12-;LE LOGIS-NORD;Watermael-Boitsfort;Trois Tilleuls
+21017A13-;BOULEAUX;Watermael-Boitsfort;Watermael Centre
+21017A192;STADE DES TROIS TILLEULS;Watermael-Boitsfort;Watermael Centre
+21017A212;AVENUE DE LA TENDERIE;Watermael-Boitsfort;Watermael Centre
+21017A220;LE LOGIS-SUD;Watermael-Boitsfort;Trois Tilleuls
+21017A230;BEGUINETTES;Watermael-Boitsfort;Boitsfort Centre
+21017A240;SOUVERAIN-OUEST;Watermael-Boitsfort;Boitsfort Centre
+21017A312;CLOS DES CHENES;Watermael-Boitsfort;Dries
+21017A323;DREVE DES TUMULI;Watermael-Boitsfort;Dries
+21017A374;ZONING DE BUREAUX-SUD;Watermael-Boitsfort;Dries
+21017A382;FORESTERIE;Watermael-Boitsfort;Forêt de Soignes
+21017A393;ETANGS DE BOITSFORT;Watermael-Boitsfort;Forêt de Soignes
+21017A41-;AVENUE DE VISE;Watermael-Boitsfort;Boondael
+21017A421;WATERMAEL - STATION;Watermael-Boitsfort;Dries
+21017A432;DRIES;Watermael-Boitsfort;Dries
+21017A443;VILLE-ET-FORET - ELAN;Watermael-Boitsfort;Dries
+21017A451;FUTAIE;Watermael-Boitsfort;Dries
+21017A472;ZONING DE BUREAUX-NORD;Watermael-Boitsfort;Dries
+21017A501;CENTRE DE WATERMAEL;Watermael-Boitsfort;Watermael Centre
+21017A512;VANDER ELST - BIEN FAIRE;Watermael-Boitsfort;Watermael Centre
+21017A523;MARTIN-PECHEUR;Watermael-Boitsfort;Watermael Centre
+21017A534;RUE DES BEGONIAS;Watermael-Boitsfort;Watermael Centre
+21017A541;LOUTRIER - WIENER;Watermael-Boitsfort;Watermael Centre
+21017A613;AVENUE DE TERCOIGNE;Watermael-Boitsfort;Watermael Centre
+21017A624;PECHERIES;Watermael-Boitsfort;Watermael Centre
+21017A635;PRINCES BRABANCONS;Watermael-Boitsfort;Trois Tilleuls
+21017A696;HERONNIERE;Watermael-Boitsfort;Watermael Centre
+21018A00-;TOMBERG;Woluwe Saint-Lambert;Roodebeek - Constellations
+21018A01-;SAINT-LAMBERT;Woluwe Saint-Lambert;Boulevard de la Woluwe
+21018A02-;SLEGERS (AVENUE);Woluwe Saint-Lambert;Gribaumont
+21018A031;ABELOOS;Woluwe Saint-Lambert;Gribaumont
+21018A04-;BEETEPUT;Woluwe Saint-Lambert;Roodebeek - Constellations
+21018A05-;DRIES;Woluwe Saint-Lambert;Roodebeek - Constellations
+21018A09-;RASANTE;Woluwe Saint-Lambert;Gribaumont
+21018A12-;STOCKEL (CHAUSSEE DE);Woluwe Saint-Lambert;Stockel
+21018A13-;GROOTVELD;Woluwe Saint-Lambert;Boulevard de la Woluwe
+21018A14-;CHANCELLERIE;Woluwe Saint-Lambert;Boulevard de la Woluwe
+21018A15-;LES SOURCES;Woluwe Saint-Lambert;Boulevard de la Woluwe
+21018A19-;STRUYCKBEKEN;Woluwe Saint-Lambert;Kapelleveld
+21018A20-;GEORGES HENRI (AVENUE);Woluwe Saint-Lambert;Georges Henri
+21018A21-;DE BROQUEVILLE (AVENUE)-NORD;Woluwe Saint-Lambert;Georges Henri
+21018A22-;DE BROQUEVILLE (AVENUE)-SUD;Woluwe Saint-Lambert;Gribaumont
+21018A24-;LAMBEAU (AVENUE);Woluwe Saint-Lambert;Georges Henri
+21018A30-;SAINTE-FAMILLE;Woluwe Saint-Lambert;Roodebeek - Constellations
+21018A311;PARC SCHUMAN;Woluwe Saint-Lambert;Val d'Or
+21018A32-;CLOS DES PEUPLIERS;Woluwe Saint-Lambert;Val d'Or
+21018A33-;NEERVELD;Woluwe Saint-Lambert;Val d'Or
+21018A34-;HOF TEN BERG-SUD;Woluwe Saint-Lambert;Val d'Or
+21018A35-;HOF TEN BERG-NORD;Woluwe Saint-Lambert;Val d'Or
+21018A37-;COMMUNAUTES;Woluwe Saint-Lambert;Val d'Or
+21018A3MJ;GULLEDELLE;Woluwe Saint-Lambert;Val d'Or
+21018A41-;EUROPE;Woluwe Saint-Lambert;Roodebeek - Constellations
+21018A42-;VERVLOESEM;Woluwe Saint-Lambert;Roodebeek - Constellations
+21018A43-;ROODEBEEK;Woluwe Saint-Lambert;Roodebeek - Constellations
+21018A512;QUARTIER DES PEINTRES;Woluwe Saint-Lambert;Gribaumont
+21018A60-;ROODEBEEK PARC;Woluwe Saint-Lambert;Roodebeek - Constellations
+21018A61-;HEYDENBERG-EST;Woluwe Saint-Lambert;Georges Henri
+21018A62-;HEYDENBERG-OUEST;Woluwe Saint-Lambert;Georges Henri
+21018A63-;CONSTELLATIONS;Woluwe Saint-Lambert;Roodebeek - Constellations
+21018A643;DEUX MAISONS;Woluwe Saint-Lambert;Roodebeek - Constellations
+21018A72-;ROGATIONS;Woluwe Saint-Lambert;Porte Tervueren
+21018A81-;KAPELLEVELD-SUD;Woluwe Saint-Lambert;Kapelleveld
+21018A82-;MARIE LA MISERABLE;Woluwe Saint-Lambert;Kapelleveld
+21018A83-;KLAKKEDELLE;Woluwe Saint-Lambert;Kapelleveld
+21018A84-;KAPELLEVELD-NORD-EST;Woluwe Saint-Lambert;Kapelleveld
+21018A87-;SAINT-LUC;Woluwe Saint-Lambert;Kapelleveld
+21019A001;CENTRE;Woluwe Saint-Pierre;Boulevard de la Woluwe
+21019A01-;BOULEVARD DE LA WOLUWE;Woluwe Saint-Pierre;Boulevard de la Woluwe
+21019A02-;CLOS DU SOLEIL;Woluwe Saint-Pierre;Gribaumont
+21019A03-;CAPITAINE PIRET (AVENUE);Woluwe Saint-Pierre;Gribaumont
+21019A04-;EGGERICX (RUE);Woluwe Saint-Pierre;Gribaumont
+21019A052;DON BOSCO;Woluwe Saint-Pierre;Gribaumont
+21019A09-;WOLUWE (PARC DE);Woluwe Saint-Pierre;Parc de la Woluwe
+21019A10-;STOCKEL;Woluwe Saint-Pierre;Stockel
+21019A11-;MILLE METRES (AVENUE);Woluwe Saint-Pierre;Stockel
+21019A12-;ESCRIME (AVENUE DE L');Woluwe Saint-Pierre;Stockel
+21019A131;KONKEL;Woluwe Saint-Pierre;Stockel
+21019A14-;VAL DE SEIGNEURS;Woluwe Saint-Pierre;Stockel
+21019A15-;KAPELLEVELD;Woluwe Saint-Pierre;Kapelleveld
+21019A20-;SAINT-PAUL;Woluwe Saint-Pierre;Saint-Paul
+21019A21-;MANOIR;Woluwe Saint-Pierre;Saint-Paul
+21019A22-;PUTDAAL;Woluwe Saint-Pierre;Putdael
+21019A231;KELLE;Woluwe Saint-Pierre;Boulevard de la Woluwe
+21019A242;VENELLES;Woluwe Saint-Pierre;Saint-Paul
+21019A252;MONTGOLFIER;Woluwe Saint-Pierre;Saint-Paul
+21019A28-;ETANGS MELLAERTS;Woluwe Saint-Pierre;Parc de la Woluwe
+21019A30-;EGLANTINES (AVENUE);Woluwe Saint-Pierre;Chant d'Oiseau
+21019A31-;BEMEL;Woluwe Saint-Pierre;Chant d'Oiseau
+21019A32-;CHANT D'OISEAU;Woluwe Saint-Pierre;Chant d'Oiseau
+21019A33-;MIMOSAS (AVENUE);Woluwe Saint-Pierre;Chant d'Oiseau
+21019A34-;EUROPE (QUARTIER DE L');Woluwe Saint-Pierre;Chant d'Oiseau
+21019A35-;HORIZON (AVENUE);Woluwe Saint-Pierre;Chant d'Oiseau
+21019A40-;SAINTE-ALIX;Woluwe Saint-Pierre;Sainte-Alix - Joli Bois
+21019A41-;CITE JOLI-BOIS;Woluwe Saint-Pierre;Sainte-Alix - Joli Bois
+21019A42-;SALOME AVENUE;Woluwe Saint-Pierre;Saint-Paul
+21019A43-;CORNICHE VERTE;Woluwe Saint-Pierre;Sainte-Alix - Joli Bois
+21019A441;FAISANDERIE;Woluwe Saint-Pierre;Saint-Paul
+21019A45-;HELICE (AVENUE DE L');Woluwe Saint-Pierre;Saint-Paul
+21019A492;BOIS;Woluwe Saint-Pierre;Forêt de Soignes
+21019A51-;COLLEGE SAINT-MICHEL;Woluwe Saint-Pierre;Saint-Michel
+21019A52-;DUC (RUE);Woluwe Saint-Pierre;Gribaumont
+21001C6PB;ZONE RURALE;Anderlecht;Neerpede
+21001C70-;BON AIR - CENTRE;Anderlecht;Bon Air
+21001C71-;BON AIR - CITE JARDIN;Anderlecht;Bon Air
+21001C79-;BON AIR - HABITATIONS DISP.;Anderlecht;Neerpede
