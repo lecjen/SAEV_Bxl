@@ -1,0 +1,22 @@
+,Unnamed: 0,Unnamed: 0.1,SectorStatID,SectorStatName,PersID,Age,GenderID,GenderName,ChildOrParent,HouseholdID,HouseholdTypeID,HouseholdTypeName,WorkerID,WorkerType,Code,Commune,WorkerID,WorkerType
+0,114851,114902,21001B332,GOUJONS,114902,17,0,male,child,61920,1,couple_with_child,,,21001B332,Anderlecht,5,Unif off campus
+1,256970,257055,21004A70-,BLAES (RUE)-SUD,257055,17,0,male,child,140611,1,couple_with_child,,,21004A70-,Bruxelles,5,Unif off campus
+2,658875,659056,21009A22-,UNIVERSITE,659056,17,0,male,child,372692,4,single_with_child,,,21009A22-,Ixelles,5,Unif off campus
+3,763790,764002,21012A24-,OSSEGHEM,764002,17,0,male,child,430190,1,couple_with_child,,,21012A24-,Molenbeek Saint-Jean,5,Unif off campus
+4,1042018,1042362,21015A40-,BRABANT (RUE DE),1042362,17,0,male,parent,580485,5,colloc,,,21015A40-,Schaerbeek,4,Unif on campus
+5,1126672,1127042,21016A71-,KEIENBEMPT,1127042,17,0,male,child,626182,1,couple_with_child,,,21016A71-,Uccle,5,Unif off campus
+6,1194973,1195350,21017A432,DRIES,1195350,17,0,male,child,664400,1,couple_with_child,,,21017A432,Watermael-Boitsfort,5,Unif off campus
+7,1215380,1215761,21018A21-,DE BROQUEVILLE (AVENUE)-NORD,1215761,17,0,male,child,676061,1,couple_with_child,,,21018A21-,Woluwe Saint-Lambert,5,Unif off campus
+8,1306349,1306748,21019A10-,STOCKEL,1306748,17,0,male,child,727183,1,couple_with_child,,,21019A10-,Woluwe Saint-Pierre,5,Unif off campus
+9,123054,123111,21001A152,LINDE-OUEST,123111,17,1,female,child,66309,1,couple_with_child,,,21001A152,Anderlecht,5,Unif off campus
+10,134644,134705,21002A23-,TH. BALIS (PLACE),134705,17,1,female,child,72675,1,couple_with_child,,,21002A23-,Auderghem,5,Unif off campus
+11,217833,217907,21004B2MJ,SCHUMAN (ROND-POINT),217907,17,1,female,child,117882,1,couple_with_child,,,21004B2MJ,Bruxelles,5,Unif off campus
+12,385616,385750,21004D600,PARVIS SAINT-ROCH,385750,17,1,female,child,214070,4,single_with_child,,,21004D600,Bruxelles,5,Unif off campus
+13,672400,672581,21009A73-,BERCKENDAEL,672581,17,1,female,child,381430,1,couple_with_child,,,21009A73-,Ixelles,5,Unif off campus
+14,726195,726394,21010A21-,MADELEINE,726394,17,1,female,child,410457,4,single_with_child,,,21010A21-,Jette,5,Unif off campus
+15,791568,791799,21012A60-,LAEKENVELD,791799,17,1,female,child,444853,1,couple_with_child,,,21012A60-,Molenbeek Saint-Jean,5,Unif off campus
+16,1059737,1060090,21015A00-,COLIGNON (PLACE),1060090,17,1,female,child,589260,1,couple_with_child,,,21015A00-,Schaerbeek,5,Unif off campus
+17,1073446,1073805,21015A22-,MARBOTIN A. (RUE),1073805,17,1,female,child,596078,1,couple_with_child,,,21015A22-,Schaerbeek,5,Unif off campus
+18,1151411,1151785,21016A00-,GLOBE-EST,1151785,17,1,female,child,639827,1,couple_with_child,,,21016A00-,Uccle,5,Unif off campus
+19,1224011,1224394,21018A33-,NEERVELD,1224394,17,1,female,child,681017,1,couple_with_child,,,21018A33-,Woluwe Saint-Lambert,5,Unif off campus
+20,1297858,1298256,21019A32-,CHANT D'OISEAU,1298256,17,1,female,child,722461,1,couple_with_child,,,21019A32-,Woluwe Saint-Pierre,5,Unif off campus

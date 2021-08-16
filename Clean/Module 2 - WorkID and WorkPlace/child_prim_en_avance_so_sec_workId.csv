@@ -1,0 +1,22 @@
+,Unnamed: 0.1,SectorStatID,SectorStatName,PersID,Age,GenderID,GenderName,ChildOrParent,HouseholdID,HouseholdTypeID,HouseholdTypeName,WorkerID,WorkerType,Code,Commune,WorkerID,WorkerType
+0,79675,21001B25-,REVISION-NORD,79675,11,0,male,child,43589,4,single_with_child,,,21001B25-,Anderlecht,3,Secondaires
+1,258745,21004A70-,BLAES (RUE)-SUD,258745,11,0,male,child,141307,1,couple_with_child,,,21004A70-,Bruxelles,3,Secondaires
+2,631303,21009A21-,ETE,631303,11,0,male,parent,352414,4,single_with_child,,,21009A21-,Ixelles,3,Secondaires
+3,846729,21012A822,KORENBEEK,846729,11,0,male,child,473889,1,couple_with_child,,,21012A822,Molenbeek Saint-Jean,3,Secondaires
+4,947544,21015A50-,OPALE,947544,11,0,male,child,530359,1,couple_with_child,,,21015A50-,Schaerbeek,3,Secondaires
+5,1094450,21016A82-,CHURCHILL,1094450,11,0,male,child,607232,4,single_with_child,,,21016A82-,Uccle,3,Secondaires
+6,1186525,21017A230,BEGUINETTES,1186525,11,0,male,child,659078,4,single_with_child,,,21017A230,Watermael-Boitsfort,3,Secondaires
+7,1262743,21018A14-,CHANCELLERIE,1262743,11,0,male,child,702701,1,couple_with_child,,,21018A14-,Woluwe Saint-Lambert,3,Secondaires
+8,1314817,21019A15-,KAPELLEVELD,1314817,11,0,male,child,731529,1,couple_with_child,,,21019A15-,Woluwe Saint-Pierre,3,Secondaires
+9,54053,21001A031,RAUTER-SUD,54053,11,1,female,child,30139,4,single_with_child,,,21001A031,Anderlecht,3,Secondaires
+10,134702,21002A23-,TH. BALIS (PLACE),134702,11,1,female,child,72674,1,couple_with_child,,,21002A23-,Auderghem,3,Secondaires
+11,260774,21004A70-,BLAES (RUE)-SUD,260774,11,1,female,parent,141131,4,single_with_child,,,21004A70-,Bruxelles,3,Secondaires
+12,320221,21004E74-,EM. DELVA (RUE),320221,11,1,female,parent,176246,1,couple_with_child,,,21004E74-,Bruxelles,3,Secondaires
+13,620157,21009A40-,MELEZES,620157,11,1,female,child,348084,4,single_with_child,,,21009A40-,Ixelles,3,Secondaires
+14,722563,21010A01-,ESSEGHEM,722563,11,1,female,child,408288,1,couple_with_child,,,21010A01-,Jette,3,Secondaires
+15,811613,21012A72-,LAVALLEE,811613,11,1,female,parent,454275,1,couple_with_child,,,21012A72-,Molenbeek Saint-Jean,3,Secondaires
+16,1027168,21015A111,MAETERLINCK,1027168,11,1,female,child,572707,1,couple_with_child,,,21015A111,Schaerbeek,3,Secondaires
+17,985086,21015A30-,GRANDE RUE AU BOIS,985086,11,1,female,child,550501,1,couple_with_child,,,21015A30-,Schaerbeek,3,Secondaires
+18,1109507,21016A03-,COGHEN,1109507,11,1,female,child,616220,1,couple_with_child,,,21016A03-,Uccle,3,Secondaires
+19,1221781,21018A311,PARC SCHUMAN,1221781,11,1,female,child,679456,4,single_with_child,,,21018A311,Woluwe Saint-Lambert,3,Secondaires
+20,1285072,21019A04-,EGGERICX (RUE),1285072,11,1,female,parent,714949,4,single_with_child,,,21019A04-,Woluwe Saint-Pierre,3,Secondaires

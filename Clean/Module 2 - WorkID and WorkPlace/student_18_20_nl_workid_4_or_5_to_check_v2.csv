@@ -1,0 +1,6 @@
+,SectorStatID,SectorStatName,PersID,Age,GenderID,GenderName,ChildOrParent,HouseholdID,HouseholdTypeID,HouseholdTypeName,Code,Commune,WorkerID,WorkerType
+891,21002A311,AMITIE (PLACE DE L'),144466,20,1,female,parent,77888,5,colloc,,,4 or 5,Unif on or off campus
+1059,21017A41-,AVENUE DE VISE,1190663,20,1,female,parent,661390,5,colloc,,,4 or 5,Unif on or off campus
+1210,21014A41-,BOSSUET,927008,20,1,female,parent,519292,5,colloc,,,4 or 5,Unif on or off campus
+1305,21014A41-,BOSSUET,927010,20,1,female,parent,519292,5,colloc,,,4 or 5,Unif on or off campus
+1481,21002A311,AMITIE (PLACE DE L'),144467,20,1,female,parent,77888,5,colloc,,,4 or 5,Unif on or off campus

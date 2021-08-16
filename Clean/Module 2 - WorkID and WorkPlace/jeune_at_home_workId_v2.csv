@@ -1,0 +1,4 @@
+,Unnamed: 0.1,SectorStatID,SectorStatName,PersID,Age,GenderID,GenderName,ChildOrParent,HouseholdID,HouseholdTypeID,HouseholdTypeName,WorkerID,WorkerType,Code_x,Commune_x,Code_y,Name,Commune_y,WorkerID,WorkerType
+0,938089,21014A05-,HOUWAERT,938089,18,0,male,child,525345,1,couple_with_child,,,21014A05-,Saint-Josse-ten-Noode,21014A05-,HOUWAERT,Saint-Josse-ten-Noode,7,StayHome
+1,943494,21014A05-,HOUWAERT,943494,18,0,male,parent,528196,3,single,,,21014A05-,Saint-Josse-ten-Noode,21014A05-,HOUWAERT,Saint-Josse-ten-Noode,7,StayHome
+2,921645,21014A02-,CHARITE,921645,18,0,male,parent,516557,3,single,,,21014A02-,Saint-Josse-ten-Noode,21014A02-,CHARITE,Saint-Josse-ten-Noode,7,StayHome
