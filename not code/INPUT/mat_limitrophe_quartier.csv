@@ -1,0 +1,145 @@
+﻿Code;Territoire;Part des enfants du quartier scolarisés en maternel à proximité de leur résidence (%);nb_enfant_scolarisés_vivant_quartier;nb_child_vivant_quart_mat_lim
+1;Grand Place;46,15;78;36
+2;Dansaert;73,58;332;244,3018868
+3;Béguinage - Dixmude;62,20;253;157,3779528
+4;Martyrs;60,27;76;45,80821918
+5;Notre-Dame-aux-Neiges;53,41;83;44,32954545
+6;Quartier Royal;44,44;0;0
+7;Sablon;62,50;71;44,375
+8;Marolles;79,03;490;387,2580645
+9;Stalingrad;73,76;131;96,62411348
+10;Anneessens;61,50;500;307,4766355
+11;Cureghem Bara;52,81;673;355,394385
+12;Cureghem Vétérinaire;67,18;531;356,7512953
+13;Cureghem Rosée;69,33;341;236,398773
+14;Duchesse;69,10;327;225,9606742
+15;Gare de l'ouest;71,71;562;403,0131579
+16;Molenbeek Historique;67,87;909;616,9555785
+17;Koekelberg;63,10;518;326,8663102
+18;Quartier Maritime;65,54;1032;676,3907638
+19;Vieux Laeken Ouest;72,83;473;344,507874
+20;Vieux Laeken Est;66,19;1056;698,9488789
+21;Quartier Nord;72,04;821;591,4532131
+22;Quartier Brabant;62,15;1016;631,4539814
+23;Colignon;74,93;997;747,0261375
+24;Chaussée de Haecht;68,39;886;605,9034029
+25;Saint-Josse Centre;76,59;872;667,8528428
+26;Dailly;60,00;813;487,8
+27;Josaphat;46,01;337;155,0613497
+28;Plasky;72,04;403;290,3333333
+29;Squares;75,47;521;393,2075472
+30;Porte Tervueren;74,82;334;249,9078014
+31;Saint-Michel;74,43;229;170,4488636
+32;Saint-Pierre;73,05;501;365,9936842
+33;Chasse;67,06;678;454,6471449
+34;Jourdan;64,84;325;210,7142857
+35;Quartier Européen;50,00;63;31,5
+36;Matonge;62,10;101;62,72146119
+37;Flagey - Malibran;77,16;322;248,4428904
+38;Hôpital Etterbeek-Ixelles;71,27;156;111,1854545
+39;Etangs d'Ixelles;71,36;187;133,4417476
+40;Louise - Longue Haie;54,97;94;51,66887417
+41;Berckmans - Hôtel des Monnaies;77,96;235;183,2040816
+42;Châtelain;68,90;283;194,9856459
+43;Brugmann - Lepoutre;56,23;463;260,3667482
+44;Churchill;64,16;359;230,3410405
+45;Molière - Longchamp;65,53;150;98,28850856
+46;Altitude 100;69,23;316;218,7692308
+47;Haut Saint-Gilles;73,24;537;393,2957746
+48;Porte de Hal;74,10;557;412,7278689
+49;Bosnie;62,43;325;202,8901734
+50;Bas Forest;58,47;376;219,8469945
+51;Van Volxem - Van Haelen;66,89;504;337,1467577
+52;Veeweyde - Aurore;63,96;754;482,2402827
+53;Bizet - Roue- Ceria;76,09;658;500,6722925
+54;Vogelenzang - Erasme;56,10;49;27,48780488
+55;Neerpede;57,58;36;20,72727273
+56;Bon Air;64,56;56;36,15189873
+57;Scherdemael;78,13;393;307,0670554
+58;Anderlecht - Centre - Wayez;69,19;759;525,1805054
+59;Scheut;64,16;740;474,7532468
+60;Buffon;65,96;293;193,2740964
+61;Moortebeek - Peterbos;73,31;440;322,5498008
+62;Machtens;69,21;1191;824,2672095
+63;Karreveld;65,28;789;515,0684597
+64;Hôpital Français;57,39;620;355,8106169
+65;Korenbeek;71,91;418;300,6042553
+66;Potaarde;59,44;143;85,00555556
+67;Berchem Sainte-Agathe Centre;72,76;738;536,9677419
+68;Villas de Ganshoren;66,90;0;0
+69;Ganshoren Centre;74,26;0;0
+70;Basilique;64,26;488;313,6117647
+71;Woeste;69,87;963;672,8714426
+72;Jette Centre;68,45;448;306,6373626
+73;Heymbosch - AZ-Jette;70,77;387;273,8913043
+74;Heysel;63,26;709;448,5318302
+75;Houba;70,81;896;634,4347826
+76;Mutsaard;64,80;603;390,7147193
+77;Heembeek;76,93;680;523,1491713
+78;Haren;56,32;305;171,771978
+79;Paix;62,54;590;368,984127
+80;Helmet;73,41;691;507,2776957
+81;Gare de Schaerbeek;54,12;440;238,1176471
+82;Terdelt;71,10;414;294,3577982
+83;Conscience;70,39;415;292,1070615
+84;Avenue Léopold III;64,48;370;238,5894207
+85;Gare Josaphat;64,47;214;137,9736842
+86;Paduwa;65,88;480;316,223176
+87;Reyers;67,86;155;105,1785714
+88;Georges Henri;75,37;563;424,3351852
+89;Gribaumont;71,57;412;294,872818
+90;Roodebeek - Constellations;78,06;505;394,213894
+91;Val d'Or;73,92;402;297,1722488
+92;Kapelleveld;78,92;169;133,377451
+93;Boulevard de la Woluwe;76,39;254;194,0277778
+94;Stockel;88,86;307;272,7861446
+95;Sainte-Alix - Joli Bois;83,04;164;136,1871345
+96;Saint-Paul;83,39;239;199,3104693
+97;Putdael;28,13;35;9,84375
+98;Auderghem centre;83,73;201;168,3014354
+99;Chant d'Oiseau;83,89;404;338,9326923
+100;Chaussée de Wavre - Saint-Julien;85,38;641;547,3153846
+101;Trois Tilleuls;82,49;234;193,0272374
+102;Transvaal;75,80;232;175,8576512
+103;Boitsfort Centre;78,03;186;145,1300448
+104;Watermael Centre;81,20;315;255,7692308
+105;Dries;60,55;210;127,1559633
+106;Boondael;71,97;363;261,25
+107;Université;70,76;215;152,1428571
+108;Montjoie - Langeveld;62,72;163;102,2366864
+109;Observatoire;68,60;173;118,6860465
+110;Fort Jaco;80,41;78;62,72164948
+111;Vivier d'Oie;65,38;93;60,80769231
+112;Kriekenput - Homborch - Verrewinkel;68,75;136;93,5
+113;Saint-Job Kauwberg;80,73;189;152,578125
+114;Dieweg;71,62;231;165,4323144
+115;Kalevoet - Moensberg;75,42;442;333,3416667
+116;Globe;73,76;553;407,910045
+117;Vossegat - Roosendaal;70,49;248;174,8080229
+118;Saint-Denis - Neerstalle;64,12;248;159,0229008
+701;Cimetière d'Ixelles;0,00;0;0
+702;Cimetière de Saint-Gilles;0,00;0;0
+800;Industrie Nord;0;125;0
+801;Industrie OTAN;0;25;0
+802;Delta;0,00;0;0
+803;Industrie Sud;0;78;0
+804;Gare du Midi;0,00;0;0
+805;Industrie Birmingham;0;23;0
+900;Domaine Royal Laeken;0,00;0;0
+901;Parc Josaphat;0,00;0;0
+902;Botanique;0,00;0;0
+903;Cinquantenaire;0,00;0;0
+904;Parc Léopold;0,00;0;0
+905;Parc de la Woluwe;0,00;0;0
+906;Forêt de Soignes;0,00;0;0
+907;Bois de la Cambre;0,00;0;0
+908;Parc Wolvendael;0,00;0;0
+909;Parc Duden - Parc de Forest;0;16;0
+910;Parc des Etangs;0,00;0;0
+911;Parc Astrid;0,00;0;0
+912;Parc Forestier;0,00;0;0
+913;Parc Marie-José;0,00;0;0
+914;Scheutbos;0,00;0;0
+915;Parc Elisabeth;0,00;0;0
+916;Bois du Laarbeek - Poelbos;0,00;0;0
+917;Parc Baudouin - Dielegembos;0,00;0;0
